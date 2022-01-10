@@ -1,0 +1,121 @@
+{
+  "english": "mess",
+  "phat_am": "[mes]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng hỗn độn, tình trạng lộn xộn, tình trạng bừa bộn; tình trạng bẩn thỉu",
+          "list_en_vn": [
+            {
+              "full_en": "the whole room was in a mess",
+              "full_vn": "tất cả gian phòng ở trong một tình trạng bừa bộn bẩn thỉu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nhếch nhác, bẩn thỉu"
+        },
+        {
+          "m_full_vn": "nhóm người ăn chung (trong quân đội); bữa ăn (của các sĩ quan ăn tập thể trong doanh trại, trên tàu...)",
+          "list_en_vn": [
+            {
+              "full_en": "at mess",
+              "full_vn": "đang ăn"
+            },
+            {
+              "full_en": "to go to mess",
+              "full_vn": "đi ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như mess hall"
+        },
+        {
+          "m_full_vn": "phân (của chó, mèo...)"
+        },
+        {
+          "m_full_vn": "món thịt nhừ; món xúp hổ lốn"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm rối; làm bẩn; làm hỏng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to mess with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn chung với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mess together",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn chung với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mess about /around",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc cẩu thả; làm việc tào lao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mess somebody about /around ; to mess about /around with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cư xử tệ bạc với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mess something about /around ; to mess about /around with something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cái gì rối tung lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mess with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "can thiệp vào; xía vào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to mess somebody's hair",
+              "full_vn": "làm rối tóc ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391007_d734c31491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391007_5b75275e95_o.png",
+      "id_image": "mess_4776022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345996_cfc66dce87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345996_882863d7f9_o.png",
+      "id_image": "mess_4797083"
+    }
+  ]
+}

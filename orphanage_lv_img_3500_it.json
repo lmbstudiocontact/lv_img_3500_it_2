@@ -1,0 +1,35 @@
+{
+  "english": "orphanage",
+  "phat_am": "['ɔ:fənidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảnh mồ côi"
+        },
+        {
+          "m_full_vn": "trại mồ côi",
+          "list_en_vn": [
+            {
+              "full_en": "he is living in an orphanage",
+              "full_vn": "hắn đang sống trong trại mồ côi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697744_ba051a5640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697744_0933741401_o.png",
+      "id_image": "orphanage_5759350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457303_a4535a7fb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457303_38bb36a780_o.png",
+      "id_image": "orphanage_5759522"
+    }
+  ]
+}

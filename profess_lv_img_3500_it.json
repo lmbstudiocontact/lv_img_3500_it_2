@@ -1,0 +1,79 @@
+{
+  "english": "profess",
+  "phat_am": "[prə'fes]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyên bố, bày tỏ, nói ra",
+          "list_en_vn": [
+            {
+              "full_en": "to profess oneself satisfied with ...",
+              "full_vn": "tuyên bố là hài lòng với..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự cho là, tự xưng là, tự nhận là",
+          "list_en_vn": [
+            {
+              "full_en": "to profess to know several foreign languages",
+              "full_vn": "tự cho là biết nhiều tiếng nước ngoài"
+            },
+            {
+              "full_en": "to profess to be a scholar",
+              "full_vn": "tự xưng là một học giả"
+            },
+            {
+              "full_en": "to profess to be ignorant",
+              "full_vn": "tự nhận là dốt nát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo, nhận là tin theo (đạo..); tuyên xưng đức tin",
+          "list_en_vn": [
+            {
+              "full_en": "to profess Buddhism",
+              "full_vn": "theo đạo Phật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành nghề, làm nghề",
+          "list_en_vn": [
+            {
+              "full_en": "to profess law",
+              "full_vn": "làm nghề luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dạy (môn gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to profess history",
+              "full_vn": "dạy sử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dạy học, làm giáo sư"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366457_9ce0678447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366457_99f27972cb_o.png",
+      "id_image": "profess_5454364"
+    }
+  ]
+}

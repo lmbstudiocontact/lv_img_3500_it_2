@@ -1,0 +1,51 @@
+{
+  "english": "merchandise",
+  "phat_am": "['mə:t∫əndaiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng hoá mua và bán; hàng hoá",
+          "list_en_vn": [
+            {
+              "full_en": "the merchandise on display in the shop window",
+              "full_vn": "hàng hoá trưng bày ở tủ kính của cửa hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn bán",
+          "list_en_vn": [
+            {
+              "full_en": "the fabrics are merchandised through a network of dealers",
+              "full_vn": "vải được buôn bán qua mạng lưới thương nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084040_d46d21428a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084040_a3d742cc99_o.png",
+      "id_image": "merchandise_1437217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391532_bf1e77b66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391532_af8d535e07_o.png",
+      "id_image": "merchandise_4047585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346566_ccaf7ef479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346566_50fabcab8b_o.png",
+      "id_image": "merchandise_5671736"
+    }
+  ]
+}

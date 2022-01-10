@@ -1,0 +1,37 @@
+{
+  "english": "panoramic",
+  "phat_am": "[,pænə'ræmik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tính cách bao quát; có tính chất toàn cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "panoramic view of a hill",
+              "full_vn": "toàn cảnh quả đồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379947_34736a735d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379947_02bc7a334e_o.png",
+      "id_image": "panoramic_1266646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334896_a694c96ef7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334896_85a3741e21_o.png",
+      "id_image": "panoramic_2005135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380007_f8c6d2a2c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380007_f9bbaec562_o.png",
+      "id_image": "panoramic_764506"
+    }
+  ]
+}

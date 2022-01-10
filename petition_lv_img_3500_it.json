@@ -1,0 +1,63 @@
+{
+  "english": "petition",
+  "phat_am": "[pə'ti∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cầu xin, sự thỉnh cầu; lời cầu nguyện"
+        },
+        {
+          "m_full_vn": "đơn xin, đơn thỉnh cầu; kiến nghị"
+        },
+        {
+          "m_full_vn": "(pháp lý) đơn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đơn xin, làm đơn thỉnh cầu; viết kiến nghị cho"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cầu xin, thỉnh cầu; kiến nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to petition for something",
+              "full_vn": "thỉnh cầu cái gì; kiến nghị cái gì"
+            },
+            {
+              "full_en": "to petition to be allowed to do something",
+              "full_vn": "xin phép được làm gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705374_0b982681ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705374_9c4aba340f_o.png",
+      "id_image": "petition_3530521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350811_4d807f3f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350811_ac3c37a401_o.png",
+      "id_image": "petition_3842692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705319_e056148833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705319_d6696a20b9_o.png",
+      "id_image": "petition_6330595"
+    }
+  ]
+}

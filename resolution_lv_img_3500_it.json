@@ -1,0 +1,98 @@
+{
+  "english": "resolution",
+  "phat_am": "[,rezə'lu:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghị quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to adopt a resolution",
+              "full_vn": "thông qua một nghị quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cương quyết, sự kiên quyết; sự quyết tâm; sự kiên định",
+          "list_en_vn": [
+            {
+              "full_en": "to show a great resolution",
+              "full_vn": "biểu thị một quyết tâm lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định, ý định kiên quyết, cam kết; quyết tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to carry out a resolution",
+              "full_vn": "thực hiện một quyết định"
+            },
+            {
+              "full_en": "good resolutions",
+              "full_vn": "ý định gắng sửa những thói xấu"
+            },
+            {
+              "full_en": "what have become of your good resolutions ?",
+              "full_vn": "những ý định gắng sửa thói xấu của anh đã đi đến đâu rồi?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giải quyết, cách giải quyết (vấn đề, mối nghi ngờ)"
+        },
+        {
+          "m_full_vn": "sự phân giải; sự dung giải, sự phân tích; sự chuyển (sang trạng thái khác)",
+          "list_en_vn": [
+            {
+              "full_en": "resolution of water into steam",
+              "full_vn": "sự chuyển nước thành hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự tiêu độc, sự tiêu tan"
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự chuyển sang thuận tai"
+        },
+        {
+          "m_full_vn": "(văn học) sự thay thế hai âm tiết ngắn bằng một âm tiết dài"
+        },
+        {
+          "m_full_vn": "(toán học) cách giải, sự giải",
+          "list_en_vn": [
+            {
+              "full_en": "resolution of vectors",
+              "full_vn": "sự giải vectơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396262_37e81cf0eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396262_70e72e853c_o.png",
+      "id_image": "resolution_1344591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466093_f533e6e1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466093_9c01801e26_o.png",
+      "id_image": "resolution_3999857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351611_28749deb0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351611_496f584dc2_o.png",
+      "id_image": "resolution_4144642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396172_97ea0a5102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396172_896f9c7ef6_o.png",
+      "id_image": "resolution_6315672"
+    }
+  ]
+}

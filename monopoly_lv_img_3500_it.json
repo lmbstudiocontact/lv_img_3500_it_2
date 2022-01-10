@@ -1,0 +1,54 @@
+{
+  "english": "monopoly",
+  "phat_am": "[mə'nɔpəli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt hàng hoặc dịch vụ được độc quyền kiểm soát; sự độc quyền",
+          "list_en_vn": [
+            {
+              "full_en": "To gain /hold /secure a monopoly",
+              "full_vn": "Giành được/nắm giữ độc quyền"
+            },
+            {
+              "full_en": "Higher education cannot be the monopoly of the rich",
+              "full_vn": "Giáo dục đại học không thể là độc quyền của người giàu"
+            },
+            {
+              "full_en": "You can't have a complete monopoly of the racer - I need to use it occasionally",
+              "full_vn": "Anh không thể độc chiếm hẳn chiếc xe đua - đôi lúc tôi cũng cần dùng nó"
+            },
+            {
+              "full_en": "In some countries , tobacco is a government monopoly",
+              "full_vn": "ở một vài nước, thuốc lá là mặt hàng độc quyền của chính phủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337446_dc653de226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337446_367d75bc6e_o.png",
+      "id_image": "monopoly_2241428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337411_e87054d5c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337411_e6fc31d4bd_o.png",
+      "id_image": "monopoly_2367224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692694_b030ca4601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692694_942ff4087b_o.png",
+      "id_image": "monopoly_2727146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337341_67bdc60d85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337341_f2c675987c_o.png",
+      "id_image": "monopoly_3274250"
+    }
+  ]
+}

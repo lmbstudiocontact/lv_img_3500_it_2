@@ -1,0 +1,40 @@
+{
+  "english": "peek",
+  "phat_am": "[pi:k]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lén nhìn, nhìn trộm",
+          "list_en_vn": [
+            {
+              "full_en": "peek over the fence",
+              "full_vn": "nhìn trộm qua hàng rào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "liếc trộm (thường) kín đáo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438718_1e263a9cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438718_3eed719698_o.png",
+      "id_image": "peek_214529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438693_9daea108fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438693_55d153c251_o.png",
+      "id_image": "peek_5238587"
+    }
+  ]
+}

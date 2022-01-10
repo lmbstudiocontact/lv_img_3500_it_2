@@ -1,0 +1,98 @@
+{
+  "english": "pedal",
+  "phat_am": "['pedl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn đạp (xe đạp)",
+          "list_en_vn": [
+            {
+              "full_en": "a pedal cyclist",
+              "full_vn": "một người đạp xe đạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòn bẩy, phím nhạc trên một nhạc cụ (đàn pianô, đàn ống..)",
+          "list_en_vn": [
+            {
+              "full_en": "the loud pedal",
+              "full_vn": "bàn đạp mạnh (đàn pianô)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) âm nền"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạp bàn đạp (làm cho máy nổ)",
+          "list_en_vn": [
+            {
+              "full_en": "pedal a bicycle across the field",
+              "full_vn": "đạp xe đạp băng ngang qua cánh đồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạp; dùng bàn đạp",
+          "list_en_vn": [
+            {
+              "full_en": "pedal rapidly to make the machine run smoothly",
+              "full_vn": "đạp nhanh để cho máy chạy êm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển động bằng bàn đạp",
+          "list_en_vn": [
+            {
+              "full_en": "pedal fast",
+              "full_vn": "đạp phóng nhanh"
+            },
+            {
+              "full_en": "pedal along",
+              "full_vn": "đạp đi về phía trước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) (thuộc) bàn chân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369177_70c1682d3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369177_d2d7e3013f_o.png",
+      "id_image": "pedal_1924264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439328_808d53845d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439328_2d496076ed_o.png",
+      "id_image": "pedal_5349649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369247_40ca7b2266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369247_6e2e1532c2_o.png",
+      "id_image": "pedal_637954"
+    }
+  ]
+}

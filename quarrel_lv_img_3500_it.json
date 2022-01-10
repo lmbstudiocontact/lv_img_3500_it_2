@@ -1,0 +1,120 @@
+{
+  "english": "quarrel",
+  "phat_am": "['kwɔrəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( quarrel with somebody about / over something ) sự cãi nhau; sự tranh chấp",
+          "list_en_vn": [
+            {
+              "full_en": "to pick a quarrel with somebody",
+              "full_vn": "gây chuyện cãi nhau với ai"
+            },
+            {
+              "full_en": "I'd a quarrel with my flatmate about who should do the housework",
+              "full_vn": "tôi đã cãi nhau với anh bạn cùng phòng tôi về chuyện ai sẽ lo dọn dẹp trong nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( quarrel with / against somebody / something ) cớ để phàn nàn, cớ để rầy rà; đổ lỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fasten quarrel upon somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fasten"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find quarrel in a straw",
+              "list_im": [
+                {
+                  "im_full_vn": "hay bẻ hoẹ, hay bới bèo ra bọ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take up a quarrel for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng ra bênh ai trong một cuộc cãi nhau"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have no quarrel against /with somebody",
+              "full_vn": "không có gì phải phàn nàn về ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to quarrel with somebody about / over something ) cãi nhau",
+          "list_en_vn": [
+            {
+              "full_en": "she quarrelled with her brother about /over the terms of their father's will",
+              "full_vn": "cô ta cãi nhau với anh mình về các điều khoản trong di chúc của bố"
+            },
+            {
+              "full_en": "stop quarrelling , children !",
+              "full_vn": "các con đừng cãi nhau nữa!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to quarrel with something ) chê bai; phàn nàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a bad workman quarrels with his tools",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) vụng múa chê đất lệch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to quarrel with one's bread and butter",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ nghề đã nuôi sống mình; đi ngược lại với quyền lợi của chính mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to quarrel with a statement , an account , an estimate",
+              "full_vn": "không đồng ý với một lời tuyên bố, bản kê khai, sự đánh giá"
+            },
+            {
+              "full_en": "you can't quarrel with the court's decision - it's very fair",
+              "full_vn": "anh không thể phàn nàn về quyết định của toà được - nó rất công bằng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344836_a7e0fdc328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344836_21b71c7750_o.png",
+      "id_image": "quarrel_3220652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389702_2a4163d29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389702_d856f10917_o.png",
+      "id_image": "quarrel_4763127"
+    }
+  ]
+}

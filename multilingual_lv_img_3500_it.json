@@ -1,0 +1,44 @@
+{
+  "english": "multilingual",
+  "phat_am": "['mʌlti'liηgwəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói hoặc sử dụng nhiều thứ tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "India is a multilingual country",
+              "full_vn": "Ấn Độ là một nước nói nhiều thứ tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết hoặc in bằng nhiều thứ tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "a multilingual dictionary , phrasebook , edition",
+              "full_vn": "từ điển, sách hội thoại, ấn bản bằng nhiều thứ tiếng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nói được nhiều thứ tiếng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687379_0bc3094705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687379_bcddb2f16e_o.png",
+      "id_image": "multilingual_6314107"
+    }
+  ]
+}

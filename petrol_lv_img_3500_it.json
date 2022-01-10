@@ -1,0 +1,49 @@
+{
+  "english": "petrol",
+  "phat_am": "['petrəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dầu xăng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) như gasoline , gas",
+          "list_en_vn": [
+            {
+              "full_en": "fill a car up with petrol",
+              "full_vn": "đỗ đầy xăng cho xe ô tô"
+            },
+            {
+              "full_en": "an increase in the price of petrol",
+              "full_vn": "sự tăng giá xăng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087895_60d26e51ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087895_2d66e9b7a6_o.png",
+      "id_image": "petrol_169795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705244_0492e603d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705244_89f438ccf4_o.png",
+      "id_image": "petrol_1965909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350686_044b20234e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350686_30149ff726_o.png",
+      "id_image": "petrol_2289563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350636_0d7df33fdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350636_eeb2e175a2_o.png",
+      "id_image": "petrol_2540886"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "notorious",
+  "phat_am": "[nou'tɔ:riəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( notorious for something / as something ) ai cũng biết vì một hành động hoặc tính cách xấu nào đó; khét tiếng; có tiếng xấu",
+          "list_en_vn": [
+            {
+              "full_en": "a notorious swindler",
+              "full_vn": "một kẻ khét tiếng lừa đảo"
+            },
+            {
+              "full_en": "a notorious area /bend in the road",
+              "full_vn": "khu vực/chỗ đường cong nổi tiếng (nguy hiểm)"
+            },
+            {
+              "full_en": "he was notorious as a gambler and rake",
+              "full_vn": "hắn nổi tiếng là một tay cờ bạc và lêu lổng trác táng; hắn là một tay cờ bạc và lêu lổng trác táng khét tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365132_e9b5621d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365132_e305b36669_o.png",
+      "id_image": "notorious_4060736"
+    }
+  ]
+}

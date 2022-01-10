@@ -1,0 +1,76 @@
+{
+  "english": "permit",
+  "phat_am": "[pə'mit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấy phép",
+          "list_en_vn": [
+            {
+              "full_en": "to grant a permit",
+              "full_vn": "cấp giấy phép"
+            },
+            {
+              "full_en": "export permit",
+              "full_vn": "giấy phép xuất khẩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cho phép"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho phép, cho cơ hội; thừa nhận (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "permit me to add that ...",
+              "full_vn": "cho phép tôi được nói thêm rằng..."
+            },
+            {
+              "full_en": "permit me to explain",
+              "full_vn": "cho phép tôi được giải thích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + of ) cho phép, thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "the situation does not permit of any delay",
+              "full_vn": "tình thế không cho phép bất kỳ sự trì hoãn nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057140_4cc62c6070_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057140_50cc94faaa_o.png",
+      "id_image": "permit_2904496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057125_1dacfa0af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057125_67a954e930_o.png",
+      "id_image": "permit_3965937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675344_1d9ed4b594_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675344_4d3cfb5b84_o.png",
+      "id_image": "permit_5965877"
+    }
+  ]
+}

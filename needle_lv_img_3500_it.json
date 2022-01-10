@@ -1,0 +1,122 @@
+{
+  "english": "needle",
+  "phat_am": "['ni:dl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái kim; kim (la bàn...)",
+          "list_en_vn": [
+            {
+              "full_en": "the eye of a needle",
+              "full_vn": "lỗ kim"
+            },
+            {
+              "full_en": "to thread a needle",
+              "full_vn": "xâu kim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỏm núi nhọn"
+        },
+        {
+          "m_full_vn": "lá kim (lá thông, lá tùng)"
+        },
+        {
+          "m_full_vn": "tinh thể hình kim"
+        },
+        {
+          "m_full_vn": "cột hình tháp nhọn"
+        },
+        {
+          "m_full_vn": "(the needle ) (từ lóng) sự bồn chồn",
+          "list_one_mean": [
+            {
+              "id_full_en": "as sharp as a needle",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sharp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look for a needle in a bottle (bundle ) of hay (in a haystack )",
+              "list_im": [
+                {
+                  "im_full_vn": "mò kim đáy biển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as true as the needle to the pole",
+              "list_im": [
+                {
+                  "im_full_vn": "đáng tin cậy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have (get ) the needle",
+              "full_vn": "cảm thấy bồn chồn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khâu"
+        },
+        {
+          "m_full_vn": "nhể (bằng kim); châm"
+        },
+        {
+          "m_full_vn": "lách qua, len lỏi qua",
+          "list_en_vn": [
+            {
+              "full_en": "to needle one's way through a crowd",
+              "full_vn": "lách qua một đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết tinh thành kim"
+        },
+        {
+          "m_full_vn": "(từ lóng) châm chọc, chọc tức; khích (ai làm gì)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thêm rượu mạnh (vào bia)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370912_5d05664dbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370912_d7dbf559a7_o.png",
+      "id_image": "needle_3604951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370847_4eed63f664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370847_1286b80030_o.png",
+      "id_image": "needle_4637193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326036_8a005c2282_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326036_68117a0238_o.png",
+      "id_image": "needle_4647418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441123_98bc45b4b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441123_e27fc52408_o.png",
+      "id_image": "needle_890983"
+    }
+  ]
+}

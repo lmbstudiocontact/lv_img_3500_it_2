@@ -1,0 +1,94 @@
+{
+  "english": "plastic",
+  "phat_am": "['plæstik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất dẻo; chất làm bằng chất dẻo",
+          "list_en_vn": [
+            {
+              "full_en": "the use of plastics in industry",
+              "full_vn": "việc sử dụng chất dẻo trong công nghiệp"
+            },
+            {
+              "full_en": "many items in daily use are made out of plastic",
+              "full_vn": "nhiều đồ dùng hàng ngày được làm từ chất dẻo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( plastics ) khoa học chế tạo chất dẻo"
+        },
+        {
+          "m_full_vn": "(thông tục) thẻ tín dụng làm bằng chất dẻo (như) plastic money"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bằng chất dẻo (hàng hoá)",
+          "list_en_vn": [
+            {
+              "full_en": "a plastic cup",
+              "full_vn": "cốc bằng chất dẻo"
+            },
+            {
+              "full_en": "a plastic toy",
+              "full_vn": "đồ chơi bằng chất dẻo"
+            },
+            {
+              "full_en": "fabric with a plastic coating",
+              "full_vn": "vải tráng chất dẻo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẻo, nặn được, dễ tạo hình, làm thành khuôn (chất liệu, các chất)",
+          "list_en_vn": [
+            {
+              "full_en": "clay is a plastic substance",
+              "full_vn": "đất sét là một chất để làm khuôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo hình, điêu khắc (đất sét, sáp..)",
+          "list_en_vn": [
+            {
+              "full_en": "plastic arts",
+              "full_vn": "nghệ thuật tạo hình"
+            },
+            {
+              "full_en": "plastic surgery",
+              "full_vn": "phẫu thuật tạo hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mềm dẻo, mềm mỏng, hay chiều đời; dễ uốn nắn (người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342066_18250c2760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342066_062e4641dd_o.png",
+      "id_image": "plastic_1889993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079400_3aaa371727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079400_20f1884b92_o.png",
+      "id_image": "plastic_1996983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079380_904cc34e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079380_d6e7475105_o.png",
+      "id_image": "plastic_4201885"
+    }
+  ]
+}

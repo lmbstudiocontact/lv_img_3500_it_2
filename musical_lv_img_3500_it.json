@@ -1,0 +1,92 @@
+{
+  "english": "musical",
+  "phat_am": "['mju:zikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nhạc, (thuộc) âm nhạc",
+          "list_en_vn": [
+            {
+              "full_en": "a musical society",
+              "full_vn": "hội của những người nghe nhạc và người biểu diễn nhạc"
+            },
+            {
+              "full_en": "a musical entertainment",
+              "full_vn": "sự giải trí bằng âm nhạc"
+            },
+            {
+              "full_en": "musical instruments",
+              "full_vn": "nhạc cụ; nhạc khí"
+            },
+            {
+              "full_en": "musical talent",
+              "full_vn": "tài năng âm nhạc"
+            },
+            {
+              "full_en": "she has no formal musical qualifications",
+              "full_vn": "cô ta không được đào tạo âm nhạc chính quy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "du dương, êm tai, thánh thót",
+          "list_en_vn": [
+            {
+              "full_en": "a musical voice",
+              "full_vn": "giọng nói du dương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích nhạc; có năng khiếu về nhạc; biết thưởng thức nhạc; giỏi nhạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "musical chairs",
+              "list_im": [
+                {
+                  "im_full_vn": "trò chơi trong đó những người tham gia sẽ đi vòng quanh một dãy ghế (thiếu một ghế) cho đến khi nhạc dừng lại, rồi người nào không giành được ghế để ngồi vào sẽ phải rới khỏi trò chơi; trò chơi giành ghế theo nhạc"
+                },
+                {
+                  "im_full_vn": "tình hình trong đó người ta lần lượt có được một cái gì (nhất là việc làm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he had come out on top in the game of musical chairs by which senior posts seemed to be filled",
+                      "full_vn": "những vị trí cao cấp hình như cần phải có đủ, cho nên ông ta mò lên được địa vị cao nhất nhờ sống lâu lên lão làng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như musical comedy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375447_4edfbc9c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375447_2ca6ddc912_o.png",
+      "id_image": "musical_1902007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685804_19064a359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685804_32e745efd8_o.png",
+      "id_image": "musical_2267700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067510_98961e21e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067510_50be30fb96_o.png",
+      "id_image": "musical_5105523"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "english": "rage",
+  "phat_am": "[reidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thịnh nộ, sự giận dữ; cơn thịnh nộ, cơn giận dữ dội (của người)",
+          "list_en_vn": [
+            {
+              "full_en": "to fly into a rage",
+              "full_vn": "nổi xung, nổi cơn thịnh nộ"
+            },
+            {
+              "full_en": "to be in a rage with someone",
+              "full_vn": "nổi xung với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dữ dội trong thiên nhiên; sự cuồng bạo, sự ác liệt (của cuộc chiến đấu...)",
+          "list_en_vn": [
+            {
+              "full_en": "the storm's rage continued",
+              "full_vn": "sự cuồng nộ của cơn bão vẫn tiếp tục"
+            },
+            {
+              "full_en": "the rage of the wind",
+              "full_vn": "cơn gió dữ dội"
+            },
+            {
+              "full_en": "the rage of the sea",
+              "full_vn": "biển động dữ dội"
+            },
+            {
+              "full_en": "the rage of the battle",
+              "full_vn": "cuộc chiến đấu ác liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính ham mê; sự say mê, sự mê cuồng (cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a rage for hunting",
+              "full_vn": "ham mê săn bắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mốt thịnh hành, mốt phổ biến, cái hợp thị hiếu; người được thiên hạ ưa chuộng một thời",
+          "list_en_vn": [
+            {
+              "full_en": "it is all the rage",
+              "full_vn": "cái đó trở thành cái mốt thịnh hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thi hứng; cảm xúc mãnh liệt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi cơn thịnh nộ, nổi xung, giận điên lên, nổi khùng",
+          "list_en_vn": [
+            {
+              "full_en": "to rage against (at ) someone",
+              "full_vn": "nổi xung lên với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi cơn dữ dội (gió, sóng...); hoành hành (bệnh...); diễn ra ác liệt (cuộc chiến đấu...)",
+          "list_en_vn": [
+            {
+              "full_en": "the wind is raging",
+              "full_vn": "gió thổi dữ dội"
+            },
+            {
+              "full_en": "the sea is raging",
+              "full_vn": "biển động dữ dội"
+            },
+            {
+              "full_en": "the battle had been raging for two days",
+              "full_vn": "cuộc chiến đấu diễn ra ác liệt trong hai ngày"
+            },
+            {
+              "full_en": "the cholera is raging",
+              "full_vn": "bệnh tả đang hoành hành"
+            },
+            {
+              "full_en": "to rage itself out",
+              "full_vn": "nguôi dần, lắng xuống, dịu đi"
+            },
+            {
+              "full_en": "the storm has raged itself out",
+              "full_vn": "cơn bão đã lắng xuống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385587_2db13e1eae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385587_e9ed1b0884_o.png",
+      "id_image": "rage_708630"
+    }
+  ]
+}

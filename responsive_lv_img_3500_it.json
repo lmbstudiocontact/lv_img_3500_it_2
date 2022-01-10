@@ -1,0 +1,47 @@
+{
+  "english": "responsive",
+  "phat_am": "[ri'spɔnsiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đáp ứng nhiệt tình; thông cảm",
+          "list_en_vn": [
+            {
+              "full_en": "a responsive class",
+              "full_vn": "một lớp học nhiệt tình (chăm chú)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản ứng nhanh, thuận lợi; dễ bị điều khiển, dễ sai khiến"
+        },
+        {
+          "m_full_vn": "đáp lại, trả lời",
+          "list_en_vn": [
+            {
+              "full_en": "a responsive gesture",
+              "full_vn": "cử chỉ đáp lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẵn sàng đáp lại, dễ phản ứng lại; dễ cảm (tính tình)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395352_5059824bf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395352_eeb55a981b_o.png",
+      "id_image": "responsive_2460232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350516_bc337c9254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350516_14550583e2_o.png",
+      "id_image": "responsive_5746567"
+    }
+  ]
+}

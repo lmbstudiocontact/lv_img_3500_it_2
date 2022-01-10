@@ -1,0 +1,36 @@
+{
+  "english": "protector",
+  "phat_am": "[prə'tektə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bảo vệ, người bảo hộ, người che chở",
+          "list_en_vn": [
+            {
+              "full_en": "their guardian and protector",
+              "full_vn": "người giám hộ và bảo vệ của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật bảo vệ, vật bảo hộ, vật che chở"
+        },
+        {
+          "m_full_vn": "dụng cụ bảo hộ lao động"
+        },
+        {
+          "m_full_vn": "(sử học) quan bảo quốc, quan nhiếp chính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394727_be9c5f36d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394727_59dd282c52_o.png",
+      "id_image": "protection_2688412"
+    }
+  ]
+}

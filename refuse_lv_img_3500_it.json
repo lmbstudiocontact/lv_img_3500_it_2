@@ -1,0 +1,73 @@
+{
+  "english": "refuse",
+  "phat_am": "['refju:s]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ chối, khước từ, cự tuyệt",
+          "list_en_vn": [
+            {
+              "full_en": "to someone's help",
+              "full_vn": "không nhận sự giúp đỡ của ai"
+            },
+            {
+              "full_en": "to refuse to do something",
+              "full_vn": "từ chối không làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chùn lại, không dám nhảy qua (hàng rào) (ngựa thi)",
+          "list_en_vn": [
+            {
+              "full_en": "the horse refuses the fence",
+              "full_vn": "con ngựa chùn lại không dám nhảy qua hàng rào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ thừa, đồ thải, đồ bỏ đi; vật phế thải, vật không giá trị; rác rưởi",
+          "list_en_vn": [
+            {
+              "full_en": "kitchen refuse",
+              "full_vn": "rác rưởi của nhà bếp"
+            },
+            {
+              "full_en": "a refuse bag",
+              "full_vn": "túi rác"
+            },
+            {
+              "full_en": "a refuse bin",
+              "full_vn": "thùng rác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) đá thải, bãi thải đá"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vật phẩm bỏ đi (của kim loại)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685179_7b31e8fba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685179_014187f50a_o.png",
+      "id_image": "refuse_4633904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330111_b766134ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330111_840b6f6a4a_o.png",
+      "id_image": "refuse_4633912"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "english": "partnership",
+  "phat_am": "['pɑ:tnə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chung phần; sự cộng tác",
+          "list_en_vn": [
+            {
+              "full_en": "enter into partnership with",
+              "full_vn": "cùng chung phần với; cùng nhập hội với"
+            },
+            {
+              "full_en": "a successful partnership",
+              "full_vn": "một sự cộng tác thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiệp hội, công ty",
+          "list_en_vn": [
+            {
+              "full_en": "to take someone into partnership",
+              "full_vn": "cho ai nhập hội, nhận ai vào công ty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330896_03a6e24868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330896_f9dd94b1ea_o.png",
+      "id_image": "partnership_3057916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445773_a0ee709702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445773_691ccc4352_o.png",
+      "id_image": "partnership_3386878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330791_480417b4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330791_f74da0cd39_o.png",
+      "id_image": "partnership_3775393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685799_d37b3c810a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685799_e2c940786a_o.png",
+      "id_image": "partnership_5138009"
+    }
+  ]
+}

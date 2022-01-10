@@ -1,0 +1,44 @@
+{
+  "english": "overdose",
+  "phat_am": "['ouvədous]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sử dụng quá liều",
+          "list_en_vn": [
+            {
+              "full_en": "die of a heroin overdose",
+              "full_vn": "chết vì dùng heroin quá liều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho quá liều"
+        },
+        {
+          "m_full_vn": "dùng một liều quá mức (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "she overdose the old-woman with pain-killers",
+              "full_vn": "cô ta đã cho bà cụ dùng thuốc giảm đau quá liều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695764_86e5f3a92c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695764_6746a7ca9a_o.png",
+      "id_image": "overdose_2688333"
+    }
+  ]
+}

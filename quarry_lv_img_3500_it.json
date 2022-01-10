@@ -1,0 +1,56 @@
+{
+  "english": "quarry",
+  "phat_am": "['kwɔri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con mồi (con vật đang bị săn đuổi)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người bị truy nã"
+        },
+        {
+          "m_full_vn": "mảnh kính hình thoi (ở cửa sổ mắt cáo...)"
+        },
+        {
+          "m_full_vn": "nơi khai thác đá, mỏ đá"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn lấy tài liệu, nguồn lấy tin tức"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy (đá) ở mỏ đá, khai thác (đá) ở mỏ đá",
+          "list_en_vn": [
+            {
+              "full_en": "to quarry marble",
+              "full_vn": "khai thác đá hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) moi, tìm tòi (thông tin..)",
+          "list_en_vn": [
+            {
+              "full_en": "to quarry in old manuscripts",
+              "full_vn": "tìm tòi trong các bản thảo cũ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699839_f93fb6643b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699839_8f07cef998_o.png",
+      "id_image": "quarry_4158441"
+    }
+  ]
+}

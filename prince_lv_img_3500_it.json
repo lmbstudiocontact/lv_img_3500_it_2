@@ -1,0 +1,91 @@
+{
+  "english": "prince",
+  "phat_am": "[prins]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàng tử; hoàng thân; thái tử (ở một quốc gia nhỏ); nhà quý tộc (ở một số nước)",
+          "list_en_vn": [
+            {
+              "full_en": "the Prince of Wales",
+              "full_vn": "hoàng tử xứ Wales"
+            },
+            {
+              "full_en": "Prince Rainier of Monaco",
+              "full_vn": "thái tử Rainier của Monaco"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người ưu tú hoặc nổi bật trong một lĩnh vực nào đó; tay cự phách, chúa trùm; ông hoàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "prince of darkness (of the air , of the world )",
+              "list_im": [
+                {
+                  "im_full_vn": "quỷ Sa tăng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Prince of Peace",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúa Giê-xu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Prince Regent",
+              "list_im": [
+                {
+                  "im_full_vn": "như regent"
+                }
+              ]
+            },
+            {
+              "id_full_en": "prince royal",
+              "list_im": [
+                {
+                  "im_full_vn": "như royal"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Hamlet without the Prince of Denmark",
+              "list_im": [
+                {
+                  "im_full_vn": "cái đã mất phần quan trọng, cái đã mất bản chất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a prince of business",
+              "full_vn": "tay áp phe loại chúa trùm"
+            },
+            {
+              "full_en": "the prince of poets",
+              "full_vn": "tay cự phách về thơ ca"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325471_fa9ed07b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325471_6a7045dc09_o.png",
+      "id_image": "prince_4072224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680504_e24db32afe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680504_891e580192_o.png",
+      "id_image": "prince_4133571"
+    }
+  ]
+}

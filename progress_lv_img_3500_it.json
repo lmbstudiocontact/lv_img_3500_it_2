@@ -1,0 +1,95 @@
+{
+  "english": "progress",
+  "phat_am": "[prə'gres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tiến tới, sự tiến bộ, sự đi lên",
+          "list_en_vn": [
+            {
+              "full_en": "to make much progress in one's studies",
+              "full_vn": "tiến bộ nhiều trong học tập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiến triển, sự phát triển",
+          "list_en_vn": [
+            {
+              "full_en": "the progress of science",
+              "full_vn": "sự phát triển của khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiến hành; sự xúc tiến"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) chuyến đi của một ông vua hoặc một nhà cai trị; cuộc kinh lý, cuộc tuần du",
+          "list_one_mean": [
+            {
+              "id_full_en": "in progress",
+              "list_im": [
+                {
+                  "im_full_vn": "đang được làm, đang được tiến hành, đang tiếp diễn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a royal progress around the country",
+              "full_vn": "một cuộc tuần du của nhà vua khắp trong nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiến tới; tiến bộ; tiến triển, phát triển",
+          "list_en_vn": [
+            {
+              "full_en": "to progress with one's studies",
+              "full_vn": "học hành tiến bộ"
+            },
+            {
+              "full_en": "industry is progressing",
+              "full_vn": "công nghiệp đang phát triển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiến hành; xúc tiến",
+          "list_en_vn": [
+            {
+              "full_en": "work is progressing",
+              "full_vn": "công việc đang tiến hành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321031_855ab09439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321031_4491aee601_o.png",
+      "id_image": "progress_5672044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676079_e2b1af72ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676079_f1bd2b8f88_o.png",
+      "id_image": "progress_5672330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436273_479b44f692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436273_7fb1841aec_o.png",
+      "id_image": "progress_943765"
+    }
+  ]
+}

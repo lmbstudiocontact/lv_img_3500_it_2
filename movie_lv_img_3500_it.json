@@ -1,0 +1,58 @@
+{
+  "english": "movie",
+  "phat_am": "['mu:vi]",
+  "list_type": [
+    {
+      "type": "danh từ, (thông tục)",
+      "list_m": [
+        {
+          "m_full_vn": "phim xi nê",
+          "list_en_vn": [
+            {
+              "full_en": "to go to see a movie",
+              "full_vn": "đi xem phim"
+            },
+            {
+              "full_en": "a movie producer",
+              "full_vn": "nhà sản xuất phim"
+            },
+            {
+              "full_en": "movie stars",
+              "full_vn": "các ngôi sao điện ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the movies ) ngành điện ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "to be /work in the movies",
+              "full_vn": "làm việc trong ngành điện ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the movies ) (như) movie house ; movie theater rạp chiếu bóng",
+          "list_en_vn": [
+            {
+              "full_en": "to go to the movies",
+              "full_vn": "đi xem phim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378422_c093fa4be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378422_a1caa1fe23_o.png",
+      "id_image": "movie_390086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333556_a076ef01ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333556_2716c9eff0_o.png",
+      "id_image": "movie_412785"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "parquet",
+  "phat_am": "['pɑ:kei]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lót ván sàn, lát sàn gỗ (một gian phòng)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sàn gỗ; sự lót ván sàn",
+          "list_en_vn": [
+            {
+              "full_en": "a parquet floor",
+              "full_vn": "một cái sàn lát gỗ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686639_f546147fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686639_98f3cb7fe5_o.png",
+      "id_image": "parquet_1207147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331701_08ca0a3720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331701_42ddc0e9c3_o.png",
+      "id_image": "parquet_252738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686669_be1ac868d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686669_0477eb6dd3_o.png",
+      "id_image": "parquet_252739"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "phantom",
+  "phat_am": "['fæntəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ma, bóng ma",
+          "list_en_vn": [
+            {
+              "full_en": "the legend of the phantom ship",
+              "full_vn": "truyền thuyết về con tàu ma"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) người hành động như ma",
+          "list_en_vn": [
+            {
+              "full_en": "the phantom cake-eater has been here again !",
+              "full_vn": "cái tay ăn bánh như ma ấy lại đã đến rồi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ảo ảnh; ảo tưởng"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hão huyền; ma; không có thực",
+          "list_en_vn": [
+            {
+              "full_en": "phantom pregnancy",
+              "full_vn": "sự có mang tưởng tượng (người phụ nữ lầm tưởng là mình có thai ở một vài biểu hiện)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350446_1832f61809_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350446_72edb0bc4d_o.png",
+      "id_image": "phantom_675147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395227_7ed850710e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395227_85ee1d48f4_o.png",
+      "id_image": "phantom_821772"
+    }
+  ]
+}

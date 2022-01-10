@@ -1,0 +1,109 @@
+{
+  "english": "purse",
+  "phat_am": "[pə:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ví tiền, hầu bao"
+        },
+        {
+          "m_full_vn": "ngân quỹ, tiền của (có thể dùng để chi tiêu)",
+          "list_en_vn": [
+            {
+              "full_en": "the public purse",
+              "full_vn": "ngân quỹ nhà nước, quỹ công"
+            },
+            {
+              "full_en": "the privy Purse",
+              "full_vn": "quỹ riêng, quỹ tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tiền, vốn",
+          "list_en_vn": [
+            {
+              "full_en": "to have a common purse",
+              "full_vn": "có vốn chung"
+            },
+            {
+              "full_en": "to have a long (heavy ) purse",
+              "full_vn": "giàu có, lắm tiền"
+            },
+            {
+              "full_en": "to have a light purse",
+              "full_vn": "nghèo, ít tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền quyên góp làm giải thưởng, tiền đóng góp làm giải thưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to make up a purse",
+              "full_vn": "quyên tiền làm giải thưởng"
+            },
+            {
+              "full_en": "to give (put up ) a purse",
+              "full_vn": "cho tiền làm giải thưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) túi, bìu, bọng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) túi xách tay (của phụ nữ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "hold the purse-strings",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm giữ hầu bao (nắm quyền kiểm soát việc chi tiêu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "loosen /tighten the purse-strings",
+              "list_im": [
+                {
+                  "im_full_vn": "mở rộng/thắt chặt hầu bao"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mắm, mím, bĩu (môi), nhíu, cau (mày)"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) bỏ vào túi, bỏ vào hầu bao"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461563_79c30a1c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461563_6bcac5bc8b_o.png",
+      "id_image": "purse_1213242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391692_4e41d87495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391692_8b979043ec_o.png",
+      "id_image": "purse_1648827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701559_bc262d3e3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701559_ac4615e88a_o.png",
+      "id_image": "purse_3207417"
+    }
+  ]
+}

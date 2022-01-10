@@ -1,0 +1,42 @@
+{
+  "english": "planter",
+  "phat_am": "['plɑ:ntə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người trồng cây; quản lý đồn điền",
+          "list_en_vn": [
+            {
+              "full_en": "a sugar-planter",
+              "full_vn": "người trồng mía"
+            },
+            {
+              "full_en": "a rubber-planter",
+              "full_vn": "người quản lý đồn điền cao su"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy trồng cây"
+        },
+        {
+          "m_full_vn": "chậu hoa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697749_41e8e31514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697749_767edf5a50_o.png",
+      "id_image": "planter_2853243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697804_d4a34cdcf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697804_55f6b5f369_o.png",
+      "id_image": "planter_517603"
+    }
+  ]
+}

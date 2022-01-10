@@ -1,0 +1,40 @@
+{
+  "english": "obstacle",
+  "phat_am": "['ɒbstəkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cản trở, sự trở ngại"
+        },
+        {
+          "m_full_vn": "chướng ngại vật; vật trở ngại",
+          "list_en_vn": [
+            {
+              "full_en": "Obstacles on the racecourse",
+              "full_vn": "Những vật chướng ngại trên đường chạy đua"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349256_8565fec8dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349256_8e9bc001c3_o.png",
+      "id_image": "obstacle_1141794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703919_e9417b1980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703919_a00f24865d_o.png",
+      "id_image": "obstacle_2219046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349216_ae298952c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349216_aef8aa3d01_o.png",
+      "id_image": "obstacle_3751980"
+    }
+  ]
+}

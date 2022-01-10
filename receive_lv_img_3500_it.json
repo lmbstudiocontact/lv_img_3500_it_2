@@ -1,0 +1,139 @@
+{
+  "english": "receive",
+  "phat_am": "[ri'si:v]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhận, lĩnh, thu",
+          "list_en_vn": [
+            {
+              "full_en": "on receiving your letter",
+              "full_vn": "khi nhận được thư anh"
+            },
+            {
+              "full_en": "to receive the news",
+              "full_vn": "nhận được tin"
+            },
+            {
+              "full_en": "to receive money",
+              "full_vn": "nhận (lĩnh, thu) tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp, tiếp đón, tiếp đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to receive guests",
+              "full_vn": "tiếp khách, tiếp đãi khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết nạp (ai vào một tổ chức), tiếp thu, tiếp nhận (một đề nghị...)",
+          "list_en_vn": [
+            {
+              "full_en": "to receive someone into a party",
+              "full_vn": "kết nạp người nào vào một đảng"
+            },
+            {
+              "full_en": "the proposal was well received",
+              "full_vn": "đề nghị được hoan nghênh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) chứa chấp (đồ gian)",
+          "list_en_vn": [
+            {
+              "full_en": "to receive stolen goods",
+              "full_vn": "chứa chấp đồ trộm cắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứa đựng",
+          "list_en_vn": [
+            {
+              "full_en": "a lake to receive the overflow",
+              "full_vn": "một cái hồ để chứa nước sông tràn ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỡ, chịu, bị; được",
+          "list_en_vn": [
+            {
+              "full_en": "to receive the sword-point with one's shield",
+              "full_vn": "giơ mộc lên đỡ mũi kiếm"
+            },
+            {
+              "full_en": "the walls cannot receive the weight of the roof",
+              "full_vn": "những bức tường ấy không chịu nổi sức nặng của mái nhà"
+            },
+            {
+              "full_en": "to receive a refusal",
+              "full_vn": "bị từ chối"
+            },
+            {
+              "full_en": "to receive sympathy",
+              "full_vn": "được cảm tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin, công nhận là đúng",
+          "list_en_vn": [
+            {
+              "full_en": "they received the rumour",
+              "full_vn": "họ tin cái tin đồn ấy"
+            },
+            {
+              "full_en": "a maxim universally received",
+              "full_vn": "một câu châm ngôn mà ai cũng công nhận là đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đón (một đường bóng, một quả bóng phát đi)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếp khách (có ở nhà để tiếp khách)",
+          "list_en_vn": [
+            {
+              "full_en": "he receives on Sunday afternoons",
+              "full_vn": "ông ta tiếp khách vào những chiều chủ nhật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận quà; lĩnh tiền, lĩnh lương; thu tiền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381302_0fa1cc33ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381302_11b7d17f7b_o.png",
+      "id_image": "receive_1324126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451198_2fd4bfb8df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451198_6fcc4c6a57_o.png",
+      "id_image": "receive_1652597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381212_18bd5d4a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381212_2d6b61d903_o.png",
+      "id_image": "receive_6272646"
+    }
+  ]
+}

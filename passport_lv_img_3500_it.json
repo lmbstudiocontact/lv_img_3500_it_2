@@ -1,0 +1,40 @@
+{
+  "english": "passport",
+  "phat_am": "['pɑ:spɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hộ chiếu"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cái đảm bảo để thực hiện được (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the only passport to success is hard work",
+              "full_vn": "cái duy nhất đảm bảo cho thành công là lao động tích cực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684749_5475b50d8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684749_ee71691fe6_o.png",
+      "id_image": "passport_169452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444703_0d4acdda46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444703_e13292b2b6_o.png",
+      "id_image": "passport_495969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374327_df6e017fb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374327_ab6c508a79_o.png",
+      "id_image": "passport_807674"
+    }
+  ]
+}

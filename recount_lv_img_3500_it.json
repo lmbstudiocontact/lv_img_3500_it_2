@@ -1,0 +1,27 @@
+{
+  "english": "recount",
+  "phat_am": "[ri'kaunt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuật kỹ lại, kể lại chi tiết",
+          "list_en_vn": [
+            {
+              "full_en": "recount one's adventures",
+              "full_vn": "kể lại chi tiết những chuyện phiêu lưu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379052_5f18f64ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379052_e435bfe946_o.png",
+      "id_image": "recount_5979033"
+    }
+  ]
+}

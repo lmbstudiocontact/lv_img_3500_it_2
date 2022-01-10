@@ -1,0 +1,62 @@
+{
+  "english": "productive",
+  "phat_am": "[prə'dʌktiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đang sản xuất hoặc có khả năng sản xuất hàng hoá hoặc thu hoạch (nhất là với số lượng lớn); sản xuất nhiều; năng suất",
+          "list_en_vn": [
+            {
+              "full_en": "they work hard , but their efforts are not very productive",
+              "full_vn": "họ làm việc tích cực, nhưng cố gắng của họ không đạt năng suất cao lắm"
+            },
+            {
+              "full_en": "productive farming land , manufacturing methods",
+              "full_vn": "đất cánh tác, phương pháp chế tạo có năng suất"
+            },
+            {
+              "full_en": "a productive worker",
+              "full_vn": "một công nhân có năng suất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực hiện được nhiều; hữu ích",
+          "list_en_vn": [
+            {
+              "full_en": "it wasn't a very productive meeting",
+              "full_vn": "đây là một cuộc họp không hữu ích lắm"
+            },
+            {
+              "full_en": "I spent a very productive hour in the library",
+              "full_vn": "tôi bỏ ra một giờ rất hữu ích trong thư viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( productive of something ) dẫn đến cái gì, gây ra cái gì, tạo ra",
+          "list_en_vn": [
+            {
+              "full_en": "the changes were not productive of better labour relations",
+              "full_vn": "các thay đổi không tạo ra được những mối quan hệ lao động tốt hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437113_8320fbd6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437113_7e750b68d7_o.png",
+      "id_image": "productive_2753156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321906_477db7200d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321906_a4e4566e84_o.png",
+      "id_image": "productive_5230564"
+    }
+  ]
+}

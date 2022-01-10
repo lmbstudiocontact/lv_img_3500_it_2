@@ -1,0 +1,89 @@
+{
+  "english": "praise",
+  "phat_am": "[preiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tán dương; sự ca ngợi; lời ca ngợi; lời tán dương",
+          "list_en_vn": [
+            {
+              "full_en": "to win praise",
+              "full_vn": "được ca ngợi; được ca tụng"
+            },
+            {
+              "full_en": "heroism beyond praise",
+              "full_vn": "tính cách anh hùng tuyệt vời (không đủ lời để khen ngợi)"
+            },
+            {
+              "full_en": "to receive praise from one's neighbours for wholeheartedly helping the poor",
+              "full_vn": "được hàng xóm ca ngợi vì đã hết lòng giúp đỡ người nghèo"
+            },
+            {
+              "full_en": "to deliver a speech in praise of a patriot's life and achievement",
+              "full_vn": "đọc diễn văn ca ngợi cuộc đời và sự nghiệp của một nhà ái quốc"
+            },
+            {
+              "full_en": "to sing someone's praise ; to sing something's praise",
+              "full_vn": "ca ngợi ai; ca ngợi cái gì"
+            },
+            {
+              "full_en": "to be loud in one's praise (s ) of somebody /something",
+              "full_vn": "nhiệt liệt khen ngợi ai/cái gì"
+            },
+            {
+              "full_en": "to damn somebody /something with faint praise",
+              "full_vn": "chỉ trích khéo léo (bằng cách không ca ngợi đúng mức)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thờ phụng ( Chúa); lòng tôn kính ( Chúa)",
+          "list_en_vn": [
+            {
+              "full_en": "a hymn of praise",
+              "full_vn": "bài ca tôn vinh Chúa"
+            },
+            {
+              "full_en": "Praise be (to God )",
+              "full_vn": "Đội ơn ( Chúa)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to praise somebody / something for something ) ( to praise somebody / something as something ) khen ngợi; ca ngợi; tán dương",
+          "list_en_vn": [
+            {
+              "full_en": "the televiewers praised that documentary",
+              "full_vn": "khán giả truyền hình đã khen ngợi phim tài liệu đó"
+            },
+            {
+              "full_en": "to praise to the skies",
+              "full_vn": "tán dương lên tận mây xanh"
+            },
+            {
+              "full_en": "they praised those actors as attached to the Vietnamese people",
+              "full_vn": "họ khen các diễn viên đó gắn bó với dân tộc Việt Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tôn kính, ca ngợi ( Chúa) trong lời cầu nguyện, thờ phụng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445728_67777eb178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445728_799d430554_o.png",
+      "id_image": "praise_5521213"
+    }
+  ]
+}

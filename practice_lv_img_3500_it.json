@@ -1,0 +1,193 @@
+{
+  "english": "practice",
+  "phat_am": "['præktis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động ngược lại với lý thuyết; thực tiễn",
+          "list_en_vn": [
+            {
+              "full_en": "to put a plan into practice",
+              "full_vn": "thực hiện kế hoạch"
+            },
+            {
+              "full_en": "the idea would never work in practice",
+              "full_vn": "ý kiến đó chẳng có tác dụng gì trong thực tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thói quen, thông lệ, lệ thường",
+          "list_en_vn": [
+            {
+              "full_en": "it's accepted /standard practice to pay a deposit with one's order",
+              "full_vn": "đã thành thông lệ là phải ký gửi một số tiền theo đơn đặt hàng của mình"
+            },
+            {
+              "full_en": "paying bills promptly is good financial practice",
+              "full_vn": "nhanh chóng thanh toán hoá đơn là một thói quen tốt về tài chính"
+            },
+            {
+              "full_en": "it's the practice in Britain to drive on the left",
+              "full_vn": "thông lệ ở Anh là lái xe bên trái đường"
+            },
+            {
+              "full_en": "the practice of closing shops on Sundays",
+              "full_vn": "lệ thường đóng cửa hiệu vào các ngày chủ nhật"
+            },
+            {
+              "full_en": "I had coffee after dinner , as is my usual practice",
+              "full_vn": "tôi có thói quen uống cà phê sau bữa ăn tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rèn luyện, sự luyện tập; thời gian tập luyện",
+          "list_en_vn": [
+            {
+              "full_en": "to be in practice",
+              "full_vn": "có thời gian luyện tập"
+            },
+            {
+              "full_en": "to be out of practice",
+              "full_vn": "không có thời gian luyện tập"
+            },
+            {
+              "full_en": "firing practice",
+              "full_vn": "sự tập bắn"
+            },
+            {
+              "full_en": "target practice",
+              "full_vn": "sự tập bắn bia"
+            },
+            {
+              "full_en": "the practice of one's religion",
+              "full_vn": "sự hành đạo"
+            },
+            {
+              "full_en": "an hour's practice every day",
+              "full_vn": "mỗi ngày tập luyện một giờ"
+            },
+            {
+              "full_en": "playing the piano well requires a lot of practice",
+              "full_vn": "chơi pianô giỏi đòi hỏi phải tập luyện nhiều"
+            },
+            {
+              "full_en": "the players will meet for a practice in the morning",
+              "full_vn": "các vận động viên phải tập trung vào buổi sáng để tập luyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hành nghề (của bác sĩ, luật sư); khách hàng (của bác sĩ, luật sư); phòng khám bệnh, phòng luật sư",
+          "list_en_vn": [
+            {
+              "full_en": "practice of medicine /law",
+              "full_vn": "sự hành nghề y/luật"
+            },
+            {
+              "full_en": "a medical practice ; a legal practice",
+              "full_vn": "phòng mạch của bác sĩ; văn phòng luật sư"
+            },
+            {
+              "full_en": "a group practice",
+              "full_vn": "phòng khám của một nhóm bác sĩ"
+            },
+            {
+              "full_en": "his practice is in the centre of the city",
+              "full_vn": "phòng mạch của ông bác sĩ đó ở trung tâm thành phố"
+            },
+            {
+              "full_en": "to sell the practice",
+              "full_vn": "để lại (bán) phòng khám bệnh và khách hàng; để lại (bán) phòng luật sư và khách hàng"
+            },
+            {
+              "full_en": "to buy the practice of ...",
+              "full_vn": "mua lại phòng khám bệnh và khách hàng của...; mua lại phòng luật sư và khách hàng của..."
+            },
+            {
+              "full_en": "to have a large practice",
+              "full_vn": "đông khách hàng"
+            },
+            {
+              "full_en": "a doctor working in general practice",
+              "full_vn": "một bác sĩ hành nghề đa khoa"
+            },
+            {
+              "full_en": "she has retired from practice /is no longer in practice",
+              "full_vn": "bà ta thôi không hành nghề nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) ( số nhiều) âm mưu, mưu đồ, thủ đoạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "practice makes perfect",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) có công mài sắt có ngày nên kim"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a habit /practice of something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem habit"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "sharp practices",
+              "full_vn": "thủ đoạn bất lương"
+            },
+            {
+              "full_en": "discreditable practices",
+              "full_vn": "mưu đồ xấu xa, âm mưu đen tối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ & nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), như practise"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375622_e9af5522b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375622_c980dfb306_o.png",
+      "id_image": "practice_1466276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331021_7bfa106b5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331021_877c9dc11e_o.png",
+      "id_image": "practice_167835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375552_610aa5e509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375552_85b2c840e4_o.png",
+      "id_image": "practice_2832718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445833_cc641581b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445833_ae21bc7536_o.png",
+      "id_image": "practice_4171423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375497_6c959cf933_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375497_90aa38a9c3_o.png",
+      "id_image": "practice_4234498"
+    }
+  ]
+}

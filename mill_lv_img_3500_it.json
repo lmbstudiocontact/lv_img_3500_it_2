@@ -1,0 +1,91 @@
+{
+  "english": "mill",
+  "phat_am": "[mil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đơn vị tiền tệ bằng một phần ngàn của một đô la Mỹ"
+        },
+        {
+          "m_full_vn": "máy cán; máy xay; máy nghiền; máy phay"
+        },
+        {
+          "m_full_vn": "xưởng, nhà máy"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự thử thách gay go, nỗi cực khổ; sự tập luyện gian khổ; công việc cực nhọc",
+          "list_en_vn": [
+            {
+              "full_en": "to go through the mill",
+              "full_vn": "chịu đựng những gian khổ; qua những thử thách gay go"
+            },
+            {
+              "full_en": "to put someone through the mill",
+              "full_vn": "bắt ai chịu những thử thách gay go, bắt ai chịu những nỗi cực khổ; bắt ai tập luyện gian khổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xay, nghiền, cán; xay bằng cối xay, xay bằng máy xay; nghiền bằng máy nghiền",
+          "list_en_vn": [
+            {
+              "full_en": "to mill flour",
+              "full_vn": "xay bột"
+            },
+            {
+              "full_en": "to mill steel",
+              "full_vn": "cán thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh sủi bọt",
+          "list_en_vn": [
+            {
+              "full_en": "to mill chocolate",
+              "full_vn": "đánh sôcôla cho sủi bọt lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khắc cạnh, khía răng cưa; làm gờ",
+          "list_en_vn": [
+            {
+              "full_en": "to mill a coin",
+              "full_vn": "khía răng cưa vào gờ đồng tiền; làm gờ cho đồng tiền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698434_a931931972_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698434_c30c00af4a_o.png",
+      "id_image": "mill_1111098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343221_8555da6a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343221_878a327761_o.png",
+      "id_image": "mill_123944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457913_efa41f746a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457913_8463a23e51_o.png",
+      "id_image": "mill_2245016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343131_f897320d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343131_1359851754_o.png",
+      "id_image": "mill_6092381"
+    }
+  ]
+}

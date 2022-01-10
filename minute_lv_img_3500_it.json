@@ -1,0 +1,148 @@
+{
+  "english": "minute",
+  "phat_am": "[mai'nju:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phút",
+          "list_en_vn": [
+            {
+              "full_en": "to wait ten minutes",
+              "full_vn": "chờ mười phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một lúc, một lát, một thời gian ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "it only takes a minute to translate these sentences",
+              "full_vn": "chỉ một lát thôi là dịch xong các câu này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phút ( 1 / 60 của một độ để đo góc)"
+        },
+        {
+          "m_full_vn": "(ngoại giao) giác the"
+        },
+        {
+          "m_full_vn": "( số nhiều) biên bản",
+          "list_one_mean": [
+            {
+              "id_full_en": "to the minute",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng giờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to leave at five o'clock to the minute",
+                      "full_vn": "ra đi đúng lúc năm giờ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a minute",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng bao lâu nữa; chốc lát nữa thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "just a minute !",
+              "list_im": [
+                {
+                  "im_full_vn": "đợi một tí nhé!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the minute /moment (that )...",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay khi..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's one born every minute",
+              "list_im": [
+                {
+                  "im_full_vn": "đời này không thiếu kẻ dại dột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up to the minute",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp thời trang; có thông tin mới nhất (sốt dẻo)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the minutes of a meeting",
+              "full_vn": "biên bản của một cuộc họp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi vào biên bản",
+          "list_en_vn": [
+            {
+              "full_en": "to minute something down",
+              "full_vn": "ghi chép việc gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhỏ, vụn vặt",
+          "list_en_vn": [
+            {
+              "full_en": "minute details",
+              "full_vn": "chi tiết nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ lưỡng, chi ly, cặn kẽ, tỉ mỉ",
+          "list_en_vn": [
+            {
+              "full_en": "a minute investigation",
+              "full_vn": "một cuộc điều tra kỹ lưỡng"
+            },
+            {
+              "full_en": "a minute description",
+              "full_vn": "sự miêu tả cặn kẽ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341461_0e5b76ed02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341461_45fd55e714_o.png",
+      "id_image": "minute_817285"
+    }
+  ]
+}

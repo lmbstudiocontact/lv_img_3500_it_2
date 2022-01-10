@@ -1,0 +1,37 @@
+{
+  "english": "notification",
+  "phat_am": "[,noutifi'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hành động) khai báo (một trường hợp sinh đẻ, chết, ca bệnh hay lây.....)",
+          "list_en_vn": [
+            {
+              "full_en": "There have been no more notifications of cholera cases in the last week",
+              "full_vn": "tuần qua không có thêm ca bệnh dịch tả nào được khai báo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675504_2f58d9b267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675504_befc2c982a_o.png",
+      "id_image": "notification_1580265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365512_2b74f6dd88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365512_094f42438e_o.png",
+      "id_image": "notification_778810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365482_f918cdecdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365482_b80f049567_o.png",
+      "id_image": "notification_814115"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "roof",
+  "phat_am": "[ru:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mái nhà, nóc",
+          "list_en_vn": [
+            {
+              "full_en": "tiled roof",
+              "full_vn": "mái ngói"
+            },
+            {
+              "full_en": "under one's roof",
+              "full_vn": "ở nhà của mình"
+            },
+            {
+              "full_en": "to have a roof over one's head",
+              "full_vn": "có nơi ăn chốn ở"
+            },
+            {
+              "full_en": "although divorced , they continue to live under the same roof",
+              "full_vn": "tuy đã li dị nhau, họ vẫn sống chung một nhà với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòm",
+          "list_en_vn": [
+            {
+              "full_en": "the roof of heaven",
+              "full_vn": "vòm trời"
+            },
+            {
+              "full_en": "under a roof of foliage",
+              "full_vn": "dưới vòm lá cây"
+            },
+            {
+              "full_en": "the roof of the mouth",
+              "full_vn": "vòm miệng"
+            },
+            {
+              "full_en": "the roof of the world",
+              "full_vn": "nóc nhà trời, dãy núi cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mui xe"
+        },
+        {
+          "m_full_vn": "(hàng không) trần (máy bay)",
+          "list_one_mean": [
+            {
+              "id_full_en": "go through the roof",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất giận dữ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che, lợp nhà"
+        },
+        {
+          "m_full_vn": "làm mái che cho; (nghĩa bóng) cho trú ngụ, cho ở"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342741_479573d4cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342741_4a2fed99a3_o.png",
+      "id_image": "roof_1207146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387807_bd1aa8a42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387807_29c5425e68_o.png",
+      "id_image": "roof_252740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387787_eb0f2597df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387787_a404a394d4_o.png",
+      "id_image": "roof_313074"
+    }
+  ]
+}

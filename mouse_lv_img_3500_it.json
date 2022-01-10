@@ -1,0 +1,60 @@
+{
+  "english": "mouse",
+  "phat_am": "[maus]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều là mice",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chuột",
+          "list_en_vn": [
+            {
+              "full_en": "house mouse",
+              "full_vn": "chuột nhắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) mắt sưng húp, mắt thâm tím"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt chuột, săn chuột"
+        },
+        {
+          "m_full_vn": "đi rón rén, lén, lần mò"
+        },
+        {
+          "m_full_vn": "(thông tục) ( + about ) lục lọi, tìm kiếm, bới"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rình bắt đến cùng"
+        },
+        {
+          "m_full_vn": "kiên nhẫn, tìm kiếm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334056_0220ce00f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334056_52cf304c5f_o.png",
+      "id_image": "mouse_164335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689104_d9a05d74f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689104_caf0fc4475_o.png",
+      "id_image": "mouse_170838"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "mobile",
+  "phat_am": "['moubail; 'moubi:l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơ động; lưu động",
+          "list_en_vn": [
+            {
+              "full_en": "mobile troops /artillery",
+              "full_vn": "binh sĩ/pháo binh cơ động"
+            },
+            {
+              "full_en": "mobile library",
+              "full_vn": "thư viện lưu động (đặt trong một chiếc xe)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về người) có thể thay đổi giai cấp, nghề nghiệp hoặc nơi ở dễ dàng; di động",
+          "list_en_vn": [
+            {
+              "full_en": "a mobile work-force",
+              "full_vn": "lực lượng lao động di động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hay thay đổi, dễ biến đổi, biến đổi nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "mobile features",
+              "full_vn": "nét mặt dễ biến đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có phương tiện di chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "can you give me a lift if you are mobile ?",
+              "full_vn": "ông cho tôi đi nhờ xe được không, nếu ông có xe?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454958_23ed7f7175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454958_efd24ae1f3_o.png",
+      "id_image": "mobile_1443110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340041_8ecf2aae5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340041_590826dfe8_o.png",
+      "id_image": "mobile_1447580"
+    }
+  ]
+}

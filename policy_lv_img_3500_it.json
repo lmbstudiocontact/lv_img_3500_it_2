@@ -1,0 +1,77 @@
+{
+  "english": "policy",
+  "phat_am": "['pɔləsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chính sách (của chính phủ, đảng...)",
+          "list_en_vn": [
+            {
+              "full_en": "foreign policy",
+              "full_vn": "chính sách đối ngoại"
+            },
+            {
+              "full_en": "to adopt fresh policies",
+              "full_vn": "theo đường lối mới"
+            },
+            {
+              "full_en": "what's your policy on domestic investment encouragement ?",
+              "full_vn": "chính sách khuyến khích đầu tư trong nước của các ông là như thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách xử sự, cách giải quyết (vấn đề...) đường lối hành động",
+          "list_en_vn": [
+            {
+              "full_en": "it is the best policy",
+              "full_vn": "đó là đường lối tốt nhất, đó là cách xử sự tốt nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những điều khoản (của hợp đồng bảo hiểm); hợp đồng, khế ước",
+          "list_en_vn": [
+            {
+              "full_en": "insurance policy",
+              "full_vn": "hợp đồng bảo hiểm"
+            },
+            {
+              "full_en": "a policy document",
+              "full_vn": "tài liệu về hợp đồng bảo hiểm"
+            },
+            {
+              "full_en": "a policy holder",
+              "full_vn": "người có hợp đồng bảo hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khôn ngoan, sự khôn khéo, sự tin tưởng, sự sáng suốt, sự sắc bén (về (chính trị), về sự chỉ đạo công việc)"
+        },
+        {
+          "m_full_vn": "( Ê-cốt) vườn rộng (quanh lâu đài)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337651_fa27776555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337651_0d47f697bc_o.png",
+      "id_image": "policy_1900257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452493_f4fdd5bd74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452493_64954afdc1_o.png",
+      "id_image": "policy_3814891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382652_454ebafab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382652_3ff4342a05_o.png",
+      "id_image": "policy_536905"
+    }
+  ]
+}

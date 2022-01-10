@@ -1,0 +1,46 @@
+{
+  "english": "muse",
+  "phat_am": "[mju:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Muse thần nàng thơ"
+        },
+        {
+          "m_full_vn": "( the muse ) hứng thơ; tài thơ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + on , upon , over ) nghĩ trầm ngâm, suy tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to muse upon a distant scene",
+              "full_vn": "nghĩ tới một cảnh xa xôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on ) ngắm, nhìn, đăm chiêu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446118_2ce159c16f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446118_bc92f5edf5_o.png",
+      "id_image": "muse_3571361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331231_6860a1ebf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331231_b364756d8a_o.png",
+      "id_image": "muse_647668"
+    }
+  ]
+}

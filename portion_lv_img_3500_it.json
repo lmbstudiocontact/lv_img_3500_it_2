@@ -1,0 +1,78 @@
+{
+  "english": "portion",
+  "phat_am": "['pɔ:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần chia",
+          "list_en_vn": [
+            {
+              "full_en": "he divided up his property and gave a portion to each of his children",
+              "full_vn": "ông ta đã chia tài sản của ông ta và mỗi đứa con được một phần"
+            },
+            {
+              "full_en": "you give this portion of the ticket to the inspector and keep the other",
+              "full_vn": "cậu đưa phần này của chiếc vé cho người kiểm soát và giữ phần kia lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khẩu phần thức ăn (lượng thức ăn cho một người)",
+          "list_en_vn": [
+            {
+              "full_en": "a generous portion of roast duck",
+              "full_vn": "một suất vịt quay hậu hĩ"
+            },
+            {
+              "full_en": "she cut the pie into six portions",
+              "full_vn": "cô ta cắt patê thành sáu suất"
+            },
+            {
+              "full_en": "do you serve children's portions ?",
+              "full_vn": "chị dọn cho suất ăn trẻ em (tức là ít hơn) được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của hồi môn"
+        },
+        {
+          "m_full_vn": "số phận, định mệnh",
+          "list_en_vn": [
+            {
+              "full_en": "it seemed that suffering was to be his portion in life",
+              "full_vn": "nỗi đau đớn đó dường như là số phận trong cuộc đời của anh ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to portion something out among / between somebody ) chia cái gì thành nhiều phần cho một số người, chia phần",
+          "list_en_vn": [
+            {
+              "full_en": "she portioned out the money equally between both children",
+              "full_vn": "bà ta chia đều số tiền cho cả hai đứa trẻ"
+            },
+            {
+              "full_en": "the work was portioned out fairly",
+              "full_vn": "công việc được chia ra thành từng phần công bằng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689634_cb00caa8da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689634_25cbb2b5d9_o.png",
+      "id_image": "portion_5222974"
+    }
+  ]
+}

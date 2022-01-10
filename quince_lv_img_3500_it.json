@@ -1,0 +1,40 @@
+{
+  "english": "quince",
+  "phat_am": "[kwins]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả mộc qua",
+          "list_en_vn": [
+            {
+              "full_en": "quince jelly",
+              "full_vn": "(thuộc ngữ) nước quả mộc qua nấu đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) cây mộc qua"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698259_83507573de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698259_2854d79f9d_o.png",
+      "id_image": "quince_1135525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342991_9f4a1d8a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342991_64aee10305_o.png",
+      "id_image": "quince_2358311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698189_d852450f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698189_271426c0ec_o.png",
+      "id_image": "quince_3944237"
+    }
+  ]
+}

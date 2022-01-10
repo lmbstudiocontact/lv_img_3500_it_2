@@ -1,0 +1,93 @@
+{
+  "english": "rabbit",
+  "phat_am": "['ræbit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con thỏ",
+          "list_en_vn": [
+            {
+              "full_en": "tame rabbit",
+              "full_vn": "thỏ nhà"
+            },
+            {
+              "full_en": "wild rabbit",
+              "full_vn": "thỏ rừng"
+            },
+            {
+              "full_en": "buck rabbit",
+              "full_vn": "thỏ đực"
+            },
+            {
+              "full_en": "doe rabbit",
+              "full_vn": "thỏ cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lông thỏ; thịt thỏ",
+          "list_en_vn": [
+            {
+              "full_en": "rabbit pie",
+              "full_vn": "(thuộc ngữ) bánh nhân thịt thỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nhút nhát, người nhát như thỏ"
+        },
+        {
+          "m_full_vn": "(thông tục) đấu thủ xoàng (nhất là trong ten-nít)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bread like rabbits",
+              "list_im": [
+                {
+                  "im_full_vn": "sinh sôi nảy nở nhanh, đẻ nhanh (như) thỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Weish rabbit",
+              "list_im": [
+                {
+                  "im_full_vn": "món bánh mì rán với phó mát"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) nói dông dài"
+        },
+        {
+          "m_full_vn": "( go rabbitting ) đi săn thỏ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387357_9543253dd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387357_0599466ed4_o.png",
+      "id_image": "rabbit_123961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697519_6c821d9f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697519_df67dc39bb_o.png",
+      "id_image": "rabbit_183964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342291_4f95b6de44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342291_3107b28c5c_o.png",
+      "id_image": "rabbit_543170"
+    }
+  ]
+}

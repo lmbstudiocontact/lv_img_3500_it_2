@@ -1,0 +1,55 @@
+{
+  "english": "monster",
+  "phat_am": "['mɔnstə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quái vật, yêu quái"
+        },
+        {
+          "m_full_vn": "con vật khổng lồ (như) giống voi khổng lồ thời tiền sử"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người tàn bạo, người quái ác; người gớm guốc",
+          "list_en_vn": [
+            {
+              "full_en": "a monster of cruelty",
+              "full_vn": "một người vô cùng tàn bạo, một con quỷ độc ác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quái thai"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "to lớn, khổng lồ",
+          "list_en_vn": [
+            {
+              "full_en": "a monster ship",
+              "full_vn": "một chiếc tàu khổng lồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337306_936440ae7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337306_d3b85f7b33_o.png",
+      "id_image": "monster_606890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074365_448cc74382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074365_bbbc64e867_o.png",
+      "id_image": "monster_773372"
+    }
+  ]
+}

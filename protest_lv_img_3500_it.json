@@ -1,0 +1,84 @@
+{
+  "english": "protest",
+  "phat_am": "[prə'test]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phản đối, sự phản kháng, sự kháng nghị; lời phản đối, lời phản kháng, lời kháng nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to pay a sum under protest",
+              "full_vn": "miễn cưỡng phải trả một món tiền; vừa trả một món tiền vừa phản kháng lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) giấy chứng (để làm chứng người nợ không chịu nhận hoặc trả ngân phiếu)",
+          "list_en_vn": [
+            {
+              "full_en": "protest for non-acceptance",
+              "full_vn": "giấy chứng nhận về sự không nhận (ngân phiếu...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xác nhận long trọng, sự cam đoan, sự quả quyết, lời xác nhận long trọng, lời cam đoan, lời quả quyết",
+          "list_one_mean": [
+            {
+              "id_full_en": "under protest",
+              "list_im": [
+                {
+                  "im_full_vn": "vùng vằng; miễn cưỡng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "long trọng, xác nhận, cam đoan, quả quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to protest one's innocence",
+              "full_vn": "cam đoan là vô tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản kháng, kháng nghị"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + against ) phản kháng, phản đối, kháng nghị"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394482_04929305f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394482_28a0272a6c_o.png",
+      "id_image": "protest_2388939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704354_0aaab0a64a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704354_30071445d9_o.png",
+      "id_image": "protest_2925803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349661_dee3680265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349661_1886ed347e_o.png",
+      "id_image": "protest_4144575"
+    }
+  ]
+}

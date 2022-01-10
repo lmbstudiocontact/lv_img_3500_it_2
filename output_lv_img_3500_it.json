@@ -1,0 +1,65 @@
+{
+  "english": "output",
+  "phat_am": "['autput]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lượng hàng hoá do một cái máy hoặc một công nhân... sản xuất ra; sản lượng",
+          "list_en_vn": [
+            {
+              "full_en": "the average output of the factory is 20 cars a day",
+              "full_vn": "sản lượng trung bình của nhà máy là 20 chiếc/ngày"
+            },
+            {
+              "full_en": "we must increase our output to meet demand",
+              "full_vn": "chúng ta phải tăng sản lượng để đáp ứng yêu cầu"
+            },
+            {
+              "full_en": "the literary output of the year",
+              "full_vn": "số lượng sách văn học xuất bản trong năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) năng lượng được sản xuất (bởi một máy phát điện..); công suất",
+          "list_en_vn": [
+            {
+              "full_en": "an output of 100 watts",
+              "full_vn": "công suất điện năng 100 oát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) thông tin do máy tính đưa ra; đầu ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "output device",
+              "list_im": [
+                {
+                  "im_full_vn": "máy nhận thông tin từ môt máy tính; thiết bị xuất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, động tính từ quá khứ và thì quá khứ là output hoặc outputted",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) cung cấp (thông tin, kết quả...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078680_9f343770c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078680_4dd0511262_o.png",
+      "id_image": "output_338107"
+    }
+  ]
+}

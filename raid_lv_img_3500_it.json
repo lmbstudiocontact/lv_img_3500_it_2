@@ -1,0 +1,86 @@
+{
+  "english": "raid",
+  "phat_am": "[reid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc tấn công bất ngờ; cuộc đột kích",
+          "list_en_vn": [
+            {
+              "full_en": "to make a raid on the enemy camp",
+              "full_vn": "đột kích vào doanh trại địch"
+            },
+            {
+              "full_en": "to make /launch a bombing raid on enemy bases",
+              "full_vn": "mở một cuộc oanh kích bất ngờ vào căn cứ địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc lùng sục bất ngờ, cuộc vây bắt, ruồng bố; cuộc bố ráp",
+          "list_en_vn": [
+            {
+              "full_en": "a police raid",
+              "full_vn": "một cuộc bố ráp của công an"
+            },
+            {
+              "full_en": "a raid on the reserves of a company",
+              "full_vn": "cuộc khám xét bất ngờ hàng dự trữ của một công ty"
+            },
+            {
+              "full_en": "to carry out a dawn raid",
+              "full_vn": "bất ngờ mở một cuộc bố ráp vào lúc sáng tinh mơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc cướp bóc",
+          "list_en_vn": [
+            {
+              "full_en": "a security guard was killed in the bank raid",
+              "full_vn": "một nhân viên bảo vệ bị giết chết trong vụ cướp ngân hàng"
+            },
+            {
+              "full_en": "an armed raid",
+              "full_vn": "một vụ cướp có vũ khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mưu toan giảm giá cổ phiếu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiến hành khám xét bất ngờ (một địa điểm)",
+          "list_en_vn": [
+            {
+              "full_en": "customs men raided the house",
+              "full_vn": "nhân viên hải quan bất ngờ khám xét ngôi nhà"
+            },
+            {
+              "full_en": "to raid the larder",
+              "full_vn": "lục lọi chạn bếp (lấy thức ăn ở chạn bếp, (thường) là giữa hai bữa ăn)"
+            },
+            {
+              "full_en": "boys raiding an orchard",
+              "full_vn": "những thằng nhóc lẻn vào vườn cây ăn trộm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455493_6a2f609af5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455493_2f4d216c19_o.png",
+      "id_image": "raid_750592"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "pond",
+  "phat_am": "[pɔnd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ao (nước)",
+          "list_en_vn": [
+            {
+              "full_en": "a fish pond",
+              "full_vn": "ao cá"
+            },
+            {
+              "full_en": "pond life",
+              "full_vn": "(thuộc ngữ) cuộc sống trong ao (của các động vật sống ở ao)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) biển"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + back , up ) ngăn, be bờ (dòng nước...) để giữ nước"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành ao, thành vũng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451148_f7634c80d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451148_cf90f91a2d_o.png",
+      "id_image": "pond_1312012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073085_31584202e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073085_8b4e82dced_o.png",
+      "id_image": "pond_3038834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451103_2be50eb8fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451103_c1f715251d_o.png",
+      "id_image": "pond_4146240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451048_9081db9a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451048_f92a33dc61_o.png",
+      "id_image": "pond_4251881"
+    }
+  ]
+}

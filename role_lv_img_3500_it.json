@@ -1,0 +1,30 @@
+{
+  "english": "role",
+  "phat_am": "[roul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vai (diễn)"
+        },
+        {
+          "m_full_vn": "vai trò",
+          "list_en_vn": [
+            {
+              "full_en": "to play the leading role",
+              "full_vn": "thủ vai chính (trong vở kịch); đóng vai trò lãnh đạo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458403_73461e896a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458403_5495b448a0_o.png",
+      "id_image": "role_1412282"
+    }
+  ]
+}

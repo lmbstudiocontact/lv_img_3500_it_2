@@ -1,0 +1,33 @@
+{
+  "english": "satire",
+  "phat_am": "['sætaiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trào phúng, sự châm biếm; lời châm biếm, lời trào phúng"
+        },
+        {
+          "m_full_vn": "(văn học) nghệ thuật châm biếm; bài văn châm biếm; thơ trào phúng",
+          "list_en_vn": [
+            {
+              "full_en": "a work of bitter satire",
+              "full_vn": "một tác phẩm đầy sự châm biếm sâu cay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều mỉa mai (đối với cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689364_bbafd46a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689364_2d1abde601_o.png",
+      "id_image": "satire_2178167"
+    }
+  ]
+}

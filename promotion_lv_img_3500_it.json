@@ -1,0 +1,80 @@
+{
+  "english": "promotion",
+  "phat_am": "[prə'mou∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thăng tiến; sự thăng chức; trường hợp thăng chức",
+          "list_en_vn": [
+            {
+              "full_en": "to win /gain promotion",
+              "full_vn": "được thăng chức, được thăng cấp"
+            },
+            {
+              "full_en": "promotion prospects",
+              "full_vn": "những triển vọng được thăng chức"
+            },
+            {
+              "full_en": "the new job is a promotion for her",
+              "full_vn": "công việc mới là một sự thăng tiến đối với cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đẩy mạnh, sự xúc tiến; sự khuyến khích",
+          "list_en_vn": [
+            {
+              "full_en": "to form a society for the promotion of science",
+              "full_vn": "thành lập một hội để đẩy mạnh khoa học"
+            },
+            {
+              "full_en": "the promotion of production",
+              "full_vn": "sự đẩy mạnh sản xuất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự quảng cáo (hàng...)",
+          "list_en_vn": [
+            {
+              "full_en": "he's responsible for sales promotion",
+              "full_vn": "ông ta chịu trách nhiệm về việc quảng cáo hàng hoá"
+            },
+            {
+              "full_en": "advertising is the most effective method of promotion",
+              "full_vn": "quảng cáo là phương pháp hữu hiệu nhất để đẩy mạnh việc bán hàng"
+            },
+            {
+              "full_en": "we're doing a special promotion of our paperback list",
+              "full_vn": "chúng tôi đang tiến hành một cuộc vận động quảng cáo đặc biệt cho danh mục các loại sách bìa mỏng của chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395782_7c1aa7afb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395782_f54e8bf385_o.png",
+      "id_image": "promotion_1077170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465598_c04e76b9d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465598_f78209931f_o.png",
+      "id_image": "promotion_2344653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465678_eb3fc7fe75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465678_8a35233680_o.png",
+      "id_image": "promotion_296909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705639_aa7af72b25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705639_d134a5de90_o.png",
+      "id_image": "promotion_562548"
+    }
+  ]
+}

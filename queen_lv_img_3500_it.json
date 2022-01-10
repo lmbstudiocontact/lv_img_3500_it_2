@@ -1,0 +1,111 @@
+{
+  "english": "queen",
+  "phat_am": "[kwi:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người phụ nữ cai trị một quốc gia độc lập (thừa kế địa vị này theo dòng dõi); nữ hoàng; nữ chúa; bà chúa ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the Queen of England",
+              "full_vn": "nữ hoàng Anh"
+            },
+            {
+              "full_en": "the rose is the queen of flowers",
+              "full_vn": "hoa hồng là chúa các loài hoa"
+            },
+            {
+              "full_en": "Venice the queen of the Adriatic",
+              "full_vn": "Vơ-ni-dơ thành phố đứng đầu vùng biển A-đri-a-tich"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vợ vua, hoàng hậu"
+        },
+        {
+          "m_full_vn": "(đánh bài) quân Đầm, quân Q"
+        },
+        {
+          "m_full_vn": "(đánh cờ) quân đam, quân Hậu"
+        },
+        {
+          "m_full_vn": "người nữ"
+        },
+        {
+          "m_full_vn": "con ong chúa; con kiến chúa",
+          "list_en_vn": [
+            {
+              "full_en": "the queen bee",
+              "full_vn": "con ong chúa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) người đàn ông đồng tình luyến ái",
+          "list_one_mean": [
+            {
+              "id_full_en": "Queen Anne is dead !",
+              "list_im": [
+                {
+                  "im_full_vn": "người ta đã biết tỏng đi rồi, bây giờ mới nói!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "queen of hearts",
+              "list_im": [
+                {
+                  "im_full_vn": "cô gái đẹp, người đàn bà đẹp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Queen's English",
+              "list_im": [
+                {
+                  "im_full_vn": "dạng tiếng Anh viết và nói được coi là đúng nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chọn làm hoàng hậu; chọn làm nữ hoàng"
+        },
+        {
+          "m_full_vn": "(đánh cờ) phong (quân Chốt) thành quân Hậu (khi đạt đến biên của đối phương); Chốt được phong thành Hậu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to queen it (over somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm như bà chúa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389372_b2e15a5c56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389372_a19f801ca1_o.png",
+      "id_image": "queen_2349515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459148_2c2f2117a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459148_e75d5038c1_o.png",
+      "id_image": "queen_4133591"
+    }
+  ]
+}

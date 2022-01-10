@@ -1,0 +1,81 @@
+{
+  "english": "query",
+  "phat_am": "['kwiəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu hỏi, câu chất vấn; thắc mắc",
+          "list_en_vn": [
+            {
+              "full_en": "to answer readers' queries",
+              "full_vn": "trả lời các câu hỏi của độc giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (nghĩa đen), (nghĩa bóng)) dấu chấm hỏi (?)",
+          "list_en_vn": [
+            {
+              "full_en": "to put a query against that",
+              "full_vn": "đặt một dấu chấm hỏi về việc đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to query somebody about something ) hỏi, chất vấn",
+          "list_en_vn": [
+            {
+              "full_en": "'Is it unwise to say it ?' she queried",
+              "full_vn": "'Nói vậy có phải là dại không? ', cô ta hỏi"
+            },
+            {
+              "full_en": "The chairman was queried about the city budget",
+              "full_vn": "Người ta chất vấn ông chủ tịch về ngân sách thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghi ngờ; thắc mắc",
+          "list_en_vn": [
+            {
+              "full_en": "To query a report /plan",
+              "full_vn": "Nghi ngờ một bản báo cáo/kế hoạch"
+            },
+            {
+              "full_en": "To query the amount charged",
+              "full_vn": "Thắc mắc về số tiền phải trả"
+            },
+            {
+              "full_en": "I query whether he is from Vietnam",
+              "full_vn": "Tôi thắc mắc không biết hắn có phải là người Việt Nam hay không"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459033_16282a5b31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459033_639665c5a9_o.png",
+      "id_image": "query_2286643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699374_99087f2d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699374_ec3596937b_o.png",
+      "id_image": "query_2620611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389187_bcae038a67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389187_0f15e7ba95_o.png",
+      "id_image": "query_6109187"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "prehistoric",
+  "phat_am": "[,pri:hi'stɔrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thời tiền sử",
+          "list_en_vn": [
+            {
+              "full_en": "prehistoric man /monuments /cave paintings",
+              "full_vn": "người/công trình xây dựng/bức vẽ trong hang thời tiền sử"
+            },
+            {
+              "full_en": "his ideas on the education of girls are positively prehistoric",
+              "full_vn": "ý tưởng của anh ta về việc dạy dỗ các thiếu nữ rõ ràng là cổ lai hi (quá cổ lỗ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444388_3530414dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444388_7684021b15_o.png",
+      "id_image": "prehistoric_5999313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329366_23188e5f8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329366_2605815987_o.png",
+      "id_image": "prehistoric_5999349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374082_26ee141ba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374082_f768a34876_o.png",
+      "id_image": "prehistoric_784386"
+    }
+  ]
+}

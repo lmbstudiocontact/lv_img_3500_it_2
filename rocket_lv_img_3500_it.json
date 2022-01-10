@@ -1,0 +1,82 @@
+{
+  "english": "rocket",
+  "phat_am": "['rɔkit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cải lông"
+        },
+        {
+          "m_full_vn": "pháo hoa, pháo sáng, pháo thăng thiên"
+        },
+        {
+          "m_full_vn": "tên lửa; rốc-két (bom hoặc đạn cùng với tên lửa phóng nó đi)"
+        },
+        {
+          "m_full_vn": "(từ lóng) lời quở trách"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) tên lửa; phản lực",
+          "list_one_mean": [
+            {
+              "id_full_en": "give somebody /get a rocket",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) quở trách, mắng ai/bị quở trách nghiêm khắc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "rocket site",
+              "full_vn": "vị trí phóng tên lửa"
+            },
+            {
+              "full_en": "rocket gun ; rocket launcher",
+              "full_vn": "súng phóng tên lửa; bazôka"
+            },
+            {
+              "full_en": "rocket airplane",
+              "full_vn": "máy bay phản lực"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ ( rocketed )",
+      "list_m": [
+        {
+          "m_full_vn": "phóng tên lửa, bắn hoả tiển"
+        },
+        {
+          "m_full_vn": "bay vụt lên (gà lôi đỏ...)"
+        },
+        {
+          "m_full_vn": "lao lên như tên bắn (ngựa đua...)"
+        },
+        {
+          "m_full_vn": "di chuyển cực nhanh"
+        },
+        {
+          "m_full_vn": "( + up ) tăng vùn vụt, tăng lên rất nhanh (giá cả)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344051_ba08843259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344051_5fbdf9f404_o.png",
+      "id_image": "rocket_166379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344036_65055ba810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344036_7bdb605436_o.png",
+      "id_image": "rocket_203221"
+    }
+  ]
+}

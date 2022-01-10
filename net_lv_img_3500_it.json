@@ -1,0 +1,140 @@
+{
+  "english": "net",
+  "phat_am": "[net]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưới, mạng (tóc, nhện...)",
+          "list_en_vn": [
+            {
+              "full_en": "to cast (throw ) a net",
+              "full_vn": "quăng lưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạm, bẫy",
+          "list_en_vn": [
+            {
+              "full_en": "to fall into a net",
+              "full_vn": "rơi vào cạm bẫy, mắc bẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải màn; vải lưới"
+        },
+        {
+          "m_full_vn": "mạng lưới",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cast one's net wide",
+              "list_im": [
+                {
+                  "im_full_vn": "mở rộng phạm vi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spread one's net",
+              "list_im": [
+                {
+                  "im_full_vn": "giăng lưới, bủa lưới"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt bằng lưới, đánh lưới",
+          "list_en_vn": [
+            {
+              "full_en": "to net fish",
+              "full_vn": "đánh cá bằng lưới"
+            },
+            {
+              "full_en": "to net birds",
+              "full_vn": "bẫy chim bằng lưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thả lưới, giăng lưới, bủa lưới ( (nghĩa đen) & (nghĩa bóng)), đánh bẫy"
+        },
+        {
+          "m_full_vn": "che phủ bằng lưới"
+        },
+        {
+          "m_full_vn": "đan (lưới, võng...)"
+        },
+        {
+          "m_full_vn": "thu được (lãi thực)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể thao) phá lưới, sút thủng lưới"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực",
+          "list_en_vn": [
+            {
+              "full_en": "net price",
+              "full_vn": "thực giá"
+            },
+            {
+              "full_en": "net weight",
+              "full_vn": "trọng lượng thực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuối cùng, chung cuộc",
+          "list_en_vn": [
+            {
+              "full_en": "the net results of that feast are a noisy squabble",
+              "full_vn": "kết quả cuối cùng của bữa tiệc ấy là một cuộc cãi nhau ầm ĩ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324231_20c56766e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324231_e17d72ac77_o.png",
+      "id_image": "net_1861733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061160_10f402b8ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061160_6ff204c34b_o.png",
+      "id_image": "net_193685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439238_b115bc40b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439238_40b700361b_o.png",
+      "id_image": "net_4293751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369027_f16790020e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369027_2d27f0cb9d_o.png",
+      "id_image": "net_4437003"
+    }
+  ]
+}

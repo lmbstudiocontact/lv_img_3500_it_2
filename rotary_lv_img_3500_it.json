@@ -1,0 +1,57 @@
+{
+  "english": "rotary",
+  "phat_am": "['routəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay; (thuộc) sự quay",
+          "list_en_vn": [
+            {
+              "full_en": "the rotary motion of the earth",
+              "full_vn": "chuyển động quay của quả đất"
+            },
+            {
+              "full_en": "rotary furnace",
+              "full_vn": "lò quay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy quay; máy in quay"
+        },
+        {
+          "m_full_vn": "chỗ đường vòng (phải đường vòng qua bục công an... không đi thẳng được) (như) roundabout , traffic-circle"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386942_d4bb00c54b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386942_52c11fbd51_o.png",
+      "id_image": "rotary_1686357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386927_2e787a8dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386927_b76d75ca34_o.png",
+      "id_image": "rotary_2472828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079315_af7e84e0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079315_72cf47e384_o.png",
+      "id_image": "rotary_4646849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456738_e70eb0b176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456738_ed1e1299b3_o.png",
+      "id_image": "rotary_4646869"
+    }
+  ]
+}

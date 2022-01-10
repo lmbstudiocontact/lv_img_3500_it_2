@@ -1,0 +1,52 @@
+{
+  "english": "pilgrimage",
+  "phat_am": "['pilgrimidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc hành hương",
+          "list_en_vn": [
+            {
+              "full_en": "to go on a pilgrimage",
+              "full_vn": "đi hành hương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyến đi tới nơi (có liên quan tới ai/cái gì) mà mình kính trọng",
+          "list_en_vn": [
+            {
+              "full_en": "a pilgrimage to Elvis Presley's birthplace",
+              "full_vn": "chuyến viếng thăm nơi sinh của Elvis Presley"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kiếp sống (tựa (như) một cuộc du hành)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi hành hương"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084435_ae14d00ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084435_9970fcfca6_o.png",
+      "id_image": "pilgrimage_3781738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084395_ffda582eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084395_375aef6855_o.png",
+      "id_image": "pilgrimage_3781929"
+    }
+  ]
+}

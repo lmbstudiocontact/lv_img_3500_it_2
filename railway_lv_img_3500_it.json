@@ -1,0 +1,78 @@
+{
+  "english": "railway",
+  "phat_am": "['reilwei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường có những đường ray cho tàu hoả chạy ở trên; đường sắt; đường xe lửa",
+          "list_en_vn": [
+            {
+              "full_en": "railway under construction",
+              "full_vn": "đường sắt đang được xây dựng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) ngành đường sắt",
+          "list_en_vn": [
+            {
+              "full_en": "to work on /for the railways",
+              "full_vn": "làm việc ở/cho ngành đường sắt"
+            },
+            {
+              "full_en": "a network of railways run by the state",
+              "full_vn": "mạng lưới đường sắt do nhà nước điều hành"
+            },
+            {
+              "full_en": "railway company",
+              "full_vn": "công ty đường sắt"
+            },
+            {
+              "full_en": "railway car (carriage , coach )",
+              "full_vn": "toa xe lửa"
+            },
+            {
+              "full_en": "railway engine",
+              "full_vn": "đầu máy xe lửa"
+            },
+            {
+              "full_en": "a railway engineer",
+              "full_vn": "kỹ sư ngành đường sắt"
+            },
+            {
+              "full_en": "railway rug",
+              "full_vn": "chăn len để đắp chân (trên xe lửa)"
+            },
+            {
+              "full_en": "a railway station",
+              "full_vn": "ga xe lửa"
+            },
+            {
+              "full_en": "at railway speed",
+              "full_vn": "hết sức nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695349_023b84e91e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695349_1024b8f4ea_o.png",
+      "id_image": "railway_1987405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077385_48b11607b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077385_f80b04cc28_o.png",
+      "id_image": "railway_619145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695379_165a2ce484_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695379_5fecd00825_o.png",
+      "id_image": "railway_858289"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "english": "pop",
+  "phat_am": "[pɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng bốp (tiếng nổ ngắn gọn)"
+        },
+        {
+          "m_full_vn": "(thông tục) đồ uống có bọt xèo xèo (sâm banh, .. nhất là không có chất cồn)",
+          "list_en_vn": [
+            {
+              "full_en": "a bottle of pop",
+              "full_vn": "chai nước uống có ga"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phong cách dân gian hiện đại (nhất là trong (âm nhạc))",
+          "list_en_vn": [
+            {
+              "full_en": "pop music",
+              "full_vn": "nhạc pốp"
+            },
+            {
+              "full_en": "pop culture",
+              "full_vn": "văn hoá dân gian hiện đại"
+            },
+            {
+              "full_en": "top of the pops",
+              "full_vn": "các bài hát pốp thịnh hành nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) buổi hoà nhạc bình dân; đĩa hát bình dân; bài hát bình dân"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (thông tục) bố (như) poppa ; một người lớn tuổi nào"
+        },
+        {
+          "m_full_vn": "điểm, vết (đánh dấu cừu...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự cấm cố",
+          "list_one_mean": [
+            {
+              "id_full_en": "in pop , (từ Mỹ, nghĩa Mỹ) in hock",
+              "list_im": [
+                {
+                  "im_full_vn": "đem cầm cố"
+                },
+                {
+                  "im_full_vn": "(viết tắt) của population ( dẩn số )",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "pop 12m",
+                      "full_vn": "dân số 12 triệu"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổ bốp"
+        },
+        {
+          "m_full_vn": "( + at ) nổ súng vào, bắn vào",
+          "list_en_vn": [
+            {
+              "full_en": "to pop at a bird",
+              "full_vn": "bắn con chim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thình lình thụt vào, thình lình thò ra, vọt, bật, tạt...",
+          "list_en_vn": [
+            {
+              "full_en": "to pop down",
+              "full_vn": "thụt xuống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nổ bốp; nổ (súng...)"
+        },
+        {
+          "m_full_vn": "thình lình làm thò ra, thình lình làm vọt ra, thình lình làm bật ra...",
+          "list_en_vn": [
+            {
+              "full_en": "to pop one's head in",
+              "full_vn": "thò đầu vào thình lình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hỏi thình lình, hỏi chộp (một câu hỏi)"
+        },
+        {
+          "m_full_vn": "(từ lóng) cầm cố"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) rang (ngô) cho đến lúc nổ tung và phồng lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pop the question",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dạm hỏi, gạ hỏi (làm vợ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pop in",
+              "list_im": [
+                {
+                  "im_full_vn": "tạt đến, đến một lát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pop off",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pop out",
+              "list_im": [
+                {
+                  "im_full_vn": "vọt ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pop up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) xuất hiện bất ngờ, xảy ra bất ngờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "pop maize",
+              "full_vn": "rang nở ngô (bỏng ngô)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bốp, đánh bốp một cái",
+          "list_en_vn": [
+            {
+              "full_en": "go pop",
+              "full_vn": "kêu đánh bốp một cái"
+            },
+            {
+              "full_en": "pop went the cork",
+              "full_vn": "nút chai bật ra kêu cái bốp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốp!, bốp!"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690994_1458344c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690994_c753ec1f74_o.png",
+      "id_image": "pop_1910806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072655_aecb824f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072655_17b3959c2d_o.png",
+      "id_image": "pop_2488418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691049_07aa0836d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691049_2451741549_o.png",
+      "id_image": "pop_837202"
+    }
+  ]
+}

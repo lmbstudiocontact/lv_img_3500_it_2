@@ -1,0 +1,45 @@
+{
+  "english": "primer",
+  "phat_am": "['praimə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sách vỡ lòng"
+        },
+        {
+          "m_full_vn": "chất dùng để sơn lót"
+        },
+        {
+          "m_full_vn": "ngòi nổ, kíp nổ"
+        },
+        {
+          "m_full_vn": "(ngành in) cỡ chữ",
+          "list_en_vn": [
+            {
+              "full_en": "long primer",
+              "full_vn": "cỡ 10"
+            },
+            {
+              "full_en": "great primer",
+              "full_vn": "cỡ 18"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680844_d4afed3772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680844_e78f5c3362_o.png",
+      "id_image": "primer_2286607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062500_e75938e7aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062500_1ae38a1a6f_o.png",
+      "id_image": "primer_6075366"
+    }
+  ]
+}

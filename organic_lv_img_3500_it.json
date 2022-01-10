@@ -1,0 +1,70 @@
+{
+  "english": "organic",
+  "phat_am": "[ɔ:'gænik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) cơ quan (trong cơ thể)"
+        },
+        {
+          "m_full_vn": "có cơ quan, có tổ chức, có hệ thống"
+        },
+        {
+          "m_full_vn": "(hoá học), (y học) hữu cơ",
+          "list_en_vn": [
+            {
+              "full_en": "organic chemistry",
+              "full_vn": "hoá học hữu cơ"
+            },
+            {
+              "full_en": "organic disease",
+              "full_vn": "bệnh hữu cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) cơ bản, có kết cấu",
+          "list_en_vn": [
+            {
+              "full_en": "the organic law",
+              "full_vn": "luật cơ bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hệ thống, có phối hợp, hữu cơ",
+          "list_en_vn": [
+            {
+              "full_en": "an organic whole",
+              "full_vn": "một tổng thể hữu cơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081180_d3e09edd30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081180_f974b27468_o.png",
+      "id_image": "organic_1999348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699039_bb3c4a96e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699039_92393695f8_o.png",
+      "id_image": "organic_334127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698954_373a37fc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698954_cddd2f8510_o.png",
+      "id_image": "organic_4497598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698919_7f4d8b8a53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698919_129f26e007_o.png",
+      "id_image": "organic_5756895"
+    }
+  ]
+}

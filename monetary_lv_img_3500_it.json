@@ -1,0 +1,40 @@
+{
+  "english": "monetary",
+  "phat_am": "['mʌnitəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tiền tệ",
+          "list_en_vn": [
+            {
+              "full_en": "monetary unit",
+              "full_vn": "đơn vị tiền tệ"
+            },
+            {
+              "full_en": "international monetary system",
+              "full_vn": "hệ thống tiền tệ quốc tế"
+            },
+            {
+              "full_en": "the government's monetary policy",
+              "full_vn": "chính sách tiền tệ của chính phủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337981_221ca0a1f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337981_a13bb49156_o.png",
+      "id_image": "monetary_2419639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337956_0057b6a272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337956_7e4971ce0b_o.png",
+      "id_image": "monetary_4496615"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "ray",
+  "phat_am": "[rei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá đuối"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tia ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the rays of the sun",
+              "full_vn": "tia nắng"
+            },
+            {
+              "full_en": "refelected ray",
+              "full_vn": "tia phản xạ;"
+            },
+            {
+              "full_en": "X ray",
+              "full_vn": "tia X"
+            },
+            {
+              "full_en": "ray of hope",
+              "full_vn": "(nghĩa bóng) tia hy vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tia hy vọng"
+        },
+        {
+          "m_full_vn": "(toán học), (từ hiếm,nghĩa hiếm) bán kính"
+        },
+        {
+          "m_full_vn": "(thực vật học) hoa phía ngoài của cụm hoa đầu"
+        },
+        {
+          "m_full_vn": "(động vật học) cánh sao (của con sao biển); tai cây (cá)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) toả, rọi (ánh sáng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + off , out , forth ) chiếu, toả ra (ánh sáng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382372_61decd2e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382372_0db53fe914_o.png",
+      "id_image": "ray_1620443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692644_8e4611edc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692644_782f4dd820_o.png",
+      "id_image": "ray_1970229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382322_47085aa4fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382322_de8d05a85f_o.png",
+      "id_image": "ray_4717864"
+    }
+  ]
+}

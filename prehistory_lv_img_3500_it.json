@@ -1,0 +1,36 @@
+{
+  "english": "prehistory",
+  "phat_am": "[,pri:'histri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(môn nghiên cứu về) thời kỳ trước khi có sử sách; tiền sử học",
+          "list_en_vn": [
+            {
+              "full_en": "European /Mexican prehistory",
+              "full_vn": "Thời tiền sử ở châu Âu/Mêhicô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những giai đoạn phát triển sớm nhất của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the prehistory of Western arts",
+              "full_vn": "thời kỳ sơ khởi của nghệ thuật phương Tây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444303_fc087b149c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444303_d7ec8fd519_o.png",
+      "id_image": "prehistory_4127118"
+    }
+  ]
+}

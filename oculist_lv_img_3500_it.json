@@ -1,0 +1,27 @@
+{
+  "english": "oculist",
+  "phat_am": "['ɒkjʊlist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) thầy thuốc khoa mắt, bác sĩ nhãn khoa",
+          "list_en_vn": [
+            {
+              "full_en": "He is an oculist at this hospital",
+              "full_vn": "Anh ta là bác sĩ nhãn khoa ở bệnh viện này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086175_60350d9005_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086175_8e4bc25797_o.png",
+      "id_image": "oculist_3060376"
+    }
+  ]
+}

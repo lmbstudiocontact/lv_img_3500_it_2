@@ -1,0 +1,58 @@
+{
+  "english": "painter",
+  "phat_am": "['peintə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ sơn"
+        },
+        {
+          "m_full_vn": "hoạ sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "a famous painter",
+              "full_vn": "hoạ sĩ nổi tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dây neo (thuyền tàu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cut the painter",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) cắt đứt, đoạn tuyệt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381412_5736027de3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381412_efc012bc2d_o.png",
+      "id_image": "painter_1876789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451323_4190a718da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451323_7758b157d0_o.png",
+      "id_image": "painter_1902503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073440_cec29bebc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073440_a0be8c41f8_o.png",
+      "id_image": "painter_307956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336381_034daea170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336381_44b6dc69df_o.png",
+      "id_image": "painter_3527113"
+    }
+  ]
+}

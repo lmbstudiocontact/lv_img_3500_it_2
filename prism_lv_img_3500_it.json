@@ -1,0 +1,46 @@
+{
+  "english": "prism",
+  "phat_am": "['prizəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình lăng trụ",
+          "list_en_vn": [
+            {
+              "full_en": "oblique prism",
+              "full_vn": "lăng trụ xiên"
+            },
+            {
+              "full_en": "regular prism",
+              "full_vn": "lăng trụ đều"
+            },
+            {
+              "full_en": "right prism",
+              "full_vn": "lăng trụ thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lăng kính"
+        },
+        {
+          "m_full_vn": "( số nhiều) các màu sắc lăng kính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324251_5ac3f35c51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324251_6157ae5248_o.png",
+      "id_image": "prism_407456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324221_6ce2195ca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324221_e06868dcd9_o.png",
+      "id_image": "prism_5854083"
+    }
+  ]
+}

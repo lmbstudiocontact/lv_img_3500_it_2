@@ -1,0 +1,44 @@
+{
+  "english": "ranch",
+  "phat_am": "[rɑ:nt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trại nuôi gia súc, nông trại (đặc biệt ở Mỹ, Ca-na-đa, chăn nuôi gia súc, sản xuất ngũ cốc..)",
+          "list_en_vn": [
+            {
+              "full_en": "a ranch house",
+              "full_vn": "(thuộc ngữ) nhà trệt (mái thoải) ở nông trại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trại chăn nuôi súc vật (các loại khác)",
+          "list_en_vn": [
+            {
+              "full_en": "a mink ranch",
+              "full_vn": "trại chăn nuôi chồn vizon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quản lý trại chăn nuôi, điều hành trại nuôi gia súc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694224_79eb08a11a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694224_31167de5f1_o.png",
+      "id_image": "ranch_123637"
+    }
+  ]
+}

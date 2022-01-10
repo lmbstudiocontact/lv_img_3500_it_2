@@ -1,0 +1,61 @@
+{
+  "english": "multiple",
+  "phat_am": "['mʌltipl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiều, nhiều mối, phức tạp",
+          "list_en_vn": [
+            {
+              "full_en": "multiple shop",
+              "full_vn": "cửa hàng có nhiều chi nhánh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) bội số",
+          "list_one_mean": [
+            {
+              "id_full_en": "multiple sclerosis (MS )",
+              "list_im": [
+                {
+                  "im_full_vn": "bệnh của hệ thần kinh gây ra tê liệt dần dần; bệnh đa xơ cứng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "least common multiple",
+              "full_vn": "bội số chung nhỏ nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332216_2546d97730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332216_a728cfc323_o.png",
+      "id_image": "multiple_2303907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332186_d7a5fd40ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332186_892987db96_o.png",
+      "id_image": "multiple_2799870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447168_9075922c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447168_e812f2aab9_o.png",
+      "id_image": "multiple_3527609"
+    }
+  ]
+}

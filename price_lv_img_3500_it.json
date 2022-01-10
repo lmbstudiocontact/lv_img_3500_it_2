@@ -1,0 +1,268 @@
+{
+  "english": "price",
+  "phat_am": "[prais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số tiền mua hoặc bán cái gì; giá",
+          "list_en_vn": [
+            {
+              "full_en": "cost price",
+              "full_vn": "giá vốn"
+            },
+            {
+              "full_en": "fixed price",
+              "full_vn": "giá cố định"
+            },
+            {
+              "full_en": "wholesale price",
+              "full_vn": "giá bán buôn (bán sỉ)"
+            },
+            {
+              "full_en": "retail price",
+              "full_vn": "giá bán lẻ"
+            },
+            {
+              "full_en": "what's the price of this table ?",
+              "full_vn": "cái bàn này giá bao nhiêu?"
+            },
+            {
+              "full_en": "prices are rising /falling /going up /going down /shooting up /plummeting",
+              "full_vn": "giá cả đang lên/xuống/tăng/giảm/tăng vọt/tụt thẳng xuống"
+            },
+            {
+              "full_en": "I can't afford it at that price",
+              "full_vn": "tôi không thể nào mua với giá ấy"
+            },
+            {
+              "full_en": "to charge high prices",
+              "full_vn": "đòi giá cao"
+            },
+            {
+              "full_en": "he sold the house at /for a good price",
+              "full_vn": "ông ấy bán được ngôi nhà với giá hời"
+            },
+            {
+              "full_en": "ask the builder to give you a price for the work",
+              "full_vn": "hãy hỏi nhà thầu xem họ đòi anh bao nhiêu về công việc này"
+            },
+            {
+              "full_en": "the fixing of price levels",
+              "full_vn": "sự ấn định mức giá"
+            },
+            {
+              "full_en": "beyond (above , without ) price",
+              "full_vn": "vô giá, không định giá được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái giá (cái phải làm, cái phải trải qua để giữ được, có được cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "loss of independence was a high price to pay for peace",
+              "full_vn": "bị mất nền độc lập là cái giá cao phải trả để đổi lấy hoà bình"
+            },
+            {
+              "full_en": "under the rule of mammon , every man has his price",
+              "full_vn": "dưới sự thống trị của đồng tiền, người nào cũng có thể mua chuộc được"
+            },
+            {
+              "full_en": "being recognized wherever you go is the price you pay for being famous",
+              "full_vn": "đi tới đâu cũng bị người ta nhận ra, đó chính là cái giá anh phải trả cho sự nổi tiếng của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá đánh cuộc, tỷ lệ đánh cược",
+          "list_en_vn": [
+            {
+              "full_en": "the starting price of a horse",
+              "full_vn": "giá đánh cuộc đặt lúc ngựa bắt đầu chạy đua"
+            },
+            {
+              "full_en": "six to one is a good price for that house",
+              "full_vn": "một ăn sáu là tỉ lệ hời để đánh cược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) giá trị, sự quý giá",
+          "list_one_mean": [
+            {
+              "id_full_en": "a price on someone's head",
+              "list_im": [
+                {
+                  "im_full_vn": "giải treo để lấy đầu ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the authorities put a price on the outlaw's head",
+                      "full_vn": "nhà chức trách treo giải thưởng cho ai lấy được đầu tên cướp"
+                    },
+                    {
+                      "full_en": "he knew it was dangerous to be seen - there was a price on his head",
+                      "full_vn": "nó biết rằng để người ta thấy mình là nguy hiểm - người ta đã treo giải lấy đầu nó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a price on something",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá cái gì bằng tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what price ...?",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) là cái thá gì..?, nước mẹ gì..?"
+                },
+                {
+                  "im_full_vn": "khả năng gì?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what price peaceful protest now ?",
+                      "full_vn": "bây giờ thấy chưa, phản đối ôn hoà được cái mẹ gì?"
+                    },
+                    {
+                      "full_en": "what price all your promises now ?",
+                      "full_vn": "bây giờ thì những lời hứa của anh ra cái mẹ gì?"
+                    },
+                    {
+                      "full_en": "what price he'll offer to pay the fine for us ?",
+                      "full_vn": "có cái khả năng gì mà nó lại đề nghị nộp tiền phạt cho chúng ta?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at a price",
+              "list_im": [
+                {
+                  "im_full_vn": "với một giá (khá) cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at any price",
+              "list_im": [
+                {
+                  "im_full_vn": "với bất cứ giá nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cheap at the price",
+              "list_im": [
+                {
+                  "im_full_vn": "rẻ hơn so với giá thông thường của một món đồ gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "everyone has his price",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) người nào cũng có giá cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not at any price",
+              "list_im": [
+                {
+                  "im_full_vn": "dù ở bất kỳ hoàn cảnh nào cũng không được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I wouldn't have my sister's children to stay again - not at any price !",
+                      "full_vn": "tôi sẽ không để cho các cháu tôi ở lại nữa - bất luận thế nào!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "above /beyond /without price",
+              "list_im": [
+                {
+                  "im_full_vn": "vô cùng quí giá; vô giá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a pearl of great price",
+              "full_vn": "viên ngọc trai quý giá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt giá, định giá; (nghĩa bóng) đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "the agent priced the house at the right level for the market",
+              "full_vn": "người đại lý đặt giá ngôi nhà đúng với giá thị trường"
+            },
+            {
+              "full_en": "these goods are priced too high",
+              "full_vn": "các hàng hoá này đặt giá cao quá"
+            },
+            {
+              "full_en": "I don't know enough about porcelain to be able to price these plates",
+              "full_vn": "tôi không biết nhiều về đồ sứ nên không thể đánh giá những chiếc đĩa này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi giá cho hàng hoá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to price oneself /something out of the market",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi giá cao để không ai mua nổi; đòi giá cắt cổ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the assistant priced the garments before putting them on display",
+              "full_vn": "người bán hàng ghi giá quần áo trước khi đem ra trưng bày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063365_d283541640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063365_a662460250_o.png",
+      "id_image": "price_4005506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326461_839ecf75f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326461_d6c72b9557_o.png",
+      "id_image": "price_6203324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681459_f25cd3691a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681459_518916f175_o.png",
+      "id_image": "price_6203339"
+    }
+  ]
+}

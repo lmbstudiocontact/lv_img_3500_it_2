@@ -1,0 +1,166 @@
+{
+  "english": "past",
+  "phat_am": "[pɑ:st]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá khứ, dĩ vãng; đã đi qua trong thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "for the past few days",
+              "full_vn": "mấy ngày qua"
+            },
+            {
+              "full_en": "in past centuries",
+              "full_vn": "thế kỷ qua"
+            },
+            {
+              "full_en": "his pain is past now",
+              "full_vn": "cơn đau của anh ấy đã qua rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngữ pháp) quá khứ",
+          "list_en_vn": [
+            {
+              "full_en": "the past tense of 'take' is 'took'",
+              "full_vn": "thời quá khứ của 'take' là 'took'"
+            },
+            {
+              "full_en": "past participle",
+              "full_vn": "phân từ quá khứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vừa mới xong, vừa mới kết thúc",
+          "list_en_vn": [
+            {
+              "full_en": "the past month has been a difficult one for him",
+              "full_vn": "tháng vừa qua là một tháng khó khăn đối với anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc về thời trước kia",
+          "list_en_vn": [
+            {
+              "full_en": "past happiness",
+              "full_vn": "hạnh phúc trước kia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá khứ, dĩ vãng; những cái đã xảy ra trước đây ( the past )"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) mô tả hành động trong quá khứ (dạng của động từ) (như) past tense",
+          "list_one_mean": [
+            {
+              "id_full_en": "a thing of the past",
+              "list_im": [
+                {
+                  "im_full_vn": "như thing"
+                }
+              ]
+            },
+            {
+              "id_full_en": "live in the past",
+              "list_im": [
+                {
+                  "im_full_vn": "như live"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "qua",
+          "list_en_vn": [
+            {
+              "full_en": "to walk past",
+              "full_vn": "đi qua"
+            },
+            {
+              "full_en": "to run past",
+              "full_vn": "chạy qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá",
+          "list_en_vn": [
+            {
+              "full_en": "the train is past due",
+              "full_vn": "xe lửa quá giờ rồi mà chưa đến"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá, qua, muộn hơn, sau",
+          "list_en_vn": [
+            {
+              "full_en": "it is past six",
+              "full_vn": "đã quá sáu giờ hơn"
+            },
+            {
+              "full_en": "he is past fifty",
+              "full_vn": "ông ta đã hơn (ngoài) năm mươi"
+            },
+            {
+              "full_en": "past endurance",
+              "full_vn": "vượt quá sự chịu đựng, không thể chịu đựng nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "qua",
+          "list_one_mean": [
+            {
+              "id_full_en": "past it",
+              "list_im": [
+                {
+                  "im_full_vn": "già quá không làm được cái gì đã từng có thể làm (con người)"
+                },
+                {
+                  "im_full_vn": "cũ quá không còn dùng được theo chức năng bình thường (đồ vật)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to run past the house",
+              "full_vn": "chạy qua nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066275_3736caac84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066275_34baccc712_o.png",
+      "id_image": "past_6214151"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "perspective",
+  "phat_am": "[pə'spektiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghệ thuật vẽ những vật hình khối trên một mặt phẳng tạo cho chúng ta cảm giác thật về chiều rộng, chiều cao, chiều sâu và vị trí của chúng trong mối quan hệ với nhau; phối cảnh, luật xa gần; hình phối cảnh; tranh vẽ theo luật xa gần",
+          "list_en_vn": [
+            {
+              "full_en": "a perspective drawing",
+              "full_vn": "một bức tranh vẽ theo luật gần xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh trông xa; (nghĩa bóng) viễn cảnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /out of perspective",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng/không đúng luật gần xa"
+                },
+                {
+                  "im_full_vn": "triển vọng, tiền đồ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to draw the buildings in perspective",
+                      "full_vn": "vẽ các toà nhà theo luật xa gần"
+                    },
+                    {
+                      "full_en": "to get things badly out of perspective",
+                      "full_vn": "hiểu các sự việc không đúng khía cạnh"
+                    },
+                    {
+                      "full_en": "he sees things in their right /true /proper perspective",
+                      "full_vn": "anh ta nhìn các sự việc theo đúng triển vọng của chúng"
+                    },
+                    {
+                      "full_en": "to see the events in their historical perspective",
+                      "full_vn": "nhìn các sự kiện theo triển vọng lịch sử của chúng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to get a perspective of the whole valley",
+              "full_vn": "thấy được một cảnh trông xa của toàn thung lũng"
+            },
+            {
+              "full_en": "a personal perspective of the nation's history",
+              "full_vn": "một viễn cảnh riêng của lịch sử dân tộc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo luật xa gần; phối cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "perspective figures",
+              "full_vn": "hình phối cảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675149_80b3ff9531_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675149_c3fbf13cd6_o.png",
+      "id_image": "perspective_1589434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435308_94b3179074_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435308_7688d1038f_o.png",
+      "id_image": "perspective_2209882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364987_edd599c893_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364987_c84b5b3b87_o.png",
+      "id_image": "perspective_2254984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364977_177c0e260c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364977_7b3bc2e9a3_o.png",
+      "id_image": "perspective_2547587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435323_eb7565c24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435323_f6ecb5aa2c_o.png",
+      "id_image": "perspective_992637"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "orchid",
+  "phat_am": "['ɔ:kid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây lan, cây phong lan (cũng) orchis",
+          "list_en_vn": [
+            {
+              "full_en": "many kinds of wild orchid becoming rare",
+              "full_vn": "nhiều loại phong lan rừng trở nên hiếm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344351_fb33554b0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344351_fe9728df35_o.png",
+      "id_image": "orchid_1087457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344286_746fb524b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344286_8b75b65ecd_o.png",
+      "id_image": "orchid_2227378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344261_c78f7047a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344261_0bdc4f8e4f_o.png",
+      "id_image": "orchid_4759146"
+    }
+  ]
+}

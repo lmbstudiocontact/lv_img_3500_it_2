@@ -1,0 +1,85 @@
+{
+  "english": "personality",
+  "phat_am": "[,pə:sə'næləti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhân cách, tính cách",
+          "list_en_vn": [
+            {
+              "full_en": "a likeable personality",
+              "full_vn": "một nhân cách đáng yêu"
+            },
+            {
+              "full_en": "to have a very strong personality",
+              "full_vn": "có cá tính rất mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân phẩm; cá tính; lịch thiệp",
+          "list_en_vn": [
+            {
+              "full_en": "we need someone with lots of personality to organize the party",
+              "full_vn": "chúng tôi cần một người có nhiều uy tín cá nhân để đứng ra tổ chức đảng"
+            },
+            {
+              "full_en": "his wife was very beautiful , but seemed to have no personality",
+              "full_vn": "vợ ông ta rất đẹp, nhưng có vẻ không lịch thiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân vật, người nổi tiếng (nhất là trong giới văn nghệ, giới thể thao)",
+          "list_en_vn": [
+            {
+              "full_en": "personalities from the film world",
+              "full_vn": "những nhân vật (những người nổi tiếng) trong giới điện ảnh"
+            },
+            {
+              "full_en": "a television personality",
+              "full_vn": "một nhân vật nổi tiếng trên truyền hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( personalities ) những lời chỉ trích cá nhân",
+          "list_en_vn": [
+            {
+              "full_en": "to indulge in personalities",
+              "full_vn": "thích thú với những trò chỉ trích cá nhân"
+            },
+            {
+              "full_en": "to avoid personalities",
+              "full_vn": "tránh chỉ trích cá nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435398_aea55221f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435398_5e83cd2a2b_o.png",
+      "id_image": "personality_1474710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056980_8b53f82cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056980_682b6531ef_o.png",
+      "id_image": "personality_1945688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435378_cb8d6f66ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435378_5611132da0_o.png",
+      "id_image": "personality_2072729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365112_310cbd1410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365112_716c76938d_o.png",
+      "id_image": "personality_4525542"
+    }
+  ]
+}

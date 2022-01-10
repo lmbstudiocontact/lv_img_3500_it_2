@@ -1,0 +1,36 @@
+{
+  "english": "resignation",
+  "phat_am": "[,rezig'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( resignation from something ) sự từ chức, sự xin thôi việc; đơn xin từ chức, đơn xin thôi việc",
+          "list_en_vn": [
+            {
+              "full_en": "to offer , tender , send in , give in , hand in one's resignation",
+              "full_vn": "đưa, trình, gửi, nộp, trao đơn xin thôi việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cam chịu; sự nhẫn nhục",
+          "list_en_vn": [
+            {
+              "full_en": "to accept one's fate with resignation",
+              "full_vn": "cam chịu số phận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352026_41e51d244f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352026_621b50a02a_o.png",
+      "id_image": "resignation_5115924"
+    }
+  ]
+}

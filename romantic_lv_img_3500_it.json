@@ -1,0 +1,84 @@
+{
+  "english": "romantic",
+  "phat_am": "[rou'mæntik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lãng mạn; như tiểu thuyết (về cảm xúc)",
+          "list_en_vn": [
+            {
+              "full_en": "the romantic school",
+              "full_vn": "trường phái lãng mạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viển vông, hão huyền, không thực tế, ảo tưởng (kế hoạch...)"
+        },
+        {
+          "m_full_vn": "bao hàm một câu chuyện yêu đương",
+          "list_en_vn": [
+            {
+              "full_en": "a romantic involvement",
+              "full_vn": "một cuộc dan díu yêu đương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lãng mạn; mơ mộng (về người, về tính cách của họ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a romantic girl",
+              "full_vn": "cô gái mơ mộng"
+            },
+            {
+              "full_en": "a romantic tale",
+              "full_vn": "câu chuyện lãng mạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) (văn học) lãng mạn, trữ tình"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lãng mạn; nhà thơ lãng mạn, nhà văn lãng mạn"
+        },
+        {
+          "m_full_vn": "( Romantic ) nghệ sĩ lãng mạn"
+        },
+        {
+          "m_full_vn": "( số nhiều) những ý nghĩ lãng mạn viển vông; những lời nói viển vông"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387897_7c3bd7cba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387897_583e687838_o.png",
+      "id_image": "romantic_1911850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698134_4d5c27d968_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698134_3901b38d4f_o.png",
+      "id_image": "romantic_1911853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080315_d7c24c2960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080315_5916b42aaa_o.png",
+      "id_image": "romantic_1911865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080430_b41feee15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080430_be4f611e99_o.png",
+      "id_image": "romantic_325628"
+    }
+  ]
+}

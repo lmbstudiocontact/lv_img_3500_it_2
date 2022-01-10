@@ -1,0 +1,126 @@
+{
+  "english": "road",
+  "phat_am": "[roud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con đường; những cái có liên quan đến đường",
+          "list_en_vn": [
+            {
+              "full_en": "high road",
+              "full_vn": "đường cái"
+            },
+            {
+              "full_en": "to take the road",
+              "full_vn": "lên đường"
+            },
+            {
+              "full_en": "to be on the road",
+              "full_vn": "đáng trên đường đi; làm nghề đi chào hàng; (từ Mỹ,nghĩa Mỹ) cướp đường"
+            },
+            {
+              "full_en": "the rule of the road",
+              "full_vn": "luật đi đường"
+            },
+            {
+              "full_en": "to get out of the road",
+              "full_vn": "tránh ra không cản đường (ai); không làm cản trở (ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đường sắt"
+        },
+        {
+          "m_full_vn": "đường phố"
+        },
+        {
+          "m_full_vn": "cách, phương pháp, con đường (dẫn tới cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "the road to success",
+              "full_vn": "con đường dẫn đến thành công"
+            },
+            {
+              "full_en": "there is no royal road to ...",
+              "full_vn": "không có cách nào dễ dàng để đạt tới..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (hàng hải) vũng tàu",
+          "list_one_mean": [
+            {
+              "id_full_en": "all roads lead to Rome",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) mọi con đường đều dẫn đến La-mã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to burn up the road",
+              "list_im": [
+                {
+                  "im_full_vn": "ngoan ngoãn, dễ bảo (ngựa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by road",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng đường bộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one for the road",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ly rượu lên đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "juice road",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đường xe lửa chạy điện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take to the road",
+              "list_im": [
+                {
+                  "im_full_vn": "trở thành một người lang thang"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to anchor in the roads",
+              "full_vn": "thả neo ở vũng tàu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344966_8216b3ee03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344966_c7a8bac799_o.png",
+      "id_image": "road_619147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082410_8d7d5d769a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082410_afd2eb90bf_o.png",
+      "id_image": "road_777567"
+    }
+  ]
+}

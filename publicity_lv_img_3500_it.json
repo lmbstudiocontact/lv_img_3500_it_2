@@ -1,0 +1,64 @@
+{
+  "english": "publicity",
+  "phat_am": "[pʌ'blisiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự công khai; sự làm cho thiên hạ biết đến",
+          "list_en_vn": [
+            {
+              "full_en": "to court publicity",
+              "full_vn": "muốn làm cho thiên hạ biết đến"
+            },
+            {
+              "full_en": "to avoid /shun /seek publicity",
+              "full_vn": "trốn tránh/xa lánh/tìm kiếm sự công khai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quảng cáo; sự rao hàng",
+          "list_en_vn": [
+            {
+              "full_en": "the publicity for the book was poor and sales were low",
+              "full_vn": "việc quảng cáo cho cuốn sách rất kém, nên số bán được không bao nhiêu"
+            },
+            {
+              "full_en": "a publicity campaign",
+              "full_vn": "một chiến dịch quảng cáo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703409_7a6d1991d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703409_d130645468_o.png",
+      "id_image": "publicity_2061475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348641_f79a78cbd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348641_a217f718fa_o.png",
+      "id_image": "publicity_3065150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703324_d68bb35e33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703324_c07ae6d8f3_o.png",
+      "id_image": "publicity_4062137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085865_36feba4db6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085865_c4baa2347c_o.png",
+      "id_image": "publicity_4213286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703449_598f4cfe79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703449_4eac2e99ae_o.png",
+      "id_image": "publicity_950589"
+    }
+  ]
+}

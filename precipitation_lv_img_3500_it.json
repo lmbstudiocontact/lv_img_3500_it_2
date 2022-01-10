@@ -1,0 +1,39 @@
+{
+  "english": "precipitation",
+  "phat_am": "[pri,sipi'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vội vã, sự cuống cuồng",
+          "list_en_vn": [
+            {
+              "full_en": "to act with precipitation",
+              "full_vn": "hành động vội vã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) sự kết tủa, sự lắng; chất kết tủa, chất lắng"
+        },
+        {
+          "m_full_vn": "(khí tượng) mưa, mưa tuyết..; lượng mưa",
+          "list_en_vn": [
+            {
+              "full_en": "a heavy precipitation",
+              "full_vn": "một trận mưa dữ dội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685189_0da14a2a6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685189_5333ee627d_o.png",
+      "id_image": "precipitation_5132998"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "notoriety",
+  "phat_am": "[,noutə'raiəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng tăm xấu; sự tai tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "to achieve a certain notoriety",
+              "full_vn": "gây một sự tai tiếng nào đó"
+            },
+            {
+              "full_en": "his crimes earned him considerable notoriety",
+              "full_vn": "tội lỗi của hắn khiến hắn mang tiếng xấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320301_a6b0848b31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320301_3ebe9df8a8_o.png",
+      "id_image": "notoriety_4776081"
+    }
+  ]
+}

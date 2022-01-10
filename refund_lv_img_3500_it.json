@@ -1,0 +1,46 @@
+{
+  "english": "refund",
+  "phat_am": "[ri:'fʌnd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả lại, sự trả lại (tiền vay mượn, tiền đã chi trước...) (như) refundment",
+          "list_en_vn": [
+            {
+              "full_en": "a tax refund",
+              "full_vn": "sự trả lại tiền thuế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả lại, hoàn lại (tiền vay mượn, tiền đã chi trước...)",
+          "list_en_vn": [
+            {
+              "full_en": "to refund a deposit",
+              "full_vn": "trả lại số tiền đặt cọc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067045_4bc9ebb76e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067045_b21b71d9b0_o.png",
+      "id_image": "refund_290945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067000_e7d2326b0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067000_eaba76a93b_o.png",
+      "id_image": "refund_2947577"
+    }
+  ]
+}

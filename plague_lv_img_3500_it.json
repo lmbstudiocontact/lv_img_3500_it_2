@@ -1,0 +1,88 @@
+{
+  "english": "plague",
+  "phat_am": "[pleig]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the plague ) như bubonic plague"
+        },
+        {
+          "m_full_vn": "bất cứ bệnh truyền nhiễm nguy hiểm nào giết chết nhiều người; bệnh dịch",
+          "list_en_vn": [
+            {
+              "full_en": "The incidence of cholera in the camps has reached plague proportions",
+              "full_vn": "Tỷ lệ mắc bệnh dịch tả trong các trại đã đến mức dịch bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( plague of something ) số lương lớn sâu bọ độc hại tràn vào một vùng; dịch; tai hoạ",
+          "list_en_vn": [
+            {
+              "full_en": "a plague of flies /locusts /rats",
+              "full_vn": "dịch ruồi/châu chấu/chuột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nguyên nhân gây ra khó chịu, điều tệ hại; người gây tai hại, vật gây tai hại",
+          "list_one_mean": [
+            {
+              "id_full_en": "plague on him !",
+              "list_im": [
+                {
+                  "im_full_vn": "quan ôn bắt nó đi!, trời tru đất diệt nó đi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "avoid somebody /something like the plaque",
+              "list_im": [
+                {
+                  "im_full_vn": "như avoid"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "what a plague this boy is !",
+              "full_vn": "thằng nhóc này đúng là đồ ôn dịch!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gây bệnh dịch cho, làm mắc bệnh dịch hạch"
+        },
+        {
+          "m_full_vn": "quấy rầy, đòi hỏi, yêu sách (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to plague somebody with questions",
+              "full_vn": "quấy rầy ai bằng những câu hỏi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458833_85c1cf5479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458833_b94b55e0e5_o.png",
+      "id_image": "plague_3154487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458793_1caf0005af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458793_0d92df5196_o.png",
+      "id_image": "plague_5234436"
+    }
+  ]
+}

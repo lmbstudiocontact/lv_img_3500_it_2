@@ -1,0 +1,73 @@
+{
+  "english": "renew",
+  "phat_am": "[ri'nju:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay mới, làm mới lại"
+        },
+        {
+          "m_full_vn": "hồi phục lại, làm hồi lại"
+        },
+        {
+          "m_full_vn": "thay mới, đổi mới",
+          "list_en_vn": [
+            {
+              "full_en": "to renew one's youth",
+              "full_vn": "làm trẻ lại"
+            },
+            {
+              "full_en": "to renew the water in a vase",
+              "full_vn": "thay nước mới ở bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm lại, nối lại, nói lại, nhắc lại, tiếp tục sau (một thời gian gián đoạn)",
+          "list_en_vn": [
+            {
+              "full_en": "to renew a contract",
+              "full_vn": "ký lại một bản hợp đồng"
+            },
+            {
+              "full_en": "to renew one's friendship with someone",
+              "full_vn": "nối lại tình bạn với ai"
+            },
+            {
+              "full_en": "to renew a promise",
+              "full_vn": "nhắc lại lời hứa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) lại trở thành mới lại",
+          "list_en_vn": [
+            {
+              "full_en": "the clamour renewed",
+              "full_vn": "tiếng ồn ào lại trở lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370037_ed8a2e223c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370037_e1a0a26970_o.png",
+      "id_image": "renew_3906457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370007_df21ee6cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370007_4b070e14e9_o.png",
+      "id_image": "renew_5965841"
+    }
+  ]
+}

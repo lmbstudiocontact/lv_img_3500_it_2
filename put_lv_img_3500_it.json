@@ -1,0 +1,1045 @@
+{
+  "english": "put",
+  "phat_am": "[one's]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để, đặt, bỏ, đút, cho vào (ở đâu, vào cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to put a thing in its right place",
+              "full_vn": "để vật gì vào đúng chỗ của nó"
+            },
+            {
+              "full_en": "to put sugar in tea",
+              "full_vn": "cho đường vào nước trà"
+            },
+            {
+              "full_en": "to put somebody in prison",
+              "full_vn": "bỏ ai vào tù"
+            },
+            {
+              "full_en": "to put a child to bed",
+              "full_vn": "đặt em bé vào giường, cho em bé đi ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để, đặt vào, sắp đặt, sắp xếp (trong một tình trạng nào); làm cho, bắt phải",
+          "list_en_vn": [
+            {
+              "full_en": "to put the clock fast",
+              "full_vn": "để đồng hồ nhanh"
+            },
+            {
+              "full_en": "to put a child to school",
+              "full_vn": "cho em nhỏ đi học"
+            },
+            {
+              "full_en": "to put a horse at (to ) the fence",
+              "full_vn": "cho ngựa vượt rào"
+            },
+            {
+              "full_en": "to put the matter right",
+              "full_vn": "sắp đặt vấn đề ổn thoả, sắp đặt công việc thoả đáng"
+            },
+            {
+              "full_en": "to put out of joint",
+              "full_vn": "làm cho long ra, làm rơ (máy...)"
+            },
+            {
+              "full_en": "to put somebody in fear of ...",
+              "full_vn": "làm cho ai sợ..."
+            },
+            {
+              "full_en": "to put somebody in his guard",
+              "full_vn": "làm cho ai phải cảnh giác đề phòng"
+            },
+            {
+              "full_en": "to put somebody off his guard",
+              "full_vn": "làm cho ai mất cảnh giác không đề phòng"
+            },
+            {
+              "full_en": "to put somebody at his ease",
+              "full_vn": "làm cho ai thoải mái"
+            },
+            {
+              "full_en": "to put to shame",
+              "full_vn": "làm xấu hổ"
+            },
+            {
+              "full_en": "to put to the blush",
+              "full_vn": "làm thẹn đỏ mặt"
+            },
+            {
+              "full_en": "to put out of countenance",
+              "full_vn": "làm cho bối rối, làm luống cuống, làm lúng túng"
+            },
+            {
+              "full_en": "to put a stop to",
+              "full_vn": "làm ngừng lại, ngừng, ngừng lại; chấm dứt"
+            },
+            {
+              "full_en": "to put words to music",
+              "full_vn": "đặt lời vào nhạc"
+            },
+            {
+              "full_en": "to put a question",
+              "full_vn": "đặt một câu hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa, đưa ra, đem ra",
+          "list_en_vn": [
+            {
+              "full_en": "to put somebody across the river",
+              "full_vn": "đưa ai qua sông"
+            },
+            {
+              "full_en": "to put to sale",
+              "full_vn": "đem bán"
+            },
+            {
+              "full_en": "to put to test",
+              "full_vn": "đem thử thách"
+            },
+            {
+              "full_en": "to put to trial",
+              "full_vn": "đưa ra xét xử"
+            },
+            {
+              "full_en": "to put to the torture",
+              "full_vn": "đưa ra tra tấn"
+            },
+            {
+              "full_en": "to put to death",
+              "full_vn": "đem giết"
+            },
+            {
+              "full_en": "to put to vote",
+              "full_vn": "đưa ra biểu quyết"
+            },
+            {
+              "full_en": "to put to express",
+              "full_vn": "đem tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng, sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to put one's money into good use",
+              "full_vn": "dùng tiền vào những việc lợi ích"
+            },
+            {
+              "full_en": "he is put to mind the furnace",
+              "full_vn": "anh ta được sử dụng vào việc trông nom lò cao"
+            },
+            {
+              "full_en": "the land was put into (under ) potatoes",
+              "full_vn": "đất đai được dùng vào việc trồng khoai, đất được trồng khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn đạt, diễn tả, nói, dịch ra",
+          "list_en_vn": [
+            {
+              "full_en": "to put it in black and white",
+              "full_vn": "diễn đạt điều đó bằng giấy trắng mực đen"
+            },
+            {
+              "full_en": "I don't know how to put it",
+              "full_vn": "tôi không biết diễn tả (nói) điều đó thế nào"
+            },
+            {
+              "full_en": "put it into English",
+              "full_vn": "anh hãy dịch đoạn đó ra tiếng Anh"
+            },
+            {
+              "full_en": "I put it to you that ...",
+              "full_vn": "tôi xin nói với anh rằng..."
+            },
+            {
+              "full_en": "to put something into words",
+              "full_vn": "nói điều gì ra lời, diễn tả điều gì bằng lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh giá, ước lượng, cho là",
+          "list_en_vn": [
+            {
+              "full_en": "to put much value on",
+              "full_vn": "đánh giá cao (cái gì)"
+            },
+            {
+              "full_en": "I put the population of the town at 70,000",
+              "full_vn": "tôi ước lượng số dân thành phố là 70000"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi (tiền...), đầu tư (vốn...), đặt (cược...)",
+          "list_en_vn": [
+            {
+              "full_en": "to put money on a horse",
+              "full_vn": "đặt cược (đánh cá) vào một con ngựa đua"
+            },
+            {
+              "full_en": "to put one's money into land",
+              "full_vn": "đầu tư vốn vào đất đai"
+            },
+            {
+              "full_en": "to put all one's fortune into bank",
+              "full_vn": "gửi hết tiền của vào nhà băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắm vào, đâm vào, bắn",
+          "list_en_vn": [
+            {
+              "full_en": "to put a knife into",
+              "full_vn": "cắm con dao vào, đâm con dao vào"
+            },
+            {
+              "full_en": "to put a bullet through somebody",
+              "full_vn": "bắn một viên đạn vào ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắp vào, chắp vào, tra vào, buộc vào",
+          "list_en_vn": [
+            {
+              "full_en": "to put a horse to the cart",
+              "full_vn": "buộc ngựa vào xe"
+            },
+            {
+              "full_en": "to put a new handle to a knife",
+              "full_vn": "tra cán mới vào con dao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ném, đẩy (tạ)"
+        },
+        {
+          "m_full_vn": "cho nhảy, cho phủ, cho đi tơ (để lấy giống)",
+          "list_en_vn": [
+            {
+              "full_en": "to put bull to cow ; to put cow to bull",
+              "full_vn": "cho bò đực nhảy bò cái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) đi, đi về phía",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put about",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) trở buồm, xoay hướng đi (của con thuyền)"
+                },
+                {
+                  "im_full_vn": "làm quay lại, làm xoay hướng đi (ngựa, đoàn người)"
+                },
+                {
+                  "im_full_vn": "( Ê-cốt) gây bối rối cho, gây lúng túng cho; quấy rầy; làm lo lắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put across",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hiện thành công; làm cho được hoan nghênh, làm cho được tán thưởng (một vở kịch, một câu chuyện...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you'll never put that across",
+                      "full_vn": "cậu chẳng thể thành công được đâu, cậu chẳng làm nên chuyện được đâu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) làm cho hiểu, làm cho được thừa nhận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to out aside",
+              "list_im": [
+                {
+                  "im_full_vn": "để dành, dành dụm"
+                },
+                {
+                  "im_full_vn": "bỏ đi, gạt sang một bên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put away",
+              "list_im": [
+                {
+                  "im_full_vn": "để dành, dành dụm (tiền)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) uống, nốc (rượu); ăn, đớp (thức ăn)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) giết, khử"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bỏ tù"
+                },
+                {
+                  "im_full_vn": "(từ lóng) cấm cố"
+                },
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) bỏ, ly dị (vợ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put back",
+              "list_im": [
+                {
+                  "im_full_vn": "để lại (vào chỗ cũ...)"
+                },
+                {
+                  "im_full_vn": "vặn (kim động hồ) lùi lại; làm chậm lại"
+                },
+                {
+                  "im_full_vn": "(hàng hải) trở lại bến cảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put by",
+              "list_im": [
+                {
+                  "im_full_vn": "để sang bên"
+                },
+                {
+                  "im_full_vn": "để dành, dành dụm"
+                },
+                {
+                  "im_full_vn": "lảng tránh (vấn đề, câu hỏi, ai...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put down",
+              "list_im": [
+                {
+                  "im_full_vn": "để xuống"
+                },
+                {
+                  "im_full_vn": "đàn áp (một cuộc nổi dậy...)"
+                },
+                {
+                  "im_full_vn": "tước quyền, giáng chức, hạ bệ; làm nhục; bắt phải im"
+                },
+                {
+                  "im_full_vn": "thôi không giữ lại, bỏ không duy trì (cái gì tốn kém)"
+                },
+                {
+                  "im_full_vn": "ghi, biên chép"
+                },
+                {
+                  "im_full_vn": "cho là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put somebody down for nine years old",
+                      "full_vn": "cho ai chừng chín tuổi"
+                    },
+                    {
+                      "full_en": "to put somebody down as (for ) a fool",
+                      "full_vn": "cho ai là điên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đổ cho, đổ tại, quy cho, gán cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I put it down to his pride",
+                      "full_vn": "điều đó tôi quy cho là ở tính kiêu căng của hắn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cho hạ cánh (máy bay); hạ cánh (người trong máy bay)"
+                },
+                {
+                  "im_full_vn": "đào (giếng...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put forth",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng hết (sức mạnh), đem hết (cố gắng), trổ (tài hùng biện)"
+                },
+                {
+                  "im_full_vn": "mọc, đâm, nảy (lá, chồi, mầm...) (cây); mọc lá, đâm chồi, nảy mầm"
+                },
+                {
+                  "im_full_vn": "đem truyền bá (một thuyết...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đề nghị, đưa ra, nêu ra (một luận điểm...)"
+                },
+                {
+                  "im_full_vn": "(hàng hải) ra khỏi bến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put forward",
+              "list_im": [
+                {
+                  "im_full_vn": "trình bày, đề xuất, đưa ra, nêu ra (kế hoạch, lý thuyết...)"
+                },
+                {
+                  "im_full_vn": "vặn (đồng hồ) chạy mau hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put oneself forward",
+                      "full_vn": "tự đề cao mình, tự làm cho mình nổi bật"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put in",
+              "list_im": [
+                {
+                  "im_full_vn": "đệ (đơn kiện); dẫn, đưa ra (chứng cớ)"
+                },
+                {
+                  "im_full_vn": "(pháp lý) thi hành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put in a distress",
+                      "full_vn": "thi hành lệnh tịch biên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đưa vào, xen vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put in a remark",
+                      "full_vn": "xen vào một lời nhận xét"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đặt vào (một địa vị, chức vụ...)"
+                },
+                {
+                  "im_full_vn": "làm, thực hiện (cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put in the attack",
+                      "full_vn": "thực hiện cuộc tấn công"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "phụ, thêm vào (cái gì)"
+                },
+                {
+                  "im_full_vn": "(hàng hải) vào bến cảng; dừng lại ở bến (tàu biển)"
+                },
+                {
+                  "im_full_vn": "(thông tục) dùng (thì giờ làm việc gì...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put in for",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi, yêu sách, xin",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put in for a job",
+                      "full_vn": "xin (đòi) việc làm"
+                    },
+                    {
+                      "full_en": "to put in for an election",
+                      "full_vn": "ra ứng cử"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put off",
+              "list_im": [
+                {
+                  "im_full_vn": "cởi (quần áo) ra"
+                },
+                {
+                  "im_full_vn": "hoãn lại, để chậm lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "never put off till tomorrow what you can do today",
+                      "full_vn": "(danh ngôn) đừng để việc gì sang ngày mai việc gì có thể làm hôm nay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoãn hẹn với, lần lữa với (ai); thoái thác, lảng tránh (một lời yêu cầu...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put somebody off with promises",
+                      "full_vn": "hứa hẹn lần lữa với ai cho xong chuyện"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( + from ) ngăn cản, can ngăn, khuyên can (ai đừng làm gì)"
+                },
+                {
+                  "im_full_vn": "tống khứ, vứt bỏ (ai, cái gì)"
+                },
+                {
+                  "im_full_vn": "( + upon ) đánh tráo, đánh lộn sòng, tống ấn (cái gì xấu, giả mạo... cho ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc (áo...) vào, đội (mũ) vào, đi (giày...) vào..."
+                },
+                {
+                  "im_full_vn": "khoác cái vẻ, làm ra vẻ, làm ra bộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put on an air of innocence",
+                      "full_vn": "làm ra vẻ ngây thơ"
+                    },
+                    {
+                      "full_en": "her elegance is all put on",
+                      "full_vn": "vẻ thanh lịch của cô ta chỉ là giả vờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lên (cân); nâng (giá)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put on flesh (weight )",
+                      "full_vn": "lên cân, béo ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tăng thêm; dùng hết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put on speed",
+                      "full_vn": "tăng tốc độ"
+                    },
+                    {
+                      "full_en": "to put on steam",
+                      "full_vn": "(thông tục) đem hết sức cố gắng, đem hết nghị lực"
+                    },
+                    {
+                      "full_en": "to put the screw on",
+                      "full_vn": "gây sức ép"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bóp, đạp (phanh); vặn (kim đồng hồ) lên, bật (đèn) lên"
+                },
+                {
+                  "im_full_vn": "đem trình diễn, đưa lên sân khấu (một vở kịch)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put a play on the stage",
+                      "full_vn": "đem trình diễn một vở kịch"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đặt (cược...), đánh (cá... vào một con ngựa đua)"
+                },
+                {
+                  "im_full_vn": "giao cho, bắt phải, chỉ định (làm gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put somebody on doing (to do ) something",
+                      "full_vn": "giao cho ai làm việc gì"
+                    },
+                    {
+                      "full_en": "to put on extra trains",
+                      "full_vn": "cho chạy thêm những chuyến xe lửa phụ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gán cho, đổ cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put the blame on somebody",
+                      "full_vn": "đổ tội lên đầu ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đánh (thuế)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put a tax on something",
+                      "full_vn": "đánh thuế vào cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put out",
+              "list_im": [
+                {
+                  "im_full_vn": "tắt (đèn), thổi tắt, dập tắt (ngọn lửa...)"
+                },
+                {
+                  "im_full_vn": "đuổi ra ngoài (một đấu thủ chơi trái phép...)"
+                },
+                {
+                  "im_full_vn": "móc (mắt); làm sai khớp, làm trật khớp (xương vai...); lè (lưỡi...) ra"
+                },
+                {
+                  "im_full_vn": "làm bối rối, làm lúng túng; quấy rầy, làm phiền; làm khó chịu, làm phát cáu"
+                },
+                {
+                  "im_full_vn": "dùng hết (sức...), đem hết (cố gắng...)"
+                },
+                {
+                  "im_full_vn": "cho vay (tiền) lấy lãi, đầu tư"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) xuất bản, phát hành"
+                },
+                {
+                  "im_full_vn": "giao (việc) cho làm ở nhà (ngoài xưởng máy)"
+                },
+                {
+                  "im_full_vn": "sản xuất ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put out 1,000 bales of goods weekly",
+                      "full_vn": "mỗi tuần sản xuất ra 1000 kiện hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put over",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hoàn thành (cái gì) trong hoàn cảnh không thuận lợi; hoàn thành (cái gì) nhờ tài khéo léo (nhờ mưu mẹo)"
+                },
+                {
+                  "im_full_vn": "giành được sự tán thưởng cho (một bộ phim, vở kịch)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put oneself over",
+                      "full_vn": "gây ấn tượng tốt đẹp đối với, tranh thủ được cảm tình của (người nghe..)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put through",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành, làm trọn, làm xong xuôi, thực hiện thắng lợi (công việc gì)"
+                },
+                {
+                  "im_full_vn": "cắm cho (ai) nói chuyện bằng dây nói (với ai qua tổng đài)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "put me through to Mr X",
+                      "full_vn": "xin cắm cho tôi nói chuyện với ông X"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bắt phải làm, bắt phải chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put to",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc vào; móc vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the horses are put to",
+                      "full_vn": "những con ngựa đã được buộc vào xe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put together",
+              "list_im": [
+                {
+                  "im_full_vn": "để vào với nhau, kết hợp vào với nhau, cộng vào với nhau, ráp vào với nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put heads together",
+                      "full_vn": "hội ý với nhau, bàn bạc với nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put up",
+              "list_im": [
+                {
+                  "im_full_vn": "để lên, đặt lên, giơ (tay) lên, kéo (mành...) lên; búi (tóc) lên như người lớn (con gái); giương (ô); nâng lên (giá...); xây dựng (nhà...); lắp đặt (một cái máy...); treo (một bức tranh...)"
+                },
+                {
+                  "im_full_vn": "đem trình diễn, đưa lên sân khấu (một vở kịch)"
+                },
+                {
+                  "im_full_vn": "xua ra (thú săn), xua lên, làm bay lên (chim săn)"
+                },
+                {
+                  "im_full_vn": "cầu (kinh)"
+                },
+                {
+                  "im_full_vn": "đưa (kiến nghị)"
+                },
+                {
+                  "im_full_vn": "đề cử, tiến cử (ai); ra ứng cử",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put up for the secretaryship",
+                      "full_vn": "ra ứng cử bí thư"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "công bố (việc kết hôn); dán lên, yết lên (yết thị...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put up the bans",
+                      "full_vn": "thông báo hôn nhân ở nhà thờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đưa ra (để bán, bán đấu giá, cạnh tranh...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put up goods for sale",
+                      "full_vn": "đưa hàng ra bán"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đóng gói, đóng hộp, đóng thùng... cất đi"
+                },
+                {
+                  "im_full_vn": "tra (kiếm vào vỏ)"
+                },
+                {
+                  "im_full_vn": "cho (ai) trọ; trọ lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put up at an inn for the night",
+                      "full_vn": "trọ lại đêm ở quán trọ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) xúi giục, khích (ai làm điều xấu...)"
+                },
+                {
+                  "im_full_vn": "(thông tục) bày đặt gian dối, bày mưu tính kế (việc làm đen tối)"
+                },
+                {
+                  "im_full_vn": "làm trọn, đạt được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put up a good fight",
+                      "full_vn": "đánh một trận hay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đặt (tiền), cấp (vốn); trả (tiền) trước"
+                },
+                {
+                  "im_full_vn": "dùng (ai) làm dô kề (đua ngựa)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put up to",
+                      "full_vn": "cho hay, bảo cho biết, báo cho biết"
+                    },
+                    {
+                      "full_en": "to put someone up the duties he will have to perform",
+                      "full_vn": "bảo cho ai biết những nhiệm vụ người đó phải thi hành"
+                    },
+                    {
+                      "full_en": "to put up with",
+                      "full_vn": "chịu đựng, kiên nhẫn chịu đựng; tha thứ"
+                    },
+                    {
+                      "full_en": "to put up with an annoying person",
+                      "full_vn": "kiên nhẫn chịu đựng một anh chàng quấy rầy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put upon",
+              "list_im": [
+                {
+                  "im_full_vn": "hành hạ, ngược đãi"
+                },
+                {
+                  "im_full_vn": "lừa bịp, đánh lừa"
+                },
+                {
+                  "im_full_vn": "(thông tục) cho vào tròng, cho vào xiếc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't be put upon by them",
+                      "full_vn": "đừng để cho chúng nó vào tròng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone's back up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai giận điên lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a good face on a matter",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) face"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's foot down",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên quyết, quyết tâm, giữ vững thế đứng của mình (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's best foot forward",
+              "list_im": [
+                {
+                  "im_full_vn": "rảo bước, đi gấp lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's foot in it",
+              "list_im": [
+                {
+                  "im_full_vn": "sai lầm ngớ ngẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's hand to",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt tay vào (làm việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's hand to the plough",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) plough"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the lid on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lid"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone in mind of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mind"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's name down for",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi tên ứng cử; ghi tên đăng ký mua (báo...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone's nose out of joint",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put in one's oar",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ra vẻ, làm điệu, cường điệu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) shoulder"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đánh lừa ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a spoke in someone's wheel",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) spoke"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put to it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đẩy vào hoàn cảnh khó khăn; thúc bách"
+                },
+                {
+                  "im_full_vn": "dạng bị động phải đương đầu với mọi vấn đề, phải đối phó với mọi vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put two and two together",
+              "list_im": [
+                {
+                  "im_full_vn": "rút ra kết luận (sau khi (xem) xét sự việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put wise",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) làm cho sáng mắt ra, chỉ giáo cho, làm cho hết sai làm, làm cho hết ảo tưởng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put words into someone's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mouth"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to put into harbour",
+              "full_vn": "đi vào bến cảng"
+            },
+            {
+              "full_en": "to put to sea",
+              "full_vn": "ra khơi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) sự ném, sự đẩy (tạ...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ & động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) putt"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (từ lóng) người gàn dở, người quê kệch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701414_c09a68daf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701414_b3679d0bc4_o.png",
+      "id_image": "put_4151672"
+    }
+  ]
+}

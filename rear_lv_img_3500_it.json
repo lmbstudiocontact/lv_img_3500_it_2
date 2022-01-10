@@ -1,0 +1,152 @@
+{
+  "english": "rear",
+  "phat_am": "[riə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ phận đằng sau, phía sau",
+          "list_en_vn": [
+            {
+              "full_en": "the garden is at the rear of the house",
+              "full_vn": "khu vườn ở đằng sau nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) hậu phương (đối với tiền tuyến)"
+        },
+        {
+          "m_full_vn": "(quân sự) hậu quân",
+          "list_en_vn": [
+            {
+              "full_en": "to bring (close up the rear",
+              "full_vn": "đi ở đoạn cuối, đi cuối cùng"
+            },
+            {
+              "full_en": "to take (attack ) the enemy in the rear",
+              "full_vn": "tấn công phía sau lưng địch"
+            },
+            {
+              "full_en": "to hang on the rear of the enemy",
+              "full_vn": "bám sát địch"
+            },
+            {
+              "full_en": "to hang on the rear of enemy",
+              "full_vn": "bám sát địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn đuôi, đoạn cuối (đám rước...)"
+        },
+        {
+          "m_full_vn": "(thông tục) nhà xí, cầu tiêu"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở đằng sau, ở phía sau, ở cuối",
+          "list_en_vn": [
+            {
+              "full_en": "rear wheel",
+              "full_vn": "bánh sau"
+            },
+            {
+              "full_en": "rear waggons",
+              "full_vn": "những toa cuối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngẩng lên, đưa lên; lên (giọng)",
+          "list_en_vn": [
+            {
+              "full_en": "to rear one's head",
+              "full_vn": "ngẩng đầu lên"
+            },
+            {
+              "full_en": "to rear a hand",
+              "full_vn": "giơ tay, đưa tay lên"
+            },
+            {
+              "full_en": "to rear one's voice",
+              "full_vn": "lên giọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựng, xây dựng",
+          "list_en_vn": [
+            {
+              "full_en": "to rear a statue",
+              "full_vn": "dựng một bức tượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi, nuôi nấng, nuôi dạy",
+          "list_en_vn": [
+            {
+              "full_en": "to rear children",
+              "full_vn": "nuôi dạy con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi, chăn nuôi; trồng",
+          "list_en_vn": [
+            {
+              "full_en": "to rear cattle",
+              "full_vn": "nuôi trâu bò"
+            },
+            {
+              "full_en": "to rear plants",
+              "full_vn": "trồng cây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lồng lên, chồm lên, dựng lên (ngựa...)"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) giận dữ đứng dậy"
+        },
+        {
+          "m_full_vn": "nhô cao lên (đỉnh núi)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381682_03205bd7d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381682_c23f9407be_o.png",
+      "id_image": "rear_1230008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336631_66654c300e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336631_3eed7610fa_o.png",
+      "id_image": "rear_1743655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336601_2bf30403a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336601_66708b848b_o.png",
+      "id_image": "rear_2418915"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "outdoor",
+  "phat_am": "['autdɔ:(r)]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc, dùng ở, làm hoặc tồn tại ngoài trời (bên ngoài một toà nhà); ngoài trời; ở ngoài; thích các hoạt động ngoài trời",
+          "list_en_vn": [
+            {
+              "full_en": "an outdoor class",
+              "full_vn": "một lớp học ngoài trời"
+            },
+            {
+              "full_en": "outdoor relief",
+              "full_vn": "tiền trợ cấp cho người không ở trại tế bần"
+            },
+            {
+              "full_en": "outdoor clothing",
+              "full_vn": "quần áo mặc đi ra ngoài"
+            },
+            {
+              "full_en": "outdoor activities /sports",
+              "full_vn": "các hoạt động/môn thể thao ngoài trời"
+            },
+            {
+              "full_en": "he's not really an outdoor type",
+              "full_vn": "anh ta không thuộc loại người thích sống ngoài trời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456678_1a8920beac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456678_4785ae2efd_o.png",
+      "id_image": "outdoor_2689865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341766_ee3c915ec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341766_ae4e08210a_o.png",
+      "id_image": "outdoor_4244666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696984_c30507d515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696984_023a880901_o.png",
+      "id_image": "outdoor_5779063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386782_ed538ce380_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386782_34da3c2a5b_o.png",
+      "id_image": "outdoor_6135653"
+    }
+  ]
+}

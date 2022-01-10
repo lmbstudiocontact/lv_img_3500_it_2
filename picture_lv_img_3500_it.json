@@ -1,0 +1,138 @@
+{
+  "english": "picture",
+  "phat_am": "['pikt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bức hoạ, bức vẽ, bức vẽ phát; bức tranh, bức ảnh; chân dung",
+          "list_en_vn": [
+            {
+              "full_en": "to sit for one's picture",
+              "full_vn": "ngồi để cho vẽ chân dung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật đẹp, cảnh đẹp, người đẹp..",
+          "list_en_vn": [
+            {
+              "full_en": "her dress is a picture",
+              "full_vn": "bộ áo của cô ta nom đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người giống hệt (một người khác)",
+          "list_en_vn": [
+            {
+              "full_en": "she is the picture of her mother",
+              "full_vn": "cô ta trông giống hệt bà mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình ảnh (tạo thành ấn tượng); sự hình dung"
+        },
+        {
+          "m_full_vn": "(chất lượng của) hình ảnh trên màn truyền hình"
+        },
+        {
+          "m_full_vn": "hiện thân, điển hình",
+          "list_en_vn": [
+            {
+              "full_en": "to be the very picture of health",
+              "full_vn": "hiện thân của sự khoẻ mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phim chiếu bóng, bộ phim; ( the pictures ) rạp chiếu bóng",
+          "list_en_vn": [
+            {
+              "full_en": "have you seen her latest picture ?",
+              "full_vn": "anh xem bộ phim mới nhất của cô ấy chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cảnh ngộ; sự việc",
+          "list_one_mean": [
+            {
+              "id_full_en": "put somebody in the picture",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai biết sự việc, làm cho ai biết diễn biến của sự việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be the picture of health /happiness",
+              "list_im": [
+                {
+                  "im_full_vn": "trông rất khoẻ mạnh/hạnh phúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pretty as a picture",
+              "list_im": [
+                {
+                  "im_full_vn": "như pretty"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "out of (not in ) the picture",
+              "full_vn": "không hợp cảnh, không hợp thời, không phải lối"
+            },
+            {
+              "full_en": "to come into the picture",
+              "full_vn": "biết sự việc, nắm được sự việc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình dung ra, tưởng tượng ra (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to picture something to oneself",
+              "full_vn": "hình dung một việc gì, tưởng tượng một việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẽ, chụp bức tranh, ảnh về ( ai/cái gì)"
+        },
+        {
+          "m_full_vn": "mô tả ( ai/cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702769_5d6e67b59b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702769_79480f8eb4_o.png",
+      "id_image": "picture_147430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392912_c1030e4216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392912_47c2f26731_o.png",
+      "id_image": "picture_305736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348001_11a827269e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348001_181ff3ba23_o.png",
+      "id_image": "picture_868201"
+    }
+  ]
+}

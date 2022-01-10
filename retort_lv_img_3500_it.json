@@ -1,0 +1,78 @@
+{
+  "english": "retort",
+  "phat_am": "[ri'tɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả miếng, sự bắt bẻ, sự vặn lại",
+          "list_en_vn": [
+            {
+              "full_en": "he made a rude sign by way of retort",
+              "full_vn": "nó đáp lại bằng một dấu hiệu thô lỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời vặn lại, lời đập lại, lời cãi lại, lời đối đáp lại",
+          "list_en_vn": [
+            {
+              "full_en": "to make an insolent retort",
+              "full_vn": "trả treo bằng một lời láo xược"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả miếng, bắt bẻ, vặn lại (lý lẽ...)",
+          "list_en_vn": [
+            {
+              "full_en": "\"Stop nonsense !\" she retorted",
+              "full_vn": "\" Đừng nói bậy nữa!\" cô ta bẻ lại"
+            },
+            {
+              "full_en": "he retorted that his elder brother was much cheekier than him",
+              "full_vn": "nó vặn lại rằng anh nó còn hổn láo hơn nó nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình cổ cong"
+        },
+        {
+          "m_full_vn": "bình chưng cất than đá bằng khí đốt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chưng (cất) bằng bình cổ cong"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086485_5f24011c3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086485_a68669b98b_o.png",
+      "id_image": "retort_2050382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463873_6021c1ee3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463873_d364d7a928_o.png",
+      "id_image": "retort_5332582"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "perch",
+  "phat_am": "[pə:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ (như) rod",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ chim đậu (cành cây, sào..); nơi chim trú (lồng chim, chuồng gà..)",
+          "list_en_vn": [
+            {
+              "full_en": "bird taken its perch",
+              "full_vn": "con chim đậu xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) địa vị cao"
+        },
+        {
+          "m_full_vn": "con sào (đơn vị đo chiều dài (đất) = 5, 5 yat tức 5, 03 mét) (như) pole , rod"
+        },
+        {
+          "m_full_vn": "trục chuyển động giữa (xe bốn bánh)"
+        },
+        {
+          "m_full_vn": "(động vật học) cá pecca, cá rô",
+          "list_one_mean": [
+            {
+              "id_full_en": "come off your perch",
+              "list_im": [
+                {
+                  "im_full_vn": "như come"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hop the perch",
+              "list_im": [
+                {
+                  "im_full_vn": "chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock someone off his perch",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu diệt ai, đánh gục ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây dựng ở trên cao, đặt ở trên cao",
+          "list_en_vn": [
+            {
+              "full_en": "a town perched on a hill",
+              "full_vn": "một thành phố ở trên một ngọn đồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + upon ) đậu trên (chim...); ngồi trên, ở trên (người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057835_cc9eafdec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057835_190ac1c09c_o.png",
+      "id_image": "perch_311600"
+    }
+  ]
+}

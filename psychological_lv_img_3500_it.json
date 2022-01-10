@@ -1,0 +1,57 @@
+{
+  "english": "psychological",
+  "phat_am": "[,saikə'lɔdʒikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tâm lý",
+          "list_en_vn": [
+            {
+              "full_en": "the psychological development of a child",
+              "full_vn": "sự phát triển tâm lý của một đứa trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) tâm lý học",
+          "list_one_mean": [
+            {
+              "id_full_en": "the psychological moment",
+              "list_im": [
+                {
+                  "im_full_vn": "thời điểm thích hợp nhất để làm cái gì nhằm đạt được thành công; thời điểm tâm lý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "We're going to have to ask for more money - it's just a question of finding the (right ) psychological moment",
+                      "full_vn": "Chúng ta sắp phải hỏi xin thêm tiền - vấn đề là phải tìm thời điểm (đúng) tâm lý"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "psychological methods",
+              "full_vn": "các phương pháp tâm lý học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703764_feb1d5bf7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703764_67e52ce4d5_o.png",
+      "id_image": "psychology_2201606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349081_7cd4988232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349081_8f187b7285_o.png",
+      "id_image": "psychology_552436"
+    }
+  ]
+}

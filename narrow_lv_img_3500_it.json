@@ -1,0 +1,156 @@
+{
+  "english": "narrow",
+  "phat_am": "['nærou]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hẹp; chật hẹp; eo hẹp",
+          "list_en_vn": [
+            {
+              "full_en": "a narrow street /bridge /path",
+              "full_vn": "phố/cầu/lối đi hẹp"
+            },
+            {
+              "full_en": "the road was too narrow for cars to pass",
+              "full_vn": "con đường quá hẹp, nên xe hơi không qua được"
+            },
+            {
+              "full_en": "the narrow confines of rural life",
+              "full_vn": "những ranh giới hạn hẹp của cuộc sốngnôngtho 6 n"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị hạn chế trong cách nhìn; hẹp hòi",
+          "list_en_vn": [
+            {
+              "full_en": "to have a narrow mind",
+              "full_vn": "có đầu óc (tư tưởng) hẹp hòi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chặt chẽ; chính xác; tỉ mĩ",
+          "list_en_vn": [
+            {
+              "full_en": "a narrow examination",
+              "full_vn": "sự xem xét tỉ mĩ"
+            },
+            {
+              "full_en": "what does the word mean in its narrowest sense ?",
+              "full_vn": "theo nghĩa hẹp nhất (sát nhất), từ này nghĩa là gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ có một giới hạn nhỏ; suýt soát",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a narrow escape",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) escape"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a narrow squeak (shave )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) may mà thoát được, may mà tránh được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "narrow victory",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng lợi đạt được một cách khó khăn; sự thắng chật vật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "narrow majority",
+              "list_im": [
+                {
+                  "im_full_vn": "đa số ít ỏi (số phiếu trong cuộc bầu cử)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the narrow bed (home , house )",
+              "list_im": [
+                {
+                  "im_full_vn": "nấm mồ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the straight and narrow",
+              "list_im": [
+                {
+                  "im_full_vn": "cách ứng xử khéo léo và hợp lý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "elected by a narrow majority",
+              "full_vn": "đắc cử với đa số suýt soát"
+            },
+            {
+              "full_en": "the favourite had a narrow lead over the rest",
+              "full_vn": "con ngựa cưng đó chỉ vượt được tốp đằng sau một đoạn ngắn thôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu hẹp; (làm cho) hẹp lại",
+          "list_en_vn": [
+            {
+              "full_en": "in order to widen the road , they had to narrow the pavement",
+              "full_vn": "để mở rộng đường, họ phải thu hẹp lề đường lại"
+            },
+            {
+              "full_en": "the road narrows here",
+              "full_vn": "đến đây con đường hẹp lại"
+            },
+            {
+              "full_en": "her eyes narrowed suddenly",
+              "full_vn": "đôi mắt bà ta đột nhiên nheo lại"
+            },
+            {
+              "full_en": "the gap between the two parties has narrowed considerably",
+              "full_vn": "khoảng cách giữa hai phía đã thu hẹp lại đáng kể"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683289_2bab706c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683289_f4784ae579_o.png",
+      "id_image": "narrow_1670272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443208_a9ae176e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443208_7443fbc721_o.png",
+      "id_image": "narrow_4563856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683329_2f85a8f9bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683329_8a3efe5379_o.png",
+      "id_image": "narrow_567422"
+    }
+  ]
+}

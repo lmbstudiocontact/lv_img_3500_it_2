@@ -1,0 +1,52 @@
+{
+  "english": "mist",
+  "phat_am": "[mist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sương mù"
+        },
+        {
+          "m_full_vn": "màn, màn che"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mù sương",
+          "list_en_vn": [
+            {
+              "full_en": "it is not raining , it is only misting",
+              "full_vn": "trời không mưa, chỉ mù sương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che mờ",
+          "list_en_vn": [
+            {
+              "full_en": "eyes misted with tears",
+              "full_vn": "mắt mờ đi vì nước mắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696029_5207cca01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696029_19e6e73efb_o.png",
+      "id_image": "mist_2910067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340726_8a7ea306a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340726_a5cc26028e_o.png",
+      "id_image": "mist_5756826"
+    }
+  ]
+}

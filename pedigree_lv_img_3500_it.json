@@ -1,0 +1,55 @@
+{
+  "english": "pedigree",
+  "phat_am": "['pedigri:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phả hệ"
+        },
+        {
+          "m_full_vn": "nòi, dòng dõi, huyết thống"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) gốc (của từ), từ nguyên"
+        },
+        {
+          "m_full_vn": "( định ngữ) nòi",
+          "list_en_vn": [
+            {
+              "full_en": "a pedigree horse",
+              "full_vn": "ngựa nòi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có nòi; biết rõ dòng giống",
+          "list_en_vn": [
+            {
+              "full_en": "pedigree cattle",
+              "full_vn": "gia súc có nòi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679004_4753977a04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679004_98ba127b1a_o.png",
+      "id_image": "pedigree_2334566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368637_ff3a486a6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368637_c51f263ec8_o.png",
+      "id_image": "pedigree_3436143"
+    }
+  ]
+}

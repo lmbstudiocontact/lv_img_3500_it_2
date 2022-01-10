@@ -1,0 +1,55 @@
+{
+  "english": "quotation",
+  "phat_am": "[kwou'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trích dẫn, sự được trích dẫn"
+        },
+        {
+          "m_full_vn": "đoạn trích dẫn, lời trích dẫn (như) quote",
+          "list_en_vn": [
+            {
+              "full_en": "a dictionary of quotations",
+              "full_vn": "cuốn từ điển những trích dẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(bản công bố) giá cả thị trường chứng khoán, giá cả hàng hoá hiện thời)"
+        },
+        {
+          "m_full_vn": "bản dự kê giá",
+          "list_en_vn": [
+            {
+              "full_en": "a quotation for building a house",
+              "full_vn": "bản dự kê giá xây một ngôi nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) Cađra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342611_ff010c23e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342611_3c92703b82_o.png",
+      "id_image": "quotation_4388554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387612_465f7500ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387612_41753b30bc_o.png",
+      "id_image": "quotation_4395071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387572_14a391fbfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387572_450034f85e_o.png",
+      "id_image": "quotation_4861375"
+    }
+  ]
+}

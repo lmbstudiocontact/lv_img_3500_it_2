@@ -1,0 +1,100 @@
+{
+  "english": "political",
+  "phat_am": "[pə'litikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "về chính trị, về chính phủ, về những việc công cộng nói chung",
+          "list_en_vn": [
+            {
+              "full_en": "political economy",
+              "full_vn": "kinh tế chính trị"
+            },
+            {
+              "full_en": "a political organization",
+              "full_vn": "một tổ chức chính trị"
+            },
+            {
+              "full_en": "a political prisoner",
+              "full_vn": "tù chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về sự xung đột, kịch địch giữa hai bên (nhiều bên)",
+          "list_en_vn": [
+            {
+              "full_en": "a political party",
+              "full_vn": "đảng chính trị"
+            },
+            {
+              "full_en": "a political crisis",
+              "full_vn": "cuộc khủng hoảng chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về hành động) có hại cho nhà nước, chính phủ",
+          "list_en_vn": [
+            {
+              "full_en": "a political offence",
+              "full_vn": "sự xúc phạm chính trị"
+            },
+            {
+              "full_en": "imprisoned on political grounds",
+              "full_vn": "bị cầm tù vì lý do chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về người) quan tâm đến, tích cực về chính trị",
+          "list_en_vn": [
+            {
+              "full_en": "somebody who is very political (in outlook )",
+              "full_vn": "người rất chính trị (về quan điểm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tính chính trị, liên quan đến địa vị, quyền lực (hơn là giá trị thật của tình thế)"
+        },
+        {
+          "m_full_vn": "(thuộc) việc quản lý nhà nước, (thuộc) chính quyền",
+          "list_en_vn": [
+            {
+              "full_en": "political agent",
+              "full_vn": "cán sự (của chính quyền)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cán sự (của chính quyền)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452098_b5a23697e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452098_b1452bb964_o.png",
+      "id_image": "political_1610497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382267_3cb9914288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382267_2709e0d606_o.png",
+      "id_image": "political_4201547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382227_9d5ae2f57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382227_794db625d7_o.png",
+      "id_image": "political_5978879"
+    }
+  ]
+}

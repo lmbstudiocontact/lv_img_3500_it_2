@@ -1,0 +1,27 @@
+{
+  "english": "reactor",
+  "phat_am": "[ri:'æktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lò phản ứng",
+          "list_en_vn": [
+            {
+              "full_en": "a nuclear reactor",
+              "full_vn": "lò phản ứng hạt nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692384_eccb1a8d52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692384_e5577de998_o.png",
+      "id_image": "reactor_2590434"
+    }
+  ]
+}

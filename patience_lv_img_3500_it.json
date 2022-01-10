@@ -1,0 +1,63 @@
+{
+  "english": "patience",
+  "phat_am": "['pei∫ns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính kiên nhẫn, tính nhẫn nại; sự bền chí, sự nhẫn nại, kiên trì",
+          "list_en_vn": [
+            {
+              "full_en": "she has no patience with those who are always grumbling",
+              "full_vn": "cô ta không thể kiên nhẫn được với những người lúc nào cũng cằn nhằn"
+            },
+            {
+              "full_en": "Patience is a virtue",
+              "full_vn": "kiên nhẫn là một đức tính tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "to be out of patience",
+              "full_vn": "không kiên nhẫn được nữa, không chịu đựng được nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối đánh bài paxiên (một người) (như) solitaire",
+          "list_one_mean": [
+            {
+              "id_full_en": "the patience of Job",
+              "list_im": [
+                {
+                  "im_full_vn": "sự kiên nhẫn đáng kể"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372587_1884c268e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372587_7a5886a2ec_o.png",
+      "id_image": "patience_2244708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682889_8dd5971b6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682889_9b697ccf65_o.png",
+      "id_image": "patience_5201548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442933_66261f1635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442933_5ca04151d8_o.png",
+      "id_image": "patience_708653"
+    }
+  ]
+}

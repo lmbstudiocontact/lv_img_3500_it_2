@@ -1,0 +1,45 @@
+{
+  "english": "obsolete",
+  "phat_am": "['ɒbsəli:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cổ xưa, quá hạn, đã lỗi thời",
+          "list_en_vn": [
+            {
+              "full_en": "obsolete text-books",
+              "full_vn": "những sách giáo khoa không còn dùng được nữa"
+            },
+            {
+              "full_en": "obsolete words",
+              "full_vn": "những từ không dùng được nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) teo đi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cổ"
+        },
+        {
+          "m_full_vn": "vật cổ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703984_cf25ab12b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703984_bb001e7424_o.png",
+      "id_image": "obsolete_1610496"
+    }
+  ]
+}

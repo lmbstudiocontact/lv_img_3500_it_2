@@ -1,0 +1,90 @@
+{
+  "english": "observation",
+  "phat_am": "[,ɑbzə'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quan sát, sự theo dõi",
+          "list_one_mean": [
+            {
+              "id_full_en": "be under observation",
+              "list_im": [
+                {
+                  "im_full_vn": "bị theo dõi kỹ càng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep sb under observation",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dõi ai một cách cẩn thận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take an observation",
+              "list_im": [
+                {
+                  "im_full_vn": "sự xác định toạ độ theo độ cao mặt trời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "observation post",
+                      "full_vn": "trạm quan sát"
+                    },
+                    {
+                      "full_en": "The pain made him long for oblivion",
+                      "full_vn": "Nỗi đau khiến anh ta thèm muốn sự quên lãng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "khả năng quan sát, năng lực quan sát",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a man of no observation",
+                      "full_vn": "người không có năng lực quan sát"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lời nhận xét, điều quan sát được, điều nhận thấy"
+                },
+                {
+                  "im_full_vn": "lời bình phẩm"
+                },
+                {
+                  "im_full_vn": "(quân sự) sự quan sát, sự theo dõi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086740_74bcb0c447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086740_28b9fce660_o.png",
+      "id_image": "observation_2196220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496873_547d191e81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496873_ddb25d7817_o.png",
+      "id_image": "observation_401530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394317_00f96df406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394317_b9de95807f_o.png",
+      "id_image": "observation_5016565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704194_61b64bbb4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704194_2bcec64451_o.png",
+      "id_image": "observation_5756903"
+    }
+  ]
+}

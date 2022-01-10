@@ -1,0 +1,40 @@
+{
+  "english": "organism",
+  "phat_am": "['ɔ:gənizm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơ thể; sinh vật",
+          "list_en_vn": [
+            {
+              "full_en": "he 's studying the organisms in water",
+              "full_vn": "ông ta đang nghiên cứu các sinh vật ở dưới nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ quan, tổ chức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081085_090ba6cd80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081085_8af7da7884_o.png",
+      "id_image": "organism_1408105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388592_b3472c6209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388592_e52499a246_o.png",
+      "id_image": "organism_2721075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343616_8f5b33f872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343616_ffc4c59b57_o.png",
+      "id_image": "organism_4178750"
+    }
+  ]
+}

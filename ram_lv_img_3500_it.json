@@ -1,0 +1,117 @@
+{
+  "english": "ram",
+  "phat_am": "[,ɑ:r ei 'em]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cừu đực (chưa thiến)"
+        },
+        {
+          "m_full_vn": "(sử học) phiến gỗ (nặng) để phá thành (như) battering-ram"
+        },
+        {
+          "m_full_vn": "(hàng hải) mũi nhọn (của tàu chiến để đâm thủng hông tàu địch); tàu chiến có mũi nhọn"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đấm nện; búa đóng cọc, búa đập, búa thuỷ động"
+        },
+        {
+          "m_full_vn": "sức nện của búa đóng cọc"
+        },
+        {
+          "m_full_vn": "pittông (của bơm đẩy)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) máy đẩy cốc (luyện kim)"
+        },
+        {
+          "m_full_vn": "( the ram ) (thiên văn học) chòm sao Bạch dương"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( RAM ) (viết tắt) của random access memory con Ram, bộ nhớ truy xuất ngẫu nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "RAM software component",
+              "full_vn": "phần mềm của bộ nhớ RAM"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( RAM ) (viết tắt) của Royal Academy of Music nhạc viện Hoàng gia"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nện (đất...), đâm vào, đụng vào"
+        },
+        {
+          "m_full_vn": "nạp (súng) đầy đạn"
+        },
+        {
+          "m_full_vn": "nhét vào, nhồi vào, ấn chặt vào, đóng vào",
+          "list_en_vn": [
+            {
+              "full_en": "ram clothes into a suitcase",
+              "full_vn": "nhồi nhét quần áo vào vali"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) đâm chìm, đâm thủng (một tàu khác) bằng mũi nhọn"
+        },
+        {
+          "m_full_vn": "đụng, đâm vào",
+          "list_en_vn": [
+            {
+              "full_en": "to ram one's head against the wall",
+              "full_vn": "đụng đầu vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cố gắng thuyết phục",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ram an argument home",
+              "list_im": [
+                {
+                  "im_full_vn": "cãi lý đến cùng; cố gắng thuyết phục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ram something down someone's throat",
+              "list_im": [
+                {
+                  "im_full_vn": "như throat"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076420_3f8b112694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076420_e398d768fe_o.png",
+      "id_image": "ram_2164987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076485_1210d50546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076485_2589c25291_o.png",
+      "id_image": "ram_616716"
+    }
+  ]
+}

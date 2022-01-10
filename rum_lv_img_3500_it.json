@@ -1,0 +1,57 @@
+{
+  "english": "rum",
+  "phat_am": "[rʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rượu rum (rượu mạnh cất từ nước mía)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) rượu mạnh"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) kỳ quặc, kỳ dị",
+          "list_en_vn": [
+            {
+              "full_en": "a rum fellow",
+              "full_vn": "một gã kỳ quặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguy hiểm, khó chơi",
+          "list_en_vn": [
+            {
+              "full_en": "a rum customer",
+              "full_vn": "một thằng cha nguy hiểm khó chơi, một con vật nguy hiểm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454258_b73989b0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454258_80be8d5cde_o.png",
+      "id_image": "rum_1355973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076470_3a27be8068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076470_43583d5a0c_o.png",
+      "id_image": "rum_2454602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694509_8dfd4c9b8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694509_cde5506c48_o.png",
+      "id_image": "rum_920565"
+    }
+  ]
+}

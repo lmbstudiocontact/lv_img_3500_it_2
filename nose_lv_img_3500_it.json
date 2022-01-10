@@ -1,0 +1,287 @@
+{
+  "english": "nose",
+  "phat_am": "[nouz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ phận của mặt ở phía trên mũi, dùng để thở và ngửi",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a punch on the nose",
+              "full_vn": "tống cho ai một quả vào mũi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật giống như hình cái mũi hoặc ở vị trí cái mũi (mặt trước của thân bay, của xe hơi chẳng hạn...)",
+          "list_en_vn": [
+            {
+              "full_en": "he brought the aircraft's nose up and make a perfect landing",
+              "full_vn": "anh ta (lái) hất mũi máy bay lên và thực hiện việc hạ cánh hoàn hảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khứu giác",
+          "list_en_vn": [
+            {
+              "full_en": "a dog with a good nose",
+              "full_vn": "con chó thính mũi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "năng lực phát hiện hoặc tìm ra cái gì; sự thính nhạy",
+          "list_en_vn": [
+            {
+              "full_en": "a reporter with a nose for news",
+              "full_vn": "phóng viên nhạy săn tin tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mùi, hương vị",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be no skin off one's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem skin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow one's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem blow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by a nose",
+              "list_im": [
+                {
+                  "im_full_vn": "cách một lề rất nhỏ; sát nút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut off one's nose to spite one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "cố tìm cách trả thù ai nhưng hoá ra là tự hại mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow one's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem follow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get up somebody's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai phát cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's nose in something",
+              "list_im": [
+                {
+                  "im_full_vn": "chăm chú đọc cái gì; chúi mũi vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's nose clean",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) giữ cho bản thân trong sạch; giữ mình trong sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's / somebody's nose to the grindstone",
+              "list_im": [
+                {
+                  "im_full_vn": "tự mình hoặc bắt ai làm việc cật lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead somebody by the nose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look down one's nose at somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "coi thường, khinh thường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the nose",
+              "list_im": [
+                {
+                  "im_full_vn": "đích thị; chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay through the nose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "plain as the nose on one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "xem plain"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to poke /stick one's nose into something",
+              "list_im": [
+                {
+                  "im_full_vn": "can thiệp/xía vào chuyện của người khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody's nose out of joint",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai ngượng nghịu hoặc bực bội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rub somebody's nose in it",
+              "list_im": [
+                {
+                  "im_full_vn": "xem rub"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to thumb one's nose at somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thumb"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn one's nose up at something",
+              "list_im": [
+                {
+                  "im_full_vn": "coi thường cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(right ) under somebody's (very ) nose",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay trước mặt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one's nose in the air",
+              "list_im": [
+                {
+                  "im_full_vn": "vênh mặt lên; hách dịch"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi chậm chạp về phía trước; tiến chậm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to nose about /around ; to nose into something",
+              "list_im": [
+                {
+                  "im_full_vn": "sục sạo; gí mũi vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a reporter nosing around for news",
+                      "full_vn": "phóng viên sục sạo tin tức"
+                    },
+                    {
+                      "full_en": "don't nose into /nose about in other people's affairs",
+                      "full_vn": "đừng gí mũi vào việc người khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to nose something out",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh hơi thấy cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the dog nosed out a rat",
+                      "full_vn": "con chó đánh hơi thấy con chuột"
+                    },
+                    {
+                      "full_en": "he can nose out a news story anywhere",
+                      "full_vn": "ở đâu ông ấy cũng có thể tìm ra một câu chuyện thời sự"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the car nosed carefully round the corner",
+              "full_vn": "chiếc xe hơi rẽ chầm chậm vào góc phố"
+            },
+            {
+              "full_en": "the plane nosed into the hangar",
+              "full_vn": "máy bay từ từ lăn bánh vào nhà chứa phi cơ"
+            },
+            {
+              "full_en": "the ship nosed its way slowly through the ice",
+              "full_vn": "chiếc tàu chậm chạp lần đường qua lớp băng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436483_bdd909ebc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436483_5c33f44db4_o.png",
+      "id_image": "nose_6147559"
+    }
+  ]
+}

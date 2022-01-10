@@ -1,0 +1,178 @@
+{
+  "english": "outside",
+  "phat_am": "['autsaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bề ngoài, bên ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "to open the door from the outside",
+              "full_vn": "mở cửa từ bên ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế giới bên ngoài"
+        },
+        {
+          "m_full_vn": "hành khách ngồi phía ngoài"
+        },
+        {
+          "m_full_vn": "( số nhiều) những tờ giấy ngoài (của một gram giấy)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the outside",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều nhất là, tối đa là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is four kilometers at the outside",
+                      "full_vn": "nhiều nhất là 4 kilômét"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the outside",
+              "list_im": [
+                {
+                  "im_full_vn": "phần đường siêu tốc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở phía ngoài; về phía ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "put these flowers outside",
+              "full_vn": "hãy để những bông hoa này ra ngoài (phòng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở ngoài trời; không vây kín",
+          "list_one_mean": [
+            {
+              "id_full_en": "come outside",
+              "list_im": [
+                {
+                  "im_full_vn": "ra ngoài đi, thử ra ngoài chơi nào (thách thức)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get outside of",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) hiểu"
+                },
+                {
+                  "im_full_vn": "chén, nhậu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở ngoài, ở gần phía ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "outside seat",
+              "full_vn": "ghế ở gần phía ngoài, ghế phía đằng cuối"
+            },
+            {
+              "full_en": "outside work",
+              "full_vn": "việc làm ở ngoài trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mỏng manh (cơ hội)"
+        },
+        {
+          "m_full_vn": "của người ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "an outside opinion",
+              "full_vn": "ý kiến của người ngoài (không phải là nhị sĩ)"
+            },
+            {
+              "full_en": "outside broker",
+              "full_vn": "người mua bán cổ phần ở ngoài (không thuộc sở chứng khoán)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao nhất, tối đa",
+          "list_en_vn": [
+            {
+              "full_en": "to quote the outside prices",
+              "full_vn": "định giá cao nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngoài, ra ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "cannot go outside the evidence",
+              "full_vn": "không thể đi ra bên ngoài bằng chứng được (không phải tiền mặt)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) trừ ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "outside of",
+              "list_im": [
+                {
+                  "im_full_vn": "ngoài ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341251_fa8d462072_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341251_1d22a81f3a_o.png",
+      "id_image": "outside_1827229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696459_72077806c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696459_9ab1672208_o.png",
+      "id_image": "outside_1828569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386187_391e00844f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386187_ba0a99d76a_o.png",
+      "id_image": "outside_5029613"
+    }
+  ]
+}

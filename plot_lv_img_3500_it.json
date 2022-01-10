@@ -1,0 +1,128 @@
+{
+  "english": "plot",
+  "phat_am": "[plɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mảnh đất nhỏ, miếng đất dùng vào mục đích đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "a building plot",
+              "full_vn": "một miếng đất xây dựng"
+            },
+            {
+              "full_en": "a vegetable plot",
+              "full_vn": "miếng đất trồng rau"
+            },
+            {
+              "full_en": "a small plot of land",
+              "full_vn": "một mảnh đất nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sườn, cốt truyện (kịch, tiểu thuyết...)",
+          "list_en_vn": [
+            {
+              "full_en": "a neatly worked-out plot",
+              "full_vn": "một cốt truyện được phác dựng rành mạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sơ đồ; đồ thị; biểu đồ"
+        },
+        {
+          "m_full_vn": "âm mưu; mưu đồ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hatch a plot",
+              "list_im": [
+                {
+                  "im_full_vn": "ngấm ngầm bày mưu lập kế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the plot thickens",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện đâm ra ly kỳ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a plot to overthrow the government",
+              "full_vn": "âm mưu lật đổ chính phủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ sơ đồ, vẽ đồ thị, vẽ biểu đồ, dựng đồ án (một công trình xây dựng...); đánh dấu (cái gì) trên hải đồ, biểu đồ; vẽ đường đồ thị",
+          "list_en_vn": [
+            {
+              "full_en": "to plot an escape route",
+              "full_vn": "vẽ sơ đồ một con đường thoát"
+            },
+            {
+              "full_en": "plot the ship's course",
+              "full_vn": "đánh dấu đường đi của con tàu"
+            },
+            {
+              "full_en": "plot a temperature curve",
+              "full_vn": "vẽ đường đồ thị nhiệt độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to plot with somebody ) ( to plot against somebody ) ( to plot together ) âm mưu; mưu tính; bày mưu",
+          "list_en_vn": [
+            {
+              "full_en": "to plot (together ) to do something",
+              "full_vn": "(cùng nhau) âm mưu làm cái gì"
+            },
+            {
+              "full_en": "to plot a crime",
+              "full_vn": "âm mưu tội ác"
+            },
+            {
+              "full_en": "to plot the overthrow of the dictatorial government",
+              "full_vn": "âm mưu lật đổ chính phủ độc tài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455273_ab424ee71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455273_cb2a4b7f98_o.png",
+      "id_image": "plot_4631620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695669_6d8e448344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695669_d5220a9f02_o.png",
+      "id_image": "plot_4631624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385247_1d50602753_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385247_c8b336155b_o.png",
+      "id_image": "plot_6348147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340286_b06ebc788a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340286_0298ac50d8_o.png",
+      "id_image": "plot_6348179"
+    }
+  ]
+}

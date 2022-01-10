@@ -1,0 +1,87 @@
+{
+  "english": "pie",
+  "phat_am": "[pai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh pa-tê, bánh nướng; bánh hấp",
+          "list_en_vn": [
+            {
+              "full_en": "meat pie",
+              "full_vn": "bánh pa-tê"
+            },
+            {
+              "full_en": "jam pie",
+              "full_vn": "bánh nướng nhân mứt"
+            },
+            {
+              "full_en": "cream pie",
+              "full_vn": "bánh kem"
+            },
+            {
+              "full_en": "mud pie",
+              "full_vn": "bánh đất, bánh cát bánh bùn (trẻ con nghịch)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) chim ác là"
+        },
+        {
+          "m_full_vn": "đống chữ in lộn xộn"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự hỗn độn, sự lộn xộn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to eat humble pie",
+              "list_im": [
+                {
+                  "im_full_vn": "xem humble"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a finger in the pie",
+              "list_im": [
+                {
+                  "im_full_vn": "có dính dáng đến việc ấy, có nhúng tay vào việc ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pie in the sky",
+              "list_im": [
+                {
+                  "im_full_vn": "một sự kiện trong dự kiến rất khó có thể xảy ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trộn lộn xộn (chữ in)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347876_52f4b4dc76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347876_8f2cf73640_o.png",
+      "id_image": "pie_1139835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702594_af07d01e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702594_e2184924af_o.png",
+      "id_image": "pie_817295"
+    }
+  ]
+}

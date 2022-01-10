@@ -1,0 +1,193 @@
+{
+  "english": "pot",
+  "phat_am": "[pɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ấm, bình, lọ, chậu, hủ, ca (uống nước); ấm (đầy), bình (đầy), lọ (đầy), chậu (đầy), hủ (đầy), ca (đầy)",
+          "list_en_vn": [
+            {
+              "full_en": "a pot of tea",
+              "full_vn": "một ấm trà"
+            },
+            {
+              "full_en": "a pot of porter",
+              "full_vn": "một ca bia đen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nồi"
+        },
+        {
+          "m_full_vn": "bô (để đi đái đêm)"
+        },
+        {
+          "m_full_vn": "chậu hoa"
+        },
+        {
+          "m_full_vn": "bụng phệ; người bụng phệ (như) pot-belly"
+        },
+        {
+          "m_full_vn": "bình bạc, bình vàng (làm giải thưởng thể thao, điền kinh); (từ lóng) giải"
+        },
+        {
+          "m_full_vn": "cái chụp ống khói (như) chimney pot ; (từ lóng) mũ chóp cao"
+        },
+        {
+          "m_full_vn": "giỏ bắt tôm hùm (như) lobster pot"
+        },
+        {
+          "m_full_vn": "giấy khổ 39 x 31, 3 cm"
+        },
+        {
+          "m_full_vn": "số tiền lớn",
+          "list_en_vn": [
+            {
+              "full_en": "to make a pot ; to make a pot of money",
+              "full_vn": "làm được món bở, vớ được món tiền lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) số tiền lớn đánh cá (cá ngựa); ngựa đua hy vọng thắng",
+          "list_en_vn": [
+            {
+              "full_en": "to put the pot on Epinard",
+              "full_vn": "dốc tiền đánh cá vào con E-pi-na"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú bắn bừa; toan tính bừa bãi (như) pot-shot",
+          "list_one_mean": [
+            {
+              "id_full_en": "a big pot",
+              "list_im": [
+                {
+                  "im_full_vn": "quan to"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to pot",
+              "list_im": [
+                {
+                  "im_full_vn": "hỏng bét cả; tiêu ma cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the pot boiling (on the boil )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho sôi nổi"
+                },
+                {
+                  "im_full_vn": "vẫn sôi động niềm thích thú cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the pot boil",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ăn sinh sống kiếm cơm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the pot calling the kettle black",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) lươn ngắn lại chê chạch dài, thờn bơn méo miệng chê trai lệch mồm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "watched pot never boils",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cứ mong lại càng lâu đến, để ý lại càng sốt ruột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take pot luck",
+              "list_im": [
+                {
+                  "im_full_vn": "có gì ăn nấy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ (cá, thịt, muối...) vào hủ (ca... để dành...)",
+          "list_en_vn": [
+            {
+              "full_en": "potted meat",
+              "full_vn": "thịt ướp bỏ hủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trồng (cây) vào chậu"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chọc (hòn bi-a) vào túi lưới"
+        },
+        {
+          "m_full_vn": "bỏ (thú săn...) vào túi"
+        },
+        {
+          "m_full_vn": "nắm giữ, chiếm lấy, vớ, \"bỏ túi\"",
+          "list_en_vn": [
+            {
+              "full_en": "he's potted the whole lot",
+              "full_vn": "hắn vớ hết, hắn chiếm hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút ngắn, thâu tóm"
+        },
+        {
+          "m_full_vn": "bắn chết (thú săn, chim...) bằng một phát bắn gần"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) bắn, bắn gần"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688024_6969c8da7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688024_aba2bc86e8_o.png",
+      "id_image": "pot_1027082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448118_6d4fdcb4f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448118_6a54847223_o.png",
+      "id_image": "pot_259186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377852_f0617b6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377852_a6d2497643_o.png",
+      "id_image": "pot_5833307"
+    }
+  ]
+}

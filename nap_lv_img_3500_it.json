@@ -1,0 +1,108 @@
+{
+  "english": "nap",
+  "phat_am": "[næp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấc ngủ ngắn (nhất là về ban ngày); giấc ngủ ngày; giấc chợp mắt",
+          "list_en_vn": [
+            {
+              "full_en": "to take /have a quick nap after lunch",
+              "full_vn": "tranh thủ chợp mắt một lát sau bữa ăn trưa"
+            },
+            {
+              "full_en": "to snatch /steal a nap",
+              "full_vn": "ngủ chợp đi một lát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngủ chợp một lát; chợp mắt một tí",
+          "list_one_mean": [
+            {
+              "id_full_en": "to catch someone napping",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt gặp ai đang lơ đễnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't let the boss catch you napping",
+                      "full_vn": "đừng để ông chủ bắt gặp anh đang lơ đễnh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sợi ngắn trên mặt vải, nỉ... thường được vuốt và chải theo một chiều; tuyết",
+          "list_en_vn": [
+            {
+              "full_en": "with /against the nap",
+              "full_vn": "theo/ngược chiều tuyết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngành dệt) làm cho lên tuyết"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lối chơi bài napôlêông"
+        },
+        {
+          "m_full_vn": "sự đánh cá tất cả tiền vào một con ngựa; con ngựa mình dốc hết tiền vào để đánh cá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443683_39e4c80ea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443683_1ceb6ddcd5_o.png",
+      "id_image": "nap_1702344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328666_c1dc2171df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328666_7a829b9b17_o.png",
+      "id_image": "nap_2964763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683684_fce40481a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683684_3c8a30ab4d_o.png",
+      "id_image": "nap_3310318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373327_4566cd57fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373327_d45643ebe1_o.png",
+      "id_image": "nap_3310321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373302_be5dcc008b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373302_a30bd1ddac_o.png",
+      "id_image": "nap_5775901"
+    }
+  ]
+}

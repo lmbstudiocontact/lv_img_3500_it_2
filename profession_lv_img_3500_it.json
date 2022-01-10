@@ -1,0 +1,56 @@
+{
+  "english": "profession",
+  "phat_am": "[prə'fe∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghề, nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "liberal professions",
+              "full_vn": "những nghề tự do"
+            },
+            {
+              "full_en": "the acting /legal /medical profession",
+              "full_vn": "nghề diễn viên/pháp chế/y"
+            },
+            {
+              "full_en": "a lawyer by profession",
+              "full_vn": "luật sư chuyên nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the profession ) những người trong nghề, giới"
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự tuyên bố tin theo, sự tin theo (đạo...); lời thề tin theo",
+          "list_en_vn": [
+            {
+              "full_en": "professions of faith",
+              "full_vn": "những lời tuyên xưng đức tin"
+            },
+            {
+              "full_en": "a profession of belief",
+              "full_vn": "sự tuyên xưng tín ngưỡng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436678_2c6250a148_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436678_81d3bd09e2_o.png",
+      "id_image": "professional_2767735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676504_2e8246e8ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676504_784e6e958e_o.png",
+      "id_image": "professional_4832775"
+    }
+  ]
+}

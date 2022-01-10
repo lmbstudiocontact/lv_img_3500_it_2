@@ -1,0 +1,36 @@
+{
+  "english": "restructure",
+  "phat_am": "[,ri:'strʌkt∫ə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơ cấu lại; tổ chức lại; sắp xếp lại",
+          "list_en_vn": [
+            {
+              "full_en": "to restructure an organization",
+              "full_vn": "sắp xếp lại một tổ chức"
+            },
+            {
+              "full_en": "to restructure the plot of a novel",
+              "full_vn": "sắp xếp lại cốt truyện của một cuốn tiểu thuyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704599_8db3f6f84c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704599_2ebb0e3cbc_o.png",
+      "id_image": "restructure_2112383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087245_5d5ccd0ca3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087245_e6fee78525_o.png",
+      "id_image": "restructure_5361803"
+    }
+  ]
+}

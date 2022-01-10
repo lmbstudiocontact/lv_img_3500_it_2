@@ -1,0 +1,184 @@
+{
+  "english": "office",
+  "phat_am": "['ɔfis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chức vụ",
+          "list_en_vn": [
+            {
+              "full_en": "he has the office of chairman here",
+              "full_vn": "ông ta giữ chức chủ tịch ở đây"
+            },
+            {
+              "full_en": "the office of mayor",
+              "full_vn": "chức thị trưởng"
+            },
+            {
+              "full_en": "to seek /accept /leave office as secretary-general",
+              "full_vn": "tìm kiếm/nhận/rời khỏi chức tổng thư ký"
+            },
+            {
+              "full_en": "to take (enter upon ) office",
+              "full_vn": "nhậm chức"
+            },
+            {
+              "full_en": "to resign from office ; to lay down office",
+              "full_vn": "từ chức"
+            },
+            {
+              "full_en": "in office",
+              "full_vn": "đang cầm quyền"
+            },
+            {
+              "full_en": "out of office",
+              "full_vn": "không còn cầm quyền nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình thức thờ phụng; lễ nghi",
+          "list_en_vn": [
+            {
+              "full_en": "to perform the last offices to someone",
+              "full_vn": "làm lễ tang cho ai"
+            },
+            {
+              "full_en": "Divine Office",
+              "full_vn": "buổi lễ hàng ngày của đạo Thiên Chúa; Thánh lễ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một hoặc nhiều phòng hoặc toà nhà dùng làm nơi kinh doanh (nhất là cho công việc văn phòng hoặc hành chính) sở; cơ quan; văn phòng",
+          "list_en_vn": [
+            {
+              "full_en": "our head office is in the centre of the city",
+              "full_vn": "văn phòng chính của chúng tôi nằm ở trung tâm thành phố"
+            },
+            {
+              "full_en": "an office job",
+              "full_vn": "một công việc văn phòng"
+            },
+            {
+              "full_en": "office equipment",
+              "full_vn": "thiết bị văn phòng"
+            },
+            {
+              "full_en": "office workers",
+              "full_vn": "nhân viên văn phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng làm việc của một người",
+          "list_en_vn": [
+            {
+              "full_en": "a lawyer's office",
+              "full_vn": "văn phòng luật sư"
+            },
+            {
+              "full_en": "the editors have to share an office",
+              "full_vn": "các biên tập viên phải ngồi chung một phòng làm việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng khám bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "the obstetrician's office",
+              "full_vn": "phòng khám của bác sĩ sản khoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng (hoặc toà nhà) chuyên dùng",
+          "list_en_vn": [
+            {
+              "full_en": "the lost property office",
+              "full_vn": "phòng lưu giữ những đồ vật thất lạc"
+            },
+            {
+              "full_en": "ticket office ; booking-office",
+              "full_vn": "phòng bán vé; phòng vé"
+            },
+            {
+              "full_en": "the local tax office",
+              "full_vn": "phòng thuế của địa phương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ",
+          "list_en_vn": [
+            {
+              "full_en": "the Foreign Office",
+              "full_vn": "Bộ ngoại giao"
+            },
+            {
+              "full_en": "the Home Office",
+              "full_vn": "Bộ nội vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) nhà phụ, chái, kho",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Holy Office",
+              "list_im": [
+                {
+                  "im_full_vn": "toà án tôn giáo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Office for the Dead",
+              "list_im": [
+                {
+                  "im_full_vn": "lễ truy điệu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay down office",
+              "list_im": [
+                {
+                  "im_full_vn": "từ chức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "through somebody's good offices",
+              "list_im": [
+                {
+                  "im_full_vn": "nhờ sự giúp đỡ ân cần của ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703124_bcff3f79df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703124_a741d7c412_o.png",
+      "id_image": "office_203872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703074_442c429fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703074_3d29846cac_o.png",
+      "id_image": "office_2832727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393287_c4a3f8c1df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393287_60ac9636d7_o.png",
+      "id_image": "office_875282"
+    }
+  ]
+}

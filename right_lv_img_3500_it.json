@@ -1,0 +1,393 @@
+{
+  "english": "right",
+  "phat_am": "[rait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều tốt, điều phải, điều đứng đắn; điều thiện",
+          "list_en_vn": [
+            {
+              "full_en": "to make no difference between right and wrong",
+              "full_vn": "không phân biệt phải trái thiện ác"
+            },
+            {
+              "full_en": "to be in the right",
+              "full_vn": "lẽ phải về mình, có chính nghĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền",
+          "list_en_vn": [
+            {
+              "full_en": "to have a (the ) right to do something",
+              "full_vn": "có quyền làm việc gì"
+            },
+            {
+              "full_en": "right to self-determination",
+              "full_vn": "quyền tự quyết"
+            },
+            {
+              "full_en": "right of work",
+              "full_vn": "quyền lao động, quyền có công ăn việc làm"
+            },
+            {
+              "full_en": "right to vote",
+              "full_vn": "quyền bỏ phiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền lợi",
+          "list_en_vn": [
+            {
+              "full_en": "rights and duties",
+              "full_vn": "quyền lợi và nhiệm vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) thứ tự",
+          "list_en_vn": [
+            {
+              "full_en": "to put (set ) something to rights",
+              "full_vn": "sắp đặt vật gì cho có thứ tự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) thực trạng",
+          "list_en_vn": [
+            {
+              "full_en": "to know the rights of a case",
+              "full_vn": "biết thực trạng của một trường hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bên phải, phía tay phải",
+          "list_en_vn": [
+            {
+              "full_en": "to keep to the right",
+              "full_vn": "đi bên phía tay phải"
+            },
+            {
+              "full_en": "from right to left",
+              "full_vn": "từ phải sang trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) ( the right ) phe hữu, phái hữu"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú đánh tay phải (quyền anh)"
+        },
+        {
+          "m_full_vn": "(săn bắn) phát súng bắn phía tay phải"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "a right line",
+              "full_vn": "một đường thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) vuông",
+          "list_en_vn": [
+            {
+              "full_en": "right angle",
+              "full_vn": "góc vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt, đúng, phải, có lý",
+          "list_en_vn": [
+            {
+              "full_en": "to be right in one's reckonings",
+              "full_vn": "tính toán đúng"
+            },
+            {
+              "full_en": "to do what is right",
+              "full_vn": "làm điều phải"
+            },
+            {
+              "full_en": "to be right",
+              "full_vn": "có lý, đúng phải"
+            },
+            {
+              "full_en": "to set one's watch right",
+              "full_vn": "vặn đồng hồ lại cho đúng"
+            },
+            {
+              "full_en": "to set oneself right with someone",
+              "full_vn": "tự mình làm cho người nào hiểu đúng về người nào hiểu cho đúng về mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phái hữu (đối với trái)",
+          "list_en_vn": [
+            {
+              "full_en": "the right arm",
+              "full_vn": "cánh tay phải"
+            },
+            {
+              "full_en": "on (at ) the right hand",
+              "full_vn": "ở phía tay phải; mặt phải (vải...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích hợp, cần phải có",
+          "list_en_vn": [
+            {
+              "full_en": "the right size",
+              "full_vn": "cỡ thích hợp, cỡ cần phải có"
+            },
+            {
+              "full_en": "to wait for the right moment",
+              "full_vn": "chờ thời cơ thích hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở trong trạng thái (tinh thần hay vật chất) tốt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the right side of forty",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) side"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be someone's right hand",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) là cánh tay phải của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right you are !",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý, được đấy!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right oh !",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý, xin vâng lệnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "see if the brakes are all right",
+              "full_vn": "hãy xem phanh có hoàn toàn tốt không"
+            },
+            {
+              "full_en": "not right in one's head",
+              "full_vn": "gàn gàn, hâm hâm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "right ahead of us",
+              "full_vn": "thẳng về phía trước chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngay, chính",
+          "list_en_vn": [
+            {
+              "full_en": "right in the middle",
+              "full_vn": "ở chính giữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, phải",
+          "list_en_vn": [
+            {
+              "full_en": "if I remember right",
+              "full_vn": "nếu tôi nhớ đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt, đúng như ý muốn",
+          "list_en_vn": [
+            {
+              "full_en": "if everything goes right",
+              "full_vn": "nếu tất cả đều như ý muốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng, xứng đáng",
+          "list_en_vn": [
+            {
+              "full_en": "it serves him right !",
+              "full_vn": "thật đáng đời hắn ta!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trước tính từ hay phó từ) rất, hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "you know right well that",
+              "full_vn": "anh biết rất rõ ràng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong một số danh vị, hàm ý tất cả)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Right Reverend",
+              "list_im": [
+                {
+                  "im_full_vn": "Đức giám mục"
+                },
+                {
+                  "im_full_vn": "về bên phải",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to hit out right and left",
+                      "full_vn": "đánh bên phải đánh bên trái, đánh từ phía"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "right away",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay tức thì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right here",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay ở đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right now",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay bây giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right off",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) right away"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy lại cho ngay, lấy lại cho thẳng (hướng đi của ô tô, tàu thuỷ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to right the car",
+              "full_vn": "lấy lại hướng đi của chiếc ô tô cho thẳng"
+            },
+            {
+              "full_en": "to right onself",
+              "full_vn": "lấy lại thăng bằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa sai, chỉnh đốn lại, uốn nắn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to right a mistake",
+              "full_vn": "sửa một lỗi lầm"
+            },
+            {
+              "full_en": "to right a wrong",
+              "full_vn": "uốn nắn lại một sự bất công (một điều sai trái)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bênh vực",
+          "list_en_vn": [
+            {
+              "full_en": "to right the oppressed",
+              "full_vn": "bênh vực những người bị áp bức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lại đứng thẳng lên được; không ngả nghiêng tròng trành (tàu thuỷ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346751_0b5c32c6a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346751_9e358b49be_o.png",
+      "id_image": "right_3603600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701579_4ae7e476d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701579_280d3739d2_o.png",
+      "id_image": "right_4151501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461518_d25f954574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461518_dc2be1d963_o.png",
+      "id_image": "right_5678244"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "rave",
+  "phat_am": "[reiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "song chắn (thùng xe chở hàng)"
+        },
+        {
+          "m_full_vn": "( số nhiều) khung chắn nối thêm (vào thùng xe ngựa, xe bò để chở được nhiều hàng hơn)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng gầm (của biển động); tiếng rít (của gió)"
+        },
+        {
+          "m_full_vn": "(từ lóng) bài bình phẩm ca ngợi (phim, sách...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự mê (ai) như điếu đổ"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói sảng, mê sảng (người bệnh)"
+        },
+        {
+          "m_full_vn": "nói say sưa; nói như điên như dại",
+          "list_en_vn": [
+            {
+              "full_en": "to rave with anger",
+              "full_vn": "nói giận dữ"
+            },
+            {
+              "full_en": "to rave one's grief",
+              "full_vn": "kể lể như điên như dại những nỗi sầu khổ của mình"
+            },
+            {
+              "full_en": "to rave oneself hoarse",
+              "full_vn": "nói đến khàn cả tiếng"
+            },
+            {
+              "full_en": "to rave about something",
+              "full_vn": "nói một cách say sưa về cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi giận, nổi điên, nổi xung",
+          "list_en_vn": [
+            {
+              "full_en": "to rave at (against ) someone",
+              "full_vn": "nổi xung lên với ai"
+            },
+            {
+              "full_en": "to rave agianst one's fate",
+              "full_vn": "nguyền rủa số phận"
+            },
+            {
+              "full_en": "to rave and storm",
+              "full_vn": "nổi cơn lôi đình, nổi cơn tam bành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi sóng dữ dội (biển); thổi mạnh dữ dội, rít lên (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "the wind is raving",
+              "full_vn": "gió gào rít lên"
+            },
+            {
+              "full_en": "the storm raves itself out",
+              "full_vn": "cơn bão đã lắng xuống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074585_8b1b1471fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074585_9ddeb8a931_o.png",
+      "id_image": "rave_1809877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382542_dfbbe0e2b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382542_b713fe29ff_o.png",
+      "id_image": "rave_2132581"
+    }
+  ]
+}

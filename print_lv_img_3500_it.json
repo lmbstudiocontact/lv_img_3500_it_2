@@ -1,0 +1,139 @@
+{
+  "english": "print",
+  "phat_am": "[print]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữ in",
+          "list_en_vn": [
+            {
+              "full_en": "in large print",
+              "full_vn": "in chữ lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự in ra",
+          "list_en_vn": [
+            {
+              "full_en": "the book is not in print yet",
+              "full_vn": "quyển sách chưa in"
+            },
+            {
+              "full_en": "the book is still in print",
+              "full_vn": "quyển sách vẫn còn in để bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu in; vết, dấu"
+        },
+        {
+          "m_full_vn": "tranh, ảnh in (ở bản khắc ra); ảnh in từ bản âm",
+          "list_en_vn": [
+            {
+              "full_en": "colour prints",
+              "full_vn": "những bức ảnh màu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải hoa in",
+          "list_one_mean": [
+            {
+              "id_full_en": "in print",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn còn in để bán, có sẵn để bán ở nhà xuất bản (sách)"
+                },
+                {
+                  "im_full_vn": "được in thành sách, lên báo.. (về một tác phẩm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of print",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn có ở nhà xuất bản"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "định ngữ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng vải hoa in",
+          "list_en_vn": [
+            {
+              "full_en": "print dress",
+              "full_vn": "áo bằng vải hoa in"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tài liệu in; tờ báo tạp chí"
+        },
+        {
+          "m_full_vn": "giấy in báo (như) newsprint",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rush into print",
+              "list_im": [
+                {
+                  "im_full_vn": "ra sách (viết bài) một cách thiếu chín chắn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuất bản, đăng báo, viết vào sách"
+        },
+        {
+          "m_full_vn": "in, in dấu, in vết (lên vật gì)"
+        },
+        {
+          "m_full_vn": "rửa, in (ảnh)"
+        },
+        {
+          "m_full_vn": "viết (chữ) theo lối chữ in"
+        },
+        {
+          "m_full_vn": "in hoa (vải)"
+        },
+        {
+          "m_full_vn": "in, khắc (vào tâm trí)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440078_45ec72fdb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440078_d429083bfa_o.png",
+      "id_image": "print_1193526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440038_73eb41f082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440038_ff376ffa5d_o.png",
+      "id_image": "print_1934012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061855_982c5a18e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061855_30227c674c_o.png",
+      "id_image": "print_5305185"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "english": "rattle",
+  "phat_am": "[rætl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái trống lắc, cái lúc lắc (đồ chơi trẻ con)"
+        },
+        {
+          "m_full_vn": "(động vật học) vòng sừng (ở đuôi của rắn chuông)"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây có hạt nổ tách (khi quả chín)"
+        },
+        {
+          "m_full_vn": "tiếng nổ lốp bốp; tiếng lách cách, tiếng lạch cạch (của cánh cửa, xe bò...); tiếng lộp bộp (mưa...)",
+          "list_en_vn": [
+            {
+              "full_en": "the rattle of shutters",
+              "full_vn": "tiếng cánh cửa chớp rung lạch cạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng rầm rầm, tiếng huyên náo"
+        },
+        {
+          "m_full_vn": "tiếng nấc hấp hối ( (cũng) dealth rattle )"
+        },
+        {
+          "m_full_vn": "chuyện huyên thiên, chuyện ba hoa; người lắm lời, người hay nói huyên thiên"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu lách cách, kêu lạch cạch; rơi lộp bộp (mưa...)",
+          "list_en_vn": [
+            {
+              "full_en": "the windows rattled",
+              "full_vn": "cửa sổ lắc lạch cạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy râm rầm (xe cộ...)",
+          "list_en_vn": [
+            {
+              "full_en": "the tram rattled through the streets",
+              "full_vn": "xe điện chạy rầm rầm qua phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói huyên thiên, nói liến láu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm kêu lách cách, làm kêu lạch cạch; rung lách cách, khua lạch cạch...",
+          "list_en_vn": [
+            {
+              "full_en": "the wind rattles the shutters",
+              "full_vn": "gió rung cánh cửa chớp kêu lạch cạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off , out , away ) đọc liến láu, đọc thẳng một mạch (bài học, bài diễn văn)",
+          "list_en_vn": [
+            {
+              "full_en": "to rattle off one's lesson",
+              "full_vn": "đọc bài học một mạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vội thông qua (một dự luật...)",
+          "list_en_vn": [
+            {
+              "full_en": "to rattle a bill through the House",
+              "full_vn": "vội vã đem ra nghị viện thông qua một dự luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) làm hồi hộp, làm bối rối, làm lo sợ, làm lo lắng, làm ngơ ngác...",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rattle up",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) kéo lên (neo)"
+                },
+                {
+                  "im_full_vn": "làm vui lên, làm hăng lên, làm phấn khởi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rattle the sabre",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) đe doạ gây chiến tranh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "don't get rattled over it",
+              "full_vn": "đừng sợ gì, đừng có việc gì phải cuống lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452568_7a8e1d8188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452568_429f9e5796_o.png",
+      "id_image": "rattle_1706331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693044_34898bf795_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693044_9f97503f11_o.png",
+      "id_image": "rattle_204661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337661_e2b47c0d9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337661_fec31e14cb_o.png",
+      "id_image": "rattle_2130782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692894_4bcca7c5d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692894_93abfc85ac_o.png",
+      "id_image": "rattle_6315045"
+    }
+  ]
+}

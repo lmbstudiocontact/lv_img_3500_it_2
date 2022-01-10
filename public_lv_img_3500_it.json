@@ -1,0 +1,222 @@
+{
+  "english": "public",
+  "phat_am": "['pʌblik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc liên quan đến mọi người nói chung; chung; công cộng",
+          "list_en_vn": [
+            {
+              "full_en": "a danger to public health",
+              "full_vn": "một mối nguy hiểm đối với sức khoẻ mọi người"
+            },
+            {
+              "full_en": "the campaign was designed to increase public awareness of the pollution of the environment",
+              "full_vn": "cuộc vận động nhằm nâng cao nhận thức của mọi người về vấn đề ô nhiễm môi trường"
+            },
+            {
+              "full_en": "public holiday",
+              "full_vn": "ngày lễ chung"
+            },
+            {
+              "full_en": "public opinion",
+              "full_vn": "dư luận, công luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do chính quyền cung cấp; công; công cộng",
+          "list_en_vn": [
+            {
+              "full_en": "public school",
+              "full_vn": "trường công"
+            },
+            {
+              "full_en": "public library",
+              "full_vn": "thư viện công cộng"
+            },
+            {
+              "full_en": "public park",
+              "full_vn": "công viên"
+            },
+            {
+              "full_en": "public place",
+              "full_vn": "nơi công cộng"
+            },
+            {
+              "full_en": "public highway",
+              "full_vn": "xa lộ"
+            },
+            {
+              "full_en": "public utilities",
+              "full_vn": "những ngành phục vụ công cộng (điện, nước...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công khai",
+          "list_one_mean": [
+            {
+              "id_full_en": "it's public knowledge (that ) ...",
+              "list_im": [
+                {
+                  "im_full_vn": "mọi người đều biết rằng...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's public knowledge (that ) she is a spinster",
+                      "full_vn": "ai cũng biết cô ta là gái già"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "public property",
+              "list_im": [
+                {
+                  "im_full_vn": "(điều) được mọi người biết đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "ai mà chẳng biết anh ta tự cao tự đại",
+                      "full_vn": "his self-importance is public property"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go public",
+              "list_im": [
+                {
+                  "im_full_vn": "trở thành công ty cổ phần do bán cổ phần cho công chúng; cổ phần hoá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the public eye",
+              "list_im": [
+                {
+                  "im_full_vn": "trước mắt công chúng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make a public protest",
+              "full_vn": "phản đối công khai"
+            },
+            {
+              "full_en": "to make one's views public",
+              "full_vn": "công khai bày tỏ quan điểm của mình"
+            },
+            {
+              "full_en": "to give something public utterance",
+              "full_vn": "công bố cái gì"
+            },
+            {
+              "full_en": "a public admission of guilt",
+              "full_vn": "sự công khai nhận tội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the public ) công chúng, quần chúng",
+          "list_en_vn": [
+            {
+              "full_en": "the British public",
+              "full_vn": "công chúng Anh"
+            },
+            {
+              "full_en": "the public is /are not allowed to enter the court room",
+              "full_vn": "công chúng không được phép vào phòng xử án"
+            },
+            {
+              "full_en": "to appeal to the public",
+              "full_vn": "kêu gọi quần chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần của cộng đồng có chung một lợi ích riêng biệt; giới",
+          "list_one_mean": [
+            {
+              "id_full_en": "in public",
+              "list_im": [
+                {
+                  "im_full_vn": "giữa công chúng, công khai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was appearing in public for the first time since her illness",
+                      "full_vn": "từ khi bị bệnh đến nay là lần đầu tiên cô ta xuất hiện trước công chúng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wash one's dirty linen in public",
+              "list_im": [
+                {
+                  "im_full_vn": "xem wash"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the sporting public",
+              "full_vn": "giới ham chuộng thể thao"
+            },
+            {
+              "full_en": "the theatre-going public",
+              "full_vn": "giới đi xem hát"
+            },
+            {
+              "full_en": "she knows how to keep her public satisfied",
+              "full_vn": "cô ta biết cách làm cho giới của mình hài lòng"
+            },
+            {
+              "full_en": "the reading public",
+              "full_vn": "giới bạn đọc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348911_816e42b0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348911_bc46aef582_o.png",
+      "id_image": "public_1163403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463663_bd0e5e36b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463663_5baf47a72c_o.png",
+      "id_image": "public_1719640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348871_e2c3278e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348871_e546532839_o.png",
+      "id_image": "public_2529726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703594_30c09babf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703594_ff5db182e4_o.png",
+      "id_image": "public_5605980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703709_0c01915598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703709_45121cd154_o.png",
+      "id_image": "public_984451"
+    }
+  ]
+}

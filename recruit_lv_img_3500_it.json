@@ -1,0 +1,92 @@
+{
+  "english": "recruit",
+  "phat_am": "[ri'kru:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lính mới; tân binh",
+          "list_en_vn": [
+            {
+              "full_en": "new /raw recruits",
+              "full_vn": "những tân binh mới tuyển mộ/còn non nớt"
+            },
+            {
+              "full_en": "drilling recruits on the parade ground",
+              "full_vn": "huấn luyện tân binh trên thao trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hội viên mới, thành viên mới (của một tổ chức, phong trào...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có được ai làm hội viên mới; tuyển",
+          "list_en_vn": [
+            {
+              "full_en": "to recruit on a regular basis",
+              "full_vn": "tuyển mộ trên cơ sở hợp thức"
+            },
+            {
+              "full_en": "a recruiting officer , poster , drive",
+              "full_vn": "sĩ quan/áp phích/cuộc vận động tuyển quân"
+            },
+            {
+              "full_en": "to recruit new members to the club",
+              "full_vn": "tuyển hội viên mới cho câu lạc bộ"
+            },
+            {
+              "full_en": "to recruit somebody as a spy",
+              "full_vn": "tuyển ai làm gián điệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thành (một đạo quân, một đảng phái..) bằng cách tuyển người vào",
+          "list_en_vn": [
+            {
+              "full_en": "to recruit a task force",
+              "full_vn": "tổ chức một lực lượng đặc nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phục hồi (sức khoẻ)",
+          "list_en_vn": [
+            {
+              "full_en": "to recruit one's health",
+              "full_vn": "phục hồi sức khoẻ"
+            },
+            {
+              "full_en": "to go to the seaside to recruit",
+              "full_vn": "ra biển để nghỉ ngơi lấy lại sức khoẻ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333766_bd83976e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333766_476543a6c8_o.png",
+      "id_image": "recruit_2910452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378652_4de0256be7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378652_159ea54815_o.png",
+      "id_image": "recruit_4133611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688909_f7bddac44d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688909_b6df63d505_o.png",
+      "id_image": "recruit_784809"
+    }
+  ]
+}

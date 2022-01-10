@@ -1,0 +1,45 @@
+{
+  "english": "organization",
+  "phat_am": "[,ɔ:gənai'zei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tổ chức, sự cấu tạo"
+        },
+        {
+          "m_full_vn": "tổ chức, cơ quan",
+          "list_en_vn": [
+            {
+              "full_en": "world organizations",
+              "full_vn": "các tổ chức quốc tế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343566_2b747375bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343566_62e80ab8bb_o.png",
+      "id_image": "organization_171020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809381876_8e903abfcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809381876_d02c83f913_o.png",
+      "id_image": "organization_2654507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343461_176daa883a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343461_71a1481d8e_o.png",
+      "id_image": "organization_3985220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698739_442d6d8497_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698739_f83756aeea_o.png",
+      "id_image": "organization_943777"
+    }
+  ]
+}

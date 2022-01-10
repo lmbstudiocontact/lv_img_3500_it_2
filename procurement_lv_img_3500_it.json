@@ -1,0 +1,47 @@
+{
+  "english": "procurement",
+  "phat_am": "[prə'kjuəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiếm được, sự thu được, sự mua được",
+          "list_en_vn": [
+            {
+              "full_en": "the procurement of goods",
+              "full_vn": "sự thu mua hàng hoá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367582_e38c36b101_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367582_2552d564c2_o.png",
+      "id_image": "procurement_4762574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059350_46e9dd4d19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059350_7675e1f99f_o.png",
+      "id_image": "procurement_4797346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677699_cea1dbe589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677699_4595588a04_o.png",
+      "id_image": "procurement_5351603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322491_7d00825ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322491_afdb1b405f_o.png",
+      "id_image": "procurement_6092074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677609_0d479a0bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677609_407fdd65d3_o.png",
+      "id_image": "procurement_6207209"
+    }
+  ]
+}

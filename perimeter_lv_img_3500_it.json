@@ -1,0 +1,37 @@
+{
+  "english": "perimeter",
+  "phat_am": "[pə'rimitə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chu vi; vành đai"
+        },
+        {
+          "m_full_vn": "máy đo trường nhìn (thị trường)"
+        },
+        {
+          "m_full_vn": "(quân sự) vòng ngoài của doanh trại (đồn luỹ...)",
+          "list_en_vn": [
+            {
+              "full_en": "the perimeter of the airfield",
+              "full_vn": "vành đai của sân bay"
+            },
+            {
+              "full_en": "the perimeter fence",
+              "full_vn": "hàng rào vòng ngoài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320511_8e03820144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320511_1b00724a42_o.png",
+      "id_image": "perimeter_390048"
+    }
+  ]
+}

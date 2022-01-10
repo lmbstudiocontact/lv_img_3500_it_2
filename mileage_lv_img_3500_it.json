@@ -1,0 +1,33 @@
+{
+  "english": "mileage",
+  "phat_am": "['mailidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổng số dặm đã đi được"
+        },
+        {
+          "m_full_vn": "như mileage allowance"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lợi lộc; lời lãi",
+          "list_en_vn": [
+            {
+              "full_en": "there is no mileage in that type of business",
+              "full_vn": "chẳng có lợi lộc gì trong cái kiểu làm ăn đó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343976_fc856bcaeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343976_8a6208b864_o.png",
+      "id_image": "mileage_5235583"
+    }
+  ]
+}

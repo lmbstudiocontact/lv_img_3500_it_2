@@ -1,0 +1,35 @@
+{
+  "english": "regression",
+  "phat_am": "[ri'gre∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại"
+        },
+        {
+          "m_full_vn": "(toán học) hồi quy",
+          "list_en_vn": [
+            {
+              "full_en": "plane of regression",
+              "full_vn": "mặt phẳng hồi quy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444668_370f50c52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444668_ecd599cda0_o.png",
+      "id_image": "regression_2620563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444623_7f1115bf5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444623_32be797c6f_o.png",
+      "id_image": "regression_4884584"
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "english": "play",
+  "phat_am": "[plei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vui chơi, sự nô đùa, sự đùa giỡn; trò chơi, trò đùa",
+          "list_en_vn": [
+            {
+              "full_en": "to be at play",
+              "full_vn": "đang chơi, đang nô đùa"
+            },
+            {
+              "full_en": "to say something in play",
+              "full_vn": "nói chơi (nói đùa) điều gì"
+            },
+            {
+              "full_en": "out of more play",
+              "full_vn": "chỉ là chơi, chỉ là đùa"
+            },
+            {
+              "full_en": "a play of words",
+              "full_vn": "lối chơi chữ; tài dùng chữ"
+            },
+            {
+              "full_en": "a play on words",
+              "full_vn": "lối chơi chữ, lối nói mập mờ"
+            },
+            {
+              "full_en": "child's play",
+              "full_vn": "trò chơi trẻ con; (nghĩa bóng) trò hề, việc ngon ơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc chơi; trận đấu; cách chơi, lối chơi",
+          "list_en_vn": [
+            {
+              "full_en": "the play began at three o'clock",
+              "full_vn": "trận đấu bắt đầu lúc ba giờ"
+            },
+            {
+              "full_en": "to win the match by good play",
+              "full_vn": "thắng trận đấu nhờ lối chơi hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lối chơi, cách xử sự",
+          "list_en_vn": [
+            {
+              "full_en": "fair play",
+              "full_vn": "lối chơi ngay thẳng; (nghĩa bóng) cách xử sự công bình, cách xử sự ngay thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đánh bạc, trò cờ bạc",
+          "list_en_vn": [
+            {
+              "full_en": "to be ruined by play",
+              "full_vn": "khánh kiệt vì cờ bạc"
+            },
+            {
+              "full_en": "the play runs high",
+              "full_vn": "cờ bạc đánh to"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kịch, vở kịch, vở tuồng",
+          "list_en_vn": [
+            {
+              "full_en": "to go to the play",
+              "full_vn": "đi xem kịch"
+            },
+            {
+              "full_en": "shakespeare's plays",
+              "full_vn": "những vở kịch của Sếch-xpia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giỡn, sự lung linh, sự lấp lánh, sự óng ánh, sự nhấp nhô, sự tung tăng",
+          "list_en_vn": [
+            {
+              "full_en": "the play of moonlight on water",
+              "full_vn": "ánh trăng lấp lánh trên mặt nước"
+            },
+            {
+              "full_en": "play of light",
+              "full_vn": "ánh sáng lung linh, ánh sáng lấp lánh"
+            },
+            {
+              "full_en": "play of colour",
+              "full_vn": "màu sắc óng ánh"
+            },
+            {
+              "full_en": "play of the waves",
+              "full_vn": "sóng nhấp nhô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hoạt động; phạm vi hoạt động; sự vận dụng, sự sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "in full play",
+              "full_vn": "đang hoạt động mạnh"
+            },
+            {
+              "full_en": "to come into play",
+              "full_vn": "bắt đầu hoạt động; bắt đầu có hiệu lực"
+            },
+            {
+              "full_en": "to bring (call ) into play",
+              "full_vn": "phát huy"
+            },
+            {
+              "full_en": "to give full play to one's imagination",
+              "full_vn": "để cho tưởng tượng tự do phiêu diêu, thả hồn theo tưởng tượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự chuyển vận, sự vận hành (của một bộ phận máy); sự xoay chuyển; phạm vi xoay chuyển; cách chạy",
+          "list_en_vn": [
+            {
+              "full_en": "bolts should have a centimeter of play",
+              "full_vn": "chốt phải có một khoảng xê dịch một xentimet mới được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự long, sự xộc xệch; chỗ long, chỗ xộc xệch; khe hở, độ hở",
+          "list_en_vn": [
+            {
+              "full_en": "a play in the wheel",
+              "full_vn": "chỗ long ở bánh xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nghỉ việc (của công nhân lúc đình công)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chơi, nô đùa, đùa giỡn",
+          "list_en_vn": [
+            {
+              "full_en": "to play with children",
+              "full_vn": "nô đùa với trẻ con, chơi với trẻ con"
+            },
+            {
+              "full_en": "to play with love",
+              "full_vn": "đùa với tình yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chơi, đánh (đàn...), thổi (sáo...)...",
+          "list_en_vn": [
+            {
+              "full_en": "to play at cards",
+              "full_vn": "chơi bài, đánh bài"
+            },
+            {
+              "full_en": "to play at chess",
+              "full_vn": "chơi cờ, đánh cờ"
+            },
+            {
+              "full_en": "to play on the piano",
+              "full_vn": "chơi đàn pianô, đánh đàn pianô"
+            },
+            {
+              "full_en": "to play upon words",
+              "full_vn": "chơi chữ, nói mập mờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chơi, đánh, đá... (hay, dở...); chơi được (sân, bãi)",
+          "list_en_vn": [
+            {
+              "full_en": "to play well",
+              "full_vn": "chơi hay, đánh hay, đá hay..."
+            },
+            {
+              "full_en": "the ground plays well today",
+              "full_vn": "sân hôm nay chơi tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh bạc",
+          "list_en_vn": [
+            {
+              "full_en": "to play high",
+              "full_vn": "đánh lớn; đánh những quân bài cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng (kịch, tuồng...); biểu diễn",
+          "list_en_vn": [
+            {
+              "full_en": "to play in a film",
+              "full_vn": "đóng trong một phim"
+            },
+            {
+              "full_en": "to play (the part of ) Ophelia",
+              "full_vn": "đóng vai Ophelia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nã vào (súng); phun vào (vòi cứu hoả)",
+          "list_en_vn": [
+            {
+              "full_en": "guns begin to play on the walls",
+              "full_vn": "súng đạn lớn bắt đầu nã vào những bức tường thành"
+            },
+            {
+              "full_en": "fire-engines play on the fire",
+              "full_vn": "xe chữa cháy phun vào đám cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giỡn, lung linh, lấp lánh, óng ánh, lóng lánh, chập chờn, nhấp nhô",
+          "list_en_vn": [
+            {
+              "full_en": "smile plays about lips",
+              "full_vn": "nụ cười thoáng (giỡn) trên môi"
+            },
+            {
+              "full_en": "moonlight plays on water",
+              "full_vn": "ánh trăng lấp lánh trên mặt nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) xử sự, ăn ở",
+          "list_en_vn": [
+            {
+              "full_en": "to play foul",
+              "full_vn": "chơi xấu, chơi ăn gian; (nghĩa bóng) xử sự không ngay thẳng, gian lận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chạy, chuyển vận, vận hành, xoay dễ dàng... (bộ phận máy)"
+        },
+        {
+          "m_full_vn": "nghỉ việc, không làm việc (công nhân đình công)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chơi, đánh, đá...",
+          "list_en_vn": [
+            {
+              "full_en": "to play football",
+              "full_vn": "đá bóng, chơi bóng đá"
+            },
+            {
+              "full_en": "to play tennis",
+              "full_vn": "chơi quần vợt, đánh quần vợt"
+            },
+            {
+              "full_en": "to play chess",
+              "full_vn": "đánh cờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) chơi, đánh, kéo, thổi...",
+          "list_en_vn": [
+            {
+              "full_en": "to play the piano",
+              "full_vn": "chơi pianô, đánh đàn pianô"
+            },
+            {
+              "full_en": "to play the violon",
+              "full_vn": "kéo viôlông"
+            },
+            {
+              "full_en": "to play the flute",
+              "full_vn": "thổi sáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh (một quả bóng), đánh ra (một quân bài); đi (một quân cờ)",
+          "list_en_vn": [
+            {
+              "full_en": "to play the ball into the net",
+              "full_vn": "đánh quả bóng vào lưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thi đấu với, đấu",
+          "list_en_vn": [
+            {
+              "full_en": "to play the best team",
+              "full_vn": "đấu với đội hay nhất"
+            },
+            {
+              "full_en": "to play a match",
+              "full_vn": "đấu một trận"
+            },
+            {
+              "full_en": "to play somebody at chess",
+              "full_vn": "đánh cờ với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chọn (ai) vào chơi...; cho (ai) vào chơi... (trong đội)",
+          "list_en_vn": [
+            {
+              "full_en": "to play someone as goalkeeper",
+              "full_vn": "chọn ai làm người giữ gôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng, đóng vai, diễn (kịch...), biểu diễn (bản nhạc...); giả làm (để đùa chơi)",
+          "list_en_vn": [
+            {
+              "full_en": "to play Hamlet",
+              "full_vn": "đóng vai Hăm-lét"
+            },
+            {
+              "full_en": "to play a tragedy",
+              "full_vn": "diễn một vở kịch"
+            },
+            {
+              "full_en": "let's play that we are soldiers",
+              "full_vn": "chúng ta hãy giả làm bộ đội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xử sự như là",
+          "list_en_vn": [
+            {
+              "full_en": "to play truant",
+              "full_vn": "trốn học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm chơi, chơi xỏ (ai, một vố)",
+          "list_en_vn": [
+            {
+              "full_en": "to play a trick upon somebody ; to play somebody a trick",
+              "full_vn": "chơi xỏ ai một vố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nả (súng...), chiếu (đèn pha...), phun (nước)",
+          "list_en_vn": [
+            {
+              "full_en": "to play guns on the walls",
+              "full_vn": "nã súng lớn vào những bức tường thành"
+            },
+            {
+              "full_en": "to play water on the fire",
+              "full_vn": "phun nước vào đám cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giật, giật dây câu cho mệt (cá)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to play at",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi (cờ, bóng đá, bài...)"
+                },
+                {
+                  "im_full_vn": "giả làm, làm ra bộ (để đùa chơi)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to play at soldiers",
+                      "full_vn": "giả làm bộ đội"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) làm miễn cưỡng, làm tắc trách (việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play in",
+              "list_im": [
+                {
+                  "im_full_vn": "cử nhạc đón (khách, khán giả...) vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho (ai) lộ rõ bộ mặt thật, làm cho (ai) lộ rõ nhược điểm"
+                },
+                {
+                  "im_full_vn": "kích (ai... chống lại ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to play off somebody against another",
+                      "full_vn": "kích ai chống lại ai (để có lợi cho mình)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đánh tráo, đánh lộn sòng (cái gì...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to play off something as something else",
+                      "full_vn": "đánh tráo (đánh lộn sòng) cái gì với cái gì khác"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) đấu lại để quyết định (một trận đấu hoà...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play on",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to play on someone's credulity",
+                      "full_vn": "lợi dụng lòng cả tin của ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) đánh bóng vào gôn bên mình ( crickê)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play out",
+              "list_im": [
+                {
+                  "im_full_vn": "cử nhạc tiễn đưa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the orchestra plays the audience out",
+                      "full_vn": "ban nhạc cử nhạc tiễn đưa khán giả ra về"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play up",
+              "list_im": [
+                {
+                  "im_full_vn": "( + to ) (sân khấu) đóng cốt để làm nổi bật diễn xuất (của một diễn viên khác)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to play up to someone",
+                      "full_vn": "đóng cốt để làm nổi bật diễn xuất của ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) nịnh, tân bốc"
+                },
+                {
+                  "im_full_vn": "trêu chọc làm (ai) phát cáu"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lợi dụng (cái gì)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) chơi tận tình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play on to play booty",
+              "list_im": [
+                {
+                  "im_full_vn": "như booty"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play by ear",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh đàn mò (nhớ lỏm, không biết nhạc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play one's cards well",
+              "list_im": [
+                {
+                  "im_full_vn": "như card"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the deuce (devil ) with",
+              "list_im": [
+                {
+                  "im_full_vn": "phá hoại; làm hỏng bét cả; chơi xỏ một vố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play ducks and drakes with",
+              "list_im": [
+                {
+                  "im_full_vn": "như duck"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play someone false",
+              "list_im": [
+                {
+                  "im_full_vn": "như false"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play fast and loose",
+              "list_im": [
+                {
+                  "im_full_vn": "như fast"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play first (second ) fiddle",
+              "list_im": [
+                {
+                  "im_full_vn": "như fiddle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the game",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi đúng thể lệ quy định"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) chơi ngay thẳng, xử sự ngay thẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play a good knife and fork",
+              "list_im": [
+                {
+                  "im_full_vn": "như knife"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play bell (the mischief )",
+              "list_im": [
+                {
+                  "im_full_vn": "gieo tai hoạ, tàn phá, phá phách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play one's hand for all it is worth",
+              "list_im": [
+                {
+                  "im_full_vn": "triệt để lợi dụng cơ hội; sử dụng mọi phương tiện, dùng đủ mọi cách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play into the hands of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lợi cho ai, làm cho ai hưởng, làm cỗ cho ai ăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play it low on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) lợi dụng ai một cách ti tiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the man",
+              "list_im": [
+                {
+                  "im_full_vn": "cư xử đúng phẩm cách con người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the market",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đầu cơ chứng khoán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play for time",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi kéo dài thời gian, làm kế hoãn binh"
+                },
+                {
+                  "im_full_vn": "cố tranh thủ thời gian"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to play a fish",
+              "full_vn": "giật dây câu cho mệt cá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386442_e988be2b53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386442_309f628a03_o.png",
+      "id_image": "play_3590560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386397_fb3b6ccd89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386397_db3acde4bd_o.png",
+      "id_image": "play_6381520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341451_fc21d7cde4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341451_27285fb938_o.png",
+      "id_image": "play_814147"
+    }
+  ]
+}

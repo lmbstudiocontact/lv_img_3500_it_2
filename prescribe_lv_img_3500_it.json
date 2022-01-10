@@ -1,0 +1,33 @@
+{
+  "english": "prescribe",
+  "phat_am": "[pris'kraib]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh, quy định, bắt phải",
+          "list_en_vn": [
+            {
+              "full_en": "to prescribe to someone what to do",
+              "full_vn": "ra lệnh cho ai phải làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) cho, kê đơn (thuốc..)"
+        },
+        {
+          "m_full_vn": "( + to , for ) (pháp lý) thi hành quyền thời hiệu; được vì quyền thời hiệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443533_ed2ba95929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443533_859a7f42e5_o.png",
+      "id_image": "prescribe_1407906"
+    }
+  ]
+}

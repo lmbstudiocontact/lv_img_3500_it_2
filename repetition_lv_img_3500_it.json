@@ -1,0 +1,60 @@
+{
+  "english": "repetition",
+  "phat_am": "[,repi'ti∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhắc lại, sự được nhắc lại; điều nhắc lại, điều được nhắc lại",
+          "list_en_vn": [
+            {
+              "full_en": "learn in repetition",
+              "full_vn": "học bằng cách nhắc lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tái diễn",
+          "list_en_vn": [
+            {
+              "full_en": "let there be no repertition of this behaviour",
+              "full_vn": "hãy đừng để tái diễn lối cư xử này (tức là đừng làm (như) thế nữa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bắt chước",
+          "list_en_vn": [
+            {
+              "full_en": "a mere repetition",
+              "full_vn": "chỉ là một sự bắt chước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài học thuộc lòng"
+        },
+        {
+          "m_full_vn": "bản sao chép, bản mô phỏng",
+          "list_en_vn": [
+            {
+              "full_en": "a repertition of a previous talk",
+              "full_vn": "bản sao một cuộc nói chuyện trước đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự tập duyệt; ngón mổ liên tục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323546_c4f930baef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323546_39da1faa3e_o.png",
+      "id_image": "repetition_3079252"
+    }
+  ]
+}

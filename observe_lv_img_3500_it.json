@@ -1,0 +1,56 @@
+{
+  "english": "observe",
+  "phat_am": "[ə'bzə:v]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan sát, theo dõi"
+        },
+        {
+          "m_full_vn": "tiến hành; cử hành lễ hội (lễ kỷ niệm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to observe someone's birthday",
+              "full_vn": "làm lễ kỷ niệm ngày sinh của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuân theo, tôn trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to observe the laws",
+              "full_vn": "tuân theo pháp luật"
+            },
+            {
+              "full_en": "to observe silence",
+              "full_vn": "giữ yên lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on ) nhận xét"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464088_226614edbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464088_0e9aa69351_o.png",
+      "id_image": "observe_2598750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704164_a7b49b8f50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704164_c63ea58ab1_o.png",
+      "id_image": "observe_470979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349421_7e046df65f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349421_c4f0cbf334_o.png",
+      "id_image": "observe_6041392"
+    }
+  ]
+}

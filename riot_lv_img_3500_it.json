@@ -1,0 +1,143 @@
+{
+  "english": "riot",
+  "phat_am": "['raiət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự náo động, sự náo loạn, sự tụ tập phá rối (trật tự công cộng...)"
+        },
+        {
+          "m_full_vn": "cuộc nổi loạn, cuộc dấy loạn"
+        },
+        {
+          "m_full_vn": "sự phóng đãng, sự trác táng"
+        },
+        {
+          "m_full_vn": "cuộc chè chén ầm ĩ, cuộc trác táng ầm ĩ, sự quấy phá ầm ĩ (của những người chè chén...)"
+        },
+        {
+          "m_full_vn": "sự bừa bãi, sự lộn xộn, sự lung tung",
+          "list_en_vn": [
+            {
+              "full_en": "a riot of colours",
+              "full_vn": "một mớ màu sắc lộn xộn"
+            },
+            {
+              "full_en": "a riot of sound",
+              "full_vn": "âm thanh lộn xộn"
+            },
+            {
+              "full_en": "a riot of wild trees",
+              "full_vn": "một đám cây dại mọc bừa bãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(săn bắn) sự đánh hơi lung tung, sự theo vết lung tung (chó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Riot Act",
+              "list_im": [
+                {
+                  "im_full_vn": "đạo luật ngăn ngừa sự tụ tập phá rối trật tự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read the Riot Act",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh cáo không cho tụ tập phá rối trật tự, cảnh cáo bắt phải giải tán"
+                },
+                {
+                  "im_full_vn": "(đùa cợt) mắng mỏ bắt im đi không được quấy nghịch ầm ĩ (bố mẹ bắt con cái)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run riot",
+              "list_im": [
+                {
+                  "im_full_vn": "tha hồ hoành hành được buông thả bừa bãi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "diseases run riot",
+                      "full_vn": "bệnh tật tha hồ hoành hành"
+                    },
+                    {
+                      "full_en": "tongue runs riot",
+                      "full_vn": "ăn nói lung tung bừa bãi"
+                    },
+                    {
+                      "full_en": "grass runs riot in the garden",
+                      "full_vn": "cỏ mọc bừa bãi trong vườn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gây hỗn loạn, làm náo loạn"
+        },
+        {
+          "m_full_vn": "nổi loạn, dấy loạn"
+        },
+        {
+          "m_full_vn": "sống phóng đãng, ăn chơi trác táng"
+        },
+        {
+          "m_full_vn": "chè chén ầm ĩ, quấy phá ầm ĩ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + away ) phung phí (thì giờ, tiền bạc...) vào những cuộc ăn chơi trác táng",
+          "list_en_vn": [
+            {
+              "full_en": "to riot away",
+              "full_vn": "phung phí thì giờ vào những cuộc ăn chơi trác táng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + out ) ăn chơi trác táng làm mòn mỏi hư hỏng (cuộc đời)",
+          "list_en_vn": [
+            {
+              "full_en": "to riot out one's life",
+              "full_vn": "ăn chơi trác táng làm mòn mỏi hư hỏng cuộc đời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390962_ae713b7b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390962_c647a46820_o.png",
+      "id_image": "riot_2529735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390907_2ac9c3ca2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390907_1bc5622e76_o.png",
+      "id_image": "riot_2529770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345941_0db2a36a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345941_73c8be9f8f_o.png",
+      "id_image": "riot_6009698"
+    }
+  ]
+}

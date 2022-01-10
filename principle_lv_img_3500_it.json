@@ -1,0 +1,82 @@
+{
+  "english": "principle",
+  "phat_am": "['prinsəpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gốc, nguồn gốc, yếu tố cơ bản",
+          "list_en_vn": [
+            {
+              "full_en": "the principle of all good",
+              "full_vn": "gốc của mọi điều thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên lý, nguyên tắc",
+          "list_en_vn": [
+            {
+              "full_en": "buoyancy principle",
+              "full_vn": "nguyên lý Ac-si-mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phép tắc, nguyên tắc đạo đức, phương châm xử thế",
+          "list_en_vn": [
+            {
+              "full_en": "a man of principle",
+              "full_vn": "người sống có phép tắc"
+            },
+            {
+              "full_en": "to do something on principle",
+              "full_vn": "làm gì theo nguyên tắc"
+            },
+            {
+              "full_en": "to lay down as a principle",
+              "full_vn": "đặt thành nguyên tắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên lý, nguyên tắc cấu tạo (máy)"
+        },
+        {
+          "m_full_vn": "(hoá học) yếu tố cấu tạo đặc trưng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in principle",
+              "list_im": [
+                {
+                  "im_full_vn": "về nguyên tắc cơ bản; nói chung (không đi vào chi tiết)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on principle",
+              "list_im": [
+                {
+                  "im_full_vn": "vì những nguyên tắc (đạo đức); niềm tin cố định của mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680274_1264d533e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680274_b1b3c4d425_o.png",
+      "id_image": "principle_5267284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061925_9889c9b558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061925_f2eb8ec542_o.png",
+      "id_image": "principle_5307681"
+    }
+  ]
+}

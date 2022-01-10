@@ -1,0 +1,44 @@
+{
+  "english": "optimism",
+  "phat_am": "['ɔptimizəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lạc quan; tính lạc quan",
+          "list_en_vn": [
+            {
+              "full_en": "I'm still full of optimism at any time",
+              "full_vn": "lúc nào tôi cũng vẫn lạc quan"
+            },
+            {
+              "full_en": "revolutionary optimism",
+              "full_vn": "lạc quan cách mạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(triết học) chủ nghĩa lạc quan"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496803_8d1f502ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496803_9a170aeea0_o.png",
+      "id_image": "optimism_4729485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460028_58688097b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460028_0747edc660_o.png",
+      "id_image": "optimism_6001075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345146_4e8cb6259e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345146_7e465754df_o.png",
+      "id_image": "optimism_6002947"
+    }
+  ]
+}

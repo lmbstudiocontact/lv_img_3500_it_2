@@ -1,0 +1,51 @@
+{
+  "english": "rethink",
+  "phat_am": "['ri:θiηk]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "suy tính lại, cân nhắc lại",
+          "list_en_vn": [
+            {
+              "full_en": "rethink a policy",
+              "full_vn": "suy tính lại một chính sách"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự suy tính lại, sự cân nhắc lại",
+          "list_en_vn": [
+            {
+              "full_en": "have a quick rethink before deciding",
+              "full_vn": "suy nghĩ lại thật nhanh trước khi quyết định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704114_7e281be310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704114_a4a157d108_o.png",
+      "id_image": "rethink_2112430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349376_2ec964fb16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349376_e5e826a9d0_o.png",
+      "id_image": "rethink_2587027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349351_41e74eae09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349351_a1ce7ef296_o.png",
+      "id_image": "rethink_6174549"
+    }
+  ]
+}

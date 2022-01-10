@@ -1,0 +1,67 @@
+{
+  "english": "modern",
+  "phat_am": "['mɔdən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiện đại",
+          "list_en_vn": [
+            {
+              "full_en": "modern science",
+              "full_vn": "khoa học hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cận đại",
+          "list_en_vn": [
+            {
+              "full_en": "modern history",
+              "full_vn": "lịch sử cận đại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cận đại, người hiện đại"
+        },
+        {
+          "m_full_vn": "người ưa thích cái mới, người có quan điểm mới"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339011_9b4fd81124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339011_348e502f26_o.png",
+      "id_image": "modern_1430743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076050_b19bbb23fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076050_dd379d0f7d_o.png",
+      "id_image": "modern_3335668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076015_a92b943d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076015_64b775015b_o.png",
+      "id_image": "modern_4412728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694049_43c7fd963a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694049_acd9b1a935_o.png",
+      "id_image": "modern_4698454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075915_6e0933eee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075915_67f7eebe6e_o.png",
+      "id_image": "modern_6377221"
+    }
+  ]
+}

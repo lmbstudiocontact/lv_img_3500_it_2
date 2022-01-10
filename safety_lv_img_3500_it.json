@@ -1,0 +1,53 @@
+{
+  "english": "safety",
+  "phat_am": "['seifti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự an toàn, sự chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be in safety",
+              "full_vn": "ở chỗ an toàn"
+            },
+            {
+              "full_en": "to play for safety",
+              "full_vn": "chơi cẩn thận; chơi ăn chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính an toàn, tính chất không nguy hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "the safety of an experiment",
+              "full_vn": "tính chất không nguy hiểm của cuộc thí nghiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chốt an toàn (ở súng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074550_614c99cfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074550_bd017462a3_o.png",
+      "id_image": "safety_1998603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382517_200f1b96e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382517_56d5befc35_o.png",
+      "id_image": "safety_3684402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337451_6fdfe77ba8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337451_687b974e36_o.png",
+      "id_image": "safety_5939776"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "english": "plane",
+  "phat_am": "[plein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt, mặt bằng, mặt phẳng",
+          "list_en_vn": [
+            {
+              "full_en": "incline plane",
+              "full_vn": "mặt nghiêng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái bào"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây tiêu huyền (như) plane-tree , platan"
+        },
+        {
+          "m_full_vn": "(như) aeroplane",
+          "list_en_vn": [
+            {
+              "full_en": "travel by plane",
+              "full_vn": "đi bằng máy bay"
+            },
+            {
+              "full_en": "a plane flight",
+              "full_vn": "(thuộc ngữ) chuyến bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt tinh thể"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) đường chính"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trình độ; mức, mức độ",
+          "list_en_vn": [
+            {
+              "full_en": "plane of thought",
+              "full_vn": "trình độ tư tưởng"
+            },
+            {
+              "full_en": "plane of knowledge",
+              "full_vn": "trình độ hiểu biết"
+            },
+            {
+              "full_en": "on the same as animals",
+              "full_vn": "ở cùng một mức như thú vật, không khác gì thú vật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bào (gỗ, kim loại...)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) làm bằng phẳng, san bằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to plane down",
+              "list_im": [
+                {
+                  "im_full_vn": "bào nhẵn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to plane the way",
+              "full_vn": "san bằng con đường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi du lịch bằng máy bay"
+        },
+        {
+          "m_full_vn": "( + down ) lướt xuống, lượn (máy bay)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn toàn bằng phẳng",
+          "list_en_vn": [
+            {
+              "full_en": "a plane surface",
+              "full_vn": "một bề mặt bằng phẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phẳng",
+          "list_en_vn": [
+            {
+              "full_en": "plane figure",
+              "full_vn": "hình phẳng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698914_5c02fb7103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698914_e59f84670f_o.png",
+      "id_image": "plane_191542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458373_7fc8e4b046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458373_29b3bb39d5_o.png",
+      "id_image": "plane_1949326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343706_9441e8fa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343706_e7502afec4_o.png",
+      "id_image": "plane_386462"
+    }
+  ]
+}

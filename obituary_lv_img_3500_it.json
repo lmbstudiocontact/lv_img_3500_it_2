@@ -1,0 +1,36 @@
+{
+  "english": "obituary",
+  "phat_am": "[ə'bit∫uəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông cáo về cái chết của một người (có tóm tắt tiểu sử và công lao của người đó); lời cáo phó",
+          "list_en_vn": [
+            {
+              "full_en": "obituary notices",
+              "full_vn": "những cáo phó"
+            },
+            {
+              "full_en": "he writes obits for the local newspaper",
+              "full_vn": "anh ta viết cáo phó cho tờ báo địa phương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434213_f14e5c5d8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434213_eb2ca4c6ca_o.png",
+      "id_image": "obituary_1450718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318976_f853d35696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318976_0c4c9c7d9e_o.png",
+      "id_image": "obituary_6001064"
+    }
+  ]
+}

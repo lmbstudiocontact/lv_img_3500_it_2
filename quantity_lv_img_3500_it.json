@@ -1,0 +1,101 @@
+{
+  "english": "quantity",
+  "phat_am": "['kwɔntəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lượng, số lượng, khối lượng"
+        },
+        {
+          "m_full_vn": "con số, số lượng; con số lớn, số lượng lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a small quatity of cutlery",
+              "full_vn": "một số nhỏ dao kéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) số lớn, vô số, rất nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "quantities of people",
+              "full_vn": "rất nhiều người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) con số; (vật lý) lượng",
+          "list_en_vn": [
+            {
+              "full_en": "electric quantity",
+              "full_vn": "điện lượng"
+            },
+            {
+              "full_en": "quantity of heat",
+              "full_vn": "nhiệt lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) âm lượng"
+        },
+        {
+          "m_full_vn": "( số nhiều) (kiến trúc) chi tiết thiết kế thi công (một toà nhà...)"
+        },
+        {
+          "m_full_vn": "( định ngữ) (kỹ thuật) hàng loạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to buy in quantities",
+              "list_im": [
+                {
+                  "im_full_vn": "mua một số lớn, mua rất nhiều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bilt of quantities",
+              "list_im": [
+                {
+                  "im_full_vn": "bảng chi tiết thiết kế thi công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an unknown quantity",
+              "list_im": [
+                {
+                  "im_full_vn": "ẩn số; lượng chưa biết"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) người lạ, người mà không ai biết tung tích; người mà hành động không ai lường trước được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "quantity productions",
+              "full_vn": "sự sản xuất hàng loạt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345101_12ef27a440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345101_19da87d7ae_o.png",
+      "id_image": "quantity_1356587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700229_83c332cef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700229_3d2ea8b253_o.png",
+      "id_image": "quantity_2104137"
+    }
+  ]
+}

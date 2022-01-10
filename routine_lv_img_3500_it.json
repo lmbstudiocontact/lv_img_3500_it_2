@@ -1,0 +1,57 @@
+{
+  "english": "routine",
+  "phat_am": "[ru:'ti:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lề thói hằng ngày; thói thường, công việc thường làm hằng ngày"
+        },
+        {
+          "m_full_vn": "lệ thường, thủ tục",
+          "list_en_vn": [
+            {
+              "full_en": "these questions are asked as a matter of routine",
+              "full_vn": "người ra đặt những câu hỏi này theo thủ tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một chuỗi những động tác cố định trong một điệu múa, một cuộc trình diễn"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông thường; thường lệ; thường làm đều đặn",
+          "list_en_vn": [
+            {
+              "full_en": "the routine procedure",
+              "full_vn": "thủ tục thường lệ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340896_14dc484c43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340896_3652d43155_o.png",
+      "id_image": "routine_2738826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385812_5946b4f6c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385812_2c1a5ec69e_o.png",
+      "id_image": "routine_5101217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385787_e85b7df918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385787_db39cd1dae_o.png",
+      "id_image": "routine_5775316"
+    }
+  ]
+}

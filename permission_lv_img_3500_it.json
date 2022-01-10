@@ -1,0 +1,37 @@
+{
+  "english": "permission",
+  "phat_am": "[pə'mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cho phép, sự chấp nhận; giấy phép",
+          "list_en_vn": [
+            {
+              "full_en": "with your kind permission",
+              "full_vn": "với sự rộng lượng cho phép của ông (nếu ông cho phép)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057200_8a4f962fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057200_6848e2e5e7_o.png",
+      "id_image": "permission_2172839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365367_38e9119abd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365367_471cf897ff_o.png",
+      "id_image": "permission_3663412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675384_79814c3e19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675384_3484555e79_o.png",
+      "id_image": "permission_4391723"
+    }
+  ]
+}

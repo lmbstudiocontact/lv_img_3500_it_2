@@ -1,0 +1,49 @@
+{
+  "english": "replacement",
+  "phat_am": "[ri'pleismənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thay thế, sự được thay thế; vật thay thế, người thay thế, vật được thay thế, người được thay thế",
+          "list_en_vn": [
+            {
+              "full_en": "the replacement of worn parts",
+              "full_vn": "sự thay thế những bộ phận đã mòn"
+            },
+            {
+              "full_en": "replacement staff",
+              "full_vn": "(thuộc ngữ) nhân viên thay thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đặt lại chỗ cũ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323401_25a0ca8f23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323401_b9f6df7fa7_o.png",
+      "id_image": "replacement_2666809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060200_647532c73e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060200_c5eb38c0d9_o.png",
+      "id_image": "replacement_4866732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368272_5aa9717441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368272_bfdb59fb2a_o.png",
+      "id_image": "replacement_5060046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678514_6f97548a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678514_dcdafb0702_o.png",
+      "id_image": "replacement_5351617"
+    }
+  ]
+}

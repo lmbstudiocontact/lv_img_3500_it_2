@@ -1,0 +1,68 @@
+{
+  "english": "rim",
+  "phat_am": "[rim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vành bánh xe"
+        },
+        {
+          "m_full_vn": "bờ, mép, vành (vật hình tròn); miệng (bát, chum, vại); cạp (nong, nia)",
+          "list_en_vn": [
+            {
+              "full_en": "a glass of beer full to the rim",
+              "full_vn": "một cốc bia đầy tới miệng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gọng (kính)",
+          "list_en_vn": [
+            {
+              "full_en": "spectacle rims",
+              "full_vn": "gọng kính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) mặt nước"
+        },
+        {
+          "m_full_vn": "(thiên văn học) vầng (mặt trời...)",
+          "list_en_vn": [
+            {
+              "full_en": "the rim of the sun",
+              "full_vn": "vầng mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) cái vòng, vật hình tròn",
+          "list_en_vn": [
+            {
+              "full_en": "golden rim",
+              "full_vn": "mũ miện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vây bọc, viền xung quanh, cạp, làm vành"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461408_ce59655062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461408_574e47581a_o.png",
+      "id_image": "rim_6246410"
+    }
+  ]
+}

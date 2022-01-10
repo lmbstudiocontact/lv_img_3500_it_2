@@ -1,0 +1,85 @@
+{
+  "english": "paddle",
+  "phat_am": "['pædl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mái chèo, cánh (guồng nước)",
+          "list_en_vn": [
+            {
+              "full_en": "double paddle",
+              "full_vn": "mái xuồng chèo cả hai đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc bơi xuồng, sự chèo xuồng"
+        },
+        {
+          "m_full_vn": "thời gian bơi chèo, thời gian lội nước"
+        },
+        {
+          "m_full_vn": "(động vật học), (như) flipper"
+        },
+        {
+          "m_full_vn": "dụng cụ có hình mái chèo (dùng để trộn thức ăn)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chèo xuồng"
+        },
+        {
+          "m_full_vn": "lội nước"
+        },
+        {
+          "m_full_vn": "khoả nước; di chuyển nhẹ nhàng trong nước"
+        },
+        {
+          "m_full_vn": "vầy, vọc, nghịch bằng ngón tay",
+          "list_en_vn": [
+            {
+              "full_en": "to paddle in (on , about ) something",
+              "full_vn": "vầy một vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi chập chững (trẻ con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "paddle one's own canoe",
+              "list_im": [
+                {
+                  "im_full_vn": "tự lực"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452558_4ded2f3b2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452558_9323898d2c_o.png",
+      "id_image": "paddle_178097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382602_feb76ce18b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382602_c4c2203aaa_o.png",
+      "id_image": "paddle_3254554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692964_ea6c77acbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692964_8509d317ed_o.png",
+      "id_image": "paddle_486390"
+    }
+  ]
+}

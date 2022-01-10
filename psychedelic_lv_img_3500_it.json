@@ -1,0 +1,40 @@
+{
+  "english": "psychedelic",
+  "phat_am": "[,saiki'delik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở trạng thái lâng lâng, ở trạng thái phiêu phiêu (do thuốc phiện...)"
+        },
+        {
+          "m_full_vn": "tạo ảo giác (màu sắc, âm thanh..)",
+          "list_en_vn": [
+            {
+              "full_en": "psychedelic music",
+              "full_vn": "âm nhạc tạo ảo giác (sống động một cách dữ dội)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393997_e89e2a0f94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393997_10327b0a44_o.png",
+      "id_image": "psychedelic_5046947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393972_90b8ac53ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393972_83c8b2eab5_o.png",
+      "id_image": "psychedelic_5046948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463878_af6d15dbab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463878_fb77c96b74_o.png",
+      "id_image": "psychedelic_5046995"
+    }
+  ]
+}

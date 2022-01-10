@@ -1,0 +1,62 @@
+{
+  "english": "relaxation",
+  "phat_am": "[,ri:læk'sei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nới lỏng, sự lơi ra, sự giãn ra (kỷ luật, gân cốt...)"
+        },
+        {
+          "m_full_vn": "sự dịu đi, sự bớt căng thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "relaxation of world tension",
+              "full_vn": "sự bớt căng thẳng của tình hình thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự giảm nhẹ (hình phạt...)",
+          "list_en_vn": [
+            {
+              "full_en": "to beg for a relaxation of punishment",
+              "full_vn": "xin giảm nhẹ hình phạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nghỉ ngơi, sự giải trí",
+          "list_en_vn": [
+            {
+              "full_en": "relaxation is necessary after hard work",
+              "full_vn": "sau khi lao động vất vả cần được nghỉ ngơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) sự hồi phục",
+          "list_en_vn": [
+            {
+              "full_en": "thermal relaxation",
+              "full_vn": "sự hồi phục nhiệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442698_ef31647887_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442698_76cdf46035_o.png",
+      "id_image": "relaxation_5265911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372317_d6c59867f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372317_ac0fbe80dc_o.png",
+      "id_image": "relaxation_5778178"
+    }
+  ]
+}

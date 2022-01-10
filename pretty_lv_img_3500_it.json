@@ -1,0 +1,173 @@
+{
+  "english": "pretty",
+  "phat_am": "['priti]",
+  "list_type": [
+    {
+      "type": "tính từ so sánh",
+      "list_m": [
+        {
+          "m_full_vn": "xinh, xinh xắn, xinh đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "a pretty child",
+              "full_vn": "đứa bé xinh xắn"
+            },
+            {
+              "full_en": "a pretty tune",
+              "full_vn": "một giai điệu dễ thương"
+            },
+            {
+              "full_en": "what a pretty dress !",
+              "full_vn": "cái áo xinh quá!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hay hay, thú vị, đẹp mắt",
+          "list_en_vn": [
+            {
+              "full_en": "a pretty story",
+              "full_vn": "câu chuyện thú vị"
+            },
+            {
+              "full_en": "a pretty song",
+              "full_vn": "bài hát hay hay"
+            },
+            {
+              "full_en": "a pretty scenery",
+              "full_vn": "cảnh đẹp mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẹp, hay, cừ, tốt...",
+          "list_en_vn": [
+            {
+              "full_en": "a pretty wit",
+              "full_vn": "một lời dí dỏm hay"
+            },
+            {
+              "full_en": "a very pretty sport",
+              "full_vn": "môn thể thao rất tốt, môn thể thao rất hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(mỉa mai) hay gớm, hay ho gớm; không dễ chịu, không thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "that is a pretty business",
+              "full_vn": "việc hay ho gớm"
+            },
+            {
+              "full_en": "a pretty mess you have made !",
+              "full_vn": "anh làm được cái việc hay ho gớm!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) lớn, kha khá",
+          "list_en_vn": [
+            {
+              "full_en": "to earn a pretty sum",
+              "full_vn": "kiếm được món tiền kha khá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) dũng cảm, gan dạ; cường tráng, mạnh mẽ",
+          "list_one_mean": [
+            {
+              "id_full_en": "a pretty penny",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not just a pretty face",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải chỉ là người hấp dẫn bề ngoài mà còn những đức tính, khả năng khác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a pretty dellow",
+              "full_vn": "một người dũng cảm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng để âu yếm người mình yêu thích",
+          "list_en_vn": [
+            {
+              "full_en": "my pretty",
+              "full_vn": "con nhỏ của tôi, bé xinh của mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đồ xinh xắn, đồ trang hoàng xinh xinh"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "khá, vừa phải",
+          "list_one_mean": [
+            {
+              "id_full_en": "pretty much /nearly /well",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu như, gần như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that is pretty much the same thing",
+                      "full_vn": "cái đó thì hầu như cũng như vậy thôi (chắng khác gì)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sitting pretty",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) gặp may"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "pretty good",
+              "full_vn": "khá tốt"
+            },
+            {
+              "full_en": "pretty hot",
+              "full_vn": "khá nóng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442013_caf926590b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442013_9dc3e4626c_o.png",
+      "id_image": "pretty_1439704"
+    }
+  ]
+}

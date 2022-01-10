@@ -1,0 +1,27 @@
+{
+  "english": "scary",
+  "phat_am": "['skeəri]",
+  "list_type": [
+    {
+      "type": "tính từ so sánh",
+      "list_m": [
+        {
+          "m_full_vn": "làm sợ hãi, làm kinh hoàng; rùng rợn",
+          "list_en_vn": [
+            {
+              "full_en": "a scary ghost story",
+              "full_vn": "một câu chuyện ma rùng rợn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068620_4f64d15e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068620_3e86016697_o.png",
+      "id_image": "scary_218277"
+    }
+  ]
+}

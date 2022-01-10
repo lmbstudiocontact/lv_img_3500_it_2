@@ -1,0 +1,65 @@
+{
+  "english": "ratio",
+  "phat_am": "['rei∫iouz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều ratios",
+      "list_m": [
+        {
+          "m_full_vn": "tỷ số, tỷ lệ",
+          "list_en_vn": [
+            {
+              "full_en": "ratio of similitude",
+              "full_vn": "(toán học) tỷ số đồng dạng"
+            },
+            {
+              "full_en": "in the ratio of 5 to 10",
+              "full_vn": "theo tỷ lệ 5 trên 10"
+            },
+            {
+              "full_en": "the ratios of 1 to 5 and 20 to 100 are the same",
+              "full_vn": "tỉ lệ của 1 trên 5 và 20 trên 100 là như nhau"
+            },
+            {
+              "full_en": "men outnumber women here in the ratio of three to one",
+              "full_vn": "ở đây đàn ông đông hơn đàn bà theo tỉ lệ ba trên một"
+            },
+            {
+              "full_en": "to be in direct ratio to something",
+              "full_vn": "theo tỷ lệ thuận với cái gì"
+            },
+            {
+              "full_en": "to be in inverse ratio to something",
+              "full_vn": "theo tỷ lệ nghịch với cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) số truyền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382772_13009c4fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382772_2d5b7532a5_o.png",
+      "id_image": "ratio_1202574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074880_87d5776ab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074880_21c789c58c_o.png",
+      "id_image": "ratio_168630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452628_765805ce15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452628_94f177b033_o.png",
+      "id_image": "ratio_4327929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074835_d31c614610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074835_325a885af7_o.png",
+      "id_image": "ratio_554661"
+    }
+  ]
+}

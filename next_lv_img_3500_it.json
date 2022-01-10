@@ -1,0 +1,247 @@
+{
+  "english": "next",
+  "phat_am": "[nekst]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(theo sau the ) đến ngay sau ai/cái gì theo thứ tự (trong không gian hoặc thời gian); tiếp sau",
+          "list_en_vn": [
+            {
+              "full_en": "the next name on the list",
+              "full_vn": "tên kế tiếp trên danh sách"
+            },
+            {
+              "full_en": "how far is it to the next petrol station ?",
+              "full_vn": "đến trạm xăng kế tiếp (gần nhất) còn bao xa?"
+            },
+            {
+              "full_en": "the next train to Manchester is at 10:10",
+              "full_vn": "chuyến tàu kế tiếp đi Manchester sẽ chạy vào lúc 10 giờ 10"
+            },
+            {
+              "full_en": "the very next time I saw her she was working in London",
+              "full_vn": "lần gần đây nhất tôi gặp cô ấy thì cô ấy đang làm việc ởLuân Đôn"
+            },
+            {
+              "full_en": "the next person to speak will be punished",
+              "full_vn": "người tiếp theo mà nói thì sẽ bị phạt"
+            },
+            {
+              "full_en": "the next six months will be the hardest",
+              "full_vn": "gay go nhất là sáu tháng tiếp theo"
+            },
+            {
+              "full_en": "I felt a sharp pain in my head and the next thing I knew was waking up in hospital",
+              "full_vn": "tôi thấy đau nhói ở đầu, rồi chuyện tiếp theo mà tôi biết được là mình tỉnh dậy trong bệnh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không có the đứng trước, chẳng hạn (như) Monday , week , winter , year để chỉ cái tiếp ngay sau)",
+          "list_one_mean": [
+            {
+              "id_full_en": "better luck next time",
+              "list_im": [
+                {
+                  "im_full_vn": "thua keo này, bày keo khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as good /well as the next man",
+              "list_im": [
+                {
+                  "im_full_vn": "bình thường như mọi người",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can enjoy a joke as well as the next man , but this is going too far",
+                      "full_vn": "tôi cũng có thể vui đùa như mọi người, nhưng chuyện này đi quá xa đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the next world",
+              "list_im": [
+                {
+                  "im_full_vn": "thế giới bên kia, cõi âm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first /last /next but one , two , three ...",
+              "list_im": [
+                {
+                  "im_full_vn": "xem first"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "next Thursday is 6 April",
+              "full_vn": "thứ năm tới là ngày 6 tháng 4"
+            },
+            {
+              "full_en": "next week",
+              "full_vn": "tuần sau; tuần tới"
+            },
+            {
+              "full_en": "next month",
+              "full_vn": "tháng sau, tháng tới"
+            },
+            {
+              "full_en": "next year",
+              "full_vn": "năm sau; năm tới"
+            },
+            {
+              "full_en": "not till next time",
+              "full_vn": "(đùa cợt) lần sau xin chừa; xin khất đến lần sau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau cái này hoặc cái kia; sau đó",
+          "list_en_vn": [
+            {
+              "full_en": "who's next on the list ?",
+              "full_vn": "người kế tiếp trên danh sách là ai?"
+            },
+            {
+              "full_en": "when shall we meet next ?",
+              "full_vn": "lần sau bao giờ ta lại gặp nhau?"
+            },
+            {
+              "full_en": "what must I do next ?",
+              "full_vn": "tiếp sau đây tôi phải làm cái gì?"
+            },
+            {
+              "full_en": "next we visited Tokyo",
+              "full_vn": "sau đó, chúng tôi đi thăm Tokyo"
+            },
+            {
+              "full_en": "what comes next ?",
+              "full_vn": "còn cái gì tiếp theo nữa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm vị trí tiếp sau theo thứ tự",
+          "list_en_vn": [
+            {
+              "full_en": "the next oldest building is the church",
+              "full_vn": "toà nhà cổ nhất tiếp theo là nhà thờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau từ nghi vấn để thể hiện sự ngạc nhiên)",
+          "list_en_vn": [
+            {
+              "full_en": "you're learning to be a parachutist ! Whatever next !",
+              "full_vn": "cậu đang học nhảy dù ấy à! rồi còn gi nữa!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "bên cạnh, sát bên",
+          "list_en_vn": [
+            {
+              "full_en": "the National Museum locates next to the National Institute of Archaeology",
+              "full_vn": "Viện bảo tàng quốc gia nằm sát bên Viện khảo cổ quốc gia"
+            },
+            {
+              "full_en": "Peter sat next to Paul on the sofa",
+              "full_vn": "Peter ngôi ngay cạnh Paul trên ghế xô pha"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở vị trí sau ai/cái gì, tiếp theo",
+          "list_en_vn": [
+            {
+              "full_en": "next to skiing her favourite sport was ice-hockey",
+              "full_vn": "sau môn trượt tuyết, môn thể thao cô ấy thích nhất là \" hốccây\" trên băng"
+            },
+            {
+              "full_en": "Birmingham is the largest city in Britain next to London",
+              "full_vn": "Birmingham là thành phố lớn nhất ở Anh sau Luân Đôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần như",
+          "list_en_vn": [
+            {
+              "full_en": "papering the ceiling proves next to impossible without a ladder",
+              "full_vn": "dán giấy trên trần mà không có thang leo lên thì hầu như chẳng làm gì được"
+            },
+            {
+              "full_en": "I got it for next to nothing in a jumble sale",
+              "full_vn": "tôi kiếm được nó hầu như với giá cho không trong một cuộc bán đồ tầm tầm"
+            },
+            {
+              "full_en": "my horse came next to last in the race",
+              "full_vn": "ngựa của tôi về áp chót trong cuộc đua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the next ) người tiếp sau; cái tiếp sau, số (báo) sau...",
+          "list_en_vn": [
+            {
+              "full_en": "the next to arrive",
+              "full_vn": "người đến sau"
+            },
+            {
+              "full_en": "the next , please !",
+              "full_vn": "đến người tiếp sau!"
+            },
+            {
+              "full_en": "to be continued in our next",
+              "full_vn": "sẽ đăng tiếp vào số sau (báo)"
+            },
+            {
+              "full_en": "I'll tell you of it in my next",
+              "full_vn": "tôi sẽ nói cho anh hay về điều đó ở thư sau"
+            },
+            {
+              "full_en": "the first episode was good - now we have to wait a week for the next",
+              "full_vn": "đoạn đầu vậy là hay - bây giờ ta phải đợi một tuần nữa xem đoạn tiếp theo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438153_26f0a37824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438153_48baec11d6_o.png",
+      "id_image": "next_452320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438113_32497c3687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438113_db30d70c43_o.png",
+      "id_image": "next_6321842"
+    }
+  ]
+}

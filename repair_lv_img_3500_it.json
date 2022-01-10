@@ -1,0 +1,153 @@
+{
+  "english": "repair",
+  "phat_am": "[ri'peə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hồi phục hoặc được hồi phục",
+          "list_en_vn": [
+            {
+              "full_en": "a road under repair",
+              "full_vn": "con đường đang được sửa chữa"
+            },
+            {
+              "full_en": "your television was (damaged ) beyond repair",
+              "full_vn": "máy thu hình của ông bị hỏng đến mức không sửa được nữa"
+            },
+            {
+              "full_en": "a bike repair shop",
+              "full_vn": "cửa hàng sửa chữa xe đạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( repair to something ) hành động hoặc kết quả của việc sửa chữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "in good /bad repair ; in good /bad state of repair",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng tốt/xấu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep one's car in good repair",
+                      "full_vn": "giữ xe tốt"
+                    },
+                    {
+                      "full_en": "that house is in a shocking state of repair",
+                      "full_vn": "ngôi nhà đó hiện xuống cấp đến đỗi kinh ngạc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the shop is closed for repairs",
+              "full_vn": "cửa hàng đóng cửa để sửa chữa"
+            },
+            {
+              "full_en": "heel repairs while you wait",
+              "full_vn": "sửa gót giày chờ lấy ngay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sửa chữa, tu sửa",
+          "list_en_vn": [
+            {
+              "full_en": "to repair a road",
+              "full_vn": "sửa lại đường"
+            },
+            {
+              "full_en": "to repair a watch",
+              "full_vn": "sửa lại đồng hồ"
+            },
+            {
+              "full_en": "to repair a puncture",
+              "full_vn": "vá chỗ thủng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa chữa, uốn nắn (lỗi, sai lầm..); đền bù (sự thiệt hại, sự mất mát...)",
+          "list_en_vn": [
+            {
+              "full_en": "to repair an error /omission",
+              "full_vn": "sửa một sai lầm/chỗ thiếu sót"
+            },
+            {
+              "full_en": "to repair a broken marriage",
+              "full_vn": "hàn gắn lại một cuộc hôn nhân tan vỡ"
+            },
+            {
+              "full_en": "can the damage done to the international relations be repaired ?",
+              "full_vn": "liệu thiệt hại đồi với quan hệ quốc tế có bù đắp lại được không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự năng lui tới, sự vãng lai, sự thăm viếng thường xuyên",
+          "list_en_vn": [
+            {
+              "full_en": "to have repair to a place",
+              "full_vn": "năng lui tới một nơi nào"
+            },
+            {
+              "full_en": "place of great repair",
+              "full_vn": "nơi đông người lui tới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thăm viếng, nhất là thường xuyên hoặc nhiều người",
+          "list_en_vn": [
+            {
+              "full_en": "to repair to a place",
+              "full_vn": "đi đến nơi nào, năng lui tới nơi nào"
+            },
+            {
+              "full_en": "they repair to seaside resorts in the summer",
+              "full_vn": "thường rủ nhau đến bãi biển nghỉ mát vào mùa hè"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439278_21d42c39d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439278_dfcfc5fb8b_o.png",
+      "id_image": "repair_1207155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061075_4891d171f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061075_744d1516a0_o.png",
+      "id_image": "repair_4772180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061040_3e7af205f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061040_3e9a55c1af_o.png",
+      "id_image": "repair_5060384"
+    }
+  ]
+}

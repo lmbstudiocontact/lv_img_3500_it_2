@@ -1,0 +1,72 @@
+{
+  "english": "reservation",
+  "phat_am": "[,rezə'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vùng đất dành riêng cho bộ lạc người Anh điêng ở Mỹ",
+          "list_en_vn": [
+            {
+              "full_en": "Indian reservation",
+              "full_vn": "vùng dành riêng cho người da đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự dành trước, sự giữ trước, sự đặt chỗ trước (vé tàu..)",
+          "list_en_vn": [
+            {
+              "full_en": "a hotel reservation",
+              "full_vn": "sự đặt chỗ trước ở khách sạn"
+            },
+            {
+              "full_en": "to make /hold reservations (in the name of T Hill)",
+              "full_vn": "đặt chỗ trước, giữ chỗ trước (dưới tên ông T Hill)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dè dặt; sự e dè",
+          "list_en_vn": [
+            {
+              "full_en": "I support this measure without reservation",
+              "full_vn": "tôi hoàn toàn ủng hộ biện pháp này (không dè dặt)"
+            },
+            {
+              "full_en": "I have my reservations about his ability",
+              "full_vn": "tôi có những nghi ngại về khả năng của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải đất giữa hai làn đường xe trên xa lộ",
+          "list_en_vn": [
+            {
+              "full_en": "the central reservation",
+              "full_vn": "dải phân cách ở giữa đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437323_9db311786f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437323_62fdd4eddc_o.png",
+      "id_image": "reservation_2481894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437288_7ef043eea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437288_9eceaf23eb_o.png",
+      "id_image": "reservation_5569637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367017_ac6253b797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367017_978f807cd7_o.png",
+      "id_image": "reservation_6213954"
+    }
+  ]
+}

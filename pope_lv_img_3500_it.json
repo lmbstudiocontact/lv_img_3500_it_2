@@ -1,0 +1,72 @@
+{
+  "english": "pope",
+  "phat_am": "[poup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Giáo hoàng; giáo trưởng"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người ra vẻ không bao giờ có thể sai lầm, người cố chấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "pope's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "nhân mỡ béo ở đùi cừu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pope's head",
+              "list_im": [
+                {
+                  "im_full_vn": "chổi tròn cán dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pope's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "xem nose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ (như) poop",
+      "list_m": [
+        {
+          "m_full_vn": "bẹn, vùng bẹn",
+          "list_en_vn": [
+            {
+              "full_en": "to take someone's pope",
+              "full_vn": "đánh vào bẹn ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ (như) poop",
+      "list_m": [
+        {
+          "m_full_vn": "đánh vào bẹn (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380732_123de242f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380732_b14e10c49c_o.png",
+      "id_image": "pope_2545645"
+    }
+  ]
+}

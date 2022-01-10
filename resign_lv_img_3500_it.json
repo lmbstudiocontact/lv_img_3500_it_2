@@ -1,0 +1,73 @@
+{
+  "english": "resign",
+  "phat_am": "[,ri:'zain]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to resign from something ) từ bỏ (công việc, địa vị...); từ chức",
+          "list_en_vn": [
+            {
+              "full_en": "to resign (from office )",
+              "full_vn": "từ chức"
+            },
+            {
+              "full_en": "to resign (one's post ) as director",
+              "full_vn": "từ chức giám đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trao, nhường",
+          "list_en_vn": [
+            {
+              "full_en": "to resign the property to the right claimant",
+              "full_vn": "trao lại tài sản cho người được hưởng chính đáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ, từ bỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to resign oneself to something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng chấp nhận và chịu đựng cái gì coi như không thể tránh được; cam chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to resign oneself to one's fate",
+                      "full_vn": "cam chịu số phận"
+                    },
+                    {
+                      "full_en": "to resign oneself to someone's guidance",
+                      "full_vn": "đành để cho ai dìu dắt mình"
+                    },
+                    {
+                      "full_en": "the team refused to resign themselves to defeat /to being defeated",
+                      "full_vn": "đội bóng không cam chịu thất bại/bị đánh bại"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to resign all hope",
+              "full_vn": "từ bỏ mọi hy vọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089245_097f5436b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089245_f160062998_o.png",
+      "id_image": "resign_1886833"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "english": "part",
+  "phat_am": "[pɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần, bộ phận, tập (sách)",
+          "list_en_vn": [
+            {
+              "full_en": "a great part of this story is true",
+              "full_vn": "phần lớn chuyện đó là đúng"
+            },
+            {
+              "full_en": "a part of them have arrived",
+              "full_vn": "một số trong bọn họ đã đến"
+            },
+            {
+              "full_en": "3 parts of sugar , 5 parts of flour",
+              "full_vn": "3 phần đường, 5 phần bột"
+            },
+            {
+              "full_en": "spare parts of a machine",
+              "full_vn": "phụ tùng của máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận cơ thể",
+          "list_en_vn": [
+            {
+              "full_en": "secret /private parts",
+              "full_vn": "bộ phận sinh dục"
+            },
+            {
+              "full_en": "the parts of the body",
+              "full_vn": "các bộ phận của cơ thể"
+            },
+            {
+              "full_en": "which part of your leg hurts ?",
+              "full_vn": "chân anh đau chỗ nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần việc, nhiệm vụ",
+          "list_en_vn": [
+            {
+              "full_en": "I have done my part",
+              "full_vn": "tôi đã làm phần việc của tôi"
+            },
+            {
+              "full_en": "it was not my part to interfere",
+              "full_vn": "tôi không có nhiệm vụ can thiệp vào"
+            },
+            {
+              "full_en": "to have neither part nor lot in",
+              "full_vn": "không có dính dáng gì vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vai, vai trò; lời nói của một vai kịch; bản chép lời của một vai kịch",
+          "list_en_vn": [
+            {
+              "full_en": "her part was well",
+              "full_vn": "vai chị ấy đóng giỏi"
+            },
+            {
+              "full_en": "they don't know their parts yet",
+              "full_vn": "họ không thuộc lời các vai của họ"
+            },
+            {
+              "full_en": "to play an important part in the negotiations",
+              "full_vn": "giữ một vai quan trọng trong cuộc đàm phán"
+            },
+            {
+              "full_en": "to play a part",
+              "full_vn": "(nghĩa bóng) đóng kịch, giả vờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) nơi, vùng",
+          "list_en_vn": [
+            {
+              "full_en": "I am a stranger in these parts",
+              "full_vn": "tôi là một người lạ trong vùng này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phía, bè",
+          "list_en_vn": [
+            {
+              "full_en": "to take someone's part ; to take part with someone",
+              "full_vn": "đứng về phía ai, về bè với ai, ủng hộ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) bè"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) tài năng",
+          "list_one_mean": [
+            {
+              "id_full_en": "for my part",
+              "list_im": [
+                {
+                  "im_full_vn": "về phần tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the most part",
+              "list_im": [
+                {
+                  "im_full_vn": "phần lớn, phần nhiều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in part",
+              "list_im": [
+                {
+                  "im_full_vn": "một phần, phần nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on one's part ; on the part of",
+              "list_im": [
+                {
+                  "im_full_vn": "về phía",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there was no objection on his part",
+                      "full_vn": "anh ta không phản đối gì"
+                    },
+                    {
+                      "full_en": "he apologized on the part of his young brother",
+                      "full_vn": "anh ấy xin lỗi hộ em anh ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "part and parcel",
+              "list_im": [
+                {
+                  "im_full_vn": "như parcel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "part of speech",
+              "list_im": [
+                {
+                  "im_full_vn": "(ngôn ngữ học) từ loại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take someething in good part",
+              "list_im": [
+                {
+                  "im_full_vn": "không chấp nhất điều gì; không phật ý về việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take part in",
+              "list_im": [
+                {
+                  "im_full_vn": "tham gia vào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a man of (good ) part",
+              "full_vn": "một người có tài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "một phần",
+          "list_en_vn": [
+            {
+              "full_en": "She's part Japanese , part Chinese",
+              "full_vn": "Cô ta nửa là Nhật, nửa là Trung Hoa"
+            },
+            {
+              "full_en": "The dress is part silk , part wool",
+              "full_vn": "Cái áo nửa tơ nửa len"
+            },
+            {
+              "full_en": "Her feelings were part anger , part relief",
+              "full_vn": "Cô ấy vừa giận vừa cảm thấy nguôi lòng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to part somebody from somebody ) ( to part from somebody ) (làm cho ai) xa lìa hoặc tách biệt ai",
+          "list_en_vn": [
+            {
+              "full_en": "I hope we can part (as ) friends",
+              "full_vn": "Tôi mong rằng chúng ta có thể chia tay nhau như những người bạn"
+            },
+            {
+              "full_en": "They exchanged a final kiss before parting",
+              "full_vn": "Họ trao cho nhau nụ hôn cuối cùng trước khi chia tay nhau"
+            },
+            {
+              "full_en": "She has parted from her husband /She and her husband have parted",
+              "full_vn": "Cô ấy đã chia tay với chồng/Cô ấy và chồng đã chia tay nhau"
+            },
+            {
+              "full_en": "The children were parted from their parents",
+              "full_vn": "Bọn trẻ đã bị tách khỏi cha mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(làm cho ai hoặc cái gì) tách ra, hoặc làm thành từng phần rời nhau; rẽ ra",
+          "list_en_vn": [
+            {
+              "full_en": "her lips parted in a smile",
+              "full_vn": "đôi môi cô ta hé nở một nụ cười"
+            },
+            {
+              "full_en": "the crowd parted to let them through",
+              "full_vn": "đám đông rẽ ra cho họ đi qua"
+            },
+            {
+              "full_en": "the clouds parted and the sun shone through",
+              "full_vn": "mây hé ra và mặt trời chiếu xuyên xuống"
+            },
+            {
+              "full_en": "the police parted the crowd",
+              "full_vn": "cảnh sát rẽ đám đông ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tách tóc trên đầu theo một đường ngôi rồi chải tóc ra hai phía của đường đó; rẽ ngôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "a fool and his money are soon parted",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fool"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to part company with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chia tay; cắt đứt quan hệ với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we parted company at the bus-stop",
+                      "full_vn": "chúng tôi chia tay nhau ở trạm xe búyt"
+                    },
+                    {
+                      "full_en": "he and his employee have parted company /he has parted company with his employee",
+                      "full_vn": "ông ta đã cắt đứt quan hệ với nhân viên của mình"
+                    },
+                    {
+                      "full_en": "her blouse had parted company with her skirt",
+                      "full_vn": "áo cô ấy tuột ra khỏi váy"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất đồng quan điểm với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to part with something",
+              "list_im": [
+                {
+                  "im_full_vn": "cho đi hoặc từ bỏ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "despite his poverty , he refused to part with the family",
+                      "full_vn": "dù nghèo khổ, anh ấy vẫn không muốn bán đồ nữ trang của gia đình"
+                    },
+                    {
+                      "full_en": "he hates parting with his money",
+                      "full_vn": "nó không thích bỏ tiền ra tiêu pha"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he parts his hair in the middle",
+              "full_vn": "anh ấy rẽ đường ngôi giữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068090_530cc2268c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068090_1a53409dda_o.png",
+      "id_image": "part_5605897"
+    }
+  ]
+}

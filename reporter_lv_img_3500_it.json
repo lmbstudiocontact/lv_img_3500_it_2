@@ -1,0 +1,40 @@
+{
+  "english": "reporter",
+  "phat_am": "[ri'pɔ:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đưa tin cho phương tiện thông tin đại chúng; phóng viên",
+          "list_en_vn": [
+            {
+              "full_en": "press reporter",
+              "full_vn": "phóng viên báo chí"
+            },
+            {
+              "full_en": "TV reporter",
+              "full_vn": "phóng viên truyền hình"
+            },
+            {
+              "full_en": "on-the-spot reporter",
+              "full_vn": "phóng viên tại chỗ (phóng viên có mặt tại nơi xảy ra sự việc)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322971_babbe60840_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322971_01ba91c63f_o.png",
+      "id_image": "reporter_1476626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367882_1b604f5047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367882_a13f9f3158_o.png",
+      "id_image": "reporter_560267"
+    }
+  ]
+}

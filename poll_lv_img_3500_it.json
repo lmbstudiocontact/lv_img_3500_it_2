@@ -1,0 +1,117 @@
+{
+  "english": "poll",
+  "phat_am": "[poul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bầu cử; số phiếu bầu (cộng lại), số người bỏ phiếu",
+          "list_en_vn": [
+            {
+              "full_en": "a heavy poll",
+              "full_vn": "số người đi bỏ phiếu rất lớn"
+            },
+            {
+              "full_en": "to be successful at the poll",
+              "full_vn": "thắng lợi trong cuộc bầu cử"
+            },
+            {
+              "full_en": "to head the poll",
+              "full_vn": "dẫn đầu số phiếu (được nhiều phiếu bầu nhất)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the polls ) nơi bầu cử",
+          "list_en_vn": [
+            {
+              "full_en": "the country is going to the polls tomorrow",
+              "full_vn": "ngày mai cả nước đi bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc điều tra dư luận, cuộc thăm dò ý kiến",
+          "list_en_vn": [
+            {
+              "full_en": "a public opinion poll",
+              "full_vn": "cuộc thăm dò dư luận quần chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tiếng địa phương); (đùa cợt) cái đầu",
+          "list_en_vn": [
+            {
+              "full_en": "a curly poll",
+              "full_vn": "một cái đầu xoăn"
+            },
+            {
+              "full_en": "per poll",
+              "full_vn": "mỗi đầu người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu được (bao nhiêu phiếu bầu)",
+          "list_en_vn": [
+            {
+              "full_en": "Mr Hill polled over 3000 votes",
+              "full_vn": "ông Hill thu được trên 3000 phiếu"
+            },
+            {
+              "full_en": "to poll a large majority",
+              "full_vn": "thu được đại đa số phiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thăm dò (ý kiến)",
+          "list_en_vn": [
+            {
+              "full_en": "of those polled , seven out of ten said they preferred brown bread",
+              "full_vn": "trong số những người được thăm dò ý kiến, cứ mưới người thì có bảy người cho biết là họ thích bánh mì đen hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưa sừng (trâu bò...); cắt ngọn, xén ngọn, bấm đọt (cây) như pollard"
+        },
+        {
+          "m_full_vn": "xén (giấy)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) hớt tóc của (ai); cắt lông của (con vật)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381952_25252c07e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381952_f44283f841_o.png",
+      "id_image": "poll_1902215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381912_9494158655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381912_f0cab7889c_o.png",
+      "id_image": "poll_2164295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451698_71281c4c18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451698_15f5e2e0e2_o.png",
+      "id_image": "poll_2388936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336926_ee57519ae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336926_1ed03c8268_o.png",
+      "id_image": "poll_281389"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "privacy",
+  "phat_am": "['privəsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự riêng tư; cuộc sống riêng của cá nhân, đời tư"
+        },
+        {
+          "m_full_vn": "sự cách biệt, sự riêng biệt",
+          "list_en_vn": [
+            {
+              "full_en": "to live in privacy",
+              "full_vn": "sống cách biệt, sống xa lánh bên ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bí mật, sự kín đáo",
+          "list_en_vn": [
+            {
+              "full_en": "to secure privacy",
+              "full_vn": "đảm bảo bí mật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323946_6d2904551a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323946_4d1c5e546b_o.png",
+      "id_image": "privacy_2357029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438983_57f777f16c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438983_2dc749efbe_o.png",
+      "id_image": "privacy_2857728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679174_f7856650b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679174_f7bfb6f3b7_o.png",
+      "id_image": "privacy_408348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323981_6d54cbfd40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323981_a003415d4f_o.png",
+      "id_image": "privacy_916012"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "network",
+  "phat_am": "['netwə:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưới, đồ dùng kiểu lưới",
+          "list_en_vn": [
+            {
+              "full_en": "a network purse",
+              "full_vn": "cái túi lưới đựng tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạng lưới, hệ thống",
+          "list_en_vn": [
+            {
+              "full_en": "a network of railways",
+              "full_vn": "mạng lưới đường sắt"
+            },
+            {
+              "full_en": "a network of canals",
+              "full_vn": "hệ thống sông đào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) hệ thống mắt cáo"
+        },
+        {
+          "m_full_vn": "(rađiô) mạng lưới truyền thanh",
+          "list_one_mean": [
+            {
+              "id_full_en": "the old-boy network",
+              "list_im": [
+                {
+                  "im_full_vn": "hội bạn già với nhau"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060995_8aaaaf3d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060995_467bd8b7d0_o.png",
+      "id_image": "network_179649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060960_ce2a03edec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060960_e0ebb923db_o.png",
+      "id_image": "network_563221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368907_a282191440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368907_4e2c7ff392_o.png",
+      "id_image": "network_748857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323966_4aec5cd659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323966_6f507240b7_o.png",
+      "id_image": "network_755033"
+    }
+  ]
+}

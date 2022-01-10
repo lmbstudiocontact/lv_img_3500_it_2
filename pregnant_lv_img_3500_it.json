@@ -1,0 +1,60 @@
+{
+  "english": "pregnant",
+  "phat_am": "['pregnənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về người đàn bà hoặc con vật cái) có con nhỏ hoặc con vật nhỏ đang phát triển trong dạ con; có thai, có mang, có chửa",
+          "list_en_vn": [
+            {
+              "full_en": "she was six months pregnant",
+              "full_vn": "cô ấy có mang đã được sáu tháng"
+            },
+            {
+              "full_en": "she is /got pregnant by another man",
+              "full_vn": "cô ấy có mang với một người đàn ông khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( pregnant with something ) chứa đầy cái gì; có thể gây ra cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "pregnant with joy",
+              "full_vn": "chứa đầy niềm tin"
+            },
+            {
+              "full_en": "pregnant with danger",
+              "full_vn": "có thể gây ra nguy hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giàu trí tưởng tượng, giàu trí sáng tạo, dồi dào tư tưởng ý tứ"
+        },
+        {
+          "m_full_vn": "có kết quả phong phú, có tầm quan trọng lớn (vì kết quả, vì ảnh hưởng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a pregnant pause /silence",
+              "list_im": [
+                {
+                  "im_full_vn": "sự ngập ngừng/sự yên lặng đầy hàm ý, đầy ý nghĩa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329471_9e566c13af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329471_a96ab687b6_o.png",
+      "id_image": "pregnant_4829651"
+    }
+  ]
+}

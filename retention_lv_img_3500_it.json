@@ -1,0 +1,56 @@
+{
+  "english": "retention",
+  "phat_am": "[ri'ten∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự có được, sự giữ được, sự sở hữu, sự sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "retention of one's rights",
+              "full_vn": "sự sử dụng các quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giữ lại, sự cầm lại, sự chặn lại (cái gì tại một chỗ)",
+          "list_en_vn": [
+            {
+              "full_en": "the retention of flood waters",
+              "full_vn": "việc chặn nước lũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự duy trì"
+        },
+        {
+          "m_full_vn": "sự ghi nhớ; trí nhớ, khả năng nhớ mọi chuyện",
+          "list_en_vn": [
+            {
+              "full_en": "her limited powers of retention",
+              "full_vn": "khả năng nhớ của cô ta bị hạn chế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bí (đái...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349466_2c4135e5b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349466_78a9c76033_o.png",
+      "id_image": "retention_1753715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394212_0f166109ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394212_a91cbdbb3b_o.png",
+      "id_image": "retention_2654575"
+    }
+  ]
+}

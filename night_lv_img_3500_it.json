@@ -1,0 +1,163 @@
+{
+  "english": "night",
+  "phat_am": "[nait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đêm, tối, cảnh tối tăm",
+          "list_one_mean": [
+            {
+              "id_full_en": "all right on the night",
+              "list_im": [
+                {
+                  "im_full_vn": "ổn thoả vào phút chót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a thief in the night",
+              "list_im": [
+                {
+                  "im_full_vn": "lén lút, vụng trộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the livelong day / night",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt ngày/đêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ships that pass in the night",
+              "list_im": [
+                {
+                  "im_full_vn": "những người chỉ thoáng gặp nhau chốc lát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the still of the night",
+              "list_im": [
+                {
+                  "im_full_vn": "khung cảnh tĩnh mịch của ban đêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "things that go bump in the night",
+              "list_im": [
+                {
+                  "im_full_vn": "những tiếng động kỳ quặc, kinh dị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spend a night with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "lang chạ với ai một đêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sleepless night",
+              "list_im": [
+                {
+                  "im_full_vn": "đêm thức trắng, đêm không ngủ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the whole night",
+              "full_vn": "suốt đêm, cả đêm"
+            },
+            {
+              "full_en": "by night",
+              "full_vn": "về đêm"
+            },
+            {
+              "full_en": "at night",
+              "full_vn": "ban đêm"
+            },
+            {
+              "full_en": "night after night",
+              "full_vn": "đêm đêm"
+            },
+            {
+              "full_en": "night and day",
+              "full_vn": "suốt ngày đêm không dứt"
+            },
+            {
+              "full_en": "o' nights",
+              "full_vn": "(thông tục) về đêm, ban đêm"
+            },
+            {
+              "full_en": "tomorrow night",
+              "full_vn": "đêm mai"
+            },
+            {
+              "full_en": "at (in the ) dead of night",
+              "full_vn": "lúc nửa đêm, lúc đêm khuya thanh vắng"
+            },
+            {
+              "full_en": "as black (dark ) as night",
+              "full_vn": "tối như ban đêm, tối như mực"
+            },
+            {
+              "full_en": "a dirty night",
+              "full_vn": "một đêm mưa bão"
+            },
+            {
+              "full_en": "to have (pass ) a good night",
+              "full_vn": "đêm ngủ ngon"
+            },
+            {
+              "full_en": "to have (pass ) a bad night",
+              "full_vn": "đêm mất ngủ, một đêm ngủ không yên"
+            },
+            {
+              "full_en": "night out",
+              "full_vn": "tối được nghỉ, tối rảnh việc (người làm); (một) đêm đi chơi không về nhà"
+            },
+            {
+              "full_en": "to make a night of it",
+              "full_vn": "vui đùa, chơi bời, rượu chè cả đêm"
+            },
+            {
+              "full_en": "to turn night into day",
+              "full_vn": "lấy đêm làm ngày"
+            },
+            {
+              "full_en": "the night of ignorance",
+              "full_vn": "cảnh ngu dốt tối tăm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059420_f941407059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059420_dc6d93ed26_o.png",
+      "id_image": "night_203768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437888_ca2404361e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437888_8db8407a99_o.png",
+      "id_image": "night_203808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322571_a1b1f5c96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322571_3ba651eb51_o.png",
+      "id_image": "night_5079909"
+    }
+  ]
+}

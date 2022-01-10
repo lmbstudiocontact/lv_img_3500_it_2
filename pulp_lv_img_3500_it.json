@@ -1,0 +1,74 @@
+{
+  "english": "pulp",
+  "phat_am": "[pʌlp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thịt, cùi, cơm (phần bên trong mềm, nạc của trái cây, động vật)"
+        },
+        {
+          "m_full_vn": "tuỷ (răng)"
+        },
+        {
+          "m_full_vn": "lõi cây"
+        },
+        {
+          "m_full_vn": "cục bột nhão, cục bùn nhão"
+        },
+        {
+          "m_full_vn": "bột giấy (bột mịn của sợi gỗ, dùng để làm giấy)"
+        },
+        {
+          "m_full_vn": "quặng nghiền nhỏ nhào với nước"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng), sách báo giật gân, tạp chí giật gân (có chất lượng tồi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to reduce to pulp",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiền nhão ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiền nhão ra, nghiền nát (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "pulp old books",
+              "full_vn": "nghiền sách cũ (thành bột giấy)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy phần ruột, xay vỏ (cà phê...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhão bét ra, trở nên nhão ra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085270_d1d812e11d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085270_3d9e83501b_o.png",
+      "id_image": "pulp_2015256"
+    }
+  ]
+}

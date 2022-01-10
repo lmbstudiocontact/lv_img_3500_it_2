@@ -1,0 +1,73 @@
+{
+  "english": "profile",
+  "phat_am": "['proufail]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nét mặt nhìn nghiêng; mặt nghiêng"
+        },
+        {
+          "m_full_vn": "hình bóng (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the profile of the tower against the sky",
+              "full_vn": "hình bóng ngọn tháp in trên nền trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiểu sử sơ lược; mô tả sơ lược (trong một bài báo..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in profile",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn nghiêng, (nhìn) từ một bên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "về mặt nghiêng, trình bày mặt nghiêng, chụp mặt nghiêng"
+        },
+        {
+          "m_full_vn": "in hình bóng (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the huge trees were profiled against the night sky",
+              "full_vn": "những cây cao lớn in hình bóng lên bầu trời đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết sơ lược tiểu sử; mô tả sơ lược (cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676434_73034633f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676434_4211f50182_o.png",
+      "id_image": "profile_1098778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058100_e084036ce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058100_c9775b5334_o.png",
+      "id_image": "profile_2058243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366227_bf2390bbf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366227_6548fe0dde_o.png",
+      "id_image": "profile_4542145"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "english": "physical",
+  "phat_am": "['fizikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) vật chất",
+          "list_en_vn": [
+            {
+              "full_en": "physical world /universe",
+              "full_vn": "thế giới/vũ trụ vật chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) cơ thể; (thuộc) thân thể",
+          "list_en_vn": [
+            {
+              "full_en": "physical exercise",
+              "full_vn": "thể dục (đi bộ, chạy, chơi thể thao chẳng hạn)"
+            },
+            {
+              "full_en": "physical education",
+              "full_vn": "sự rèn luyện thân thể (điền kinh, thể dục, các trò thi đấu....)"
+            },
+            {
+              "full_en": "physical fitness /well-being /strength",
+              "full_vn": "sự sung sức/cường tráng/mạnh mẽ của cơ thể"
+            },
+            {
+              "full_en": "physical jerks",
+              "full_vn": "các động tác tập thể dục"
+            },
+            {
+              "full_en": "physical presence",
+              "full_vn": "bộ dáng thân hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) khoa học tự nhiên; theo quy luật tự nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "physical explanations of miracles",
+              "full_vn": "cách giải thích những điều huyền diệu dựa theo khoa học tự nhiên"
+            },
+            {
+              "full_en": "physical necessity",
+              "full_vn": "điều tất yếu theo quy luật tự nhiên"
+            },
+            {
+              "full_en": "it's a physical impossibility to be in two places at once",
+              "full_vn": "theo quy luật tự nhiên thì không thể có mặt ở hai nơi cùng một lúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "physical geography",
+              "full_vn": "địa lý tự nhiên"
+            },
+            {
+              "full_en": "a physical map",
+              "full_vn": "bản đồ tự nhiên (bản đồ chỉ sông ngòi, đồi núi..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên quan đến vật lý học",
+          "list_en_vn": [
+            {
+              "full_en": "physical experiment",
+              "full_vn": "thí nghiệm vật lý"
+            },
+            {
+              "full_en": "physical chemistry",
+              "full_vn": "môn hoá lý (môn dùng (vật lý) để nghiên cứu (hoá học))"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối xử thô bạo, dùng bạo lực",
+          "list_en_vn": [
+            {
+              "full_en": "are you going to cooperate or do we have to get physical ?",
+              "full_vn": "anh có định hợp tác không hay chúng tôi phải dùng bạo lực?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) khám về y học xem có khoẻ không; khám sức khoẻ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463798_619f66dbdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463798_f750d1a838_o.png",
+      "id_image": "physical_1813488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086325_9f3e9da571_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086325_6402270c91_o.png",
+      "id_image": "physical_2718110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086295_6fa87b8d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086295_c9bdd07af6_o.png",
+      "id_image": "physical_2885288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393777_73540172d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393777_b8a80a3855_o.png",
+      "id_image": "physical_3527121"
+    }
+  ]
+}

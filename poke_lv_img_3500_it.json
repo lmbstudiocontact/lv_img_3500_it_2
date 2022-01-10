@@ -1,0 +1,163 @@
+{
+  "english": "poke",
+  "phat_am": "[pouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú thọc, cú đẩy, thúc (cùi chỏ); hành động cời (lửa..)",
+          "list_en_vn": [
+            {
+              "full_en": "give the fire a poke",
+              "full_vn": "cời lửa"
+            },
+            {
+              "full_en": "give somebody a poke in the ribs",
+              "full_vn": "thúc vào sườn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái gông (buộc vào trâu bò... để ngăn không cho chạy qua hàng rào)"
+        },
+        {
+          "m_full_vn": "vành mũ (đàn bà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to buy a pig in a poke",
+              "list_im": [
+                {
+                  "im_full_vn": "mua vật gì mà không được trông thấy (biết) rõ, mua trâu vẽ bóng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thọc, thúc, húych, ẩy (bằng ngón tay, đầu gậy..); cời (bằng que)",
+          "list_en_vn": [
+            {
+              "full_en": "to poke someone in the ribs",
+              "full_vn": "thúc vào sườn ai"
+            },
+            {
+              "full_en": "to poke something in",
+              "full_vn": "ấn vào cái gì"
+            },
+            {
+              "full_en": "to poke something down",
+              "full_vn": "thọc cái gì xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chọc thủng (lỗ...)"
+        },
+        {
+          "m_full_vn": "cời, gạt (lửa...)"
+        },
+        {
+          "m_full_vn": "xen vào, chõ vào",
+          "list_en_vn": [
+            {
+              "full_en": "to poke one's nose into other people's affairs",
+              "full_vn": "chõ mũi vào việc của người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thò ra",
+          "list_en_vn": [
+            {
+              "full_en": "to poke one's head",
+              "full_vn": "thò đầu ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) thọc, thúc, hích, đẩy",
+          "list_en_vn": [
+            {
+              "full_en": "to poke at someone with a stick",
+              "full_vn": "lấy gậy thúc ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + about ) lục lọi, mò mẫm",
+          "list_en_vn": [
+            {
+              "full_en": "to go poking about",
+              "full_vn": "đi mò mẫm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) điều tra, tìm tòi, xoi mói; (nghĩa bóng) chõ mũi vào, chõ mõm vào, dính vào, xen vào (việc người khác)"
+        },
+        {
+          "m_full_vn": "(từ lóng) thụi, đấm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to poke fun at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chế giễu ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to poke and pry",
+              "list_im": [
+                {
+                  "im_full_vn": "xoi mói, tìm tòi, chõ mũi vào, chõ mõm vào, dính vào, xen vào (việc người khác)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to poke oneself up",
+              "list_im": [
+                {
+                  "im_full_vn": "tự giam mình trong một căn phòng nhỏ hẹp tối tăm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338046_df05f1e7d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338046_1b3a3da102_o.png",
+      "id_image": "poke_4647359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452923_c41bbe0cc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452923_6d49456a08_o.png",
+      "id_image": "poke_5507904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075025_8845aa4efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075025_8ded8d216c_o.png",
+      "id_image": "poke_5507925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337961_b4de4cbd5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337961_703226f305_o.png",
+      "id_image": "poke_6159105"
+    }
+  ]
+}

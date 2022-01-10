@@ -1,0 +1,104 @@
+{
+  "english": "religious",
+  "phat_am": "[ri'lidʒəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tôn giáo; (thuộc) tín ngưỡng; (thuộc) sự tu hành",
+          "list_en_vn": [
+            {
+              "full_en": "to have no religious belief",
+              "full_vn": "không có tín ngưỡng tôn giáo"
+            },
+            {
+              "full_en": "religious wars",
+              "full_vn": "chiến tranh tôn giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sùng đạo, mộ đạo, ngoan đạo (về người)",
+          "list_en_vn": [
+            {
+              "full_en": "a religious man",
+              "full_vn": "người mộ đạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc ngữ) về một dòng tu ở ti viện",
+          "list_en_vn": [
+            {
+              "full_en": "a religious house",
+              "full_vn": "nhà tu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chu đáo, cẩn thận; có ý thức",
+          "list_en_vn": [
+            {
+              "full_en": "the doctor looked after the patients with religious care",
+              "full_vn": "bác sĩ chăm nom người bệnh rất chu đáo"
+            },
+            {
+              "full_en": "with religious exactitude",
+              "full_vn": "với độ chính xác cao"
+            },
+            {
+              "full_en": "pay religious attention to detail",
+              "full_vn": "chú ý cẩn thận đến từng chi tiết"
+            },
+            {
+              "full_en": "be religious in one's observance of protocol",
+              "full_vn": "có ý thức trong việc tuân thủ lễ nghi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều religious",
+      "list_m": [
+        {
+          "m_full_vn": "nhà tu hành",
+          "list_en_vn": [
+            {
+              "full_en": "the religious",
+              "full_vn": "những người tu hành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326456_d767400078_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326456_efe3eddbe3_o.png",
+      "id_image": "religious_2178187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063360_c04a30f7b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063360_b3daec6755_o.png",
+      "id_image": "religious_422094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371152_09a7d93c52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371152_bb722d21dc_o.png",
+      "id_image": "religious_4459355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371122_2246291f32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371122_039e186868_o.png",
+      "id_image": "religious_6001133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441278_894fd92920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441278_099fbeb1c8_o.png",
+      "id_image": "religious_6213878"
+    }
+  ]
+}

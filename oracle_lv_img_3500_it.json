@@ -1,0 +1,42 @@
+{
+  "english": "oracle",
+  "phat_am": "['ɔrəkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ở Hy Lạp thời cổ) nơi linh thiêng có thể xin thần thánh cho biết tương lai; đền thờ"
+        },
+        {
+          "m_full_vn": "câu trả lời (tối nghĩa hoặc mập mờ); lời sấm"
+        },
+        {
+          "m_full_vn": "tu sĩ đưa ra những lời sấm, lời tiên tri",
+          "list_en_vn": [
+            {
+              "full_en": "to consult the oracle",
+              "full_vn": "hỏi nhà tiên tri"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được coi là có thể cho những lời khuyên đáng tin cậy; người có uy tín",
+          "list_en_vn": [
+            {
+              "full_en": "my sister's the oracle on beauty matters",
+              "full_vn": "chị tôi là người có uy tín về vấn đề chăm sóc sắc đẹp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389637_1e3e9d6c87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389637_ff391daa66_o.png",
+      "id_image": "oracle_6198665"
+    }
+  ]
+}

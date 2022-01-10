@@ -1,0 +1,111 @@
+{
+  "english": "project",
+  "phat_am": "['prədʒekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề án, dự án; kế hoạch",
+          "list_en_vn": [
+            {
+              "full_en": "a new project for the development of agriculture",
+              "full_vn": "một bản dự án mới về phát triển nông nghiệp"
+            },
+            {
+              "full_en": "a housing development project",
+              "full_vn": "một đề án phát triển nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công trình (nghiên cứu)"
+        },
+        {
+          "m_full_vn": "công cuộc lớn (đòi hỏi nhiều tiền, thiết bị, nhân lực)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phóng (tên lửa..); chiếu ra (tia sáng..); phát âm rõ ràng (giọng nói); hướng (suy nghĩ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to project a missile",
+              "full_vn": "phóng một tên lửa"
+            },
+            {
+              "full_en": "to project a beam of light",
+              "full_vn": "chiếu ra một chùm sáng"
+            },
+            {
+              "full_en": "to project oneself",
+              "full_vn": "hướng ý nghĩ (về tương lai...); hướng tâm trí (vào cái gì...)"
+            },
+            {
+              "full_en": "to project oneself into somebody's feeling",
+              "full_vn": "đặt mình vào tâm trạng của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tưởng rằng.. (nghĩ một cách vô thức)"
+        },
+        {
+          "m_full_vn": "(toán học) chiếu",
+          "list_en_vn": [
+            {
+              "full_en": "to project a line",
+              "full_vn": "chiếu một đường thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dự kiến, đặt kế hoạch, thảo kế hoạch, làm đề án; dự đoán, tiên đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to project a new water conservancy works",
+              "full_vn": "đặt kế hoạch cho một công trình thuỷ lợi mới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhô ra, lồi ra",
+          "list_en_vn": [
+            {
+              "full_en": "a strip of land projects into the sea",
+              "full_vn": "một dải đất nhô ra biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) diễn đạt rõ ý, diễn xuất rõ ý (làm cho người nghe, người (xem) nắm được ý mình)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706294_61a6572f98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706294_9ed3f0454c_o.png",
+      "id_image": "project_1285367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396547_0cac0de6e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396547_80c3601918_o.png",
+      "id_image": "project_4698464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396507_a88f7b445f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396507_964cac7dd6_o.png",
+      "id_image": "project_4698487"
+    }
+  ]
+}

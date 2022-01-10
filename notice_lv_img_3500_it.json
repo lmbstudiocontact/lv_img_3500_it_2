@@ -1,0 +1,180 @@
+{
+  "english": "notice",
+  "phat_am": "['noutis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông tri, yết thị, thông cáo",
+          "list_en_vn": [
+            {
+              "full_en": "to put up a notice",
+              "full_vn": "treo một tờ yết thị"
+            },
+            {
+              "full_en": "to put a notice in the papers",
+              "full_vn": "đăng thông cáo trên báo"
+            },
+            {
+              "full_en": "notices of births , deaths and marriages in the papers",
+              "full_vn": "thông báo về việc sinh, tử và kết hôn đăng trên báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời báo trước (về điều sẽ xảy ra)",
+          "list_en_vn": [
+            {
+              "full_en": "to receive two months' notice to leave a house , job ...",
+              "full_vn": "nhận giấy báo trước hai tháng phải chuyển nhà, thôi việc..."
+            },
+            {
+              "full_en": "to leave at only ten days' notice",
+              "full_vn": "chỉ được báo trước mười ngày mà phải ra đi"
+            },
+            {
+              "full_en": "you must give notice of changes in the arrangements",
+              "full_vn": "anh phải báo trước về những thay đổi trong cách sắp xếp"
+            },
+            {
+              "full_en": "the bar is closed until further notice",
+              "full_vn": "quán rượu đóng cửa cho đến khi có thông báo mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thư chính thức cho biết ai đó sẽ thôi việc vào một thời gian nào đó; giấy báo nghỉ việc/thôi việc",
+          "list_en_vn": [
+            {
+              "full_en": "he handed in his notice last week",
+              "full_vn": "anh ấy đã nộp giấy báo thôi việc tuần trước"
+            },
+            {
+              "full_en": "he gave her a month's notice",
+              "full_vn": "ông ta báo trước một tháng cho bà ấy nghỉ việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài điểm một cuốn sách, vở kịch trên một tờ báo",
+          "list_one_mean": [
+            {
+              "id_full_en": "beneath one's notice",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng quan tâm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he finds his girl-friend's family as beneath his notice",
+                      "full_vn": "hắn coi gia đình cô bạn gái như là không đáng để hắn quan tâm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring something to somebody's notice",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phải chú ý đến điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to sb's notice",
+              "list_im": [
+                {
+                  "im_full_vn": "bị ai thấy, bị ai nghe",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it has come to my notice that he was playing truant",
+                      "full_vn": "tôi đã nhìn thấy hắn trốn học"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to escape notice",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bỏ sót, không được để ý tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sit up and take notice",
+              "list_im": [
+                {
+                  "im_full_vn": "giật mình và buộc lòng phải chú ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take no notice /not take any notice (of somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không quan tâm đến điều gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the play received good notices",
+              "full_vn": "vở kịch nhận được bài nhận xét tốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhận xét; chú ý; để ý",
+          "list_en_vn": [
+            {
+              "full_en": "To notice somebody in the crowd",
+              "full_vn": "Nhận ra ai trong đám đông"
+            },
+            {
+              "full_en": "Sorry , I didn't notice you",
+              "full_vn": "Xin lỗi, tôi không nhận ra ông"
+            },
+            {
+              "full_en": "Didn't you notice ? He has dyed his hair",
+              "full_vn": "Anh có để ý không? Hắn nhuộm tóc rồi đấy"
+            },
+            {
+              "full_en": "Did you notice her coming out ?",
+              "full_vn": "Anh có để ý thấy cô ta đi ra hay không?"
+            },
+            {
+              "full_en": "a young actor trying desperately to be noticed by the critics",
+              "full_vn": "một diễn viên trẻ đang cố gắng một cách tuyệt vọng để được giới phê bình chú ý đến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057470_7873d2922b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057470_530086069f_o.png",
+      "id_image": "notice_3154616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057415_848cafdf52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057415_507420d1f1_o.png",
+      "id_image": "notice_4807723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365557_be0f3dda66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365557_385265cc98_o.png",
+      "id_image": "notice_6000874"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "removal",
+  "phat_am": "[ri'mu:vl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc dời đi, việc di chuyển; sự dọn (đồ đạc...)",
+          "list_en_vn": [
+            {
+              "full_en": "the removal of furniture",
+              "full_vn": "việc dọn đồ đạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dọn nhà, sự đổi chỗ ở"
+        },
+        {
+          "m_full_vn": "sự tháo (lốp xe...)"
+        },
+        {
+          "m_full_vn": "sự cách chức (viên chức)"
+        },
+        {
+          "m_full_vn": "sự tẩy trừ (thói tham nhũng, sự loại bỏ (cái gì...)); sự xoá bỏ (dấu vết, tật xấu)"
+        },
+        {
+          "m_full_vn": "sự giết, sự thủ tiêu (ai)"
+        },
+        {
+          "m_full_vn": "sự bóc (niêm phong)"
+        },
+        {
+          "m_full_vn": "(y học) sự cắt bỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "three removals are as bad as a fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) ba lần dọn nhà bằng một lần cháy nhà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062400_daf4f17776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062400_833e18d156_o.png",
+      "id_image": "removal_5715018"
+    }
+  ]
+}

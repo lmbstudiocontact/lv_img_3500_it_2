@@ -1,0 +1,84 @@
+{
+  "english": "motor",
+  "phat_am": "['moutə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "động cơ; mô-tơ",
+          "list_en_vn": [
+            {
+              "full_en": "Electric motor",
+              "full_vn": "Động cơ điện"
+            },
+            {
+              "full_en": "Outboard motor",
+              "full_vn": "Động cơ lắp ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe ô tô"
+        },
+        {
+          "m_full_vn": "(giải phẫu) cơ vận động; dây thần kinh vận động"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận động",
+          "list_en_vn": [
+            {
+              "full_en": "motor nerve",
+              "full_vn": "dây thần kinh vận động"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi ô tô",
+          "list_en_vn": [
+            {
+              "full_en": "to motor from one city to another",
+              "full_vn": "đi ô tô từ thành phố này đến thành phố khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa đi bằng ô tô",
+          "list_en_vn": [
+            {
+              "full_en": "to motor a friend home",
+              "full_vn": "đưa một người bạn về bằng ô tô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071860_92791bcea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071860_3dda931f97_o.png",
+      "id_image": "motor_3211853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071835_4697016a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071835_bee7380de2_o.png",
+      "id_image": "motor_3211870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379907_0165dcb87e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379907_5b9471bf00_o.png",
+      "id_image": "motor_465048"
+    }
+  ]
+}

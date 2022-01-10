@@ -1,0 +1,50 @@
+{
+  "english": "recipe",
+  "phat_am": "['resəpi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công thức làm món ăn",
+          "list_en_vn": [
+            {
+              "full_en": "recipe book",
+              "full_vn": "sách hướng dẫn làm các món ăn; sách dạy nấu ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( recipe for something ) phương pháp thực hiện cái gì; cách làm",
+          "list_en_vn": [
+            {
+              "full_en": "what's your recipe for success ?",
+              "full_vn": "anh làm thế nào để gặt hái thành công?"
+            },
+            {
+              "full_en": "his plans are a recipe for disaster",
+              "full_vn": "kế hoạch của anh ta là cách dẫn đến tai hoạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690604_35992083c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690604_25ff324e6f_o.png",
+      "id_image": "recipe_3565418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335486_21206fa8dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335486_67ea309f31_o.png",
+      "id_image": "recipe_527777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450423_e1d3bfe84b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450423_9192f4b485_o.png",
+      "id_image": "recipe_649232"
+    }
+  ]
+}

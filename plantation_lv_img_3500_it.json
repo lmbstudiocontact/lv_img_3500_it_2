@@ -1,0 +1,47 @@
+{
+  "english": "plantation",
+  "phat_am": "[plæn'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khu đất trồng cây, vườn ươm; cây trồng",
+          "list_en_vn": [
+            {
+              "full_en": "plantations of fir and pine",
+              "full_vn": "khu đất trồng cây linh sam và thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồn điền (bông, cà phê...)",
+          "list_en_vn": [
+            {
+              "full_en": "a plantation manager",
+              "full_vn": "một người quản lý đồn điền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) sự di dân sang thuộc địa"
+        },
+        {
+          "m_full_vn": "(sử học) thuộc địa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697859_1fa5482688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697859_792704a86d_o.png",
+      "id_image": "plantation_1191617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342551_c922ca1dcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342551_7700285622_o.png",
+      "id_image": "plantation_1590710"
+    }
+  ]
+}

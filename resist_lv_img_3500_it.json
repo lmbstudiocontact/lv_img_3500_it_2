@@ -1,0 +1,100 @@
+{
+  "english": "resist",
+  "phat_am": "[ri'zist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất cản màu (phết vào vải để cho thuốc nhuộm không ăn ở những chỗ không cần nhuộm màu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kháng cự; chống lại",
+          "list_en_vn": [
+            {
+              "full_en": "he could resist no longer",
+              "full_vn": "nókhông chống cự được lâu nữa"
+            },
+            {
+              "full_en": "to resist an attack",
+              "full_vn": "chống lại một cuộc tấn công"
+            },
+            {
+              "full_en": "to resist an enemy",
+              "full_vn": "kháng cự với quân địch"
+            },
+            {
+              "full_en": "to resist a disease",
+              "full_vn": "chống lại bệnh tật"
+            },
+            {
+              "full_en": "he was charged with resisting arrest",
+              "full_vn": "nó bị kết tội vì kháng cự lại khi bị bắt"
+            },
+            {
+              "full_en": "to resist the call for reform",
+              "full_vn": "chống lại lời kêu gọi cải tổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu đựng được, chịu được",
+          "list_en_vn": [
+            {
+              "full_en": "to resist heat",
+              "full_vn": "chịu được nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưỡng lại được, kìm nén lại được; không mắc phải",
+          "list_en_vn": [
+            {
+              "full_en": "to resist a bad habit",
+              "full_vn": "cưỡng lại một thói quen xấu"
+            },
+            {
+              "full_en": "to resist temptation",
+              "full_vn": "cưỡng lại được sự cám dỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) phủ định) nhịn được",
+          "list_en_vn": [
+            {
+              "full_en": "I can't resist good coffee",
+              "full_vn": "cà phê ngon thì tôi không nhịn được"
+            },
+            {
+              "full_en": "he can never resist a joke",
+              "full_vn": "nó không thể nào nhịn được đùa; nó không thể nào nhịn cười được khi nghe một câu chuyện đùa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088870_0d91703781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088870_505ba1534d_o.png",
+      "id_image": "resistance_2529744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351881_40b4a05a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351881_f7422550be_o.png",
+      "id_image": "resist_3100262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706299_95a07b355e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706299_5b7db16c46_o.png",
+      "id_image": "resist_3100321"
+    }
+  ]
+}

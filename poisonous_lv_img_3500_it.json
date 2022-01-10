@@ -1,0 +1,48 @@
+{
+  "english": "poisonous",
+  "phat_am": "['pɔizənəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "độc, có chất độc, có nọc độc; gây chết, gây bệnh (do chất độc)",
+          "list_en_vn": [
+            {
+              "full_en": "poisonous snakes",
+              "full_vn": "rắn có nọc độc"
+            },
+            {
+              "full_en": "poisonous plants",
+              "full_vn": "cây có chất độc (gây bệnh)"
+            },
+            {
+              "full_en": "poisonous chemicals",
+              "full_vn": "cây có chất độc, hoá chất độc hại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "độc hại, có hại (về tinh thần, đạo đức); đầy thù hằn, hiểm độc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075200_a973de212e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075200_0c53176acc_o.png",
+      "id_image": "poisonous_1120682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338111_a3b84861df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338111_3d83458a75_o.png",
+      "id_image": "poisonous_3408770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693339_1f0c2a7e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693339_f40f08f912_o.png",
+      "id_image": "poisonous_5671517"
+    }
+  ]
+}

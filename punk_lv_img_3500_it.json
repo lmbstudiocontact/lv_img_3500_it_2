@@ -1,0 +1,49 @@
+{
+  "english": "punk",
+  "phat_am": "[pʌηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loại nhạc rốc dữ dội, mạnh (phổ biến từ cuối 1970) (như) punk rock"
+        },
+        {
+          "m_full_vn": "người say mê nhạc rốc, người thích nhạc rốc (nhất là người trẻ tuổi; hay bắt chuớc phong cách, quần áo.. của ca sĩ nhạc rốc) (như) punk rocker"
+        },
+        {
+          "m_full_vn": "du côn, thanh thiếu niên tư cách bậy bạ, người thô lỗ, cục mịch"
+        },
+        {
+          "m_full_vn": "(từ lóng) vật vô dụng, vật không có giá trị; rác rưởi",
+          "list_en_vn": [
+            {
+              "full_en": "punk material",
+              "full_vn": "(thuộc ngữ) vật liệu không có giá trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) mục (gỗ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084835_5b9e347657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084835_435ecabb1c_o.png",
+      "id_image": "punk_169905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084820_009b486370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084820_8a414f308e_o.png",
+      "id_image": "punk_1881095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462218_ed8b757664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462218_b2fc7395a2_o.png",
+      "id_image": "punk_1901115"
+    }
+  ]
+}

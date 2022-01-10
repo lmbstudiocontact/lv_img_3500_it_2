@@ -1,0 +1,96 @@
+{
+  "english": "minus",
+  "phat_am": "['mainəs]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ",
+          "list_en_vn": [
+            {
+              "full_en": "7 minus 3 equals to 4",
+              "full_vn": "7 trừ 3 bằng 4"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dưới số không; âm",
+          "list_en_vn": [
+            {
+              "full_en": "a temperature of minus ten degrees centigrade",
+              "full_vn": "nhiệt độ âm 10 độ C"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiếu; không có",
+          "list_en_vn": [
+            {
+              "full_en": "I am minus my wrist-watch",
+              "full_vn": "hôm nay tôi không có đồng hồ đeo tay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ; âm",
+          "list_en_vn": [
+            {
+              "full_en": "minus charge",
+              "full_vn": "(vật lý) điện tích âm"
+            },
+            {
+              "full_en": "he got B minus in midyears",
+              "full_vn": "nó được B trừ trong kỳ thi giữa năm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) như minus sign",
+          "list_one_mean": [
+            {
+              "id_full_en": "to consider the pluses and minuses",
+              "list_im": [
+                {
+                  "im_full_vn": "cân nhắc điều lợi và điều hại; cân nhắc lợi hại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696789_84b27e5171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696789_1bc879562e_o.png",
+      "id_image": "minus_227949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078930_910b8f977e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078930_09d25e60d3_o.png",
+      "id_image": "minus_2368488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341496_8c6f16e8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341496_d54f9880fb_o.png",
+      "id_image": "minus_2844381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341481_8f822ce5ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341481_701e907a62_o.png",
+      "id_image": "minus_5982743"
+    }
+  ]
+}

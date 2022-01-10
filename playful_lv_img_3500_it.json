@@ -1,0 +1,40 @@
+{
+  "english": "playful",
+  "phat_am": "['pleifl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ham vui đùa, khôi hài",
+          "list_en_vn": [
+            {
+              "full_en": "as playful as a kitten",
+              "full_vn": "hay đùa nghịch như mèo con"
+            },
+            {
+              "full_en": "a playful mood",
+              "full_vn": "một tính tình vui vẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vừa làm vừa vui đùa; không nghiêm túc",
+          "list_en_vn": [
+            {
+              "full_en": "playful remarks",
+              "full_vn": "những lời nhận xét bông đùa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078435_f944a25af8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078435_d0582f8ae5_o.png",
+      "id_image": "playful_1612468"
+    }
+  ]
+}

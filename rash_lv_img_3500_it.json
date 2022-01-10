@@ -1,0 +1,63 @@
+{
+  "english": "rash",
+  "phat_am": "[ræ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) chứng phát ban; chỗ phát ban, da nổi mụn",
+          "list_en_vn": [
+            {
+              "full_en": "a nettle-rash",
+              "full_vn": "chứng mày đay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) sự xuất hiện đột ngột, lan rộng",
+          "list_en_vn": [
+            {
+              "full_en": "a rash of ugly new houses",
+              "full_vn": "sự xuất hiện ồ ạt của những ngôi nhà mới xấu xí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ (so sánh)",
+      "list_m": [
+        {
+          "m_full_vn": "hấp tấp, vội vàng"
+        },
+        {
+          "m_full_vn": "ẩu, liều, bừa bãi; cẩu thả, thiếu suy nghĩ",
+          "list_en_vn": [
+            {
+              "full_en": "don't make a rash promise",
+              "full_vn": "đừng có mà hứa liều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075535_671e596665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075535_5d06c36a36_o.png",
+      "id_image": "rash_1497121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338456_19d655b58b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338456_6a2f2f3563_o.png",
+      "id_image": "rash_5746709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075470_2c82d4f25a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075470_4f875456f5_o.png",
+      "id_image": "rash_5759606"
+    }
+  ]
+}

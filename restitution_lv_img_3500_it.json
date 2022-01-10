@@ -1,0 +1,43 @@
+{
+  "english": "restitution",
+  "phat_am": "[,resti'tju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoàn lại, sự trả lại; sự phục hồi",
+          "list_en_vn": [
+            {
+              "full_en": "to make restitution",
+              "full_vn": "bồi thường"
+            },
+            {
+              "full_en": "restitution of the deeds to the owner",
+              "full_vn": "trả lại các chứng thư cho chủ sở hữu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự bồi thường (nhất là bằng tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "make restitution for the damage done",
+              "full_vn": "bồi thường thiệt hại đã gây ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) sự hồi phục (trạng thái cũ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464943_64e0249a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464943_fac2c107b5_o.png",
+      "id_image": "restitution_5201994"
+    }
+  ]
+}

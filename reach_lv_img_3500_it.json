@@ -1,0 +1,242 @@
+{
+  "english": "reach",
+  "phat_am": "[ri:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phạm vi mà tay có thể vươn tới; tầm tay",
+          "list_en_vn": [
+            {
+              "full_en": "a boxer with a long reach",
+              "full_vn": "võ sĩ quyền Anh có sải tay dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự với (tay); tầm với",
+          "list_en_vn": [
+            {
+              "full_en": "out of / beyond (one's ) reach",
+              "full_vn": "ngoài khoảng cách mà tay có thể vươn tới; quá xa không với tới được; ngoài tầm tay"
+            },
+            {
+              "full_en": "within (one's ) reach",
+              "full_vn": "trong khoảng cách mà tay có thể vươn tới; ở gần với tới được; trong tầm tay"
+            },
+            {
+              "full_en": "to have a newspaper within (arm's ) reach",
+              "full_vn": "có một tờ báo trong tầm tay"
+            },
+            {
+              "full_en": "the shelf is so high it is well out of /beyond my reach",
+              "full_vn": "kệ sách quá cao nên ở ngoài hẳn tầm tay của tôi"
+            },
+            {
+              "full_en": "keep those medicines out of reach of the children /out of the children's reach",
+              "full_vn": "không được để thuốc này trong tầm tay trẻ con"
+            },
+            {
+              "full_en": "concepts beyond the reach of one's intelligence",
+              "full_vn": "những khái niệm ngoài tầm hiểu biết của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khúc sông; đoạn kênh",
+          "list_one_mean": [
+            {
+              "id_full_en": "within (easy ) reach (of somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong khoảng cách có thể (dễ dàng) đi đến; gần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the hotel is within easy reach of the beach",
+                      "full_vn": "từ khách sạn đi ra bãi biển rất gần"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the upper /lower reaches of the Thames",
+              "full_vn": "những khúc thượng lưu/hạ lưu của sông Thames"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to reach for something ; to reach out to somebody / something ) vươn (tay) ra để sờ, nắm được hoặc lấy cái gì; với lấy",
+          "list_en_vn": [
+            {
+              "full_en": "he reached for his gun",
+              "full_vn": "nó giơ tay với lấy khẩu súng"
+            },
+            {
+              "full_en": "I reach across the table for the jam",
+              "full_vn": "tôi với tay qua bàn lấy mứt"
+            },
+            {
+              "full_en": "we must reach out to those in need",
+              "full_vn": "chúng ta phải chìa tay ra cứu những người đang gặp khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to reach something down / over ; to reach something down / over for somebody ) vươn tay ra hoặc đưa tay lên lấy cái gì; lấy và đưa cái gì cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "to reach down one's hat",
+              "full_vn": "với lấy cái mũ xuống"
+            },
+            {
+              "full_en": "please reach (me ) the English -Vietnamese dictionary down from the bookshelf",
+              "full_vn": "làm ơn với tay lấy giùm (tôi) cuốn từ điển Anh-Việt ở kệ sách"
+            },
+            {
+              "full_en": "can you reach me (over ) my spectales ?",
+              "full_vn": "anh với tay lấy hộ (tôi) cặp mắt kính của tôi được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to reach to something ) vươn tới cái gì; với tới cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I can just about reach the apples on the top branch",
+              "full_vn": "tôi chỉ có thể sờ gần tới quả táo ở cành trên ngọn"
+            },
+            {
+              "full_en": "my feet can hardly reach the pedals",
+              "full_vn": "chân tôi khó với tới bàn đạp"
+            },
+            {
+              "full_en": "her hair nearly reached down to her waist",
+              "full_vn": "tóc cô ta dài gần đến thắt lưng"
+            },
+            {
+              "full_en": "to reach the ceiling",
+              "full_vn": "với tới trần nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên lạc với ai qua điện thoại",
+          "list_en_vn": [
+            {
+              "full_en": "reach them at home on 8423333",
+              "full_vn": "gọi điện thoại cho họ ở nhà, số máy 8423333"
+            },
+            {
+              "full_en": "I can't reach him by phone /on the phone",
+              "full_vn": "tôi không tài nào liên lạc được với ông ấy qua điện thoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi đến tận ai/cái gì/chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to reach Hanoi in the morning",
+              "full_vn": "đến Hà Nội buổi sáng"
+            },
+            {
+              "full_en": "to reach the end of the chapter",
+              "full_vn": "đến cuối chương"
+            },
+            {
+              "full_en": "to reach a speed of 500 mph",
+              "full_vn": "đạt tới tốc độ 500 dặm/giờ"
+            },
+            {
+              "full_en": "as far as the eyes can reach",
+              "full_vn": "xa tít, xa tới nơi tầm mắt có thể nhìn tới được"
+            },
+            {
+              "full_en": "the rescuers reach him just in time",
+              "full_vn": "những người cứu hộ tìm được anh ta vừa kịp lúc"
+            },
+            {
+              "full_en": "your letter reached me yesterday",
+              "full_vn": "thư anh đến tôi hôm qua"
+            },
+            {
+              "full_en": "to reach someone's conscience",
+              "full_vn": "thấu đến lương tâm ai"
+            },
+            {
+              "full_en": "to reach the age of sixty",
+              "full_vn": "đến tuổi sáu mươi"
+            },
+            {
+              "full_en": "you'll know better when you reach my age",
+              "full_vn": "đến tuổi tôi, anh sẽ hiểu rõ hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành; đạt được",
+          "list_one_mean": [
+            {
+              "id_full_en": "something comes to /reaches somebody's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "xem ear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit /make /reach the headlines",
+              "list_im": [
+                {
+                  "im_full_vn": "xem headline"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to reach for stars",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiều tham vọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to reach a conclusion /decision",
+              "full_vn": "đi đến kết luận/quyết định"
+            },
+            {
+              "full_en": "to reach perfection",
+              "full_vn": "đạt đến mức hoàn mỹ; đạt được mức hoàn mỹ"
+            },
+            {
+              "full_en": "to reach an agreement",
+              "full_vn": "đạt được một sự thoả thuận"
+            },
+            {
+              "full_en": "the appeal fund has reached its target",
+              "full_vn": "quỹ quyên góp đã đạt được mục tiêu đề ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452038_47f48f6c72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452038_aecd0d1cbb_o.png",
+      "id_image": "reach_4151760"
+    }
+  ]
+}

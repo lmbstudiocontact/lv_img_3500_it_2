@@ -1,0 +1,98 @@
+{
+  "english": "problem",
+  "phat_am": "['prɔbləm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái khó giải quyết hoặc khó hiểu; vấn đề, luận đề",
+          "list_en_vn": [
+            {
+              "full_en": "how do you cope with the problem of poor vision ?",
+              "full_vn": "anh đối phó thế nào với vấn đề thị lực kém?"
+            },
+            {
+              "full_en": "a knotty problem",
+              "full_vn": "một vấn đề rắc rối"
+            },
+            {
+              "full_en": "to get to the root /heart of a problem",
+              "full_vn": "đi vào cội rễ/trung tâm của một vấn đề"
+            },
+            {
+              "full_en": "we've got a problem with the car - it won't start",
+              "full_vn": "xe chúng ta có vấn đề rồi - nó không nổ máy"
+            },
+            {
+              "full_en": "you'll have to mend that leak or it will cause problems later",
+              "full_vn": "anh phải sửa chỗ dột đó đi, nếu không nó sẽ gây ra nhiều vấn đề sau này"
+            },
+            {
+              "full_en": "the housing problem in the inner cities",
+              "full_vn": "vấn đề nhà ở trong nội thành"
+            },
+            {
+              "full_en": "Will you be able to get me tickets for the match ? - Of course , no problem",
+              "full_vn": "Anh mua hộ tôi vé xem trận đấu này nhé? - Tất nhiên là được, chẳng có vấn đề gì cả"
+            },
+            {
+              "full_en": "I can't come to party - Why , what's the problem ?",
+              "full_vn": "Tôi không đi dự tiệc được - Sao, có vấn đề gì thế?"
+            },
+            {
+              "full_en": "a problem novel /play",
+              "full_vn": "tiểu thuyết/vở kịch có luận đề (đề cập đến một vấn đề xã hội hoặc đạo đức)"
+            },
+            {
+              "full_en": "a newspaper's problem page",
+              "full_vn": "trang tâm sự bạn đọc của một tờ báo (trang đăng thư của bạn đọc về các vấn đề của họ và những cách giải quyết được gợi ý)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câu hỏi phải trả lời hoặc phải giải quyết; bài toán",
+          "list_en_vn": [
+            {
+              "full_en": "a mathematical problem",
+              "full_vn": "một bài toán số học"
+            },
+            {
+              "full_en": "she has found the answer to the problem /solved the problem",
+              "full_vn": "bà ta đã tìm ra đáp số cho/đã giải được bài toán"
+            },
+            {
+              "full_en": "his attitude is a problem to me",
+              "full_vn": "thái độ anh ta làm tôi khó hiểu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế cờ (bày sẵn để phá)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678524_7b2c6b1ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678524_4ab28c031c_o.png",
+      "id_image": "problem_1924432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438403_38a24dbcf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438403_914320f863_o.png",
+      "id_image": "problem_2643530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060010_4b146e9d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060010_c40758dd44_o.png",
+      "id_image": "problem_6040652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060145_c1acb3ed6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060145_8630c93558_o.png",
+      "id_image": "problem_860478"
+    }
+  ]
+}

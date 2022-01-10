@@ -1,0 +1,66 @@
+{
+  "english": "police",
+  "phat_am": "[pə'li:s]",
+  "list_type": [
+    {
+      "type": "danh từ ( động từ theo sau phải ở số nhiều)",
+      "list_m": [
+        {
+          "m_full_vn": "cảnh sát, công an",
+          "list_en_vn": [
+            {
+              "full_en": "the local police",
+              "full_vn": "cảnh sát địa phương"
+            },
+            {
+              "full_en": "the national police",
+              "full_vn": "cảnh sát quốc gia"
+            },
+            {
+              "full_en": "there were over 100 police on duty at the demonstration",
+              "full_vn": "có hơn 100 cảnh sát làm nhiệm vụ ở chỗ biểu tình"
+            },
+            {
+              "full_en": "the police have not made any arrests",
+              "full_vn": "cảnh sát chẳng bắt bớ ai cả"
+            },
+            {
+              "full_en": "a police car , enquiry , raid , report",
+              "full_vn": "xe, cuộc hỏi cung, cuộc vây ráp, báo cáo của cảnh sát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ trật tự (ở một địa điểm) với hoặc như cảnh sát; khống chế, kiểm soát",
+          "list_en_vn": [
+            {
+              "full_en": "the teachers on duty are policing the school buildings during the lunch hour",
+              "full_vn": "thầy giáo trực ban đang kiểm tra các toà nhà của trường học trong giờ ăn trưa"
+            },
+            {
+              "full_en": "a committee to police the new regulations",
+              "full_vn": "một ủy ban để giám sát các quy tắc mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074755_b9e4050d70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074755_6774468761_o.png",
+      "id_image": "police_2991186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074785_9dd75b5501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074785_d000b0e840_o.png",
+      "id_image": "police_771388"
+    }
+  ]
+}

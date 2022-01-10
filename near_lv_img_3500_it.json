@@ -1,0 +1,370 @@
+{
+  "english": "near",
+  "phat_am": "[niə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong một khoảng không gian hoặc thời gian ngắn cách ai/cái gì; gần",
+          "list_en_vn": [
+            {
+              "full_en": "the school is quite near",
+              "full_vn": "trường học rất gần"
+            },
+            {
+              "full_en": "those shops are nearest",
+              "full_vn": "các cửa hàng đó là gần nhất"
+            },
+            {
+              "full_en": "where's the nearest bus-stop ?",
+              "full_vn": "trạm xe búyt gần nhất ở đâu?"
+            },
+            {
+              "full_en": "the supermarket is very near (to ) the station",
+              "full_vn": "siêu thị ở rất gần nhà ga"
+            },
+            {
+              "full_en": "we hope to move to the country in the near future",
+              "full_vn": "chúng tôi hy vọng sẽ chuyển về ở nông thôn trong thời gian gần đây"
+            },
+            {
+              "full_en": "my exams are getting nearer",
+              "full_vn": "đã gần đến ngày thi của tôi"
+            },
+            {
+              "full_en": "4.15 is too near to the time of departure",
+              "full_vn": "4 giờ 15 là gần sát với giờ khởi hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quan hệ (họ hàng) mật thiết",
+          "list_en_vn": [
+            {
+              "full_en": "a near relation /relative",
+              "full_vn": "một người bà con gần"
+            },
+            {
+              "full_en": "the nearest member of my family still alive is a rather distant cousin",
+              "full_vn": "người họ hàng gần nhất của gia đình tôi còn sống là một người con ông bác khá xa"
+            },
+            {
+              "full_en": "near and dear friend",
+              "full_vn": "bạn chí thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tương tự; gần giống",
+          "list_en_vn": [
+            {
+              "full_en": "we don't have that colour in stock - this is the nearest",
+              "full_vn": "chúng tôi không có sẵn màu đó - đây có màu tương tự"
+            },
+            {
+              "full_en": "this copy is nearer the original than the others I've seen",
+              "full_vn": "bản sao này gần giống với bản gốc hơn các bản sao khác mà tôi từng thấy"
+            },
+            {
+              "full_en": "near resemblance",
+              "full_vn": "sự giống lắm"
+            },
+            {
+              "full_en": "a near translation",
+              "full_vn": "bản dịch sát nghĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi ly, chắt bóp, keo kiệt",
+          "list_en_vn": [
+            {
+              "full_en": "to be very near with one's money",
+              "full_vn": "rất chi ly đối với đồng tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bên trái ( (cũng) nearside )",
+          "list_en_vn": [
+            {
+              "full_en": "the near side of the road",
+              "full_vn": "bên trái đường"
+            },
+            {
+              "full_en": "the near wheel of a car",
+              "full_vn": "bánh xe bên trái"
+            },
+            {
+              "full_en": "the near foreleg of a horse",
+              "full_vn": "chân trái đằng trước của con ngựa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "gần như; hầu như",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's nearest and dearest",
+              "list_im": [
+                {
+                  "im_full_vn": "gia đình thân thuộc của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the near distance",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay trước mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close /dear /near to somebody's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần gũi với ai; rất được ai quan tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a close /near thing",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thing"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close /near to home",
+              "list_im": [
+                {
+                  "im_full_vn": "xem home"
+                }
+              ]
+            },
+            {
+              "id_full_en": "or near (est ) offer (viết tắt là ono )",
+              "list_im": [
+                {
+                  "im_full_vn": "hoặc là một số tiền ít hơn giá đã ghi nhưng nhiều hơn các giá chào khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a near miss",
+              "list_im": [
+                {
+                  "im_full_vn": "(bom, đạn) gần trúng đích; tình huống mà mình vừa mới tránh được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "near-perfect",
+              "full_vn": "gần như hoàn hảo"
+            },
+            {
+              "full_en": "a near-vertical tree",
+              "full_vn": "một cái cây gần như thẳng đứng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách một khoảng ngắn; gần",
+          "list_en_vn": [
+            {
+              "full_en": "we found some shops quite near",
+              "full_vn": "chúng tôi tìm được mấy cửa hàng rất gần"
+            },
+            {
+              "full_en": "did you sit near enough to see the main actress ?",
+              "full_vn": "các bạn có ngồi đủ gần để thấy cô đào chính hay không?"
+            },
+            {
+              "full_en": "near at hand",
+              "full_vn": "gần ngay bên; gần tới nơi"
+            },
+            {
+              "full_en": "near by",
+              "full_vn": "ở gần, ở bên"
+            },
+            {
+              "full_en": "do they live near /near by ?",
+              "full_vn": "họ sống ở gần đây à?"
+            },
+            {
+              "full_en": "the beach is quite near by",
+              "full_vn": "bãi biển rất gần đây"
+            },
+            {
+              "full_en": "near by , the cars could be heard speeding fast on the motorway ?",
+              "full_vn": "ở gần, có thể nghe tiếng xe hơi phóng nhanh trên xa lộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi ly, chắt bóp, keo kiệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "as near as",
+              "list_im": [
+                {
+                  "im_full_vn": "cũng chính xác như, cũng đúng như"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as near as dammit , as near as makes no difference",
+              "list_im": [
+                {
+                  "im_full_vn": "súyt soát, xê xích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's going to cost 200 francs or as near as dammit",
+                      "full_vn": "cái đó giá sẽ đến 200 frăng hoặc súyt soát thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "so near and yet so far",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bình luận một sự cố gắng gần (như) thành công nhưng rồi lại thất bại); đến miệng rồi còn để rơi mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "far and near /wide",
+              "list_im": [
+                {
+                  "im_full_vn": "xem far"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not anywhere /nowhere near",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc là không; còn lâu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live very near",
+              "full_vn": "sống chắt bóp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ có một khoảng cách ngắn hoặc một khoảng thời gian ngắn ở giữa; gần",
+          "list_en_vn": [
+            {
+              "full_en": "Bradford is near Leeds",
+              "full_vn": "Bradford ở gần Leeds"
+            },
+            {
+              "full_en": "to stand near the fire",
+              "full_vn": "đứng gần lò sưởi"
+            },
+            {
+              "full_en": "my birthday is very near Christmas",
+              "full_vn": "sinh nhật của tôi rất gần ngày lễ Nôen"
+            },
+            {
+              "full_en": "is there a cinema near here ?",
+              "full_vn": "có rạp chiếu bóng gần đây không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần giống, theo kịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /come near to sth /doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "gần đạt tới điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I came near to screaming",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi gần như kêu lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "who comes near him in self-denial ?",
+              "full_vn": "ai theo kịp được anh ấy về tinh thần hy sinh?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đến gần (cái gì) về không gian hoặc thời gian; đến gần; xích lại gần",
+          "list_one_mean": [
+            {
+              "id_full_en": ""
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be nearing one's end",
+              "full_vn": "sắp chết"
+            },
+            {
+              "full_en": "the day is nearing when we'll have to decide",
+              "full_vn": "đã sắp đến ngày chúng tôi phải quyết định"
+            },
+            {
+              "full_en": "the job is at last nearing completion",
+              "full_vn": "cuối cùng rồi công việc cũng sắp hoàn thành"
+            },
+            {
+              "full_en": "the ship was nearing the land",
+              "full_vn": "tàu sắp tới đất liền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063720_7a26341f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063720_ebd0e0da01_o.png",
+      "id_image": "near_4843169"
+    }
+  ]
+}

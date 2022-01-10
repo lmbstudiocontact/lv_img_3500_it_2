@@ -1,0 +1,74 @@
+{
+  "english": "romance",
+  "phat_am": "[rou'mæns]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Romance ) (thuộc) ngôn ngữ Rôman"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Romance ) ngôn ngữ rôman"
+        },
+        {
+          "m_full_vn": "truyện anh hùng hiệp sĩ (thời Trung cổ, (thường) viết theo thể thơ)"
+        },
+        {
+          "m_full_vn": "truyện tưởng tượng, truyện hư cấu; văn học hư cấu",
+          "list_en_vn": [
+            {
+              "full_en": "(a) medieval romance",
+              "full_vn": "(một) truyện hư cấu thời Trung cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không khí lãng mạn; tình cảm lãng mạn"
+        },
+        {
+          "m_full_vn": "truyện tình lãng mạn; mối tình lãng mạn"
+        },
+        {
+          "m_full_vn": "sự mơ mộng, tính lãng mạn"
+        },
+        {
+          "m_full_vn": "sự thêu dệt, sự bịa đặt, sự nói ngoa, sự cường điệu; sự tô vẻ"
+        },
+        {
+          "m_full_vn": "(âm nhạc) Rôman (khúc)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thêu dệt, bịa đặt; nói ngoa, cường điệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698284_1dc488687c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698284_ee251f3447_o.png",
+      "id_image": "romance_1554831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343046_9ccccaacf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343046_c37179ee2b_o.png",
+      "id_image": "romance_2123917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698199_9a9fffa947_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698199_44f22452f9_o.png",
+      "id_image": "romance_2702237"
+    }
+  ]
+}

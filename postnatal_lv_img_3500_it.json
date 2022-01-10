@@ -1,0 +1,45 @@
+{
+  "english": "postnatal",
+  "phat_am": "[,poust'neitl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễn ra sau khi sinh đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "postnatal depression",
+              "full_vn": "suy nhược sau khi sinh đẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) trẻ sơ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "a postnatal unit",
+              "full_vn": "khoa sơ sinh"
+            },
+            {
+              "full_en": "a postnatal nurse",
+              "full_vn": "y tá săn sóc trẻ sơ sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333206_812149971d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333206_5a23e43662_o.png",
+      "id_image": "postnatal_1466253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070045_f8199d8dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070045_1ca867a92c_o.png",
+      "id_image": "postnatal_4215466"
+    }
+  ]
+}

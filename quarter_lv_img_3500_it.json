@@ -1,0 +1,227 @@
+{
+  "english": "quarter",
+  "phat_am": "['kwɔ:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một trong bốn phần bằng nhau hoặc tương ứng (của một cái gì); một phần tư; mười lăm phút",
+          "list_en_vn": [
+            {
+              "full_en": "a quarter of a century",
+              "full_vn": "một phần tư thế kỷ"
+            },
+            {
+              "full_en": "three and a quarter inches",
+              "full_vn": "ba insơ một phần tư"
+            },
+            {
+              "full_en": "the programme lasted an hour and a quarter",
+              "full_vn": "chương trình kéo dài một giờ mười lăm phút"
+            },
+            {
+              "full_en": "to divide apples into quarters",
+              "full_vn": "bổ những quả táo ra làm tư"
+            },
+            {
+              "full_en": "three quarters of the theatre was full",
+              "full_vn": "ba phần tư rạp đã đầy khách"
+            },
+            {
+              "full_en": "a quarter of coffee , please",
+              "full_vn": "làm ơn cho tôi một phần tư pao càphê"
+            },
+            {
+              "full_en": "it's (a ) quarter to four now",
+              "full_vn": "bây giờ là 4 giờ kém 15"
+            },
+            {
+              "full_en": "the clock strikes the hours , the half-hours and the quarters",
+              "full_vn": "đồng hồ này đánh chuông giờ, nửa giờ và mười lăm phút"
+            },
+            {
+              "full_en": "the buses leave twice every hour on the quarter",
+              "full_vn": "xe búyt mỗi giờ chạy hai chuyến, trước giờ mười lăm phút và sau giờ mười lăm phút ( 10 giờ 15 và 10 giờ 45 chẳng hạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ba tháng (thời kỳ để trả tiền thuê nhà hoặc các khoản thanh toán khác hoặc tính toán thu nhập của mộtcông ty) quý, tam cá nguyệt",
+          "list_en_vn": [
+            {
+              "full_en": "the rent is due at the end of each quarter",
+              "full_vn": "tiền thuê phải nộp vào cuối mỗi quý"
+            },
+            {
+              "full_en": "our gas bill for the last quarter was unusually high",
+              "full_vn": "hoá đơn khí đốt của chúngtôi trong quý vừa rồi tăng cao một cách bất thường"
+            },
+            {
+              "full_en": "sales of the dictionary are twice what they were in the same quarter last year",
+              "full_vn": "cuốn từ điển bán được nhiều gấp đôi so với cùng quý này năm ngoái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương hướng; phía, nơi, miền",
+          "list_en_vn": [
+            {
+              "full_en": "the wind blew from every quarter /from all quarters",
+              "full_vn": "gió từ mọi phía thổi đến"
+            },
+            {
+              "full_en": "her travels had taken her to every quarter of the globe",
+              "full_vn": "những chuyến đi của bà ấy đã đưa bà ấy đến mọi miền trên quả đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn giúp đỡ, nguồn thông tin",
+          "list_en_vn": [
+            {
+              "full_en": "as her mother was now very poor , she could expect no help from that quarter",
+              "full_vn": "bây giờ mẹ cô ấy nghèo lắm, nên cô ấy không còn mong gì được giúp đỡ từ nguồn đó"
+            },
+            {
+              "full_en": "the minister's speech is interpreted in some quarters as an admission that the Government was wrong",
+              "full_vn": "diễn văn của ông bộ trưởng được một số giới ( môt số người) xem như một sự thừa nhận rằng chính phủ đã sai lầm"
+            },
+            {
+              "full_en": "to have the news from a good quarter",
+              "full_vn": "nhận được tin từ một nguồn đáng tin cậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu phố, phường, quận",
+          "list_en_vn": [
+            {
+              "full_en": "residential quarter",
+              "full_vn": "khu nhà ở, khu dân cư"
+            },
+            {
+              "full_en": "the student quarter of the city",
+              "full_vn": "khu sinh viên của thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "25 xen (một phần tư của một đô la); đồng 25 xu",
+          "list_en_vn": [
+            {
+              "full_en": "it'll cost you a quarter",
+              "full_vn": "ông phải trả 1 / 4 đô la"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một phần tư của một tạ, nghĩa là 28 pao ở Anh hoặc 25 pao ở Mỹ; góc tạ"
+        },
+        {
+          "m_full_vn": "( số nhiều) chỗ ăn ở của quân lính; nơi đóng quân, doanh trại",
+          "list_en_vn": [
+            {
+              "full_en": "to take up quarters in the nearest village",
+              "full_vn": "đóng quân ở làng gần nhất"
+            },
+            {
+              "full_en": "married /single quarters",
+              "full_vn": "trại cho binh sĩ có gia đình/độc thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuần trăng (một phần tư của một tháng âm lịch; vị trí của mặt trăng khi ở cuối tuần đầu và tuần thứ ba trong tháng)",
+          "list_en_vn": [
+            {
+              "full_en": "the moon is in its last quarter",
+              "full_vn": "trăng đang ở vào hạ tuần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần cuối của sườn tàu; mạn tàu",
+          "list_en_vn": [
+            {
+              "full_en": "on the port /starboard quarter",
+              "full_vn": "bên mạn trái/phải của tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tha giết, sự tha chết (cho kẻ thù đầu hàng...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at close quarters",
+              "list_im": [
+                {
+                  "im_full_vn": "xem close"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to beg for quarter",
+              "full_vn": "xin tha mạng"
+            },
+            {
+              "full_en": "to receive quarter",
+              "full_vn": "được tha tội chết, được tha mạng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt đều làm bốn, chia tư",
+          "list_en_vn": [
+            {
+              "full_en": "to quarter an apple",
+              "full_vn": "cắt một quả táo thành 4 phần, chia tư một quả táo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phanh thây",
+          "list_en_vn": [
+            {
+              "full_en": "to be sentenced to be hung , drawn and quartered",
+              "full_vn": "bị kết án treo cổ, xé xác phanh thây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp chỗ ở cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "troops quartered on the local villagers",
+              "full_vn": "binh sĩ đóng quân tại nhà dân địa phương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699804_f7253b7afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699804_cf49445c4b_o.png",
+      "id_image": "quarter_1827304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459453_a2cedcaf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459453_541b0c5aa0_o.png",
+      "id_image": "quarter_1827305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496653_f359799f09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496653_f139290fe0_o.png",
+      "id_image": "quarter_3103224"
+    }
+  ]
+}

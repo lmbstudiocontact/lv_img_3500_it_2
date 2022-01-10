@@ -1,0 +1,50 @@
+{
+  "english": "sabbath",
+  "phat_am": "['sæbəθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngày xa-ba; (ngày nghỉ ngơi và thờ phụng Chúa; ngày thứ bảy theo đạo Do thái, ngày chủ nhật theo đạo Cơ đốc giáo) (như) sabbath day",
+          "list_en_vn": [
+            {
+              "full_en": "to keep the sabbath",
+              "full_vn": "tuân theo ngày xa-ba"
+            },
+            {
+              "full_en": "to break the sabbath",
+              "full_vn": "không tuân theo ngày xa-ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời kỳ nghỉ"
+        },
+        {
+          "m_full_vn": "cuộc hội họp của các phù thuỷ ma quỷ (như) witches sabbath",
+          "list_one_mean": [
+            {
+              "id_full_en": "sabbath-day's journey",
+              "list_im": [
+                {
+                  "im_full_vn": "quãng đường (độ hơn một kilômét) người Do thái có thể đi trong ngày xa-ba"
+                },
+                {
+                  "im_full_vn": "cuộc đi dễ dàng thoải mái"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075505_e2acc3c399_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075505_f0cceb22ae_o.png",
+      "id_image": "sabbath_5443029"
+    }
+  ]
+}

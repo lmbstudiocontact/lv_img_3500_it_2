@@ -1,0 +1,32 @@
+{
+  "english": "orthodontic",
+  "phat_am": "[,ɔ:θə'dɔntiks]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thuật chỉnh răng",
+          "list_en_vn": [
+            {
+              "full_en": "orthodontic surgery",
+              "full_vn": "phẫu thuật chỉnh răng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387452_fb3e1e1372_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387452_19e13fa98e_o.png",
+      "id_image": "orthodontic_1700134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342401_5c73281bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342401_a8fe990db7_o.png",
+      "id_image": "orthodontic_4215308"
+    }
+  ]
+}

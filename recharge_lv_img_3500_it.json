@@ -1,0 +1,61 @@
+{
+  "english": "recharge",
+  "phat_am": "[ri:'t∫ɑ:dʒ]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạp lại (bình điện, súng..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to recharge one's batteries",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có một kỳ nghỉ ngơi, thư dãn để phục hồi lại sức khoẻ của mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to recharge a revolver",
+              "full_vn": "nạp đạn lại một khẩu súng lục"
+            },
+            {
+              "full_en": "to recharge a battery",
+              "full_vn": "nạp điện lại một bình ắc-quy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690824_161208f98f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690824_9e1206d419_o.png",
+      "id_image": "recharge_1069904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072490_b937ec834d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072490_af46ff7101_o.png",
+      "id_image": "recharge_2972237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380617_236a5cf885_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380617_724657a3e3_o.png",
+      "id_image": "recharge_3899135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072410_39575a9cfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072410_ee104d5466_o.png",
+      "id_image": "recharge_5664263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380682_5063664d19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380682_cdc1b6dc5d_o.png",
+      "id_image": "recharge_976011"
+    }
+  ]
+}

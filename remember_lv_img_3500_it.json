@@ -1,0 +1,124 @@
+{
+  "english": "remember",
+  "phat_am": "[ri'membə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhớ; nhớ lại",
+          "list_en_vn": [
+            {
+              "full_en": "if I remember rightly , the party starts at 8 pm",
+              "full_vn": "nếu tôi nhớ không lầm thì bữa tiệc bắt đầu vào 8 giờ tối"
+            },
+            {
+              "full_en": "Have you met my brother ? Not as far as I remember",
+              "full_vn": "Anh gặp em trai tôi chưa nhỉ? Theo tôi nhớ thì chưa"
+            },
+            {
+              "full_en": "do you remember where you put the key ?",
+              "full_vn": "anh có nhớ anh để chìa khoá ở đâu không?"
+            },
+            {
+              "full_en": "remember to lock the bicycle",
+              "full_vn": "nhớ khoá xe đạp nhé"
+            },
+            {
+              "full_en": "I remember locking the bicycle",
+              "full_vn": "tôi nhớ là mình đã khoá xe đạp rồi"
+            },
+            {
+              "full_en": "I remember seeing her somewhere",
+              "full_vn": "tôi nhớ là mình đã gặp cô ta ở đâu"
+            },
+            {
+              "full_en": "I remember his objecting to the scheme",
+              "full_vn": "tôi nhớ việc hắn phản đối kế hoạch đó"
+            },
+            {
+              "full_en": "I can't remember his name",
+              "full_vn": "tôi không tài nào nhớ lại được tên của anh ta"
+            },
+            {
+              "full_en": "words and expressions to be remembered",
+              "full_vn": "từ và thành ngữ cần phải ghi nhớ"
+            },
+            {
+              "full_en": "I remember her as a slim young girl",
+              "full_vn": "tôi nhớ cô ta là một cô gái mảnh khảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhớ thưởng tiền, nhớ cho tiền, nhớ đưa tiền",
+          "list_en_vn": [
+            {
+              "full_en": "to remember a child on his birthday",
+              "full_vn": "nhớ tặng quà cho một em nhỏ vào ngày sinh của em"
+            },
+            {
+              "full_en": "please remember the waiter",
+              "full_vn": "xin nhớ cho tiền người hầu bàn, đừng quên cho tiền người hầu bàn"
+            },
+            {
+              "full_en": "to remember somebody in one's will",
+              "full_vn": "nhớ để tiền lại cho ai trong di chúc của mình"
+            },
+            {
+              "full_en": "Auntie Jill always remember my birthday",
+              "full_vn": "Dì Jill luôn luôn nhớ tặng quà vào ngày sinh nhật của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to remember somebody to somebody ) chuyển lời chào của người này tới người kia",
+          "list_en_vn": [
+            {
+              "full_en": "please remember me to your sister",
+              "full_vn": "làm ơn cho tôi gửi lời thăm chị anh"
+            },
+            {
+              "full_en": "she asked me to remember her to you",
+              "full_vn": "cô ấy nhờ tôi chuyển lời hỏi thăm của cô ấy đến anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to remember oneself ) ngừng cư xử tồi tệ",
+          "list_en_vn": [
+            {
+              "full_en": "Bill , remember yourself ! Don't swear in front of the children !",
+              "full_vn": "Bill, hãy thôi đi! Đừng chửi thề trước mặt con cái!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đề cập đến ai, tưởng nhớ đến ai (nhất là trong lời cầu nguyện của mình)",
+          "list_en_vn": [
+            {
+              "full_en": "to remember the sick , the old and the needy",
+              "full_vn": "nhớ cầu nguyện cho những người ốm yếu, người già cả và người nghèo"
+            },
+            {
+              "full_en": "a church service to remember the war dead",
+              "full_vn": "buổi lễ nhà thờ cầu nguyện cho những người đã chết trong chiến tranh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325956_83ffa68625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325956_55933543a3_o.png",
+      "id_image": "remember_5822099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681029_c4b53462ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681029_4e6bbc6398_o.png",
+      "id_image": "remember_5860861"
+    }
+  ]
+}

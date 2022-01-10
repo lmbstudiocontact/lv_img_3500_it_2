@@ -1,0 +1,111 @@
+{
+  "english": "queer",
+  "phat_am": "[kwiə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lạ lùng, kỳ quặc"
+        },
+        {
+          "m_full_vn": "khả nghi, đáng ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "there's something queer about him",
+              "full_vn": "hắn ta có vẻ khả nghi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó ở, khó chịu, chóng mặt, không khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to feel queer",
+              "full_vn": "cảm thấy khó chịu"
+            },
+            {
+              "full_en": "to be queer",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) bị ốm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) say rượu"
+        },
+        {
+          "m_full_vn": "giả (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "queer money",
+              "full_vn": "tiền giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) đồng tính luyến ái (nhất là nam)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in Queen street",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mắc nợ; gặp lúc khó khăn; gặp việc rầy rà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đồng tính luyến ái (nhất là nam)"
+        },
+        {
+          "m_full_vn": "( số nhiều) sự đồng tính luyến ái"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tiền giả"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) làm hại, làm hỏng, làm rối loạn",
+          "list_en_vn": [
+            {
+              "full_en": "to queer someone's plan",
+              "full_vn": "làm hỏng kế hoạch của ai"
+            },
+            {
+              "full_en": "to queer the pitch for somebody",
+              "full_vn": "chơi xỏ ai; phỗng tay trên ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho cảm thấy khó chịu"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đẩy vào một tình thế lúng túng bất lợi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081750_ddaa827e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081750_a12b45e16e_o.png",
+      "id_image": "queer_2534606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459088_0f84c1df1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459088_eab4993768_o.png",
+      "id_image": "queer_2620874"
+    }
+  ]
+}

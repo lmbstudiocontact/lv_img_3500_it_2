@@ -1,0 +1,70 @@
+{
+  "english": "preserve",
+  "phat_am": "[pri'zə:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trái cây được bảo quản; mứt",
+          "list_en_vn": [
+            {
+              "full_en": "apricot preserves",
+              "full_vn": "mơ được bảo quản (tức là đã được đóng hộp, ướp..)"
+            },
+            {
+              "full_en": "strawberry preserve",
+              "full_vn": "mứt dâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực cấm săn bắn; khu vực cấm câu cá"
+        },
+        {
+          "m_full_vn": "lĩnh vực (hoạt động, quyền lợi..) riêng biệt"
+        },
+        {
+          "m_full_vn": "( số nhiều) kính phòng bụi, kính bảo hộ lao động"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảo quản, giữ gìn (cái gì cho hoàn hảo); lưu giữ, bảo tồn, duy trì lâu dài; bảo toàn (cho ai khỏi nguy hiểm)",
+          "list_en_vn": [
+            {
+              "full_en": "to preserve someone from the cold",
+              "full_vn": "giữ cho ai khỏi lạnh"
+            },
+            {
+              "full_en": "to preserve order",
+              "full_vn": "giữ được trật tự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ, bảo vệ (cái gì khỏi mất)"
+        },
+        {
+          "m_full_vn": "bảo quản (thức ăn, quả, thịt...) (bằng cách đóng hộp, ướp muối, nấu đường...)"
+        },
+        {
+          "m_full_vn": "(hoá học) giữ cho khỏi phân huỷ"
+        },
+        {
+          "m_full_vn": "dành riêng (khu săn, khu đánh cá...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372552_47b3cabf47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372552_cd3fbc82e3_o.png",
+      "id_image": "preserve_4276021"
+    }
+  ]
+}

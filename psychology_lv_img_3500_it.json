@@ -1,0 +1,59 @@
+{
+  "english": "psychology",
+  "phat_am": "[sai'kɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) tâm lý (của một người..)",
+          "list_en_vn": [
+            {
+              "full_en": "the psychology of the adolescent",
+              "full_vn": "tâm lý của thanh niên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tâm lý học",
+          "list_en_vn": [
+            {
+              "full_en": "child psychology",
+              "full_vn": "tâm lý học trẻ em"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khái luận về tâm lý; hệ tâm lý"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703764_feb1d5bf7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703764_67e52ce4d5_o.png",
+      "id_image": "psychology_2201606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348976_ae42dc0ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348976_750c4a6179_o.png",
+      "id_image": "psychology_4305261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393882_8f2b504d5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393882_4ca069a3b8_o.png",
+      "id_image": "psychology_552407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349081_7cd4988232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349081_8f187b7285_o.png",
+      "id_image": "psychology_552436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393827_69554c6539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393827_0d08843f12_o.png",
+      "id_image": "psychology_555695"
+    }
+  ]
+}

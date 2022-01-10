@@ -1,0 +1,35 @@
+{
+  "english": "rivalry",
+  "phat_am": "['raivəlri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kình địch, sự đua tài, sự ganh đua",
+          "list_en_vn": [
+            {
+              "full_en": "to enter into rivalry with someone",
+              "full_vn": "kình địch với ai"
+            },
+            {
+              "full_en": "a country paralyzed by political rivalries",
+              "full_vn": "một đất nước bị tê liệt vì những sự kình địch về chính trị"
+            },
+            {
+              "full_en": "the usual rivalry between brother and sister",
+              "full_vn": "sự ganh đua thường thấy giữa em trai và chị gái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082680_47a6dd1299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082680_6cd3c0becb_o.png",
+      "id_image": "rivalry_708661"
+    }
+  ]
+}

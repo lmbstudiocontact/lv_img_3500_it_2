@@ -1,0 +1,43 @@
+{
+  "english": "premier",
+  "phat_am": "['premiə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thủ tướng (người đứng đầu chính phủ)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc ngữ) thứ nhất, trên hết (về tầm quan trọng, vị trí..)"
+        },
+        {
+          "m_full_vn": "(từ lóng) nhất, đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to take the premier place",
+              "full_vn": "đứng đầu, nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444163_d972c4aabb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444163_00cdd551d0_o.png",
+      "id_image": "premier_395779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373862_75f2b6ef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373862_a09a83233f_o.png",
+      "id_image": "premier_5571590"
+    }
+  ]
+}

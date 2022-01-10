@@ -1,0 +1,44 @@
+{
+  "english": "null",
+  "phat_am": "[nʌl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vô hiệu, không có hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "null and void",
+              "full_vn": "không còn hiệu lực nữa, không còn giá trị nữa (đạo luật, tờ di chúc, chứng thư, hiệp ước...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô dụng, vô giá trị"
+        },
+        {
+          "m_full_vn": "không có cá tính, không biểu lộ tâm tính"
+        },
+        {
+          "m_full_vn": "(toán học) bằng không, không"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữ dùng để đánh lạc hướng (trong mật mã)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319831_256740c7d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319831_047e9209e7_o.png",
+      "id_image": "null_5108591"
+    }
+  ]
+}

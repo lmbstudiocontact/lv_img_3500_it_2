@@ -1,0 +1,36 @@
+{
+  "english": "neon",
+  "phat_am": "['ni:ən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nê-ông",
+          "list_en_vn": [
+            {
+              "full_en": "neon light",
+              "full_vn": "đèn nê-ông"
+            },
+            {
+              "full_en": "neon sign",
+              "full_vn": "đèn nê-ông quảng cáo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324866_a12138b3da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324866_53cf79aace_o.png",
+      "id_image": "neon_2779289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369652_429ab26488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369652_95cb7f0c10_o.png",
+      "id_image": "neon_4647300"
+    }
+  ]
+}

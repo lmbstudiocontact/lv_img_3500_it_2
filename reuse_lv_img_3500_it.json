@@ -1,0 +1,45 @@
+{
+  "english": "reuse",
+  "phat_am": "[,ri:'ju:z]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng lại",
+          "list_en_vn": [
+            {
+              "full_en": "to reuse an old envelope",
+              "full_vn": "dùng lại một phong bì cũ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dùng lại; sự được dùng lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703504_6fd7eb876a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703504_ded3dd9515_o.png",
+      "id_image": "reuse_3906462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463498_b93e782d57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463498_fd07db66a8_o.png",
+      "id_image": "reuse_4328960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703404_30efbf2200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703404_1ec1a6c6ac_o.png",
+      "id_image": "reuse_4465611"
+    }
+  ]
+}

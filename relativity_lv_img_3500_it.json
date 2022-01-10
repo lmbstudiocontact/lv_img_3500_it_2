@@ -1,0 +1,30 @@
+{
+  "english": "relativity",
+  "phat_am": "[,relə'tivəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính tương đối",
+          "list_en_vn": [
+            {
+              "full_en": "the theory of relativity",
+              "full_vn": "thuyết tương đối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) học thuyết tương đối"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064515_290658aacb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064515_bee5d3d8a3_o.png",
+      "id_image": "relativity_3655718"
+    }
+  ]
+}

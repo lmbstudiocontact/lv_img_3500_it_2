@@ -1,0 +1,160 @@
+{
+  "english": "plan",
+  "phat_am": "[plæn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản đồ (thành phố, quận, nhóm nhà..); sơ đồ, đồ án (nhà...); sơ đồ (các bộ phận máy)",
+          "list_en_vn": [
+            {
+              "full_en": "a plan of the inner city",
+              "full_vn": "bản đồ khu phố cổ"
+            },
+            {
+              "full_en": "the plan of building",
+              "full_vn": "sơ đồ một toà nhà"
+            },
+            {
+              "full_en": "plans of early flying machines",
+              "full_vn": "sơ đồ các máy bay thời đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt phẳng (luật xa gần)"
+        },
+        {
+          "m_full_vn": "dàn bài, dàn ý (bài luận văn...)"
+        },
+        {
+          "m_full_vn": "kế hoạch; dự kiến, dự định",
+          "list_en_vn": [
+            {
+              "full_en": "make plans (for something )",
+              "full_vn": "lập kế hoạch (cho cái gì)"
+            },
+            {
+              "full_en": "a plan of campaign",
+              "full_vn": "kế hoạch tác chiến"
+            },
+            {
+              "full_en": "to upset someone's plan",
+              "full_vn": "làm đảo lộn kế hoạch của ai"
+            },
+            {
+              "full_en": "have you any plans for tomorrow ?",
+              "full_vn": "anh đã có dự kiến gì cho ngày mai chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách bố trí (nhất là bản vẽ, sơ đồ)",
+          "list_en_vn": [
+            {
+              "full_en": "a seating plan",
+              "full_vn": "sơ đồ chỗ ngồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách tiến hành",
+          "list_one_mean": [
+            {
+              "id_full_en": "go according to plan",
+              "list_im": [
+                {
+                  "im_full_vn": "theo đúng kế hoạch (về các sự kiện..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the best plan would be to ...",
+              "full_vn": "cách tiến hành tốt nhất là..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ bản đồ của (một thành phố..), vẽ sơ đồ của (một toà nhà...)"
+        },
+        {
+          "m_full_vn": "làm dàn bài, làm dàn ý (bản luận văn...)"
+        },
+        {
+          "m_full_vn": "đặt kế hoạch",
+          "list_en_vn": [
+            {
+              "full_en": "to plan an attack",
+              "full_vn": "đặt kế hoạch cho một cuộc tấn công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dự kiến, trù tính",
+          "list_en_vn": [
+            {
+              "full_en": "to plan to do something",
+              "full_vn": "dự định làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + something out ) lên kế hoạch",
+          "list_en_vn": [
+            {
+              "full_en": "plan out a traffic system for the town",
+              "full_vn": "lập kế hoạch hệ thống giao thông cho thành phố"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt kế hoạch,"
+        },
+        {
+          "m_full_vn": "trù tính, dự kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to plan for the future",
+              "full_vn": "trù tính cho tương lai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343891_3c34bb772d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343891_487aa35d10_o.png",
+      "id_image": "plan_2598808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458548_00143bed17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458548_13c20d46c4_o.png",
+      "id_image": "plan_5492769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698999_baf72353a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698999_810576179c_o.png",
+      "id_image": "plan_5957079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388667_f6265f41b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388667_946b7b6028_o.png",
+      "id_image": "plan_6213653"
+    }
+  ]
+}

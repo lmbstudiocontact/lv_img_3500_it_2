@@ -1,0 +1,45 @@
+{
+  "english": "restriction",
+  "phat_am": "[ri'strik∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hạn chế, sự giới hạn; sự bị hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "without restriction",
+              "full_vn": "không hạn chế"
+            },
+            {
+              "full_en": "to impose restrictions",
+              "full_vn": "buộc phải hạn chế, bắt phải giới hạn"
+            },
+            {
+              "full_en": "to lift restrictions",
+              "full_vn": "bãi bỏ những hạn chế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464763_0d262513a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464763_28992f6e2b_o.png",
+      "id_image": "restriction_2529750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394887_7ac13a87a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394887_f17a31de77_o.png",
+      "id_image": "restriction_5138594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464728_d669b923ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464728_72c4b70570_o.png",
+      "id_image": "restriction_6121436"
+    }
+  ]
+}

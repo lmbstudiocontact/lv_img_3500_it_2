@@ -1,0 +1,116 @@
+{
+  "english": "parallel",
+  "phat_am": "['pærəlel]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "song song; có mối quan hệ đó với một đường thẳng khác",
+          "list_en_vn": [
+            {
+              "full_en": "parallel lines",
+              "full_vn": "những đường thẳng song song"
+            },
+            {
+              "full_en": "the road runs parallel with the railway",
+              "full_vn": "con đường bộ chạy song song với đường sắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tương đương, tương tự, giống với, ngang hàng",
+          "list_en_vn": [
+            {
+              "full_en": "a parallel career",
+              "full_vn": "một công việc tương tự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường song song (như) parallel line"
+        },
+        {
+          "m_full_vn": "đường vĩ, vĩ tuyến (như) parallel of latitude",
+          "list_en_vn": [
+            {
+              "full_en": "the 17th parallel",
+              "full_vn": "vĩ tuyến 17"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) đường hào ngang (song song với trận tuyến)"
+        },
+        {
+          "m_full_vn": "người tương đương, vật tương đương"
+        },
+        {
+          "m_full_vn": "sự so sánh, sự tương đương",
+          "list_one_mean": [
+            {
+              "id_full_en": "in parallel",
+              "list_im": [
+                {
+                  "im_full_vn": "(điện học) mắc song song"
+                },
+                {
+                  "im_full_vn": "dấu song song"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to draw a parallel between two things",
+              "full_vn": "so sánh hai vật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt song song với; tìm tương đương với; so sánh với",
+          "list_en_vn": [
+            {
+              "full_en": "to parallel one thing with another",
+              "full_vn": "so sánh vật này với vật kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "song song với; tương đương với; ngang với, giống với",
+          "list_en_vn": [
+            {
+              "full_en": "the road parallels the river",
+              "full_vn": "con đường chạy song song với con sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) mắc song song với"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333236_ac3b7a42d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333236_a93c768bbf_o.png",
+      "id_image": "parallel_5376858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333201_291f3ff548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333201_c75ddd1df5_o.png",
+      "id_image": "parallel_5967429"
+    }
+  ]
+}

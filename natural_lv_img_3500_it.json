@@ -1,0 +1,199 @@
+{
+  "english": "natural",
+  "phat_am": "['næt∫rəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tự nhiên, (thuộc) thiên nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "natural law",
+              "full_vn": "quy luật tự nhiên"
+            },
+            {
+              "full_en": "natural phenomena",
+              "full_vn": "các hiện tượng tự nhiên"
+            },
+            {
+              "full_en": "the natural world",
+              "full_vn": "giới tự nhiên (cây cối, sông ngòi, chim muông)"
+            },
+            {
+              "full_en": "natural resources",
+              "full_vn": "tài nguyên thiên nhiên"
+            },
+            {
+              "full_en": "land in its natural state",
+              "full_vn": "vùng đất ở trong trạng thái tự nhiên"
+            },
+            {
+              "full_en": "natural selection",
+              "full_vn": "sự chọn lọc tự nhiên"
+            },
+            {
+              "full_en": "natural philosophy",
+              "full_vn": "vật lý và động lực học; khoa học tự nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) thiên tính; bẩm sinh, trời sinh",
+          "list_en_vn": [
+            {
+              "full_en": "natural gift",
+              "full_vn": "thiên tư"
+            },
+            {
+              "full_en": "natural ability",
+              "full_vn": "tài năng bẩm sinh"
+            },
+            {
+              "full_en": "he was a natural orator",
+              "full_vn": "ông ta là một nhà hùng biện bẩm sinh"
+            },
+            {
+              "full_en": "she is a natural linguist",
+              "full_vn": "cô ta là người có khiếu ngôn ngữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nhiên, đương nhiên, tất nhiên, dĩ nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "it is natural for a dog to bark",
+              "full_vn": "chó biết sủa là chuyện tự nhiên"
+            },
+            {
+              "full_en": "a natural consequence",
+              "full_vn": "hậu quả tất nhiên"
+            },
+            {
+              "full_en": "it is natural that you should think so",
+              "full_vn": "lẽ tất nhiên là anh phải nghĩ như vậy"
+            },
+            {
+              "full_en": "to die a natural death ; to die of natural causes",
+              "full_vn": "chết một cách tự nhiên, do những nguyên nhân tự nhiên (do già mà chết, chứ không phải do bạo lực...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nhiên, không giả tạo, không màu mè",
+          "list_en_vn": [
+            {
+              "full_en": "natural manners",
+              "full_vn": "cử chỉ tự nhiên"
+            },
+            {
+              "full_en": "it is difficult to be natural when one appears in public",
+              "full_vn": "thật khó giữ được vẻ tự nhiên khi phải xuất hiện giữa công chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về nốt nhạc) không thăng mà cũng không giáng; thường"
+        },
+        {
+          "m_full_vn": "có quan hệ máu mủ; ruột thịt",
+          "list_en_vn": [
+            {
+              "full_en": "natural father /mother",
+              "full_vn": "cha ruột/mẹ ruột"
+            },
+            {
+              "full_en": "we are the natural parents of this child",
+              "full_vn": "chúng tôi là cha mẹ ruột của đứa trẻ này"
+            },
+            {
+              "full_en": "she is not our natural daughter - we adopted her when she was two",
+              "full_vn": "nó không phải con gái ruột của chúng tôi - chúng tôi nuôi nó khi nó lên hai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về đứa con) do cha mẹ không có giá thú với nhau sinh ra; không chính thức",
+          "list_en_vn": [
+            {
+              "full_en": "how dare you adopt her natural child ?",
+              "full_vn": "sao anh dám nhận đứa con hoang của cô ta làm con nuôi?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa trên lý do về con người",
+          "list_en_vn": [
+            {
+              "full_en": "natural justice",
+              "full_vn": "công lý của con người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mọc tự nhiên, dại",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's natural life",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi thọ của con người"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "natural growth",
+              "full_vn": "cây cỏ dại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bẩm sinh ngớ ngẩn, người bẩm sinh ngu đần"
+        },
+        {
+          "m_full_vn": "(âm nhạc) nốt thường"
+        },
+        {
+          "m_full_vn": "(âm nhạc) dấu đặt trước một nốt nhạc cho biết nốt đó không thăng hoặc gián; dấu hoàn"
+        },
+        {
+          "m_full_vn": "người có khiếu tự nhiên (về ngành gì)",
+          "list_en_vn": [
+            {
+              "full_en": "she is a natural at painting",
+              "full_vn": "cô ta có khiếu về hội hoạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều thắng lợi tất nhiên; điều chắc chắn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327771_3fd08a285d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327771_d8d6d997e5_o.png",
+      "id_image": "natural_2321460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682789_aa5315e40c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682789_3b1e517f0a_o.png",
+      "id_image": "natural_3967285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064375_1b89293a59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064375_b21430568c_o.png",
+      "id_image": "natural_3967290"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "nationality",
+  "phat_am": "[,næ∫ə'næliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư cách là thành viên của một quốc gia; quốc tịch",
+          "list_en_vn": [
+            {
+              "full_en": "What's your nationality ?; What nationality are you ?",
+              "full_vn": "Anh quốc tịch gì?"
+            },
+            {
+              "full_en": "To have Japanese nationality",
+              "full_vn": "Mang quốc tịch Nhật Bản"
+            },
+            {
+              "full_en": "There were businessmen of all nationalities in this conference",
+              "full_vn": "Hội nghị này có các doanh nhân thuộc đủ mọi quốc tịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người hợp thành một bộ phận trong một quốc gia (về phương diện (chính trị)); dân tộc",
+          "list_en_vn": [
+            {
+              "full_en": "The two main nationalities of Singapore",
+              "full_vn": "Hai dân tộc chính của nước Xingapo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683054_ee5e203707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683054_59398d5c66_o.png",
+      "id_image": "national_3014423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443008_22b915d42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443008_b25f1c1bf6_o.png",
+      "id_image": "national_5189458"
+    }
+  ]
+}

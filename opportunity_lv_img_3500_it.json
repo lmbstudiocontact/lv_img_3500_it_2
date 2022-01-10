@@ -1,0 +1,86 @@
+{
+  "english": "opportunity",
+  "phat_am": "[,ɔpə'tju:niti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( opportunity for / of doing something / to do something ) cơ hội, thời cơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take the opportunity to do something /of doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận ra và lợi dụng một thời điểm tốt hoặc thích hợp để làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "let me take this opportunity to say a few words",
+                      "full_vn": "hãy cho tôi nhân dịp này nói vài lời"
+                    },
+                    {
+                      "full_en": "we took the opportunity of visiting the palace",
+                      "full_vn": "chúng tôi đã lợi dụng cơ hội đó đi thăm lâu đài"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have /get /find /create an opportunity",
+              "full_vn": "có/giành được/tìm được/tạo ra một cơ hội"
+            },
+            {
+              "full_en": "to have few opportunities of meeting interesting people",
+              "full_vn": "ít có cơ hội được gặp những người vui vẻ"
+            },
+            {
+              "full_en": "to have no /little /not much opportunity for hearing good music",
+              "full_vn": "không có/có ít/không có nhiều cơ hội nghe nhạc hay"
+            },
+            {
+              "full_en": "a great /golden /marvellous opportunity to travel",
+              "full_vn": "một cơ hội lớn/quý báu/tuyệt diệu để đi du lịch"
+            },
+            {
+              "full_en": "I had no opportunity to discuss it with her",
+              "full_vn": "tôi không có cơ hội thảo luận với cô ta về điều đó"
+            },
+            {
+              "full_en": "to seize an opportunity to do something",
+              "full_vn": "nắm lấy một cơ hội để làm việc gì"
+            },
+            {
+              "full_en": "to miss an opportunity",
+              "full_vn": "để lỡ một cơ hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345516_452e2c734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345516_a5d718e3da_o.png",
+      "id_image": "opportunity_1900254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460253_823c6b2164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460253_882d86a4e8_o.png",
+      "id_image": "opportunity_1900267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082885_3ebd973a26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082885_2165d0ca5d_o.png",
+      "id_image": "opportunity_3447933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700559_53a22d9bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700559_66366353be_o.png",
+      "id_image": "opportunity_6064806"
+    }
+  ]
+}

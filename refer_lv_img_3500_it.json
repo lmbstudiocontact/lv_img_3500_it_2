@@ -1,0 +1,138 @@
+{
+  "english": "refer",
+  "phat_am": "[ri'fə:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quy, quy cho, quy vào",
+          "list_en_vn": [
+            {
+              "full_en": "to refer one's failure to ...",
+              "full_vn": "quy sự thất bại là ở tại..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển đến (ai, tổ chức nào) để xem xét, giao cho nghiên cứu giải quyết",
+          "list_en_vn": [
+            {
+              "full_en": "the matter must be referred to a tribunal",
+              "full_vn": "vấn đề phải được chuyển đến một toà án để xét xử"
+            },
+            {
+              "full_en": "to refer a question to someone's decision",
+              "full_vn": "giao một vấn đề cho ai quyết định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ dẫn (ai) đến hỏi (người nào, tổ chức nào)",
+          "list_en_vn": [
+            {
+              "full_en": "I have been referred to you",
+              "full_vn": "người ta chỉ tôi đến hỏi anh"
+            },
+            {
+              "full_en": "to refer oneself",
+              "full_vn": "viện vào, dựa vào, nhờ cậy vào"
+            },
+            {
+              "full_en": "I refer myself to your experience",
+              "full_vn": "tôi dựa vào kinh nghiệm của anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xem, tham khảo",
+          "list_en_vn": [
+            {
+              "full_en": "to refer to one's watch for the exact time",
+              "full_vn": "xem đồng hồ để biết đúng mấy giờ"
+            },
+            {
+              "full_en": "to refer to a documemt",
+              "full_vn": "tham khảo một tài liệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ám chỉ, nói đến, kể đến, nhắc đến",
+          "list_en_vn": [
+            {
+              "full_en": "don't refer to the matter again",
+              "full_vn": "đừng nhắc đến vấn đề ấy nữa"
+            },
+            {
+              "full_en": "that is the passage he referred to",
+              "full_vn": "đó là đoạn ông ta nói đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm đến, viện vào, dựa vào, nhờ cậy vào",
+          "list_en_vn": [
+            {
+              "full_en": "to refer to somebody for help",
+              "full_vn": "tìm đến ai để nhờ cậy ai giúp đỡ; nhờ cậy sự giúp đỡ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có liên quan tới, có quan hệ tới, có dính dáng tới",
+          "list_en_vn": [
+            {
+              "full_en": "to refer to something",
+              "full_vn": "có liên quan đến việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hỏi ý kiến",
+          "list_one_mean": [
+            {
+              "id_full_en": "refer to drawer",
+              "list_im": [
+                {
+                  "im_full_vn": "(viết tắt) R . D . trả lại người lĩnh séc (trong trường hợp ngân hàng chưa thanh toán được)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "referring to your letter",
+              "list_im": [
+                {
+                  "im_full_vn": "(thương nghiệp) tiếp theo bức thư của ông"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to refer to somebody",
+              "full_vn": "hỏi ý kiến ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687299_8d6357f3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687299_55dc0fd566_o.png",
+      "id_image": "refer_5822077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447283_f375479ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447283_e4436f8b82_o.png",
+      "id_image": "refer_5860850"
+    }
+  ]
+}

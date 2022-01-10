@@ -1,0 +1,36 @@
+{
+  "english": "photographic",
+  "phat_am": "[,foutə'græfik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thuật nhiếp ảnh; chụp ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "photographic equipment",
+              "full_vn": "thiết bị chụp ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về trí nhớ) có thể nhớ rõ các sự vật đúng như khi nhìn thấy chúng; như chụp ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a photographic style of painting",
+              "full_vn": "lối vẽ như chụp ảnh (đủ cả chi tiết)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704009_d78b7e54c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704009_f598ffb86b_o.png",
+      "id_image": "photographic_223235"
+    }
+  ]
+}

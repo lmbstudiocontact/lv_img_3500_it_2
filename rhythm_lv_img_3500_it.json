@@ -1,0 +1,57 @@
+{
+  "english": "rhythm",
+  "phat_am": "['riðəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhịp điệu (trong nhạc, lời nói)"
+        },
+        {
+          "m_full_vn": "nhịp (mưa, tim..)",
+          "list_en_vn": [
+            {
+              "full_en": "the rhythm of her heart",
+              "full_vn": "nhịp tim của cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự nhịp nhàng (của động tác...)",
+          "list_en_vn": [
+            {
+              "full_en": "a natural sense of rhythm",
+              "full_vn": "một ý thức tự nhiên về sự nhịp nhàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuỗi sự kiện luôn luôn trở lại, quá trình luôn luôn trở lại",
+          "list_en_vn": [
+            {
+              "full_en": "the rhythm of the tides",
+              "full_vn": "nhịp thủy triều"
+            },
+            {
+              "full_en": "the rhythm of the seasons",
+              "full_vn": "các mùa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462433_86db1d706c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462433_cc9355bf5f_o.png",
+      "id_image": "rhythm_2620560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347631_61290bf0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347631_ecd0616c7a_o.png",
+      "id_image": "rhythm_3475357"
+    }
+  ]
+}

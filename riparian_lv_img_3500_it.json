@@ -1,0 +1,35 @@
+{
+  "english": "riparian",
+  "phat_am": "[rai'peəriən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) ven sông; sống ở ven sông",
+          "list_en_vn": [
+            {
+              "full_en": "riparian proprietor",
+              "full_vn": "người chủ đất ở ven sông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chủ đất ở ven sông"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700904_5fc214ee99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700904_9eb5153e49_o.png",
+      "id_image": "riparian_3075118"
+    }
+  ]
+}

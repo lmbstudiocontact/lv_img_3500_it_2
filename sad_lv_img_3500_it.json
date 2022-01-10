@@ -1,0 +1,70 @@
+{
+  "english": "sad",
+  "phat_am": "[sæd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "buồn rầu, buồn bã",
+          "list_en_vn": [
+            {
+              "full_en": "to look sad",
+              "full_vn": "trông buồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tồi; đáng trách",
+          "list_en_vn": [
+            {
+              "full_en": "a sad state of affairs",
+              "full_vn": "một tình trạng tồi tệ về công việc"
+            },
+            {
+              "full_en": "a sad case of cruelty",
+              "full_vn": "một trường hợp tàn nhẫn đáng trách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng buồn; làm cho cảm thấy thương hại, làm cho cảm thấy ân hận"
+        },
+        {
+          "m_full_vn": "không xốp, chắc (bánh)"
+        },
+        {
+          "m_full_vn": "chết (màu sắc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "sad to say",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếc thay (được dùng ở đầu câu)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "sad colours",
+              "full_vn": "màu chết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693139_7e052024e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693139_42d905b77f_o.png",
+      "id_image": "sad_1128885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382877_790f765923_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382877_83884b3c74_o.png",
+      "id_image": "sad_599625"
+    }
+  ]
+}

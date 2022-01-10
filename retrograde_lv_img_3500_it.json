@@ -1,0 +1,67 @@
+{
+  "english": "retrograde",
+  "phat_am": "['retrougreid]",
+  "list_type": [
+    {
+      "type": "tính từ (như) retrogressive",
+      "list_m": [
+        {
+          "m_full_vn": "lùi lại, thụt lùi"
+        },
+        {
+          "m_full_vn": "thoái hoá, suy đồi"
+        },
+        {
+          "m_full_vn": "(thiên văn học) đi ngược, đi nghịch hành (hành tinh)"
+        },
+        {
+          "m_full_vn": "ngược, nghịch",
+          "list_en_vn": [
+            {
+              "full_en": "in retrograde order",
+              "full_vn": "theo thứ tự đảo ngược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) rút lui, rút chạy"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) người thoái hoá, người suy đồi, người lạc hậu"
+        },
+        {
+          "m_full_vn": "khuynh hướng lạc hậu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi giật lùi, lùi lại"
+        },
+        {
+          "m_full_vn": "(thiên văn học) đi ngược, đi nghịch hành (hành tinh)"
+        },
+        {
+          "m_full_vn": "thoái hoá, suy đồi, suy sụp, trở lại tình trạng (tồi tệ) như cũ"
+        },
+        {
+          "m_full_vn": "(quân sự) rút lui, rút chạy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349011_00b712ea6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349011_92cd2d5980_o.png",
+      "id_image": "retrograde_5570591"
+    }
+  ]
+}

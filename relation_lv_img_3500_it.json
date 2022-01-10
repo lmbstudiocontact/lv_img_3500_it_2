@@ -1,0 +1,129 @@
+{
+  "english": "relation",
+  "phat_am": "[ri'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( relation between something and something ; relation to something ) mối quan hệ; mối tương quan",
+          "list_en_vn": [
+            {
+              "full_en": "the relation between rainfall and crop production",
+              "full_vn": "mối tương quan giữa lượng mưa và sản lượng cây trồng"
+            },
+            {
+              "full_en": "the relation between knowledge and practice",
+              "full_vn": "mối quan hệ giữa kiến thức và thực hành"
+            },
+            {
+              "full_en": "the cost of this project bears /has /shows no relation to the results",
+              "full_vn": "chi phí của đề án này chẳng co quan hệ gì đến kết quả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) quan hệ; sự giao thiệp (giữa hai nước..)",
+          "list_en_vn": [
+            {
+              "full_en": "to have business relations with somebody",
+              "full_vn": "có giao thiệp buôn bán với ai"
+            },
+            {
+              "full_en": "to enter into relations with someone",
+              "full_vn": "giao thiệp với ai"
+            },
+            {
+              "full_en": "diplomatic /international relations",
+              "full_vn": "quan hệ ngoại giao/quốc tế"
+            },
+            {
+              "full_en": "the friendly relations (existing ) between our countries",
+              "full_vn": "quan hệ hữu nghị (tồn tại) giữa hai nước chúng ta"
+            },
+            {
+              "full_en": "relations are strained at present",
+              "full_vn": "lúc này các quan hệ khá căng thẳng"
+            },
+            {
+              "full_en": "to break off (all ) relations with one's family",
+              "full_vn": "cắt đứt (mọi) quan hệ với gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bà con; thân thuộc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have (sexual ) relations with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nằm, giao cấu với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /with relation to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "liên quan đến ai/cái gì; về ai-cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a poor relation",
+              "list_im": [
+                {
+                  "im_full_vn": "xem poor"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "is he any relation to you ?",
+              "full_vn": "hắn có họ hàng gì với anh không?"
+            },
+            {
+              "full_en": "he's no relation to me",
+              "full_vn": "hắn chẳng có họ hàng gì với tôi cả"
+            },
+            {
+              "full_en": "what relation are you to each other ?",
+              "full_vn": "hai người có họ hàng với nhau như thế nào?"
+            },
+            {
+              "full_en": "a close /near /distant relation of mine",
+              "full_vn": "người có họ gần/xa với tôiba con của tôi"
+            },
+            {
+              "full_en": "relation by marriage",
+              "full_vn": "một người họ hàng qua hôn nhân"
+            },
+            {
+              "full_en": "relation by (on ) the father's side",
+              "full_vn": "người bà con bên nội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373162_c9d869836b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373162_844bce9295_o.png",
+      "id_image": "relation_2910910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443383_452668d0a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443383_d534050b6b_o.png",
+      "id_image": "relation_4126667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683414_6b7f830d61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683414_5f7e9e6757_o.png",
+      "id_image": "relation_5572150"
+    }
+  ]
+}

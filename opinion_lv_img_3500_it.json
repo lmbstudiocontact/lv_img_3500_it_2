@@ -1,0 +1,119 @@
+{
+  "english": "opinion",
+  "phat_am": "[ə'piniən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( opinion of / about somebody / something ) ý kiến; quan điểm",
+          "list_en_vn": [
+            {
+              "full_en": "political opinions",
+              "full_vn": "các quan điểm chính trị"
+            },
+            {
+              "full_en": "what's your opinion of your director ?",
+              "full_vn": "anh nghĩ sao về giám đốc của anh?"
+            },
+            {
+              "full_en": "the chairman's opinion should be sought",
+              "full_vn": "cần phải tham khảo ý kiến ông chủ tịch"
+            },
+            {
+              "full_en": "he was asked to give his honest opinions",
+              "full_vn": "người ta yêu cầu ông ấy cho biết ý kiến thẳng thắn"
+            },
+            {
+              "full_en": "in my opinion",
+              "full_vn": "theo ý kiến tôi"
+            },
+            {
+              "full_en": "a matter of opinion",
+              "full_vn": "một vấn đề có thể tranh cãi"
+            },
+            {
+              "full_en": "you'd better get a second opinion before you let that man take out all your teeth",
+              "full_vn": "anh nên hỏi ý kiến một lần nữa trước khi để cho ông ấy nhổ sạch răng của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dư luận",
+          "list_en_vn": [
+            {
+              "full_en": "public opinion",
+              "full_vn": "dư luận chung; công luận"
+            },
+            {
+              "full_en": "opinion is shifting in favour of the new scheme",
+              "full_vn": "dư luận đang chuyển sang ủng hộ kế hoạch mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đánh giá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be of the opinion that ..",
+              "list_im": [
+                {
+                  "im_full_vn": "cho rằng, nghĩ rằng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's considered opinion",
+              "list_im": [
+                {
+                  "im_full_vn": "xem consider"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a high opinion of somebody",
+              "full_vn": "đánh giá cao người nào"
+            },
+            {
+              "full_en": "to have no opinion of somebody",
+              "full_vn": "không đánh giá ai cao"
+            },
+            {
+              "full_en": "to have a bad /low opinion of somebody /something",
+              "full_vn": "đánh giá thấp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345731_a4eaeffba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345731_3f854ff797_o.png",
+      "id_image": "opinion_1162293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700809_8fea0941a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700809_6792939f63_o.png",
+      "id_image": "opinion_1396604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083230_9e4894f2e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083230_6a0673a810_o.png",
+      "id_image": "opinion_171693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700789_95c603ca04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700789_11f3a97eac_o.png",
+      "id_image": "opinion_5226377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700764_b026f8b560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700764_92042b07e8_o.png",
+      "id_image": "opinion_5779045"
+    }
+  ]
+}

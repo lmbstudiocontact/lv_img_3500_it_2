@@ -1,0 +1,55 @@
+{
+  "english": "poem",
+  "phat_am": "['pouim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thơ",
+          "list_en_vn": [
+            {
+              "full_en": "write poems",
+              "full_vn": "làm thơ"
+            },
+            {
+              "full_en": "compose poems",
+              "full_vn": "sáng tác thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vật đẹp như bài thơ, cái nên thơ, cảnh đẹp như thơ",
+          "list_en_vn": [
+            {
+              "full_en": "the chalet is a poem in wood",
+              "full_vn": "ngôi nhà ván ấy là một kiến trúc bằng gỗ rất nên thơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453903_f6d3d36f46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453903_32a8ebc593_o.png",
+      "id_image": "poem_3500713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453873_5043815bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453873_ae888e27e4_o.png",
+      "id_image": "poem_5332310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453973_8d80a06b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453973_a04981a3f9_o.png",
+      "id_image": "poem_711442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383867_3d63cde120_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383867_a3122187ac_o.png",
+      "id_image": "poem_837224"
+    }
+  ]
+}

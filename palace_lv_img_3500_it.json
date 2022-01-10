@@ -1,0 +1,48 @@
+{
+  "english": "palace",
+  "phat_am": "['pælis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà ở chính thức của vua, tổng giám mục hoặc giám mục; cung điện",
+          "list_en_vn": [
+            {
+              "full_en": "Buckingham Palace",
+              "full_vn": "Cung điện Buckingham"
+            },
+            {
+              "full_en": "The palace has just issued a statement",
+              "full_vn": "Hoàng cung (tức là người phát ngôn của vua, hoàng hậu...) vừa mới đưa ra lời tuyên bố"
+            },
+            {
+              "full_en": "a palace spokesman",
+              "full_vn": "người phát ngôn của hoàng cung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toà nhà tráng lệ; lâu đài"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335951_c24333974d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335951_1462410805_o.png",
+      "id_image": "palace_1065521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335921_b7cf7607ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335921_22029c4bf0_o.png",
+      "id_image": "palace_2572020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335881_65e20b7a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335881_91ea9342ae_o.png",
+      "id_image": "palace_4209592"
+    }
+  ]
+}

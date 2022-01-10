@@ -1,0 +1,57 @@
+{
+  "english": "reputation",
+  "phat_am": "[,repju:'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nổi danh; danh tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "a school with an excellent , enviable , fine reputation",
+              "full_vn": "trường học có danh tiếng tuyệt vời, đáng ghen tị, tốt đẹp"
+            },
+            {
+              "full_en": "a good /bad reputation as a doctor",
+              "full_vn": "một bác sĩ nổi tiếng tốt/xấu"
+            },
+            {
+              "full_en": "to have a reputation for laziness /for being lazy",
+              "full_vn": "có tiếng là lười nhác"
+            },
+            {
+              "full_en": "to compromise , ruin somebody's reputation",
+              "full_vn": "làm tổn thương, phá hoại thanh danh của ai"
+            },
+            {
+              "full_en": "to establish , build up , make a reputation for oneself",
+              "full_vn": "thiết lập, xây dựng, tạo thanh danh cho mình"
+            },
+            {
+              "full_en": "to live up to one's reputation",
+              "full_vn": "sống cho xứng với danh tiếng của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677439_e2b5568d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677439_1b2e1e3b13_o.png",
+      "id_image": "reputation_2132560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322301_ca7688b010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322301_f703347b73_o.png",
+      "id_image": "reputation_2720867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059120_9887ff79b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059120_19d37d7f4d_o.png",
+      "id_image": "reputation_4675015"
+    }
+  ]
+}

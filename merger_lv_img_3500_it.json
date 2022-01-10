@@ -1,0 +1,37 @@
+{
+  "english": "merger",
+  "phat_am": "['mə:dʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thương nghiệp) sự liên doanh liên kết",
+          "list_en_vn": [
+            {
+              "full_en": "a merger between two supermarkets",
+              "full_vn": "sự liên doanh giữa hai siêu thị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701209_932f69839d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701209_c79e428807_o.png",
+      "id_image": "merger_1832064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083700_5e189c6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083700_12aacfe857_o.png",
+      "id_image": "merger_5184308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346226_368fca0d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346226_4063d453d3_o.png",
+      "id_image": "merger_5271102"
+    }
+  ]
+}

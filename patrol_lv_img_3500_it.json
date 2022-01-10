@@ -1,0 +1,95 @@
+{
+  "english": "patrol",
+  "phat_am": "[pə'troul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động tuần tra",
+          "list_en_vn": [
+            {
+              "full_en": "to carry out a patrol",
+              "full_vn": "tiến hành một cuộc tuần tra"
+            },
+            {
+              "full_en": "the army made hourly patrols of the area",
+              "full_vn": "cứ mỗi giờ quân đội lại đi tuần tra khu vực đó"
+            },
+            {
+              "full_en": "the navy are maintaining a 24-hour air and sea patrol",
+              "full_vn": "hải quân duy trì tuần tra trên không và trên biển 24 / 24"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người, nhóm người, xe, tàu hoặc máy bay tuần tra",
+          "list_en_vn": [
+            {
+              "full_en": "a navy , army , police patrol",
+              "full_vn": "đội tuần tra của hải quân, quân đội, cảnh sát"
+            },
+            {
+              "full_en": "a police patrol car",
+              "full_vn": "xe tuần tra của cảnh sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm gồm sáu Hướng đạo sinh (hoặc Nữ hướng đạo sinh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "on patrol",
+              "list_im": [
+                {
+                  "im_full_vn": "đang tuần tra (ở một khu vực)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "terrorists attacked two soldiers on patrol",
+                      "full_vn": "bọn khủng bố tấn công hai binh sĩ đang tuần tra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi tuần tra",
+          "list_en_vn": [
+            {
+              "full_en": "the army regularly patrol (along ) the border",
+              "full_vn": "quân đội thường xuyên tuần tra (dọc) biên giới"
+            },
+            {
+              "full_en": "police patrol the streets at night",
+              "full_vn": "cảnh sát tuần tra đường phố ban đêm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442468_da9ff03f25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442468_c90421c95b_o.png",
+      "id_image": "patrol_2400198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682544_8342f2f652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682544_1a68305796_o.png",
+      "id_image": "patrol_4413025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372077_6609274b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372077_358955b71d_o.png",
+      "id_image": "patrol_4413263"
+    }
+  ]
+}

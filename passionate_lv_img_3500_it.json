@@ -1,0 +1,54 @@
+{
+  "english": "passionate",
+  "phat_am": "['pæ∫ənət]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "say đắm, nồng nàn; nồng nhiệt, thiết tha",
+          "list_en_vn": [
+            {
+              "full_en": "a passionate speech",
+              "full_vn": "một bài diễn văn đầy nhiệt tình"
+            },
+            {
+              "full_en": "a passionate nature",
+              "full_vn": "bản tính sôi nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sôi nổi, dễ cáu giận",
+          "list_en_vn": [
+            {
+              "full_en": "a passionate nature",
+              "full_vn": "một bản chất sôi nổi"
+            },
+            {
+              "full_en": "a passionate woman",
+              "full_vn": "một phụ nữ sôi nổi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330031_6fa6378ce1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330031_7949cf5e15_o.png",
+      "id_image": "passionate_2617776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330006_4f3ff63bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330006_c05a4ced42_o.png",
+      "id_image": "passionate_4158008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374632_60f150083b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374632_d0064cde5b_o.png",
+      "id_image": "passionate_5230548"
+    }
+  ]
+}

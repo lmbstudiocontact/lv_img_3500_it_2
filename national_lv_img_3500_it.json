@@ -1,0 +1,67 @@
+{
+  "english": "national",
+  "phat_am": "['næ∫nəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) dân tộc",
+          "list_en_vn": [
+            {
+              "full_en": "the national liberation movement",
+              "full_vn": "phong trào giải phóng dân tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) quốc gia",
+          "list_one_mean": [
+            {
+              "id_full_en": "national newspapers",
+              "list_im": [
+                {
+                  "im_full_vn": "báo chí lưu hành khắp nước"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the national assembly",
+              "full_vn": "quốc hội"
+            },
+            {
+              "full_en": "the national anthem",
+              "full_vn": "quốc ca"
+            },
+            {
+              "full_en": "national reconstruction",
+              "full_vn": "công cuộc tái thiết quốc gia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "kiều dân, kiều bào"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683054_ee5e203707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683054_59398d5c66_o.png",
+      "id_image": "national_3014423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443008_22b915d42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443008_b25f1c1bf6_o.png",
+      "id_image": "national_5189458"
+    }
+  ]
+}

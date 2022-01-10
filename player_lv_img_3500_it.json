@@ -1,0 +1,58 @@
+{
+  "english": "player",
+  "phat_am": "['pleiə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) người chơi một trò chơi nào đó"
+        },
+        {
+          "m_full_vn": "người chơi một nhạc cụ nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a trumpet player",
+              "full_vn": "người chơi kèn trompet"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn viên"
+        },
+        {
+          "m_full_vn": "cầu thủ nhà nghề ( crickê, bóng chày)",
+          "list_en_vn": [
+            {
+              "full_en": "Gentlemen versus Players",
+              "full_vn": "đội không chuyên đấu với đội nhà nghề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đánh bạc"
+        },
+        {
+          "m_full_vn": "như record-player"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386247_1e34598631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386247_6f719ef2f3_o.png",
+      "id_image": "player_1485080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386277_439db8c8c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386277_126707998a_o.png",
+      "id_image": "player_188978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696479_77e09e7093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696479_081a03d53c_o.png",
+      "id_image": "player_3429456"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "redemption",
+  "phat_am": "[ri'demp∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mua lại, sự chuộc lại (vật cầm thế); sự trả hết, sự được trả hết (nợ)"
+        },
+        {
+          "m_full_vn": "sự chuộc (lỗi); sự bỏ tiền ra chuộc (một tù nhân)"
+        },
+        {
+          "m_full_vn": "sự thực hiện, sự giữ trọn",
+          "list_en_vn": [
+            {
+              "full_en": "the redemption of a promise",
+              "full_vn": "sự thực hiện một lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự chuộc tội cho loài người, sự cứu thế ( Chúa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "beyond /past /without redemption",
+              "list_im": [
+                {
+                  "im_full_vn": "vô phương cứu vãn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333211_24524b1caf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333211_f3c546d08b_o.png",
+      "id_image": "redemption_2927865"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "model",
+  "phat_am": "['mɔdl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiểu, mẫu, mô hình",
+          "list_en_vn": [
+            {
+              "full_en": "working model",
+              "full_vn": "mô hình máy chạy được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người làm gương, người gương mẫu",
+          "list_en_vn": [
+            {
+              "full_en": "a model of industry",
+              "full_vn": "một người gương mẫu về đức tính cần cù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người giống hệt; vật giống hệt",
+          "list_en_vn": [
+            {
+              "full_en": "a perfect model of someone",
+              "full_vn": "người giống hệt ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người làm kiểu, vật làm kiểu (để vẽ, nặn tượng)"
+        },
+        {
+          "m_full_vn": "người đàn bà mặc quần áo mẫu (cho khách (xem)); quần áo mặc làm mẫu"
+        },
+        {
+          "m_full_vn": "vật mẫu"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẫu mực, gương mẫu",
+          "list_en_vn": [
+            {
+              "full_en": "a model wife",
+              "full_vn": "người vợ mẫu mực"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm mẫu, nặn kiểu, vẽ kiểu, làm mô hình, đắp khuôn",
+          "list_en_vn": [
+            {
+              "full_en": "to model a man's head in clay",
+              "full_vn": "làm mô hình đầu người bằng đất sét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + after , on , upon ) làm theo, làm gương, bắt chước",
+          "list_en_vn": [
+            {
+              "full_en": "to model oneself on someone",
+              "full_vn": "làm theo ai, theo gương ai, bắt chước ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nghề mặc quần áo làm mẫu; mặc làm mẫu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076810_19c270fb9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076810_44f8d14065_o.png",
+      "id_image": "model_4213112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076765_4ac157a835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076765_b8a8856298_o.png",
+      "id_image": "model_4695756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076710_6eb123d75a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076710_f22b83e449_o.png",
+      "id_image": "model_6036762"
+    }
+  ]
+}

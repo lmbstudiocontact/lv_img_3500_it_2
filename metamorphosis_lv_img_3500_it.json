@@ -1,0 +1,36 @@
+{
+  "english": "metamorphosis",
+  "phat_am": "[,metə'mɔ:fəsis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều metamorphoses",
+      "list_m": [
+        {
+          "m_full_vn": "sự thay đổi hình dáng hoặc bản chất (do tằng trưởng hoặc phát triển tự nhiên chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "the metamorphosis of a larva into a butterfly",
+              "full_vn": "sự biến thái của ấu trùng thành bướm"
+            },
+            {
+              "full_en": "the social metamorphosis that has ocurred in China",
+              "full_vn": "sự biến đổi xã hội xảy ra ở Trung Hoa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460293_7304629f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460293_4f883dd28b_o.png",
+      "id_image": "metamorphosis_4178843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345476_57a57a4111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345476_8cc7747bac_o.png",
+      "id_image": "metamorphosis_5969090"
+    }
+  ]
+}

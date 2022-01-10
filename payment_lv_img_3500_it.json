@@ -1,0 +1,50 @@
+{
+  "english": "payment",
+  "phat_am": "['peimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả tiền, số tiền trả; sự bồi thường, tiền bồi thường",
+          "list_en_vn": [
+            {
+              "full_en": "payment received",
+              "full_vn": "đã nhận đủ số tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) việc trả công, việc thưởng phạt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440943_1eb5cf644a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440943_f308a27a31_o.png",
+      "id_image": "payment_1067382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440908_9981a122d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440908_faabd06ff5_o.png",
+      "id_image": "payment_1692606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325901_68a8cc1c22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325901_fcc21107d5_o.png",
+      "id_image": "payment_1692619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370867_5716c356f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370867_9b72515d2d_o.png",
+      "id_image": "payment_333759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062835_e04cf73960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062835_e3d608e202_o.png",
+      "id_image": "payment_997290"
+    }
+  ]
+}

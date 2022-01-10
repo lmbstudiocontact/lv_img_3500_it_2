@@ -1,0 +1,60 @@
+{
+  "english": "regulation",
+  "phat_am": "[,regju'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự điều chỉnh, sự sửa lại cho đúng; sự điều khiển"
+        },
+        {
+          "m_full_vn": "sự sắp đặt, sự quy định, sự chỉnh lý, sự chỉnh đốn (công việc...)",
+          "list_en_vn": [
+            {
+              "full_en": "to bring under regulation",
+              "full_vn": "quy định, đặt thành quy tắc"
+            },
+            {
+              "full_en": "the regulation of share prices",
+              "full_vn": "sự điều chỉnh giá cổ phần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều quy định, quy tắc, điều lệ"
+        },
+        {
+          "m_full_vn": "( định ngữ) theo quy tắc, theo quy định, đúng phép, hợp lệ",
+          "list_en_vn": [
+            {
+              "full_en": "to exceed the regulation speed",
+              "full_vn": "vượt quá tốc độ đã quy định"
+            },
+            {
+              "full_en": "the regulation size",
+              "full_vn": "kích thước thông thường, kích thước đã quy định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329601_5748021f82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329601_423ccaa10d_o.png",
+      "id_image": "regulation_2911722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684559_319f75ed34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684559_072e967ee5_o.png",
+      "id_image": "regulation_5307624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066310_ef92f43928_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066310_91025ee959_o.png",
+      "id_image": "regulation_5983370"
+    }
+  ]
+}

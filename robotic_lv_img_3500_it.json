@@ -1,0 +1,37 @@
+{
+  "english": "robotic",
+  "phat_am": "[rou'bɔtik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "như người máy; cứng nhắc, máy móc",
+          "list_en_vn": [
+            {
+              "full_en": "robotic movements",
+              "full_vn": "những động tác như người máy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459243_63679cb594_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459243_50671af59f_o.png",
+      "id_image": "robotic_2317074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389367_a6327a34f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389367_1bc1f4c09b_o.png",
+      "id_image": "robotic_2861690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081785_daa046ff8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081785_415173aea4_o.png",
+      "id_image": "robotic_6375665"
+    }
+  ]
+}

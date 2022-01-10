@@ -1,0 +1,62 @@
+{
+  "english": "numb",
+  "phat_am": "[nʌm]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tê, tê cóng",
+          "list_en_vn": [
+            {
+              "full_en": "numb with cold",
+              "full_vn": "tê cóng đi vì lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tê liệt; chết lặng đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "numb hand",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) người vụng về, lóng ngóng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tê, làm tê cóng đi"
+        },
+        {
+          "m_full_vn": "làm tê liệt; làm chết lặng đi",
+          "list_en_vn": [
+            {
+              "full_en": "to be numbed with grief",
+              "full_vn": "chết lặng đi vì đau buồn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674639_a70528d385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674639_5df6ce2ff0_o.png",
+      "id_image": "numb_3233051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434843_681b7abfa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434843_b33a85e38b_o.png",
+      "id_image": "numb_6349609"
+    }
+  ]
+}

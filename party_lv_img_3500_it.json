@@ -1,0 +1,157 @@
+{
+  "english": "party",
+  "phat_am": "['pɑ:ti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đảng",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Communist Party",
+              "list_im": [
+                {
+                  "im_full_vn": "đảng Cộng sản",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a political party",
+                      "full_vn": "một chính đảng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "sự đứng về phe (trong vấn đề (chính trị)); sự trung thành với phe đảng"
+                },
+                {
+                  "im_full_vn": "( định ngữ) (thuộc) đảng, có tính chất đảng phái",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "party card",
+                      "full_vn": "thẻ đảng"
+                    },
+                    {
+                      "full_en": "party dues",
+                      "full_vn": "đảng phí"
+                    },
+                    {
+                      "full_en": "party member",
+                      "full_vn": "đảng viên"
+                    },
+                    {
+                      "full_en": "party organization",
+                      "full_vn": "tổ chức đảng"
+                    },
+                    {
+                      "full_en": "party local",
+                      "full_vn": "trụ sở đảng"
+                    },
+                    {
+                      "full_en": "party nucleus",
+                      "full_vn": "nòng cốt của đảng"
+                    },
+                    {
+                      "full_en": "party spirit",
+                      "full_vn": "tính đảng; óc đảng phái"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiệc, buổi liên hoan",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a birthday party",
+                      "full_vn": "một buổi liên hoan mừng sinh nhật"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "những người cùng đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the minister and his party",
+                      "full_vn": "bộ trưởng và những người cùng đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "toán, đội, nhóm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "landing party",
+                      "full_vn": "đội đổ bộ"
+                    },
+                    {
+                      "full_en": "a search party",
+                      "full_vn": "một đội tìm kiếm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(luật) bên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the contracting parties",
+                      "full_vn": "các bên ký kết"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "người tham gia, người tham dự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an old party with spectales",
+                      "full_vn": "lão đeo kính"
+                    },
+                    {
+                      "full_en": "a coquettish party",
+                      "full_vn": "con bé làm đỏm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be (a ) party to something",
+              "list_im": [
+                {
+                  "im_full_vn": "tham gia, biết về hoặc ủng hộ (một kế hoạch, một hành động..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "be party to an agreement",
+                      "full_vn": "tham gia một hiệp định"
+                    },
+                    {
+                      "full_en": "be party to a crime",
+                      "full_vn": "tham gia một tội ác"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067375_b0f2e2605f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067375_3449cba6de_o.png",
+      "id_image": "party_1712012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067335_8a8a7f75dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067335_93634606a6_o.png",
+      "id_image": "party_1809880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685534_ff6f643856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685534_cd233c04c7_o.png",
+      "id_image": "party_2640240"
+    }
+  ]
+}

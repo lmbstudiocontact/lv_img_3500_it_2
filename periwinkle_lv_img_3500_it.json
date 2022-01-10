@@ -1,0 +1,33 @@
+{
+  "english": "periwinkle",
+  "phat_am": "['peri,wiηkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây dừa cạn"
+        },
+        {
+          "m_full_vn": "màu dừa cạn",
+          "list_en_vn": [
+            {
+              "full_en": "periwinkle blue",
+              "full_vn": "màu xanh dừa cạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) ốc bờ, ốc mút"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675439_5a537f1999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675439_f22dd98a0d_o.png",
+      "id_image": "periwinkle_5130971"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "pianist",
+  "phat_am": "['piənist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chơi pianô, nghệ sĩ dương cầm",
+          "list_en_vn": [
+            {
+              "full_en": "a famous concert pianist",
+              "full_vn": "một nghệ sĩ dương cầm hoà tấu nổi tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703394_a5b5659895_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703394_0b50503aa6_o.png",
+      "id_image": "pianist_1995318"
+    }
+  ]
+}

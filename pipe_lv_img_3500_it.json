@@ -1,0 +1,220 @@
+{
+  "english": "pipe",
+  "phat_am": "[paip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ống dẫn (khí, nước, dầu...)",
+          "list_en_vn": [
+            {
+              "full_en": "a water pipe",
+              "full_vn": "ống dẫn nước"
+            },
+            {
+              "full_en": "a gas pipe",
+              "full_vn": "ống dẫn hơi đốt"
+            },
+            {
+              "full_en": "the windpipe",
+              "full_vn": "khí quản (đường dẫn khí vào cơ thể)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tẩu thuốc, ống điếu (như) tobacco pipe ; cối, điếu (như) pipeful",
+          "list_en_vn": [
+            {
+              "full_en": "smoke a pipe",
+              "full_vn": "hút thuốc bằng tẩu"
+            },
+            {
+              "full_en": "pipe tobacco",
+              "full_vn": "(thuộc ngữ) thuốc lá sợi dùng cho ống tẩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) ống sáo, ống tiêu, ống nhạc hơi",
+          "list_en_vn": [
+            {
+              "full_en": "pipe of Pan",
+              "full_vn": "kèn ống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) kèn túi (của người chăn cừu Ê-cốt) (như) bagpipes"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) mạch ống (quặng)"
+        },
+        {
+          "m_full_vn": "còi của thuyền trưởng; tiếng còi của thuyền trưởng"
+        },
+        {
+          "m_full_vn": "tiếng hát; tiếng chim hót"
+        },
+        {
+          "m_full_vn": "đường bẫy chim rừng"
+        },
+        {
+          "m_full_vn": "thùng (đơn vị (đo lường) rượu bằng 105 galông)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bit the pipe",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hút thuốc phiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "King's (Queen ) pipe",
+              "list_im": [
+                {
+                  "im_full_vn": "lò đốt thuốc lá buôn lậu (ở cảng Luân-đôn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put that in your pipe and smoke it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thuộc ngữ) anh phải chấp nhận những gì mà tôi đã nói ra, dù thích nó hay không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone's pipe out",
+              "list_im": [
+                {
+                  "im_full_vn": "trội hơn ai, vượt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smoke the pipe of peace",
+              "list_im": [
+                {
+                  "im_full_vn": "sống hoà bình với nhau, thân thiện giao hảo với nhau"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt ống dẫn (ở nơi nào); dẫn (nước, dầu...) bằng ống"
+        },
+        {
+          "m_full_vn": "thổi sáo, thổi tiêu (một bản nhạc)"
+        },
+        {
+          "m_full_vn": "thổi còi ra lệnh; thổi còi tập hợp (thuỷ thủ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to pipe all hands on deck",
+              "full_vn": "thổi còi tập hợp tất cả các thuỷ thủ lên boong"
+            },
+            {
+              "full_en": "to pipe the crew up to meal",
+              "full_vn": "thổi còi tập hợp tất cả các thuỷ thủ đi ăn cơm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hát lanh lảnh; hót lanh lảnh"
+        },
+        {
+          "m_full_vn": "viền nối (áo); trang trí đường cột thừng (trên mặt bánh)"
+        },
+        {
+          "m_full_vn": "trồng (cây...) bằng cành giâm"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nhìn, trông"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thổi còi"
+        },
+        {
+          "m_full_vn": "thổi sáo, thổi tiêu"
+        },
+        {
+          "m_full_vn": "hát lanh lảnh; hót lanh lảnh"
+        },
+        {
+          "m_full_vn": "rít, thổi vi vu (gió)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pipe away",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) thổi còi ra hiệu cho (tàu...) rời bến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pipe down",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) thổi còi ra lệnh cho (thuỷ thủ...) nghỉ"
+                },
+                {
+                  "im_full_vn": "(từ lóng) bớt làm om sòm, hạ giọng; bớt kiêu căng, bớt lên mặt ta đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pipe up",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu diễn, bắt đầu hát"
+                },
+                {
+                  "im_full_vn": "nói to lên (làm cho người ta để ý đến mình)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pipe one eye (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "khóc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345576_cc798765a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345576_c39f32b591_o.png",
+      "id_image": "pipe_252554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345551_f7881dcf35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345551_340f27b9b8_o.png",
+      "id_image": "pipe_448320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460298_2a6b3b8af7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460298_e354c8ba83_o.png",
+      "id_image": "pipe_5672218"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "remover",
+  "phat_am": "[ri'mu:və]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật để loại bỏ, vật để xoá cái gì (thuốc tẩy..)",
+          "list_en_vn": [
+            {
+              "full_en": "a stain remover",
+              "full_vn": "thuốc tẩy vết bẩn móng tay"
+            },
+            {
+              "full_en": "a paint remover",
+              "full_vn": "thuốc tẩy sơn móng tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người dọn đồ (như) furniture remover",
+          "list_en_vn": [
+            {
+              "full_en": "a firm of removers",
+              "full_vn": "công ty dịch vụ dọn nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) dụng cụ tháo, đồ mở"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325481_1474ccb2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325481_d970ef3107_o.png",
+      "id_image": "remove_6183125"
+    }
+  ]
+}

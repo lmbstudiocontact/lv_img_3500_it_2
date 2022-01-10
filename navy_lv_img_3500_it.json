@@ -1,0 +1,65 @@
+{
+  "english": "navy",
+  "phat_am": "['neivi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(lực lượng) hải quân",
+          "list_en_vn": [
+            {
+              "full_en": "Navy Department",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) bộ hải quân"
+            },
+            {
+              "full_en": "naval exercises involving six navies",
+              "full_vn": "các cuộc diễn tập hải quân bao gồm lực lượng hải quân của sáu nước"
+            },
+            {
+              "full_en": "to join the Royal Navy",
+              "full_vn": "gia nhập Hải quân hoàng gia"
+            },
+            {
+              "full_en": "The navy is /are introducing a new class of warship this year",
+              "full_vn": "hải quân đang đưa vào sử dụng một loại tàu chiến mới năm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như navy blue",
+          "list_one_mean": [
+            {
+              "id_full_en": "Secretary of the Navy",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bộ trưởng bộ hải quân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Navy Day",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày hải quân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441913_3177ba75a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441913_5231de5cb0_o.png",
+      "id_image": "navy_2642269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326841_8a9419cff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326841_90bed23845_o.png",
+      "id_image": "navy_3856868"
+    }
+  ]
+}

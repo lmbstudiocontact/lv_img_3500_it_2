@@ -1,0 +1,69 @@
+{
+  "english": "paste",
+  "phat_am": "[peist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hỗn hợp nhão, bột nhão; hồ bột (để dán)"
+        },
+        {
+          "m_full_vn": "kẹo mềm"
+        },
+        {
+          "m_full_vn": "(hột) đá quý nhân tạo, thuỷ tinh giả kim cương"
+        },
+        {
+          "m_full_vn": "(từ lóng) cú đấm"
+        },
+        {
+          "m_full_vn": "patê (thịt, cá)",
+          "list_en_vn": [
+            {
+              "full_en": "liver paste",
+              "full_vn": "gan xay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dán (bằng hồ), bọc bột, xay ( patê)",
+          "list_en_vn": [
+            {
+              "full_en": "to paste up",
+              "full_vn": "niêm yết; dán lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) đấm, đánh"
+        },
+        {
+          "m_full_vn": "(thông tục) làm ma-két (dán tờ giấy, mẫu giấy có chữ và minh hoạ lên một tờ giấy, tờ bìa để trang trí cho một trang sách, trang tạp chí)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066070_8a520ee776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066070_3e251ac83e_o.png",
+      "id_image": "paste_2932791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373952_767a414b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373952_75da04df49_o.png",
+      "id_image": "paste_3645904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684289_eb949f40f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684289_5d136bc8da_o.png",
+      "id_image": "paste_391316"
+    }
+  ]
+}

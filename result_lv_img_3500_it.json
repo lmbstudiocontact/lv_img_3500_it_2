@@ -1,0 +1,114 @@
+{
+  "english": "result",
+  "phat_am": "[ri'zʌlt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( result of something ) kết quả (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the flight was delayed as a result of fog",
+              "full_vn": "chuyến bay bị muộn vì sương mù"
+            },
+            {
+              "full_en": "I was late , with the result that I missed my train",
+              "full_vn": "tôi đến muộn, cho nên lỡ chuyến tàu"
+            },
+            {
+              "full_en": "all our hard work produced little or no result",
+              "full_vn": "toàn bộ công lao khó nhọc của chúngtôi chỉ đem lại ít hoặc không kết quả gì"
+            },
+            {
+              "full_en": "my investigations were without result",
+              "full_vn": "các cuộc khảo sát của tôi chẳng có kết quả gì cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) thành quả",
+          "list_en_vn": [
+            {
+              "full_en": "to begin to show /produce /achieve results",
+              "full_vn": "bắt đầu cho thấy/tạo ra/đạt được những thành quả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) kết quả (trong cuộc đua tài, kỳ thi..); thắng lợi (nhất là trong bóng đá)",
+          "list_en_vn": [
+            {
+              "full_en": "football results",
+              "full_vn": "kết quả bóng đá"
+            },
+            {
+              "full_en": "the result of the match was a draw",
+              "full_vn": "kết quả trận đấu là hoà"
+            },
+            {
+              "full_en": "to have good /bad exam results",
+              "full_vn": "có kết quả thi giỏi/kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhất là trong bóng đá) thắng lợi",
+          "list_en_vn": [
+            {
+              "full_en": "we desperately need a result from this match",
+              "full_vn": "chúng tôi rất cần phải thắng trận này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) đáp số"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to result from something ) do bởi, do mà ra; xảy ra như một kết quả",
+          "list_en_vn": [
+            {
+              "full_en": "poverty resulting from the arms race",
+              "full_vn": "sự nghèo nàn do chạy đua vũ trang gây ra"
+            },
+            {
+              "full_en": "injuries resulting from a fall",
+              "full_vn": "những thương tật do ngã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to result in something ) dẫn đến, đưa đến, kết quả là",
+          "list_en_vn": [
+            {
+              "full_en": "his recklessness resulted in failure",
+              "full_vn": "sự liều lĩnh khinh suất của hắn đã dẫn đến thất bại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464598_8ff6a1d6cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464598_08cd32ca9a_o.png",
+      "id_image": "result_2720876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464578_aab9b2c77b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464578_5995f6edaf_o.png",
+      "id_image": "result_2720920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349891_eac7104e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349891_3d6e565bfc_o.png",
+      "id_image": "result_3974900"
+    }
+  ]
+}

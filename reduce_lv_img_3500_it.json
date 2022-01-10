@@ -1,0 +1,137 @@
+{
+  "english": "reduce",
+  "phat_am": "[ri'dju:s]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giảm, giảm bớt, hạ",
+          "list_en_vn": [
+            {
+              "full_en": "to reduce speed",
+              "full_vn": "giảm tốc độ"
+            },
+            {
+              "full_en": "to reduce prices",
+              "full_vn": "giảm (hạ) giá"
+            },
+            {
+              "full_en": "to reduce the establishment",
+              "full_vn": "giảm biên chế; giảm ngân sách cơ quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nhỏ đi, làm gầy đi, làm yếu đi",
+          "list_en_vn": [
+            {
+              "full_en": "to be reduced to a shadow (skeleton )",
+              "full_vn": "gầy đi chỉ còn là một bộ xương"
+            },
+            {
+              "full_en": "to be greatly reduced by illness",
+              "full_vn": "gầy đi nhiều vì bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nghèo đi, làm cho sa sút",
+          "list_en_vn": [
+            {
+              "full_en": "to be in reduced circumstances",
+              "full_vn": "bị sa sút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho, khiến phải, bắt phải",
+          "list_en_vn": [
+            {
+              "full_en": "to reduce to silence",
+              "full_vn": "bắt phải im lặng"
+            },
+            {
+              "full_en": "to reduce to submission",
+              "full_vn": "bắt phải phục tùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi, biến đổi (sang một trạng thái, hình thức đơn giản hơn, kém hơn)",
+          "list_en_vn": [
+            {
+              "full_en": "to reduce something to ashes",
+              "full_vn": "biến vật gì thành tro bụi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giáng cấp, hạ tầng công tác (một sĩ quan)",
+          "list_en_vn": [
+            {
+              "full_en": "to reduce an officer to the ranks",
+              "full_vn": "giáng cấp một sĩ quan xuống làm lính thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chinh phục được, bắt phải đầu hàng",
+          "list_en_vn": [
+            {
+              "full_en": "to reduce a province",
+              "full_vn": "chinh phục được một tỉnh"
+            },
+            {
+              "full_en": "to reduce a fort",
+              "full_vn": "bắt một pháo đài để đầu hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) chữa, bó (xương gãy), nắn (chỗ trật khớp)"
+        },
+        {
+          "m_full_vn": "(hoá học) khử"
+        },
+        {
+          "m_full_vn": "(toán học) rút gọn; quy về",
+          "list_en_vn": [
+            {
+              "full_en": "reduced characteristic equation",
+              "full_vn": "phương trình đặc trưng rút gọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cán dát (kim loại); ép, nén"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự làm cho nhẹ cân đi (người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069735_8dbd903eb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069735_79850a2e61_o.png",
+      "id_image": "reduce_1891346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332916_be22e090e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332916_8e9ede27ee_o.png",
+      "id_image": "reduce_5068508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332896_86742b36bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332896_72aaf4cd69_o.png",
+      "id_image": "reduce_6092197"
+    }
+  ]
+}

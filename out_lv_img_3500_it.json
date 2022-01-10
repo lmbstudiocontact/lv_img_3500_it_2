@@ -1,0 +1,496 @@
+{
+  "english": "out",
+  "phat_am": "[aut]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngoài, ở ngoài, ra ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "to be out in the rain",
+              "full_vn": "ở ngoài mưa"
+            },
+            {
+              "full_en": "to be out",
+              "full_vn": "đi vắng"
+            },
+            {
+              "full_en": "to put out to sea",
+              "full_vn": "ra khơi"
+            },
+            {
+              "full_en": "to be out at sea",
+              "full_vn": "ở ngoài khơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra",
+          "list_en_vn": [
+            {
+              "full_en": "the war broke out",
+              "full_vn": "chiến tranh nổ ra"
+            },
+            {
+              "full_en": "to spread out",
+              "full_vn": "trải rộng ra"
+            },
+            {
+              "full_en": "to lengthen out",
+              "full_vn": "dài ra"
+            },
+            {
+              "full_en": "to dead out",
+              "full_vn": "chia ra"
+            },
+            {
+              "full_en": "to pick out",
+              "full_vn": "chọn ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hẳn, hoàn toàn hết",
+          "list_en_vn": [
+            {
+              "full_en": "to dry out",
+              "full_vn": "khô hẳn"
+            },
+            {
+              "full_en": "to be tired out",
+              "full_vn": "mệt lừ"
+            },
+            {
+              "full_en": "to die out",
+              "full_vn": "chết hẳn"
+            },
+            {
+              "full_en": "before the week is out",
+              "full_vn": "trước khi hết tuần"
+            },
+            {
+              "full_en": "have you read it out ?",
+              "full_vn": "anh ta đã đọc hết cuốn sách đó chưa?"
+            },
+            {
+              "full_en": "he would not hear me out",
+              "full_vn": "nó nhất định không nghe tôi nói hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không nắm chính quyền",
+          "list_en_vn": [
+            {
+              "full_en": "Tories are out",
+              "full_vn": "đảng Bảo thủ ( Anh) không nắm chính quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang bãi công",
+          "list_en_vn": [
+            {
+              "full_en": "miners are out",
+              "full_vn": "công nhân mỏ đang bãi công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tắt, không cháy",
+          "list_en_vn": [
+            {
+              "full_en": "the fire is out",
+              "full_vn": "đám cháy tắt"
+            },
+            {
+              "full_en": "to turn out the light",
+              "full_vn": "tắt đèn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không còn là mốt nữa",
+          "list_en_vn": [
+            {
+              "full_en": "top hats are out",
+              "full_vn": "mũ chóp cao không còn là mốt nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "to thẳng, rõ ra",
+          "list_en_vn": [
+            {
+              "full_en": "to sing out",
+              "full_vn": "hát to"
+            },
+            {
+              "full_en": "to speak out",
+              "full_vn": "nói to; nói thẳng"
+            },
+            {
+              "full_en": "to have it out with somebody",
+              "full_vn": "giải thích rõ ra với ai, nói thẳng ra với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai khớp, trật khớp, trẹo xương",
+          "list_en_vn": [
+            {
+              "full_en": "arm is out",
+              "full_vn": "cánh tay bị trẹo xương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gục, bất tỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "to knock out",
+              "full_vn": "đánh gục, đánh bất tỉnh, cho đo ván"
+            },
+            {
+              "full_en": "to pass out",
+              "full_vn": "ngất đi, bất tỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai, lầm",
+          "list_en_vn": [
+            {
+              "full_en": "to be out in one's calculations",
+              "full_vn": "sai trong sự tính toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không như bình thường, bối rối, luống cuống, lúng túng",
+          "list_en_vn": [
+            {
+              "full_en": "the news put him out",
+              "full_vn": "tin đó làm anh ra bối rối"
+            },
+            {
+              "full_en": "I have forgotten my part and I am out",
+              "full_vn": "tôi quên mất phần vở (kịch) của tôi và tôi cuống lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã xuất bản (sách); đã nở (gà con); đã được cho ra giao du (con gái mới lớn lên); đã truyền đi (bức điện)",
+          "list_one_mean": [
+            {
+              "id_full_en": "all out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hoàn toàn, hết sức, hết lực; toàn tâm toàn ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out and about",
+              "list_im": [
+                {
+                  "im_full_vn": "đã dậy ra ngoài được (sau khi ốm khỏi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out and away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ xa, không thể so sánh được với; trội hẳn lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out and to be out for something",
+              "list_im": [
+                {
+                  "im_full_vn": "đang đi tìm cái gì; theo đuổi cái gì; quyết tâm kiếm bằng được cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out from under",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thoát khỏi cảnh khó khăn, thoát khỏi cảnh hiểm nghèo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out to",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) quyết tâm, gắng sức (làm điều gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out with",
+              "list_im": [
+                {
+                  "im_full_vn": "cút đi, cút khỏi, ra khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "out with him !",
+                      "full_vn": "tống cổ nó ra!"
+                    },
+                    {
+                      "full_en": "out with it !",
+                      "full_vn": "nói ra đi!, cứ nói đi!"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bất hoà, xích mích, không thân thiện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be out with somebody",
+                      "full_vn": "xích mích với ai, không thân thiện với ai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ ở... ra, từ... ra",
+          "list_en_vn": [
+            {
+              "full_en": "from out the room came a voice",
+              "full_vn": "một giọng nói vọng từ trong buồng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở ngoài, ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "out this window",
+              "full_vn": "ở ngoài cửa sổ này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều the outs ) đảng không nắm chính quyền (chính trị)"
+        },
+        {
+          "m_full_vn": "(ngành in) sự bỏ sót chữ; chữ bỏ sót"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) quả bóng đánh ra ngoài sân (quần vợt)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lối thoát; cách cáo từ, cách thoái thác",
+          "list_one_mean": [
+            {
+              "id_full_en": "the ins and outs",
+              "list_im": [
+                {
+                  "im_full_vn": "như in"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở ngoài, ở xa",
+          "list_en_vn": [
+            {
+              "full_en": "an out match",
+              "full_vn": "một trận đấu ở sân khác (không phải ở sân nhà)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả",
+          "list_en_vn": [
+            {
+              "full_en": "out size",
+              "full_vn": "cỡ quá khổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) tống cổ nó đi"
+        },
+        {
+          "m_full_vn": "cho nó đo ván (môn quyền Anh)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lộ ra (điều bí mật...)"
+        }
+      ]
+    },
+    {
+      "type": "giới từ ( out of )",
+      "list_m": [
+        {
+          "m_full_vn": "ra ngoài, ra khỏi, ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "out of the house",
+              "full_vn": "ra khỏi nhà"
+            },
+            {
+              "full_en": "out of reach",
+              "full_vn": "ngoài tầm với"
+            },
+            {
+              "full_en": "out of danger",
+              "full_vn": "thoát khỏi cảnh hiểm nguy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vì",
+          "list_en_vn": [
+            {
+              "full_en": "out of curiosity",
+              "full_vn": "vì tò mò"
+            },
+            {
+              "full_en": "out of pity",
+              "full_vn": "vì lòng trắc ẩn"
+            },
+            {
+              "full_en": "out of mecessity",
+              "full_vn": "vì cần thiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng",
+          "list_en_vn": [
+            {
+              "full_en": "made out of stone",
+              "full_vn": "làm bằng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách xa, cách",
+          "list_en_vn": [
+            {
+              "full_en": "three kilometers out of Hanoi",
+              "full_vn": "cách Hà nội ba kílômet"
+            },
+            {
+              "full_en": "out of sight out of mind",
+              "full_vn": "xa mặt cách lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai lạc",
+          "list_en_vn": [
+            {
+              "full_en": "to sing out of tune",
+              "full_vn": "hát sai, hát lạc điệu"
+            },
+            {
+              "full_en": "out of drawing",
+              "full_vn": "vẽ sai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong, trong đám",
+          "list_en_vn": [
+            {
+              "full_en": "nine out of ten",
+              "full_vn": "chín trong mười cái (lần...)"
+            },
+            {
+              "full_en": "to take one out of the lot",
+              "full_vn": "lấy ra một cái trong đám"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hết; mất",
+          "list_en_vn": [
+            {
+              "full_en": "to be out of money",
+              "full_vn": "hết tiền"
+            },
+            {
+              "full_en": "to be out of patience",
+              "full_vn": "không kiên nhẫn được nữa, không nhịn được nữa"
+            },
+            {
+              "full_en": "to be out of one's mind",
+              "full_vn": "mất bình tĩnh"
+            },
+            {
+              "full_en": "to cheat someone out of his money",
+              "full_vn": "lừa ai lấy hết tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không",
+          "list_en_vn": [
+            {
+              "full_en": "out of doubt",
+              "full_vn": "không còn nghi ngờ gì nữa, chắc chắn"
+            },
+            {
+              "full_en": "out of number",
+              "full_vn": "không đếm xuể, vô số"
+            },
+            {
+              "full_en": "out of place",
+              "full_vn": "không đúng chỗ, không đúng lúc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387117_3a85251494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387117_0f0e63cbf5_o.png",
+      "id_image": "out_1250267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342131_a3152d29f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342131_3dea7e8c99_o.png",
+      "id_image": "out_1666286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079470_a426f7059f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079470_774476e89e_o.png",
+      "id_image": "out_3557810"
+    }
+  ]
+}

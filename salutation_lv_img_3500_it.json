@@ -1,0 +1,31 @@
+{
+  "english": "salutation",
+  "phat_am": "[,sælju:'tei∫ən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chào; lời chào",
+          "list_en_vn": [
+            {
+              "full_en": "to raise one's hat in salutation",
+              "full_vn": "nhấc mũ của mình để chào"
+            },
+            {
+              "full_en": "the polite salutations of the courtier",
+              "full_vn": "những lời chào lịch sự của viên cận thần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450828_7598576147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450828_3d0a7db414_o.png",
+      "id_image": "salutation_4891280"
+    }
+  ]
+}

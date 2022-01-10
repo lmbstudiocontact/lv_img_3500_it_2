@@ -1,0 +1,27 @@
+{
+  "english": "resale",
+  "phat_am": "['ri:seil, ri:'seil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bán lại cho người khác (cái mà mình đã mua)",
+          "list_en_vn": [
+            {
+              "full_en": "a house up for resale",
+              "full_vn": "nhà để bán lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367112_cffca0cabf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367112_4c58275e18_o.png",
+      "id_image": "resale_2590591"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "message",
+  "phat_am": "['mesidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thư tín, điện, thông báo",
+          "list_en_vn": [
+            {
+              "full_en": "a wireless message",
+              "full_vn": "bức điện"
+            },
+            {
+              "full_en": "a message of greetings",
+              "full_vn": "điện mừng"
+            },
+            {
+              "full_en": "an error message",
+              "full_vn": "(tin học) thông báo cho biết có sự trục trặc; thông báo lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông điệp; lời phán truyền (của thần, nhà tiên tri...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a play with a message",
+              "list_im": [
+                {
+                  "im_full_vn": "vở tuồng có chủ đề tư tưởng rõ rệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get the message",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu ý; thấm ý"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyền đạt; truyền thông"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390912_5cb75a3772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390912_1fc12700ca_o.png",
+      "id_image": "message_440359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345946_e2f177d8e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345946_fafe47b927_o.png",
+      "id_image": "message_673882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345881_5731c7931c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345881_e886071656_o.png",
+      "id_image": "message_685836"
+    }
+  ]
+}

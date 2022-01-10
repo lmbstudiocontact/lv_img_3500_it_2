@@ -1,0 +1,234 @@
+{
+  "english": "rack",
+  "phat_am": "[rʌk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "những đám mây trôi giạt"
+        },
+        {
+          "m_full_vn": "sự phá hủy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go to rack and ruin",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu tan thành mây khói, tiêu tan sự nghiệp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trôi đi theo gió, cuốn theo chiều gió (mây)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máng ăn (ở chuồng ngựa, chuồng trâu bò)"
+        },
+        {
+          "m_full_vn": "giá (để đồ đạc)",
+          "list_en_vn": [
+            {
+              "full_en": "a plate-rack",
+              "full_vn": "giá gác đĩa"
+            },
+            {
+              "full_en": "a wine-rack",
+              "full_vn": "giá để rượu"
+            },
+            {
+              "full_en": "a hat-rack",
+              "full_vn": "giá treo mũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá gác, giá để hành lý (trên xe lửa..)",
+          "list_en_vn": [
+            {
+              "full_en": "a luggage rack",
+              "full_vn": "giá gác hành lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) giá bom (trên máy bay oanh tạc)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) thanh răng; cơ cấu thanh răng",
+          "list_one_mean": [
+            {
+              "id_full_en": "rack of bones",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người gầy chỉ có da bọc xương"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a steering-rack",
+              "full_vn": "thanh răng lái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ đầy cỏ vào máng (ở chuồng ngựa...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) đổ cỏ vào máng",
+          "list_en_vn": [
+            {
+              "full_en": "to rack up a horse",
+              "full_vn": "đổ cỏ vào máng cho ngựa ăn, buộc ngựa vào chỗ máng cỏ cho ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xếp lên giá",
+          "list_en_vn": [
+            {
+              "full_en": "to rack plates",
+              "full_vn": "xếp bát đĩa lên giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cho chuyển vị bằng thanh răng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước kiệu (của ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạy nước kiệu (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + off ) chắt ra",
+          "list_en_vn": [
+            {
+              "full_en": "to rack off wine",
+              "full_vn": "chắt rượu (ở cặn đáy thùng)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the rack ) cái trăn (dụng cụ tra tấn ngày xưa); sự tra tấn, sự hành hạ"
+        },
+        {
+          "m_full_vn": "sự đau nhói; nỗi đau khổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the rack",
+              "list_im": [
+                {
+                  "im_full_vn": "lâm vào cảnh khốn khổ, lâm vào cảnh đau đớn dữ dội (về tinh thần, về thể xác)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành hạ, tra tấn, làm khổ (ai) (về thể xác, về tinh thần)",
+          "list_en_vn": [
+            {
+              "full_en": "a racking headache",
+              "full_vn": "cơn nhức đầu long cả óc"
+            },
+            {
+              "full_en": "to be racked with pain",
+              "full_vn": "đau nhói cả người"
+            },
+            {
+              "full_en": "remorse racked him",
+              "full_vn": "sự hối hận giày vò lương tâm anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm rung chuyển; nặn, bóp (óc)",
+          "list_en_vn": [
+            {
+              "full_en": "the cough seemed to rack his whole body",
+              "full_vn": "cơn ho dường như làm rung chuyển cả người anh ta"
+            },
+            {
+              "full_en": "to rack one's brains for a plan",
+              "full_vn": "nặn óc để nghĩ ra một kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho thuê (nhà, đất...) với giá cắt cổ"
+        },
+        {
+          "m_full_vn": "làm (đất) hết cả màu mỡ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456768_b9e8863930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456768_2f65b12d57_o.png",
+      "id_image": "rack_368038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456733_b2aed54089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456733_866fcb22ba_o.png",
+      "id_image": "rack_577965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341811_2462ac7a17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341811_08b978fb58_o.png",
+      "id_image": "rack_638207"
+    }
+  ]
+}

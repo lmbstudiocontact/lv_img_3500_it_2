@@ -1,0 +1,215 @@
+{
+  "english": "rate",
+  "phat_am": "[reit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tỷ lệ"
+        },
+        {
+          "m_full_vn": "tốc độ",
+          "list_en_vn": [
+            {
+              "full_en": "at the rate of ten kilometres an hour",
+              "full_vn": "tốc độ mười kilômét một giờ"
+            },
+            {
+              "full_en": "rate of fire",
+              "full_vn": "(quân sự) tốc độ bắn"
+            },
+            {
+              "full_en": "rate of climb",
+              "full_vn": "(hàng không) tốc độ bay lên"
+            },
+            {
+              "full_en": "rate of chemical reaction",
+              "full_vn": "tốc độ phản ứng hoá học"
+            },
+            {
+              "full_en": "rate of radioactive decay",
+              "full_vn": "tốc độ phân ra phóng xạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá, suất, mức (lương...)",
+          "list_en_vn": [
+            {
+              "full_en": "rate of exchange",
+              "full_vn": "giá hối đoái, tỉ giá hối đoái"
+            },
+            {
+              "full_en": "special rates",
+              "full_vn": "giá đặc biệt"
+            },
+            {
+              "full_en": "to live at a high rate",
+              "full_vn": "sống mức cao"
+            },
+            {
+              "full_en": "rate of living",
+              "full_vn": "mức sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuế địa phương"
+        },
+        {
+          "m_full_vn": "hạng, loại",
+          "list_en_vn": [
+            {
+              "full_en": "first rate",
+              "full_vn": "loại một, hạng nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đánh giá, sự ước lượng",
+          "list_en_vn": [
+            {
+              "full_en": "to value something at a low rate",
+              "full_vn": "đánh giá thấp cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự sắp hạng (học sinh)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự tiêu thụ (nước)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at an easy rate",
+              "list_im": [
+                {
+                  "im_full_vn": "rẻ, với giá phải chăng"
+                },
+                {
+                  "im_full_vn": "dễ dàng, không khó khăn gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to win success at on easy rate",
+                      "full_vn": "thắng lợi dễ dàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at any rate",
+              "list_im": [
+                {
+                  "im_full_vn": "dù sao đi nữa, trong bất cứ trường hợp nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at this (that ) rate",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu thế, nếu như vậy; trong trường hợp như vậy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh gia, ước lượng, ước tính; định giá",
+          "list_en_vn": [
+            {
+              "full_en": "to rate somebody too high",
+              "full_vn": "đánh giá ai quá cao"
+            },
+            {
+              "full_en": "the copper coinage is rated much above its real value",
+              "full_vn": "tiền đồng được định giá cao hơn giá trị của nó nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi, xem như",
+          "list_en_vn": [
+            {
+              "full_en": "he was rated the best poet of his time",
+              "full_vn": "ông ta được coi la nhà thơ lớn nhất đương thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh thuế; định giá để đánh thuế",
+          "list_en_vn": [
+            {
+              "full_en": "what is this imported bicycle rated at ?",
+              "full_vn": "cái xe đạp nhập khẩu này đánh thuế bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xếp loại (tàu xe...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sắp hạng (học sinh)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "được coi như, được xem như, được xếp loại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rate up",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt phải trả một số tiền bảo hiểm cao hơn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mắng mỏ, xỉ vả, mắng nhiếc tàn tệ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ & nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) ret"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075195_f68ccf6dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075195_bd3fba2613_o.png",
+      "id_image": "rate_1373278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338101_d5f99e54cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338101_cbb5208b6d_o.png",
+      "id_image": "rate_2358758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453013_a40671bf28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453013_9c3137bc9d_o.png",
+      "id_image": "rate_3712150"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "plus",
+  "phat_am": "[pʌls]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "cộng với (số); cả, cùng với (người)",
+          "list_en_vn": [
+            {
+              "full_en": "3 plus 4",
+              "full_vn": "ba cộng với 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trên (nhiều hơn số, số lượng đã chỉ định)",
+          "list_en_vn": [
+            {
+              "full_en": "the work will cost 10.000pound plus",
+              "full_vn": "công trình trị giá hơn 10. 000 pao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cộng, thêm vào"
+        },
+        {
+          "m_full_vn": "(toán học); (vật lý) trên số không; dương (số...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the plus side of the account",
+              "list_im": [
+                {
+                  "im_full_vn": "ở bên có của tài khoản"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu cộng ( +)"
+        },
+        {
+          "m_full_vn": "(thông tục) ưu thế"
+        },
+        {
+          "m_full_vn": "số thêm vào, lượng thêm vào"
+        },
+        {
+          "m_full_vn": "(toán học); (vật lý) số dương"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454433_1b3c9c687d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454433_d25d7a6372_o.png",
+      "id_image": "plus_1484944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076660_472f2ef1b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076660_5c404dfbf6_o.png",
+      "id_image": "plus_4684730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076620_640d834b20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076620_f82bb3a94e_o.png",
+      "id_image": "plus_5982800"
+    }
+  ]
+}

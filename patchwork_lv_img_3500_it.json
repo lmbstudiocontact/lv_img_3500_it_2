@@ -1,0 +1,38 @@
+{
+  "english": "patchwork",
+  "phat_am": "['pæt∫wɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miếng vải chắp mảnh (gồm nhiều mảnh vụn vá lại với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "a patchwork bedcover",
+              "full_vn": "một cái khăn trải giừơng chắp nhiều mảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) việc chắp vá, kết nối, tác phẩm chắp vá"
+        },
+        {
+          "m_full_vn": "( định ngữ) chắp vá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683624_d823ba6cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683624_d537fdbc7c_o.png",
+      "id_image": "patchwork_2133960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373227_4cdceaef91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373227_d8ed82b4d2_o.png",
+      "id_image": "patchwork_6306788"
+    }
+  ]
+}

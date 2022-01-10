@@ -1,0 +1,39 @@
+{
+  "english": "rocky",
+  "phat_am": "['rɔki]",
+  "list_type": [
+    {
+      "type": "tính từ so sánh",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) đá; như đá, vững như đá, cứng như đá"
+        },
+        {
+          "m_full_vn": "nhiều đá",
+          "list_en_vn": [
+            {
+              "full_en": "rocky soil",
+              "full_vn": "đất lổn nhổn đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lung lay; không vững",
+          "list_en_vn": [
+            {
+              "full_en": "their marriage seems a bit rocky",
+              "full_vn": "cuộc hôn nhân của họ có vẻ không mấy vững chắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699034_11300e622a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699034_0f013f80f9_o.png",
+      "id_image": "rocky_327427"
+    }
+  ]
+}

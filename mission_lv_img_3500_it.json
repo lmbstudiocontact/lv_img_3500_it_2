@@ -1,0 +1,92 @@
+{
+  "english": "mission",
+  "phat_am": "['mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sứ mệnh, nhiệm vụ",
+          "list_en_vn": [
+            {
+              "full_en": "a top-secret mission",
+              "full_vn": "sứ mệnh tối mật"
+            },
+            {
+              "full_en": "the mission of the poets",
+              "full_vn": "sứ mệnh của các nhà thơ"
+            },
+            {
+              "full_en": "to complete one's mission successfully",
+              "full_vn": "hoàn thành thắng lợi nhiệm vụ"
+            },
+            {
+              "full_en": "the squadron flew a reconnaissance mission",
+              "full_vn": "phi đội đã bay đi làm một phi vụ trinh sát"
+            },
+            {
+              "full_en": "mission headquarters",
+              "full_vn": "sở chỉ huy đặc nhiệm"
+            },
+            {
+              "full_en": "to go /come /send somebody on a mission of inquiry",
+              "full_vn": "đi/đến/phái ai làm nhiệm vụ điều tra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phái đoàn; phái bộ",
+          "list_en_vn": [
+            {
+              "full_en": "a trade mission",
+              "full_vn": "phái đoàn thương mại"
+            },
+            {
+              "full_en": "a diplomatic mission",
+              "full_vn": "phái đoàn ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự truyền giáo; hội truyền giáo; khu vực truyền giáo; trụ sở của hội truyền giáo",
+          "list_en_vn": [
+            {
+              "full_en": "to work at the mission",
+              "full_vn": "làm việc ở hội truyền giáo"
+            },
+            {
+              "full_en": "a foreign mission",
+              "full_vn": "hội truyền giáo ở nước ngoài"
+            },
+            {
+              "full_en": "a home mission",
+              "full_vn": "hội truyền giáo ở trong nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340901_ca042c89a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340901_eb13c30f17_o.png",
+      "id_image": "mission_1485075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340861_c9a266b720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340861_dcc628e98c_o.png",
+      "id_image": "mission_3775347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385767_910905b856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385767_ec4dc68922_o.png",
+      "id_image": "mission_4577418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455733_7e586e20ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455733_dfa36fdb35_o.png",
+      "id_image": "mission_780578"
+    }
+  ]
+}

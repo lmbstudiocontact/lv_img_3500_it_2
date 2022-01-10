@@ -1,0 +1,54 @@
+{
+  "english": "piano",
+  "phat_am": "['pjɑ:nou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều pianos",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) đàn pi-a-nô; dương cầm",
+          "list_en_vn": [
+            {
+              "full_en": "cottage piano",
+              "full_vn": "pianô đứng nhỏ"
+            },
+            {
+              "full_en": "play a tune on the piano",
+              "full_vn": "chơi một giai điệu trên piano"
+            },
+            {
+              "full_en": "piano music",
+              "full_vn": "(thuộc ngữ) nhạc piano"
+            },
+            {
+              "full_en": "a piano player",
+              "full_vn": "người chơi đàn piano"
+            },
+            {
+              "full_en": "piano stool",
+              "full_vn": "ghế đẩu ngồi chơi dương cầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đoạn nhạc êm dịu"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) (viết tắt) P (một cách nhẹ nhàng, êm dịu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348646_f4ce9c3796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348646_12ef2929db_o.png",
+      "id_image": "piano_1238802"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "peach",
+  "phat_am": "[pi:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả đào",
+          "list_en_vn": [
+            {
+              "full_en": "a peach stone",
+              "full_vn": "hột đào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) cây đào (như) peach-tree"
+        },
+        {
+          "m_full_vn": "màu quả đào"
+        },
+        {
+          "m_full_vn": "(từ lóng) đào tơ (phụ nữ trẻ rất hấp dẫn); cái tuyệt hảo, tuyệt phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "she is a real peach",
+              "full_vn": "cô ấy thật là đào tơ mơn mởn (thật hấp dẫn)"
+            },
+            {
+              "full_en": "that was a peach of a shot",
+              "full_vn": "thật là một phát súng tuyệt vời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) làm chỉ điểm; báo, thông tin, mách lẻo, tâu, hót"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370202_55717d29da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370202_ea20213d97_o.png",
+      "id_image": "peach_258592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325231_07fb425e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325231_0c769bd9f7_o.png",
+      "id_image": "peach_3735934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440298_a36166ecff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440298_2e276dcfbb_o.png",
+      "id_image": "peach_457794"
+    }
+  ]
+}

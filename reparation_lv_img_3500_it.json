@@ -1,0 +1,41 @@
+{
+  "english": "reparation",
+  "phat_am": "[,repə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bồi thường thiệt hại, sự đền bù thiệt hại",
+          "list_en_vn": [
+            {
+              "full_en": "to make reparation (to God ) for one's sins",
+              "full_vn": "chuộc lại (trước Chúa) tội lỗi của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( reparations ) bồi thường thiệt hại chiến tranh (do kẻ thua trận phải chi ra)",
+          "list_en_vn": [
+            {
+              "full_en": "to exact heavy reparations",
+              "full_vn": "đòi bồi thường chiến tranh nặng nề"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060760_cafc6bce4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060760_002aa76ff1_o.png",
+      "id_image": "reparation_329853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060685_52147320cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060685_6c9aaae137_o.png",
+      "id_image": "reparation_351862"
+    }
+  ]
+}

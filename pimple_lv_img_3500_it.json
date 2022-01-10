@@ -1,0 +1,40 @@
+{
+  "english": "pimple",
+  "phat_am": "['pimpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nốt sưng tấy nhỏ nhô lên trên da; mụn nhọt",
+          "list_en_vn": [
+            {
+              "full_en": "a pimple on one's chin",
+              "full_vn": "một cái mụn trên cằm"
+            },
+            {
+              "full_en": "to come out in pimples",
+              "full_vn": "nổi đầy mụn nhọt"
+            },
+            {
+              "full_en": "teenage pimples",
+              "full_vn": "mụn trứng cá của tuổi dậy thì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391527_1d23e3be80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391527_09daf82da8_o.png",
+      "id_image": "pimple_4236818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084000_23b6542561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084000_684bb06b68_o.png",
+      "id_image": "pimple_5221080"
+    }
+  ]
+}

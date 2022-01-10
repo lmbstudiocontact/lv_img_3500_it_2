@@ -1,0 +1,43 @@
+{
+  "english": "permissive",
+  "phat_am": "[pə'misiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho phép; được chấp nhận"
+        },
+        {
+          "m_full_vn": "tuỳ ý, không bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "a permissive upbringing",
+              "full_vn": "một cách giáo dục nuông chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dễ dãi, thoải mái; tự do, buông thả",
+          "list_en_vn": [
+            {
+              "full_en": "permissive parents",
+              "full_vn": "các bậc cha mẹ dễ dãi"
+            },
+            {
+              "full_en": "the permissive society",
+              "full_vn": "một xã hội buông lỏng kỷ cương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057170_06647d89d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057170_bd9e91d8f6_o.png",
+      "id_image": "permissive_5101278"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "pant",
+  "phat_am": "[pænt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thở hổn hển; sự đập thình thình (ngực...)"
+        },
+        {
+          "m_full_vn": "hơi thở hổn hển",
+          "list_en_vn": [
+            {
+              "full_en": "breathe in short pants",
+              "full_vn": "thở nhanh hổn hển"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói hổn hển",
+          "list_en_vn": [
+            {
+              "full_en": "to pant out a few worlds",
+              "full_vn": "hổn hển nói ra vài tiếng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thở hổn hển; nói hổn hển"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ham muốn thiết tha, khao khát",
+          "list_en_vn": [
+            {
+              "full_en": "to pant for (after ) something",
+              "full_vn": "khao khát cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689979_ea35ed8cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689979_40cf342b8f_o.png",
+      "id_image": "pant_3043360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689959_d7a146a778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689959_9e8e78941f_o.png",
+      "id_image": "pant_5507633"
+    }
+  ]
+}

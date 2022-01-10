@@ -1,0 +1,35 @@
+{
+  "english": "photocopy",
+  "phat_am": "['foutoukɔpi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản sao kiểu chụp ảnh (của một tác phẩm viết tay, in hoặc đồ hình); bản sao chụp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, thì quá khứ và động tính từ quá khứ là photocopied )",
+      "list_m": [
+        {
+          "m_full_vn": "sao theo kiểu chụp ảnh (một tác phẩm viết tay, in hoặc đồ hình); sao kiểu chụp ảnh các tài liệu... thành nhiều bản; sao chụp",
+          "list_en_vn": [
+            {
+              "full_en": "to do some photocopying",
+              "full_vn": "sao chụp vài bản"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349536_fd2676884f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349536_51747fbc26_o.png",
+      "id_image": "photocopy_5068570"
+    }
+  ]
+}

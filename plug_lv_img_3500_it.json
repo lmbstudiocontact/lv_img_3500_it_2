@@ -1,0 +1,118 @@
+{
+  "english": "plug",
+  "phat_am": "[plʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nút (thùng rượu, chậu rửa, bồn tắm...); (từ Mỹ, nghĩa Mỹ) như stopper"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chốt"
+        },
+        {
+          "m_full_vn": "(điện học) phích cắm; (thông tục) ổ cắm điện",
+          "list_en_vn": [
+            {
+              "full_en": "three-pin plug",
+              "full_vn": "phích ba đầu, phích ba chạc"
+            },
+            {
+              "full_en": "two-pin plug",
+              "full_vn": "phích hai đầu, phích hai chạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) quảng cáo lặp đi lặp lại (đĩa hát, sách)"
+        },
+        {
+          "m_full_vn": "bánh thuốc, cuộn thuốc sừng bò (thuốc lá)"
+        },
+        {
+          "m_full_vn": "đầu ống, đầu vòi (để bắt vòi nước vào lấy nước)"
+        },
+        {
+          "m_full_vn": "Bu-gi (như) sparking-plug"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) đá nút (đá phun trào bít kín miệng núi lửa)"
+        },
+        {
+          "m_full_vn": "(từ lóng) cú đấm, cú thoi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ngựa tồi, ngựa xấu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) bít (lỗ) lại bằng nút; nút lại, chặn cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to plug a hole",
+              "full_vn": "bít lỗ bằng nút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) thoi, thụi, đấm"
+        },
+        {
+          "m_full_vn": "(thông tục) khen hoài"
+        },
+        {
+          "m_full_vn": "(từ lóng) cho ăn đạn, cho ăn kẹo đồng"
+        },
+        {
+          "m_full_vn": "(thông tục) nhai nhải mãi để cố phổ biến (cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to plug a song",
+              "full_vn": "hát nhai nhải mãi để cố phổ biến một bài hát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + away at ) (thông tục) ráng sức, cần cù (làm một việc gì); học gạo, \"cày\" ( (nghĩa bóng))",
+          "list_one_mean": [
+            {
+              "id_full_en": "to plug in",
+              "list_im": [
+                {
+                  "im_full_vn": "(điện học) cắm phích"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077280_b418c46308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077280_e0a0740e82_o.png",
+      "id_image": "plug_191957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340011_63a3dd072e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340011_61abcf8468_o.png",
+      "id_image": "plug_403024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695184_ca47ccc6ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695184_11f78ffee1_o.png",
+      "id_image": "plug_403182"
+    }
+  ]
+}

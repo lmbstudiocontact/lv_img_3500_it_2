@@ -1,0 +1,40 @@
+{
+  "english": "sachet",
+  "phat_am": "['sæ∫ei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao; túi; gói (bằng giấy, bằng chất dẻo)",
+          "list_en_vn": [
+            {
+              "full_en": "a sachet of sugar",
+              "full_vn": "một gói đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "túi nhỏ ướp nước hoa; túi bột thơm (để ướp quần áo..) (như) sachet powder"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338251_40b459bb70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338251_965d0af55b_o.png",
+      "id_image": "sachet_1211055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453153_bbffcbf843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453153_305a3f093e_o.png",
+      "id_image": "sachet_3219278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338176_3e3e776e7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338176_361a97b019_o.png",
+      "id_image": "sachet_4142980"
+    }
+  ]
+}

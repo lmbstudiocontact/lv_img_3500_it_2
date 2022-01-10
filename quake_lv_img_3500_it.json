@@ -1,0 +1,45 @@
+{
+  "english": "quake",
+  "phat_am": "[kweik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự run, sự run rẩy (của một người)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự động đất (như) earthquake"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rung động (về đất)"
+        },
+        {
+          "m_full_vn": "( + with , for ) run, run rẩy (về người)",
+          "list_en_vn": [
+            {
+              "full_en": "quaking with cold",
+              "full_vn": "run lên vì rét"
+            },
+            {
+              "full_en": "quaking with fear",
+              "full_vn": "run lên vì sợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390662_5314a4ff85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390662_17576db0d1_o.png",
+      "id_image": "quake_559963"
+    }
+  ]
+}

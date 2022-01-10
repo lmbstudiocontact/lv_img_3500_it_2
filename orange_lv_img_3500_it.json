@@ -1,0 +1,71 @@
+{
+  "english": "orange",
+  "phat_am": "['ɔrindʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả cam"
+        },
+        {
+          "m_full_vn": "cây cam ( orange-tree )",
+          "list_en_vn": [
+            {
+              "full_en": "an orange grove",
+              "full_vn": "một lùm cây cam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu da cam"
+        },
+        {
+          "m_full_vn": "nước cam",
+          "list_one_mean": [
+            {
+              "id_full_en": "to squeeze the orange",
+              "list_im": [
+                {
+                  "im_full_vn": "vắt kiệt (hết tinh tuý của cái gì, hết sức lực của ai)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a fresh orange , please",
+              "full_vn": "cho tôi một cốc cam tươi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu da cam",
+          "list_en_vn": [
+            {
+              "full_en": "an orange hat",
+              "full_vn": "cái nón màu da cam"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344581_9eafbfe816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344581_53c06075b1_o.png",
+      "id_image": "orange_170327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389497_c3a07e338c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389497_b3c977e4e3_o.png",
+      "id_image": "orange_501324"
+    }
+  ]
+}

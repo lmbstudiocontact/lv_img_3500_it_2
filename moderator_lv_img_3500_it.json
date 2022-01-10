@@ -1,0 +1,41 @@
+{
+  "english": "moderator",
+  "phat_am": "['mɔdəreitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người điều tiết, máy điều tiết",
+          "list_en_vn": [
+            {
+              "full_en": "moderator lamp",
+              "full_vn": "đèn có máy điều tiết dầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoà giải, người làm trung gian"
+        },
+        {
+          "m_full_vn": "giám khảo kỳ thi phần thứ nhất bằng tú tài văn chương (trường đại học Ôc-phớt)"
+        },
+        {
+          "m_full_vn": "(tôn giáo) chủ tịch giáo hội"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339101_c470628168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339101_d234379f7f_o.png",
+      "id_image": "moderator_4010411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454003_7c80f8ac87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454003_a3c3c760e8_o.png",
+      "id_image": "moderator_4643268"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "relax",
+  "phat_am": "[ri'læks]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nới lỏng, buông lỏng, lơi ra",
+          "list_en_vn": [
+            {
+              "full_en": "to relax one's hold",
+              "full_vn": "buông lỏng ra, nới lỏng ra"
+            },
+            {
+              "full_en": "relax discipline",
+              "full_vn": "nới lỏng kỷ luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm dịu đi, làm chùng, làm bớt căng thẳng (sự việc..)",
+          "list_en_vn": [
+            {
+              "full_en": "to relax tension",
+              "full_vn": "làm tình hình bớt căng thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bớt căng thẳng, làm cho dễ chịu, giải (trí)",
+          "list_en_vn": [
+            {
+              "full_en": "to relax one's mind",
+              "full_vn": "giải trí"
+            },
+            {
+              "full_en": "to relax one's muscles",
+              "full_vn": "làm giãn bắp cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giảm nhẹ (hình phạt)"
+        },
+        {
+          "m_full_vn": "làm yếu đi, làm suy nhược"
+        },
+        {
+          "m_full_vn": "(y học) làm nhuận (tràng)",
+          "list_en_vn": [
+            {
+              "full_en": "to relax the bowels",
+              "full_vn": "làm nhuận tràng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buông lơi (sự tập trung, sự luyện tập..)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỏng ra, chùng ra, giãn ra (gân cốt bắp cơ)"
+        },
+        {
+          "m_full_vn": "giảm bớt, nguôi đi, bớt căng thẳng, dịu đi",
+          "list_en_vn": [
+            {
+              "full_en": "anger relaxes",
+              "full_vn": "cơn giận nguôi đi"
+            },
+            {
+              "full_en": "his features relaxed",
+              "full_vn": "nét mặt anh dịu đi"
+            },
+            {
+              "full_en": "world tension relaxes",
+              "full_vn": "tình hình thế giới bớt căng thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giải trí, nghỉ ngơi",
+          "list_en_vn": [
+            {
+              "full_en": "to relax for an hour",
+              "full_vn": "giải trí trong một tiếng đồng hồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442808_e26701eaa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442808_93e9a86a54_o.png",
+      "id_image": "relax_4600886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327781_b63e62e009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327781_1214583e38_o.png",
+      "id_image": "relax_4647910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682779_a23740e83e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682779_18375c1108_o.png",
+      "id_image": "relax_4891431"
+    }
+  ]
+}

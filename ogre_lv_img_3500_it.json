@@ -1,0 +1,41 @@
+{
+  "english": "ogre",
+  "phat_am": "['ougə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "yêu tinh; quỷ ăn thịt người (trong truyện dân gian)",
+          "list_en_vn": [
+            {
+              "full_en": "there is an ogre",
+              "full_vn": "ở đó có một con yêu tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người xấu như quỷ, người tàn ác",
+          "list_en_vn": [
+            {
+              "full_en": "her boss is a real ogre",
+              "full_vn": "ông chủ của cô ta là một con người tàn ác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496848_a905e2d3bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496848_c8db0c7940_o.png",
+      "id_image": "ogre_2119272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392697_fb40c2b643_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392697_9466d3b405_o.png",
+      "id_image": "ogre_2210074"
+    }
+  ]
+}

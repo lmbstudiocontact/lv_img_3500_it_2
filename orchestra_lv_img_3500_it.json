@@ -1,0 +1,30 @@
+{
+  "english": "orchestra",
+  "phat_am": "['ɔ:kistrə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ban nhạc; dàn nhạc",
+          "list_en_vn": [
+            {
+              "full_en": "a dance , string , symphony orchestra",
+              "full_vn": "một dàn nhạc khiêu vũ, đàn dây, giao hưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như orchestra stalls"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427407_7dcfae9641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427407_2f1e548aae_o.png",
+      "id_image": "orchestra_3700246"
+    }
+  ]
+}

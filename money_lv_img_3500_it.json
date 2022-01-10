@@ -1,0 +1,75 @@
+{
+  "english": "money",
+  "phat_am": "['mʌni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền; tiền bạc",
+          "list_en_vn": [
+            {
+              "full_en": "to have money in one's pocket",
+              "full_vn": "có tiền trong túi"
+            },
+            {
+              "full_en": "to earn /borrow /save a lot of money",
+              "full_vn": "kiếm được/vay/để dành nhiều tiền"
+            },
+            {
+              "full_en": "how much money is there in my (bank ) account ?",
+              "full_vn": "trong tài khoản của tôi (ở ngân hàng) có bao nhiêu tiền?"
+            },
+            {
+              "full_en": "to change English money into French money /francs",
+              "full_vn": "đổi tiền Anh thành tiền Pháp/frăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của cải; tài sản",
+          "list_en_vn": [
+            {
+              "full_en": "to inherit money from somebody",
+              "full_vn": "thừa kế tài sản của ai"
+            },
+            {
+              "full_en": "to lose all one's money",
+              "full_vn": "mất hết của cải"
+            },
+            {
+              "full_en": "to marry somebody for his money",
+              "full_vn": "lấy ai vì tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( moneys hoặc monies ) những món tiền",
+          "list_en_vn": [
+            {
+              "full_en": "to collect all monies due",
+              "full_vn": "thu tất cả các món tiền đến hạn phải trả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337836_f22b406f53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337836_f46de1b317_o.png",
+      "id_image": "money_144902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337806_b27cb4ae3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337806_bac0f880b1_o.png",
+      "id_image": "money_144904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382767_0022f0b68c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382767_85ba55de80_o.png",
+      "id_image": "money_171689"
+    }
+  ]
+}

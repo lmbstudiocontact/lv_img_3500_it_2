@@ -1,0 +1,125 @@
+{
+  "english": "resistance",
+  "phat_am": "[ri'zistəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( resistance to somebody / something ) sự chống cự; sự kháng cự",
+          "list_en_vn": [
+            {
+              "full_en": "a passive resistance",
+              "full_vn": "sự kháng cự thụ động"
+            },
+            {
+              "full_en": "to break down , overcome , put an end to armed resistance",
+              "full_vn": "bẻ gãy, chế ngự, tiêu diệt một cuộc kháng cự có vũ trang"
+            },
+            {
+              "full_en": "the demonstrators offered little or no resistance to the police",
+              "full_vn": "những người biểu tình ít hoặc không kháng cự lại cảnh sát"
+            },
+            {
+              "full_en": "the factory had to overcome its resistance to new technology",
+              "full_vn": "nhà máy phải khắc phục tình trạng chống lại việc áp dụng công nghệ mới"
+            },
+            {
+              "full_en": "a low wind resistance",
+              "full_vn": "sức cản gió thấp (trong khí động học)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) điện trở",
+          "list_en_vn": [
+            {
+              "full_en": "resistance box",
+              "full_vn": "hộp điện trở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chịu đựng; sức đề kháng",
+          "list_en_vn": [
+            {
+              "full_en": "to build up (a ) resistance to infection",
+              "full_vn": "tạo sức đề kháng chống lại bệnh truyền nhiễm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Resistance ) phong trào kháng chiến",
+          "list_en_vn": [
+            {
+              "full_en": "a resistance war",
+              "full_vn": "cuộc kháng chiến"
+            },
+            {
+              "full_en": "a resistance fighter",
+              "full_vn": "chiến sĩ của phong trào kháng chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đối kháng",
+          "list_en_vn": [
+            {
+              "full_en": "market resistance",
+              "full_vn": "tình trạng thị trường không chấp nhận (một sản phẩm mới trên thị trường)"
+            },
+            {
+              "full_en": "to make , offer , put up resistance to administrative reforms",
+              "full_vn": "chống lại những cải cách hành chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính chống, sức bền, độ chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take the line of least resistance",
+              "list_im": [
+                {
+                  "im_full_vn": "chọn con đường dễ nhất; chọn phương pháp dễ nhất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "frictional resistance",
+              "full_vn": "độ chịu ma sát"
+            },
+            {
+              "full_en": "resistance to corrosion",
+              "full_vn": "tính chống ăn mòn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088955_f4a267a742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088955_ae918a0c6e_o.png",
+      "id_image": "resistance_1772523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396502_7343f7a505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396502_b3051751c7_o.png",
+      "id_image": "resistance_1772526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088870_0d91703781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088870_505ba1534d_o.png",
+      "id_image": "resistance_2529744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706184_2c4f04dd12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706184_dc157ddd36_o.png",
+      "id_image": "resistance_6303517"
+    }
+  ]
+}

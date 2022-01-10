@@ -1,0 +1,83 @@
+{
+  "english": "river",
+  "phat_am": "['rivə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dòng sông",
+          "list_en_vn": [
+            {
+              "full_en": "to sail up the river",
+              "full_vn": "đi thuyền ngược dòng sông"
+            },
+            {
+              "full_en": "to sail down the river",
+              "full_vn": "đi thuyền xuôi dòng sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng chảy tràn ngập, dòng chảy lai láng",
+          "list_en_vn": [
+            {
+              "full_en": "a river of blood",
+              "full_vn": "máu chảy lai láng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ( the river ) ranh giới giữa sự sống với sự chết",
+          "list_en_vn": [
+            {
+              "full_en": "to cross the river",
+              "full_vn": "qua sông; (nghĩa bóng) chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) sông",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sell somebody down the river",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bán rẻ ai, phản bội ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "river port",
+              "full_vn": "cảng sông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390037_9b8c9f608d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390037_a6ea879636_o.png",
+      "id_image": "river_1566600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700279_bd9d8a2e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700279_da0bb8e644_o.png",
+      "id_image": "river_390815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082550_44dd058088_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082550_f07362e112_o.png",
+      "id_image": "river_5132879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390072_feea7bba21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390072_77dd075d25_o.png",
+      "id_image": "river_642120"
+    }
+  ]
+}

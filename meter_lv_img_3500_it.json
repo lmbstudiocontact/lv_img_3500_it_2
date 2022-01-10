@@ -1,0 +1,87 @@
+{
+  "english": "meter",
+  "phat_am": "['mi:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ đo; đồng hồ",
+          "list_en_vn": [
+            {
+              "full_en": "exposure meter",
+              "full_vn": "đồng hồ đo độ phơi sáng (để đo tấm phim chụp cần phải phơi sáng bao lâu)"
+            },
+            {
+              "full_en": "electricity meter",
+              "full_vn": "đồng hồ đo lượng điện sử dụng; điện kế"
+            },
+            {
+              "full_en": "water meter",
+              "full_vn": "đồng hồ đo lượng nước sử dụng; thủy kế"
+            },
+            {
+              "full_en": "parking-meter",
+              "full_vn": "máy tính tiền đỗ xe (đồng hồ để bỏ tiền vào trả cho việc đỗ xe trong một thời gian nào đó)"
+            },
+            {
+              "full_en": "fares mounting up on the meter",
+              "full_vn": "tiền xe tăng lên trên đồng hồ đo (trên đồng hồ tính tiền của xe tắc xi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đo (bằng đồng hồ)"
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ đo; đồng hồ",
+          "list_en_vn": [
+            {
+              "full_en": "thermometer",
+              "full_vn": "nhiệt kế"
+            },
+            {
+              "full_en": "amperemeter",
+              "full_vn": "am pe kế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhịp thơ có số âm tiết nhất định",
+          "list_en_vn": [
+            {
+              "full_en": "pentameter",
+              "full_vn": "năm âm tiết"
+            },
+            {
+              "full_en": "hexameter",
+              "full_vn": "sáu âm tiết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390182_bf5e079c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390182_151dc2e483_o.png",
+      "id_image": "meter_1035466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345176_c0a6d0b386_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345176_a6a62c53dc_o.png",
+      "id_image": "meter_3468185"
+    }
+  ]
+}

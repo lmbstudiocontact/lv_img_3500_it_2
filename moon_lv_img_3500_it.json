@@ -1,0 +1,126 @@
+{
+  "english": "moon",
+  "phat_am": "[mu:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt trăng",
+          "list_en_vn": [
+            {
+              "full_en": "new moon",
+              "full_vn": "trăng non"
+            },
+            {
+              "full_en": "full moon",
+              "full_vn": "trăng tròn; trăng rằm"
+            },
+            {
+              "full_en": "crescent moon",
+              "full_vn": "trăng lưỡi liềm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ánh trăng"
+        },
+        {
+          "m_full_vn": "(thơ ca) tháng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cry for the moon",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cry"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the moon",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) dọn nhà đi trong đêm tối để tránh trả tiền nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "many moons ago",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây rất lâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once in a blue moon",
+              "list_im": [
+                {
+                  "im_full_vn": "rất hiếm, ít khi, năm thì mười hoạ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I see her once in a blue moon",
+                      "full_vn": "năm thì mười hoạ tôi mới gặp cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the man in the moon",
+              "list_im": [
+                {
+                  "im_full_vn": "chú cuội, người mơ mộng vơ vẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be over the moon at something",
+              "list_im": [
+                {
+                  "im_full_vn": "sung sướng vô ngần về điều gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( + about , around... )",
+      "list_m": [
+        {
+          "m_full_vn": "đi lang thang vơ vẩn"
+        },
+        {
+          "m_full_vn": "có vẻ mặt thờ thẫn như ở cung trăng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to moon away the time thờ thẫn ra vào hết ngày"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073810_7daf68106f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073810_a6e17ac590_o.png",
+      "id_image": "moon_167317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073770_20b4c80fee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073770_9958765725_o.png",
+      "id_image": "moon_178534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692014_fb4eedb2c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692014_d31425abdf_o.png",
+      "id_image": "moon_433842"
+    }
+  ]
+}

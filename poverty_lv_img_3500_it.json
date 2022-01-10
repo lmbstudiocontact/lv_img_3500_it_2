@@ -1,0 +1,79 @@
+{
+  "english": "poverty",
+  "phat_am": "['pɔvəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảnh nghèo nàn, cảnh bần cùng",
+          "list_en_vn": [
+            {
+              "full_en": "live in poverty",
+              "full_vn": "sống trong cảnh nghèo nàn"
+            },
+            {
+              "full_en": "to be reduced to extreme poverty",
+              "full_vn": "lâm vào cảnh bần cùng cơ cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự nghèo nàn, sự thiếu thốn (vật chất); sự thấp kém, sự nghèo nàn (tinh thần)",
+          "list_en_vn": [
+            {
+              "full_en": "a great poverty of ideas",
+              "full_vn": "tình trạng hết sức nghèo nàn về tư tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng thấp kém, chất lượng nghèo nàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "grinding poverty",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh nghèo cùng cực gây ra đau khổ (như) grinding"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the poverty of the soil",
+              "full_vn": "tình trạng đất cằn cỗi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068275_6420cc3e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068275_5cc34b2c82_o.png",
+      "id_image": "poverty_4244631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331491_27019a53de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331491_42bac1560c_o.png",
+      "id_image": "poverty_4797116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686474_81513146e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686474_0f7bce7663_o.png",
+      "id_image": "poverty_5256487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376172_11f0252f26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376172_cf46183e7a_o.png",
+      "id_image": "poverty_5256571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376097_3ddcbf2f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376097_beb001052a_o.png",
+      "id_image": "poverty_5256607"
+    }
+  ]
+}

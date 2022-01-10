@@ -1,0 +1,109 @@
+{
+  "english": "rich",
+  "phat_am": "[rit∫]",
+  "list_type": [
+    {
+      "type": "tính từ (so sánh)",
+      "list_m": [
+        {
+          "m_full_vn": "giàu, giàu có, có nhiều tiền, có của cải",
+          "list_en_vn": [
+            {
+              "full_en": "a rich film star",
+              "full_vn": "một ngôi sao điện ảnh giàu có"
+            },
+            {
+              "full_en": "as rich as Croesus ; as rich as a Jew",
+              "full_vn": "rất giàu, giàu như Thạch Sùng Vương Khải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dồi dào, phong phú, có nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "a rich harvest",
+              "full_vn": "một vụ thu hoạch tốt"
+            },
+            {
+              "full_en": "a rich library",
+              "full_vn": "một thư viện phong phú"
+            },
+            {
+              "full_en": "rich vegetation",
+              "full_vn": "cây cối sum sê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẹp đẽ, tráng lệ, lộng lẫy, đắt tiền, quý giá (quần áo, đồ đạc...)",
+          "list_en_vn": [
+            {
+              "full_en": "a rich building",
+              "full_vn": "toà nhà đẹp lộng lẫy"
+            },
+            {
+              "full_en": "a rich dress",
+              "full_vn": "cái áo lộng lẫy"
+            },
+            {
+              "full_en": "a rich present",
+              "full_vn": "món tặng phẩm quý giá lộng lẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bổ, ngậy, béo (đồ ăn); đậm đà, ngon, nồng (rượu)",
+          "list_en_vn": [
+            {
+              "full_en": "rich food",
+              "full_vn": "thức ăn béo bổ"
+            },
+            {
+              "full_en": "rich wine",
+              "full_vn": "rượu vang đậm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắm, phong phú (màu sắc); ấm áp, trầm (giọng); thơm ngát, đượm (mùi)"
+        },
+        {
+          "m_full_vn": "rất hay, rất vui; rất buồn cười; không chê được (chuyện)",
+          "list_en_vn": [
+            {
+              "full_en": "that is rich !",
+              "full_vn": "thật vui không chê được!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "( the rich ) những người giàu",
+          "list_en_vn": [
+            {
+              "full_en": "take from the rich and give to the poor",
+              "full_vn": "lấy của người giàu đem cho người nghèo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462008_3d806a9c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462008_404892878b_o.png",
+      "id_image": "rich_1674930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084650_b2efd68f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084650_78cac12857_o.png",
+      "id_image": "rich_983008"
+    }
+  ]
+}

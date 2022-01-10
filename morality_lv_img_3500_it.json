@@ -1,0 +1,59 @@
+{
+  "english": "morality",
+  "phat_am": "[mə'ræliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đạo đức; đạo lý; đạo nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "matters of public /private morality",
+              "full_vn": "những vấn đề đạo đức chung/cá nhân"
+            },
+            {
+              "full_en": "standards of morality",
+              "full_vn": "các chuẩn mực đạo đức"
+            },
+            {
+              "full_en": "to discuss the morality of abortion",
+              "full_vn": "bàn về tính đạo lý của việc phá thai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ thống đạo đức riêng; đạo; giáo lý",
+          "list_one_mean": [
+            {
+              "id_full_en": "morality play",
+              "list_im": [
+                {
+                  "im_full_vn": "thể loại kịch rất phổ biến ở thế kỷ 15 và 16, dạy cách xử thế có phân định cái thiện và cái ác; kịch luân lý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Muslim , Hindu , Christian morality",
+              "full_vn": "giáo lý đạo Hồi, Ấn độ giáo, Cơ đốc giáo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381457_d56b6eb3e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381457_8af9a79041_o.png",
+      "id_image": "morality_3062487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336426_eb9d6f0f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336426_2c5655e169_o.png",
+      "id_image": "morality_6203283"
+    }
+  ]
+}

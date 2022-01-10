@@ -1,0 +1,140 @@
+{
+  "english": "patch",
+  "phat_am": "[pæt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miếng vá, miếng đắp"
+        },
+        {
+          "m_full_vn": "miếng băng, miếng thuốc cao (đắp vết thương...)"
+        },
+        {
+          "m_full_vn": "miếng che (mắt bị thương)"
+        },
+        {
+          "m_full_vn": "nốt ruồi giả (để tô điểm trên mặt)"
+        },
+        {
+          "m_full_vn": "miếng, khoảng đất nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a patch of potatoes",
+              "full_vn": "một đám (mảnh) khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mảng, vết, đốm lớn"
+        },
+        {
+          "m_full_vn": "mảnh thừa, mảnh vụn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to strike a bad patch",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp vận bỉ, gặp lúc không may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not a patch on",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không mùi gì khi đem so sánh với, không thấm gót khi đem so sánh với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bad patch",
+              "list_im": [
+                {
+                  "im_full_vn": "một thời kỳ đặc biệt khó khăn, bất hạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not be a patch on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "kém; không tốt bằng ai/cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vá, đắp; sửa (quần áo)",
+          "list_en_vn": [
+            {
+              "full_en": "to patch a tyre",
+              "full_vn": "vá một cái lốp"
+            },
+            {
+              "full_en": "patch up an old pair of jeans",
+              "full_vn": "vá một chiếc quần bò cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng để vá, làm miếng vá (cho cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "it will patch the hole well enough",
+              "full_vn": "miếng đó đủ để vá cho cái lỗ thủng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ráp, nối (các mảnh, các mấu vào với nhau)"
+        },
+        {
+          "m_full_vn": "hiện ra từng mảng lốm đốm, loang lổ (trên vật gì)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to patch up",
+              "list_im": [
+                {
+                  "im_full_vn": "vá víu, sửa chữa qua loa"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) dàn xếp; dàn xếp qua loa, giải quyết tạm thời (một vụ bất hoà...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683734_f01afbbd0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683734_721c47b612_o.png",
+      "id_image": "patch_401554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065495_f0476093b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065495_02ff8b3657_o.png",
+      "id_image": "patch_4299245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065430_450dc6b816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065430_9e3f543a3c_o.png",
+      "id_image": "patch_4539324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065370_2ff98098f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065370_9307677df0_o.png",
+      "id_image": "patch_6147341"
+    }
+  ]
+}

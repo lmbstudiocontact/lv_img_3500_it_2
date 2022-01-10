@@ -1,0 +1,85 @@
+{
+  "english": "rinse",
+  "phat_am": "[rins]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rửa (cái gì) nhẹ nhàng, qua loa"
+        },
+        {
+          "m_full_vn": "súc; dội; rửa; giũ (loại bỏ chất bẩn.. khỏi cái gì bằng nước)",
+          "list_en_vn": [
+            {
+              "full_en": "to rinse out one's mouth",
+              "full_vn": "súc miệng"
+            },
+            {
+              "full_en": "to rinse one's hands",
+              "full_vn": "rửa tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + down ) (thông tục) chiêu; uống sau khi ăn cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a sandwich and a glass of beer to rinse down",
+              "full_vn": "một chiếc bánh xan-đúyt và một cốc bia để chiêu"
+            },
+            {
+              "full_en": "to rinse food down with some tea",
+              "full_vn": "uống một ít nước chè để nuốt trôi đồ ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + out ) súc; giũ, tẩy bỏ cái bẩn.. khỏi cái gì bằng nước"
+        },
+        {
+          "m_full_vn": "nhuộm (tóc)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rửa, sự súc, sự rội, sự tráng.."
+        },
+        {
+          "m_full_vn": "dung dịch để nhuộm tóc, dung dịch để chăm sóc tóc",
+          "list_en_vn": [
+            {
+              "full_en": "a blue rinse",
+              "full_vn": "thuốc nhuộm tóc màu lam"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391092_78299711d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391092_b789ea5763_o.png",
+      "id_image": "rinse_1415738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083520_c16ae1c5ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083520_0c434e17e9_o.png",
+      "id_image": "rinse_2654602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460808_24b15537b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460808_7fe8b024c4_o.png",
+      "id_image": "rinse_2780619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346136_566b4059d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346136_00c3bbc148_o.png",
+      "id_image": "rinse_525824"
+    }
+  ]
+}

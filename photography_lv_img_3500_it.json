@@ -1,0 +1,46 @@
+{
+  "english": "photography",
+  "phat_am": "[fə'tɔgrəfi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuật nhiếp ảnh, thuật chụp ảnh; sự chụp ảnh; nghề nhiếp ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "still photography",
+              "full_vn": "nghệ thuật chụp ảnh tĩnh vật"
+            },
+            {
+              "full_en": "colour /black and white photography",
+              "full_vn": "nghệ thuật chụp ảnh màu/đen trắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349261_913d73dfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349261_f0c6bda8e3_o.png",
+      "id_image": "photography_2389249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463933_a00f24865d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463933_313581a881_o.png",
+      "id_image": "photography_2450937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703969_e81d8017d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703969_185e4769ee_o.png",
+      "id_image": "photography_250583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393992_534a5870d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393992_4eab81b2bf_o.png",
+      "id_image": "photography_5683958"
+    }
+  ]
+}

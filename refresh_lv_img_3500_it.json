@@ -1,0 +1,59 @@
+{
+  "english": "refresh",
+  "phat_am": "[ri'fre∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm khoẻ người, làm tỉnh táo",
+          "list_en_vn": [
+            {
+              "full_en": "to refresh oneself with a cup of tea ; to refresh oneself with a hot bath",
+              "full_vn": "uống một chén trà cho tỉnh người lại; tắm nước nóng cho tỉnh người lại"
+            },
+            {
+              "full_en": "she felt refreshed after her sleep",
+              "full_vn": "sau giấc ngủ, cô ấy cảm thấy khoẻ khoắn lại"
+            },
+            {
+              "full_en": "a cool refreshing breeze",
+              "full_vn": "cơn gió mát làm cho người ta cảm thấy khoan khoái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khều (ngọn lửa); nạp (điện) lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to refresh one's / somebody's memory (about somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "tự nhớ lại hoặc làm ai nhớ lại các sự việc bằng cách dựa vào các ghi chép...; gợi nhớ lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Just refresh my memory : Were you born in New York?",
+                      "full_vn": "Hãy nhắc tôi nhớ lại : Anh sinh ở York phải không?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067705_ecb4f9f655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067705_0d7eb198be_o.png",
+      "id_image": "refresh_1041986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067660_bcde2b1577_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067660_3c7a525f50_o.png",
+      "id_image": "refresh_1295488"
+    }
+  ]
+}

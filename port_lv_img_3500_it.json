@@ -1,0 +1,139 @@
+{
+  "english": "port",
+  "phat_am": "[pɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảng",
+          "list_en_vn": [
+            {
+              "full_en": "a naval port",
+              "full_vn": "quân cảng"
+            },
+            {
+              "full_en": "a fishing port",
+              "full_vn": "cảng đánh cá"
+            },
+            {
+              "full_en": "close port",
+              "full_vn": "cảng ở cửa sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành phố cảng",
+          "list_en_vn": [
+            {
+              "full_en": "the port authorities",
+              "full_vn": "(thuộc ngữ) các nhà chức trách điều hành cảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi ẩn náu; nơi tỵ nạn"
+        },
+        {
+          "m_full_vn": "( Ê-cốt) cổng thành"
+        },
+        {
+          "m_full_vn": "(hàng hải) cửa tàu (để ra vào, bốc xếp hàng hoá...); (hàng không) cửa khẩu",
+          "list_en_vn": [
+            {
+              "full_en": "an airport",
+              "full_vn": "sân bay (phi cảng)"
+            },
+            {
+              "full_en": "a port of entry",
+              "full_vn": "cảng nhập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải), (hàng không) như porthole"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) lỗ thông hơi, thông gió, hút nước, tháo nước"
+        },
+        {
+          "m_full_vn": "đầu cong của hàm thiếc (ngựa)"
+        },
+        {
+          "m_full_vn": "dáng, bộ dạng, tư thế"
+        },
+        {
+          "m_full_vn": "(quân sự) tư thế cầm chéo súng (để khám)"
+        },
+        {
+          "m_full_vn": "rượu pooctô, rượu vang đỏ ngọt nặng (ở Bồ Đào Nha) (như) port wine ; cốc rượu pooctô"
+        },
+        {
+          "m_full_vn": "(hàng hải) mạn trái (tàu); (hàng không) cánh trái (máy bay)",
+          "list_en_vn": [
+            {
+              "full_en": "to put the helm to port",
+              "full_vn": "quay bánh lái sang trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) trái, bên trái",
+          "list_one_mean": [
+            {
+              "id_full_en": "any port in a storm",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) méo mó có hơn không, chết đuối vớ được cọc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "on the port bow",
+              "full_vn": "ở mạn trái đằng mũi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) cầm chéo (súng, để khám)",
+          "list_en_vn": [
+            {
+              "full_en": "port arms !",
+              "full_vn": "chuẩn bị khám súng!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) quay (bánh lái...) sang trái"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lái sang phía trái (tàu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380067_8215608a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380067_40bac66471_o.png",
+      "id_image": "port_1201819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335046_7e83aaf521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335046_607c11c015_o.png",
+      "id_image": "port_403165"
+    }
+  ]
+}

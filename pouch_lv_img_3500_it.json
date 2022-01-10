@@ -1,0 +1,82 @@
+{
+  "english": "pouch",
+  "phat_am": "[paut∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "túi nhỏ, bao nhỏ (nhất là bằng da)",
+          "list_en_vn": [
+            {
+              "full_en": "a tobacco-pouch",
+              "full_vn": "túi đựng thuốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mọng mắt (phía dưới mắt của người ốm)"
+        },
+        {
+          "m_full_vn": "(quân sự) túi đạn (bằng da)"
+        },
+        {
+          "m_full_vn": "(động vật học) túi (của con cái để mang con; con can-gu-ru..), túi (ở trong má) một vài loại gặm nhấm (đề dự trữ thức ăn)"
+        },
+        {
+          "m_full_vn": "(thực vật học) khoang túi; vỏ quả"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) túi tiền, hầu bao"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho vào túi, bỏ túi"
+        },
+        {
+          "m_full_vn": "(từ lóng) đãi tiền diêm thuốc, cho tiền"
+        },
+        {
+          "m_full_vn": "làm (một bộ phận của áo) thõng xuống như túi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thõng xuống như túi (một bộ phận của áo)"
+        },
+        {
+          "m_full_vn": "có dạnh túi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447023_34aa62510a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447023_9a02395bf5_o.png",
+      "id_image": "pouch_1037916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376712_82e1519338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376712_4931705121_o.png",
+      "id_image": "pouch_5362148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331931_6d38db94c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331931_0aae3771c1_o.png",
+      "id_image": "pouch_5485741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376822_4357b8bedc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376822_b949bebbbb_o.png",
+      "id_image": "pouch_649073"
+    }
+  ]
+}

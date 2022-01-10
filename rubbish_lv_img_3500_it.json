@@ -1,0 +1,77 @@
+{
+  "english": "rubbish",
+  "phat_am": "['rʌbi∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật bỏ đi, rác rưởi",
+          "list_en_vn": [
+            {
+              "full_en": "a rubbish bin",
+              "full_vn": "thùng rác"
+            },
+            {
+              "full_en": "\"shoot no rubbish \"",
+              "full_vn": "\"cấm đổ rác\""
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bã, phần vứt đi"
+        },
+        {
+          "m_full_vn": "vật vô giá trị, người vô giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "a good riddance of bad rubbish",
+              "full_vn": "sự tống khứ một người mình ghét, sự tống khứ được một kẻ khó chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý kiến bậy bạ, chuyện vô lý ngớ ngẩn, chuyện nhảm nhí",
+          "list_en_vn": [
+            {
+              "full_en": "to talk rubbish",
+              "full_vn": "nói bậy nói bạ"
+            },
+            {
+              "full_en": "oh , rubbish !",
+              "full_vn": "vô lý!, nhảm nào!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) tiền"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chê bai, coi thường"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077475_6221f2e91b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077475_491a179094_o.png",
+      "id_image": "rubbish_2371992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455068_27eda7a780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455068_2645c9ea21_o.png",
+      "id_image": "rubbish_2372010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455023_50eea1e441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455023_89bbcc6d72_o.png",
+      "id_image": "rubbish_5848282"
+    }
+  ]
+}

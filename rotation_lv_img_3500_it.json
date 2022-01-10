@@ -1,0 +1,56 @@
+{
+  "english": "rotation",
+  "phat_am": "[rou'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quay, sự xoay vòng; sự bị quay, sự bị xoay vòng",
+          "list_en_vn": [
+            {
+              "full_en": "the rotation of the earth",
+              "full_vn": "sự quay của quả đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự luân phiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "in rotation",
+              "list_im": [
+                {
+                  "im_full_vn": "lần lượt, luân phiên, kế tiếp nhau đều đặn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the rotation of crops",
+              "full_vn": "sự luân canh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341561_b4797e6a1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341561_18da5ecc6c_o.png",
+      "id_image": "rotation_1558175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386592_4cc89ec4bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386592_ff72f3561a_o.png",
+      "id_image": "rotation_1791994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341601_6048ed0277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341601_e14b23ddeb_o.png",
+      "id_image": "rotation_556718"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "passion",
+  "phat_am": "['pæ∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảm xúc mạnh mẽ, tình cảm nồng nàn"
+        },
+        {
+          "m_full_vn": "sự giận dữ",
+          "list_en_vn": [
+            {
+              "full_en": "to fly (fall , get ) into a passion",
+              "full_vn": "nổi giận, nổi tam bành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đam mê (tình dục, tình yêu)",
+          "list_en_vn": [
+            {
+              "full_en": "sexual passion",
+              "full_vn": "tình dục"
+            },
+            {
+              "full_en": "tender passion",
+              "full_vn": "tình yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự say mê; niềm say mê",
+          "list_en_vn": [
+            {
+              "full_en": "to have a passion for something",
+              "full_vn": "say mê cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) ( the Passion ) những nỗi khổ hình của Chúa Giê-xu; bài ca, đoạn kinh thánh thuật lại những nỗi khổ hình của Chúa Giê-xu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) say mê, yêu tha thiết, yêu nồng nàn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374777_90737255c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374777_cfa84f841c_o.png",
+      "id_image": "passion_1935509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330081_f5a1e6809f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330081_18bec7d33c_o.png",
+      "id_image": "passion_4729366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374867_1564e1d29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374867_09d22fcc94_o.png",
+      "id_image": "passion_536902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066960_2a25e434ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066960_ff54f5f4a4_o.png",
+      "id_image": "passion_552429"
+    }
+  ]
+}

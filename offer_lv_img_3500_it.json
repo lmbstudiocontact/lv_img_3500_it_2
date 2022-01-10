@@ -1,0 +1,195 @@
+{
+  "english": "offer",
+  "phat_am": "['ɔfə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả giá",
+          "list_en_vn": [
+            {
+              "full_en": "a firm offer",
+              "full_vn": "giá nhất định; chắc giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời đề nghị giúp đỡ; sự tỏ ra sẵn sàng giúp đỡ"
+        },
+        {
+          "m_full_vn": "sự chào hàng"
+        },
+        {
+          "m_full_vn": "lời dạm hỏi, lời ướm, lời mời chào",
+          "list_one_mean": [
+            {
+              "id_full_en": "be open to (an ) offer /offers",
+              "list_im": [
+                {
+                  "im_full_vn": "như open"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on offer",
+              "list_im": [
+                {
+                  "im_full_vn": "để bán giảm giá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "or nearest offer",
+              "list_im": [
+                {
+                  "im_full_vn": "như near"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under offer",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Anh, nghĩa Anh) có người trả giá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "biếu, tặng, dâng, hiến, cúng, tiến",
+          "list_en_vn": [
+            {
+              "full_en": "to offer someone something",
+              "full_vn": "biếu ai cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xung phong (nghĩa bóng), tỏ ý muốn, để lộ ý muốn",
+          "list_en_vn": [
+            {
+              "full_en": "to offer to help somebody",
+              "full_vn": "xung phong, giúp đỡ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra bán, bày ra bán (hàng)"
+        },
+        {
+          "m_full_vn": "giơ ra, chìa ra, đưa ra mời",
+          "list_en_vn": [
+            {
+              "full_en": "to offer a few remarks",
+              "full_vn": "đưa ra một vài câu nhận xét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to offer a plan",
+              "full_vn": "đưa ra một kế hoạch, đề nghị một kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dạm, hỏi, ướm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp; tạo cơ hội",
+          "list_en_vn": [
+            {
+              "full_en": "This job offers prospects of promotion",
+              "full_vn": "Công việc này mở ra nhiều triển vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cúng"
+        },
+        {
+          "m_full_vn": "xảy ra, xảy đến, xuất hiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to offer battle",
+              "list_im": [
+                {
+                  "im_full_vn": "nghênh chiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to offer resistance",
+              "list_im": [
+                {
+                  "im_full_vn": "chống cự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "offer itself /themselves",
+              "list_im": [
+                {
+                  "im_full_vn": "có mặt, xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "offer (sb ) one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "giơ tay ra (để bắt)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "offer one's hand (in marriage )",
+              "list_im": [
+                {
+                  "im_full_vn": "cầu hôn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "as opportunity offers",
+              "full_vn": "khi có dịp (xảy ra)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393522_a988bbabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393522_2589bec7e1_o.png",
+      "id_image": "offer_1110177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393497_6101ceb3dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393497_53e94e704f_o.png",
+      "id_image": "offer_5002109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703329_1106810b23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703329_49d641d640_o.png",
+      "id_image": "offer_5434154"
+    }
+  ]
+}

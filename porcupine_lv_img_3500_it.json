@@ -1,0 +1,47 @@
+{
+  "english": "porcupine",
+  "phat_am": "['pɔ:kjupain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con nhím (thuộc loại gặm nhấm)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) máy chải sợi gai"
+        },
+        {
+          "m_full_vn": "( định ngữ) như con nhím, có lông cứng như nhím",
+          "list_en_vn": [
+            {
+              "full_en": "porcupine fish",
+              "full_vn": "cá nóc nhím"
+            },
+            {
+              "full_en": "porcupine grass",
+              "full_vn": "cỏ nhím"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072225_d9c45ceb1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072225_93a3e10322_o.png",
+      "id_image": "porcupine_2247610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690534_0d8ffca95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690534_611797561f_o.png",
+      "id_image": "porcupine_371943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690519_a66379c940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690519_eb85e658b3_o.png",
+      "id_image": "porcupine_427411"
+    }
+  ]
+}

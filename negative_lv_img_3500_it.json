@@ -1,0 +1,129 @@
+{
+  "english": "negative",
+  "phat_am": "['negətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không; phủ định, phủ nhận, cự tuyệt, phản đối, từ chối; cấm đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to give a negative answer",
+              "full_vn": "trả lời từ chối, trả lời không"
+            },
+            {
+              "full_en": "negative sentence",
+              "full_vn": "câu phủ định"
+            },
+            {
+              "full_en": "negative criticism",
+              "full_vn": "sự phê bình tiêu cực"
+            },
+            {
+              "full_en": "negative evidence",
+              "full_vn": "chứng cớ tiêu cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học), (toán học); (nhiếp ảnh) âm",
+          "list_en_vn": [
+            {
+              "full_en": "negative pole",
+              "full_vn": "cực âm"
+            },
+            {
+              "full_en": "negative sign",
+              "full_vn": "dấu âm"
+            },
+            {
+              "full_en": "negative proof",
+              "full_vn": "bản âm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời từ chối, lời cự tuyệt",
+          "list_en_vn": [
+            {
+              "full_en": "\"No\" is a negative",
+              "full_vn": "\" Không\" là một lời từ chối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền phủ định, quyền phủ nhận, quyền phủ quyết"
+        },
+        {
+          "m_full_vn": "tính tiêu cực",
+          "list_en_vn": [
+            {
+              "full_en": "he is a bundle of negatives",
+              "full_vn": "nó mang nặng tính tiêu cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) số âm"
+        },
+        {
+          "m_full_vn": "(điện học) cực âm"
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) bản âm"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) từ phủ định"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ nhận; phủ định, cự tuyệt, bác bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "experiments negatived that theory",
+              "full_vn": "thực nghiệm đã bác bỏ thuyết đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản đối, chống lại (lời phát biểu)"
+        },
+        {
+          "m_full_vn": "làm thành vô hiệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062270_9ecb3b2fd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062270_9b18d851d2_o.png",
+      "id_image": "negative_2254818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440488_08079789be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440488_c7423a01e2_o.png",
+      "id_image": "negative_4001187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440588_dc58af3f94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440588_a46288278e_o.png",
+      "id_image": "negative_552430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325551_934f43a5b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325551_8061d3d4a6_o.png",
+      "id_image": "negative_655231"
+    }
+  ]
+}

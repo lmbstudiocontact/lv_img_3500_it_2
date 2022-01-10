@@ -1,0 +1,75 @@
+{
+  "english": "restoration",
+  "phat_am": "[,restə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoàn lại, sự trả lại (vật gì mất)"
+        },
+        {
+          "m_full_vn": "sự trở lại, sự được trở lại (chốn cũ, trạng thái cũ); sự phục hồi (sức khoẻ)",
+          "list_en_vn": [
+            {
+              "full_en": "the restoration of health",
+              "full_vn": "sự hồi phục sức khoẻ"
+            },
+            {
+              "full_en": "the restoration of peace",
+              "full_vn": "sự lập lại hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Restoration ) thời kỳ khôi phục chế độ quân chủ (ở Anh, 1660)"
+        },
+        {
+          "m_full_vn": "sự phục hồi, sự khôi phục, tình trạng đưa lại cái gì vào sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "the restoration of old customs",
+              "full_vn": "việc phục hồi các tập quán cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc trùng tu, phục chế, sự phục hồi hoàn toàn (một toà nhà.. đã bị đổ nát)",
+          "list_en_vn": [
+            {
+              "full_en": "undergo a lengthy process of restoration",
+              "full_vn": "trải qua một quá trình trùng tu lâu dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sửa chữa, sự tu bổ lại; sự xây dựng lại như cũ",
+          "list_en_vn": [
+            {
+              "full_en": "the castle is largely a restoration",
+              "full_vn": "lâu đài đó phần lớn là xây dựng lại (như) hình dáng ban đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật phục chế lại, hình tạo lại (của một con vật đã tuyệt giống, của một công trình cổ xưa..)"
+        },
+        {
+          "m_full_vn": "sự phục hồi (chức vị...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464883_c1b38a6433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464883_25fb7a6573_o.png",
+      "id_image": "restoration_4127121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350266_8e464e1b34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350266_8d0bd43bff_o.png",
+      "id_image": "restoration_5714958"
+    }
+  ]
+}

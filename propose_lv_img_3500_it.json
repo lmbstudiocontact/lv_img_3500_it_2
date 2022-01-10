@@ -1,0 +1,110 @@
+{
+  "english": "propose",
+  "phat_am": "[prə'pouz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề nghị, đề xuất, đưa ra",
+          "list_en_vn": [
+            {
+              "full_en": "to propose a course of action",
+              "full_vn": "đề xuất một đường lối hành động"
+            },
+            {
+              "full_en": "to propose a motion",
+              "full_vn": "đưa ra một kiến nghị"
+            },
+            {
+              "full_en": "to propose a change",
+              "full_vn": "đề nghị một sự thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy làm mục đích; đặt ra, đề ra (làm mục đích)",
+          "list_en_vn": [
+            {
+              "full_en": "the object I propose to myself",
+              "full_vn": "mục đích tôi đề ra cho bản thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dự định",
+          "list_en_vn": [
+            {
+              "full_en": "I propose an early start /to make an early start /making an early start tomorrow",
+              "full_vn": "tôi dự định ngày mai khởi hành sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đề nghị nâng cốc chúc, đề nghị uống mừng",
+          "list_en_vn": [
+            {
+              "full_en": "to propose someone's health",
+              "full_vn": "đề nghị nâng cốc chúc sức khoẻ ai"
+            },
+            {
+              "full_en": "to propose a toast to the bride and bridegroom",
+              "full_vn": "đề nghị nâng cốc chúc mừng cô dâu và chú rể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to propose somebody for something ; to propose somebody as something ) tiến cử, đề cử",
+          "list_en_vn": [
+            {
+              "full_en": "to propose a candidate",
+              "full_vn": "đưa một người ra ứng cử"
+            },
+            {
+              "full_en": "I propose Mary Davies as a candidate for the chairmanship",
+              "full_vn": "tôi đề cử Mary Davies làm ứng cử viên chức chủ tịch"
+            },
+            {
+              "full_en": "we proposed him for membership of the society",
+              "full_vn": "chúng tôi tiến cử anh ta làm hội viên của hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to propose something to somebody ) cầu hôn",
+          "list_one_mean": [
+            {
+              "id_full_en": "man proposes , God disposes",
+              "list_im": [
+                {
+                  "im_full_vn": "xem disposes"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to propose marriage to someone",
+              "full_vn": "cầu hôn ai"
+            },
+            {
+              "full_en": "he was trying to decide whether he should propose (to her )",
+              "full_vn": "nó đang cố quyết định xem nên cầu hôn (với cô ta) hay không"
+            },
+            {
+              "full_en": "he had proposed marriage , unsuccessfully , twice already",
+              "full_vn": "nó đã cầu hôn thất bại hai lần rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705169_372ed09110_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705169_185baabcc8_o.png",
+      "id_image": "propose_1775689"
+    }
+  ]
+}

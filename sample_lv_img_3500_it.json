@@ -1,0 +1,57 @@
+{
+  "english": "sample",
+  "phat_am": "['sɑ:mpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẫu; vật mẫu, hàng mẫu",
+          "list_en_vn": [
+            {
+              "full_en": "to send something as a sample",
+              "full_vn": "gửi vật gì để làm mẫu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ví dụ tiêu biểu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy mẫu, đưa mẫu; thử",
+          "list_en_vn": [
+            {
+              "full_en": "to sample a new restaurant",
+              "full_vn": "đi ăn thử một quán mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho ví dụ tiêu biểu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450633_9981b781cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450633_31c2356c79_o.png",
+      "id_image": "sample_2114555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335641_71699127c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335641_ba6cc27a4e_o.png",
+      "id_image": "sample_5446624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335616_f72fb9f233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335616_b53686ee2c_o.png",
+      "id_image": "sample_5857171"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "opponent",
+  "phat_am": "[ə'pounənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản đối, đối lập, chống lại"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "địch thủ, đối thủ, kẻ thù",
+          "list_en_vn": [
+            {
+              "full_en": "a political opponent",
+              "full_vn": "đối thủ chính trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460383_ba1961a0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460383_4718f4c628_o.png",
+      "id_image": "opponent_1622537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345581_a50b350764_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345581_6fb675df0d_o.png",
+      "id_image": "opponent_4144468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700689_3a47ee088c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700689_430ed65f84_o.png",
+      "id_image": "opponent_5087858"
+    }
+  ]
+}

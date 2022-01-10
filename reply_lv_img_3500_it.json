@@ -1,0 +1,66 @@
+{
+  "english": "reply",
+  "phat_am": "[ri'plai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả lời, sự hồi âm; câu trả lời, lời đáp, hồi âm",
+          "list_en_vn": [
+            {
+              "full_en": "fail to reply to a question",
+              "full_vn": "không trả lời một câu hỏi"
+            },
+            {
+              "full_en": "in reply to your letter",
+              "full_vn": "để trả lời thư của ông"
+            },
+            {
+              "full_en": "to say in reply",
+              "full_vn": "đáp lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đáp lại, hành động đáp lại"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( replied )",
+      "list_m": [
+        {
+          "m_full_vn": "trả lời (bằng lời nói, viết); đáp lại (bằng một hành động)",
+          "list_en_vn": [
+            {
+              "full_en": "to reply for somebody",
+              "full_vn": "trả lời thay cho ai"
+            },
+            {
+              "full_en": "to reply to the enemy's fire",
+              "full_vn": "bắn trả quân địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678444_11241e525c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678444_6cdb6cf95c_o.png",
+      "id_image": "reply_2921218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059955_cd7fda197e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059955_7ea6850e80_o.png",
+      "id_image": "reply_4542244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368042_811ae71015_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368042_85e4a4e30e_o.png",
+      "id_image": "reply_5511724"
+    }
+  ]
+}

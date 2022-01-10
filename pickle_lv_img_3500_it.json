@@ -1,0 +1,116 @@
+{
+  "english": "pickle",
+  "phat_am": "['pikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưa chua, đồ ngâm",
+          "list_en_vn": [
+            {
+              "full_en": "red cabbage pickle",
+              "full_vn": "bắp cải đỏ dầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước dầm (như) giấm, nước mắm... để ngâm, bảo vệ rau thịt..."
+        },
+        {
+          "m_full_vn": "( số nhiều) các loại rau cải đem ngâm (rau dầm, hoa quả dầm, dưa góp..)",
+          "list_en_vn": [
+            {
+              "full_en": "vegetable pickles",
+              "full_vn": "dưa góp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dung dịch axit để tẩy..."
+        },
+        {
+          "m_full_vn": "hoàn cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a sad pickle",
+              "full_vn": "lâm vào hoàn cảnh đáng buồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứa bé tinh nghịch, đứa trẻ tinh quái"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người quạu cọ, người khó chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "a sad /sorry /nice pickle",
+              "list_im": [
+                {
+                  "im_full_vn": "tình trạng không may"
+                },
+                {
+                  "im_full_vn": "tình trạng hỗn loạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a rod in pickle for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "để sẵn cái roi cho ai một trận đích đáng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dầm, ngâm (củ cải, hành, thịt... vào giấm...); làm dưa",
+          "list_en_vn": [
+            {
+              "full_en": "pickled cabbage",
+              "full_vn": "bắp cải dầm giấm"
+            },
+            {
+              "full_en": "pickled onions",
+              "full_vn": "hành dầm giấm"
+            },
+            {
+              "full_en": "pickled mango",
+              "full_vn": "xoài dầm giấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) xát muối giấm vào (lưng ai) (sau khi đánh đòn)"
+        },
+        {
+          "m_full_vn": "(từ lóng) say"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085580_471c92750a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085580_fb70d05625_o.png",
+      "id_image": "pickle_1411022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393142_6b47960960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393142_02b5ea869f_o.png",
+      "id_image": "pickle_5588946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085610_4b0cdc0891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085610_78314dae1b_o.png",
+      "id_image": "pickle_933232"
+    }
+  ]
+}

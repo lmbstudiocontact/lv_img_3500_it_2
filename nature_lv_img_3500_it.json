@@ -1,0 +1,144 @@
+{
+  "english": "nature",
+  "phat_am": "['neit∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự nhiên, thiên nhiên, tạo hoá",
+          "list_en_vn": [
+            {
+              "full_en": "the struggle with nature",
+              "full_vn": "cuộc đấu tranh với thiên nhiên"
+            },
+            {
+              "full_en": "according to the laws of nature",
+              "full_vn": "theo quy luật tự nhiên"
+            },
+            {
+              "full_en": "in the course of nature",
+              "full_vn": "theo lẽ thường"
+            },
+            {
+              "full_en": "to draw from nature",
+              "full_vn": "(nghệ thuật) vẽ theo tự nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái tự nhiên; trạng thái nguyên thuỷ"
+        },
+        {
+          "m_full_vn": "tính, bản chất, bản tính",
+          "list_en_vn": [
+            {
+              "full_en": "good nature",
+              "full_vn": "bản chất tốt, tính thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại, thứ",
+          "list_en_vn": [
+            {
+              "full_en": "things of this nature do not interest me",
+              "full_vn": "những cái thuộc loại này không làm cho tôi thích thú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức sống; chức năng tự nhiên; nhu cầu tự nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "to ease (relieve ) nature",
+              "full_vn": "đi ỉa, đi đái; thoả mãn một nhu cầu tự nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhựa (cây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "against (contrary to ) nature",
+              "list_im": [
+                {
+                  "im_full_vn": "phi thường, siêu phàm, kỳ diệu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "debt of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) debt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay one's debt to nature",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) debt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the nature of",
+              "list_im": [
+                {
+                  "im_full_vn": "có tính chất của",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his funeral oration is in the nature of a political speech",
+                      "full_vn": "bài điếu văn của ông ta chẳng khác nào một bài diễn văn chính trị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "second nature to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "bản năng thứ hai đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a call of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "nhu cầu tiểu tiện"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "full of nature",
+              "full_vn": "căng nhựa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327541_5851c694b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327541_f71c0810d9_o.png",
+      "id_image": "nature_4359728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372222_576d2e25eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372222_228975ae72_o.png",
+      "id_image": "nature_4359742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682584_b15fea0afb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682584_147cd3d0b7_o.png",
+      "id_image": "nature_4359947"
+    }
+  ]
+}

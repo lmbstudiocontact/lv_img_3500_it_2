@@ -1,0 +1,40 @@
+{
+  "english": "panorama",
+  "phat_am": "[,pænə'rɑ:mə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "toàn cảnh; bức tranh toàn cảnh; (điện ảnh) cảnh quay lia",
+          "list_en_vn": [
+            {
+              "full_en": "the book presents a panorama of British history since the Middle Ages",
+              "full_vn": "cuốn sách trình bày toàn cảnh lịch sử nước Anh từ thời trung cổ đến nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự hình dung lần lần (sự việc, hình ảnh) trong trí óc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450113_e09f6d4b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450113_2992d1669e_o.png",
+      "id_image": "panorama_305732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072015_0473da1b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072015_6a18c4182f_o.png",
+      "id_image": "panorama_553532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071995_d93489baa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071995_da55d500a4_o.png",
+      "id_image": "panorama_553538"
+    }
+  ]
+}

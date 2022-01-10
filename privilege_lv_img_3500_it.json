@@ -1,0 +1,49 @@
+{
+  "english": "privilege",
+  "phat_am": "['privəlidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặc quyền; đặc lợi (về một tầng lớp, cấp bậc..); đặc quyền đặc lợi"
+        },
+        {
+          "m_full_vn": "đặc ân (tạo cơ hội cho ai, cho ai ân huệ..)"
+        },
+        {
+          "m_full_vn": "quyền được nói, quyền được làm (không sợ bị trừng phạt)",
+          "list_en_vn": [
+            {
+              "full_en": "parliamentary privilege",
+              "full_vn": "quyền đặc miễn tài phán"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho đặc quyền; ban đặc ân (cho ai)"
+        },
+        {
+          "m_full_vn": "miễn (ai) khỏi chịu (gánh nặng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438763_8932e34b7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438763_c72a5ff32e_o.png",
+      "id_image": "privilege_3053782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368587_f061c3c3dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368587_62649acd7e_o.png",
+      "id_image": "privilege_3956768"
+    }
+  ]
+}

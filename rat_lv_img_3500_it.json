@@ -1,0 +1,106 @@
+{
+  "english": "rat",
+  "phat_am": "[ræt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chuột (loại gặm nhấm trông giống (như) chuột, lớn hơn chuột nhắt)"
+        },
+        {
+          "m_full_vn": "người xấu xa đê tiện, người phản bội"
+        },
+        {
+          "m_full_vn": "(chính trị) kẻ phản bội; kẻ phản đảng"
+        },
+        {
+          "m_full_vn": "công nhân không chịu tham gia đình công, người chiếm chỗ làm của công nhân đình công; người chịu nhận tiền lương ít hơn của công đoàn yêu sách",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give somebody rats",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chửi bới ai, la mắng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a drowned rat",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) drown"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a rat in a hole",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng bế tắc không lối thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell a rat",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) smell"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "rats !",
+              "full_vn": "chuyện vô lý! chuyện lếu láo, chuyện tầm bậy!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt chuột, giết chuột"
+        },
+        {
+          "m_full_vn": "(chính trị) bỏ đảng, bỏ hàng ngũ trong lúc khó khăn"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phản bội, bỏ rơi",
+          "list_en_vn": [
+            {
+              "full_en": "to rat on a pal",
+              "full_vn": "phản bạn, bỏ rơi bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không tham gia đình công"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) drat"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338186_ca95767035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338186_2c406ec52c_o.png",
+      "id_image": "rat_1039063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453158_ee01dbbb32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453158_61389bd7a6_o.png",
+      "id_image": "rat_616735"
+    }
+  ]
+}

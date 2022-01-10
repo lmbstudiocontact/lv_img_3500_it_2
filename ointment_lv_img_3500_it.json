@@ -1,0 +1,47 @@
+{
+  "english": "ointment",
+  "phat_am": "['ɔintmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuốc mỡ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the fly in the ointment",
+              "list_im": [
+                {
+                  "im_full_vn": "như fly"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she use ointment for her skin",
+              "full_vn": "cô ta dùng thuốc mỡ bôi da"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084945_1b53cf68d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084945_41227761c7_o.png",
+      "id_image": "ointment_1881222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702354_1d88f45526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702354_1b625c6df9_o.png",
+      "id_image": "ointment_2268992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462383_69557f0547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462383_7ca1aa57fb_o.png",
+      "id_image": "ointment_980035"
+    }
+  ]
+}

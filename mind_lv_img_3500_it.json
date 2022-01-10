@@ -1,0 +1,482 @@
+{
+  "english": "mind",
+  "phat_am": "[maind]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng nhận rõ sự vật, suy nghĩ và cảm giác; tâm trí",
+          "list_en_vn": [
+            {
+              "full_en": "to have the right qualities of mind for the job",
+              "full_vn": "có năng lực rất thích hợp với công việc"
+            },
+            {
+              "full_en": "to have complete peace of mind",
+              "full_vn": "tâm trí hoàn toàn thanh thản"
+            },
+            {
+              "full_en": "mind and body",
+              "full_vn": "tinh thần và thể xác"
+            },
+            {
+              "full_en": "to be sound in mind and body",
+              "full_vn": "có tinh thần minh mẫn và thân thể tráng kiện"
+            },
+            {
+              "full_en": "to have complete peace of mind",
+              "full_vn": "tâm trí hoàn toàn thanh thản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trí tuệ, trí óc",
+          "list_en_vn": [
+            {
+              "full_en": "to have a brilliant mind",
+              "full_vn": "có trí óc minh mẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ký ức, trí nhớ",
+          "list_en_vn": [
+            {
+              "full_en": "to call (bring ) something to mind",
+              "full_vn": "nhớ lại một cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chú ý; sự chủ tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to keep one's mind on doing something",
+              "full_vn": "chuyên tâm làm điều gì"
+            },
+            {
+              "full_en": "to give one's mind to something",
+              "full_vn": "chuyên tâm vào điều gì"
+            },
+            {
+              "full_en": "don't let your mind wander !",
+              "full_vn": "đừng suy nghĩ mông lung!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý kiến, ý nghĩ, ý định",
+          "list_one_mean": [
+            {
+              "id_full_en": "a meeting of minds",
+              "list_im": [
+                {
+                  "im_full_vn": "xem meeting"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in two minds about something",
+              "list_im": [
+                {
+                  "im_full_vn": "phân vân/lưỡng lự về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be of somebody's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý/nhất trí với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I am of his mind",
+                      "full_vn": "tôi đồng ý với nó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out of one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a man of unsound mind",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ điên loạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in one's right mind",
+              "list_im": [
+                {
+                  "im_full_vn": "tỉnh trí; tỉnh táo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear /have /keep something in mind",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi nhớ điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prey on someone's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "giày vò tâm trí ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a load /a weight off somebody's mind ; to ease somebody's mind ; to set somebody's mind at ease",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai thở phào nhẹ nhõm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have something on one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "lo lắng về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to boggle somebody's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai chướng tai gai mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the mind boggles",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó thật chướng tai gai mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close one'mind to something",
+              "list_im": [
+                {
+                  "im_full_vn": "thiếu suy nghĩ nghiêm túc về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come /spring to mind",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về ý tưởng) loé ra; nảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a piece of one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "thẳng thắn phê bình ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go out of one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "bị lãng quên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a great /good mind to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "rất muốn làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have a good mind to visit him",
+                      "full_vn": "tôi muốn đến thăm hắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know one's own mind",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chắc ý định của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have /keep an open mind",
+              "list_im": [
+                {
+                  "im_full_vn": "có đầu óc cởi mở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open one's mind to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tâm sự với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make up one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "quyết định, nhất định; đành phải coi như là không tránh được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make up one's mind to do something",
+                      "full_vn": "quyết định làm việc gì"
+                    },
+                    {
+                      "full_en": "to make up one's mind to some mishap",
+                      "full_vn": "đành chấp nhận rủi ro"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone in mind of someone /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhắc ai nhớ đến ai/điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of sight , out of mind",
+              "list_im": [
+                {
+                  "im_full_vn": "xa mặt cách lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to poison A's mind against B",
+              "list_im": [
+                {
+                  "im_full_vn": "nói xấu B cho A nghe để A ghét B"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "thẳng thắn trình bày ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick in somebody's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "in đậm trong trí nhớ của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to my mind",
+              "list_im": [
+                {
+                  "im_full_vn": "theo tôi nghĩ; theo ý tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn something over in one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "suy ngẫm điều gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to change one's mind",
+              "full_vn": "thay đổi ý kiến"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chú ý; lưu ý; để ý",
+          "list_en_vn": [
+            {
+              "full_en": "mind the step !",
+              "full_vn": "coi chừng cái bậc đấy!"
+            },
+            {
+              "full_en": "mind your head !",
+              "full_vn": "coi chừng va đầu vào đấy!"
+            },
+            {
+              "full_en": "mind the dog !",
+              "full_vn": "hãy dè chừng con chó! (kẻo nó cắn)"
+            },
+            {
+              "full_en": "mind what you are about",
+              "full_vn": "làm gì thì phải để ý vào đó; làm gì thì phải cẩn thận"
+            },
+            {
+              "full_en": "The number-plate is very sharp . Mind you don't cut yourself !",
+              "full_vn": "Biển số bén lắm đấy. Cẩn thận kẻo đứt tay!"
+            },
+            {
+              "full_en": "please mind the phone during my absence",
+              "full_vn": "nhờ anh để ý điện thoại trong lúc tôi đi vắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chăm nom; chăm sóc; trông nom",
+          "list_en_vn": [
+            {
+              "full_en": "to mind the house",
+              "full_vn": "trông nom nhà cửa"
+            },
+            {
+              "full_en": "to mind the cows",
+              "full_vn": "chăm sóc những con bò cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan tâm, bận tâm",
+          "list_en_vn": [
+            {
+              "full_en": "never mind what he says",
+              "full_vn": "đừng bận tâm về những điều nó nói"
+            },
+            {
+              "full_en": "never mind !",
+              "full_vn": "không sao cả!, không hề gì!; đừng bận tâm!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản đối; cảm thấy phiền lòng",
+          "list_one_mean": [
+            {
+              "id_full_en": "mind you ; mind",
+              "list_im": [
+                {
+                  "im_full_vn": "xin anh nhớ kỹ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I don't mind if I do",
+              "list_im": [
+                {
+                  "im_full_vn": "vâng, xin phép ông (đáp lại lời mời nâng cốc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "mind your P's and Q's !",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy thận trọng tí nào!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mind one's step",
+              "list_im": [
+                {
+                  "im_full_vn": "thận trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "mind your own business",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy lo việc của anh đi! (đừng xía vào việc của người khác)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mind out for somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "đề phòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "mind out for daredevil drivers when you cross the road !",
+                      "full_vn": "hãy đề phòng những tài xế bạt mạng khi anh đi qua đường!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I wouldn't mind a glass of lemonade",
+              "full_vn": "tôi không phản đối một ly nước chanh (tôi thích một ly nước chanh)"
+            },
+            {
+              "full_en": "do you mind if I smoke ?; do you mind my smoking ?",
+              "full_vn": "tôi hút thuốc không phiền gì anh (chị) chứ?"
+            },
+            {
+              "full_en": "do you mind the noise ?",
+              "full_vn": "tiếng ồn không làm phiền anh chứ?"
+            },
+            {
+              "full_en": "would you mind helping me ?",
+              "full_vn": "anh giúp tôi được chứ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698059_ac3133b270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698059_701cc790db_o.png",
+      "id_image": "mind_1215548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698024_55965f4137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698024_8f38d28abb_o.png",
+      "id_image": "mind_1215563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387737_f9dcfa9e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387737_75ea704418_o.png",
+      "id_image": "mind_1935494"
+    }
+  ]
+}

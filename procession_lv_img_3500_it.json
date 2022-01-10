@@ -1,0 +1,44 @@
+{
+  "english": "procession",
+  "phat_am": "[prə'se∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đám rước, đám diễu hành",
+          "list_en_vn": [
+            {
+              "full_en": "a funeral procession",
+              "full_vn": "đám ma, đám tang"
+            },
+            {
+              "full_en": "the procession moved slowly down the hill",
+              "full_vn": "đám rước từ từ đi xuống chân đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn người tuần tự tiến bước",
+          "list_en_vn": [
+            {
+              "full_en": "a procession of visitors came to the museum",
+              "full_vn": "một đoàn khách lũ lượt kéo đến viện bảo tàng đó"
+            },
+            {
+              "full_en": "the congregation entered the church in procession",
+              "full_vn": "giáo đoàn lũ lượt tiến vào thánh đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438013_a43eeae1e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438013_46f9e5a055_o.png",
+      "id_image": "procession_6000883"
+    }
+  ]
+}

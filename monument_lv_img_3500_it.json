@@ -1,0 +1,69 @@
+{
+  "english": "monument",
+  "phat_am": "['mɔnjumənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật kỷ niệm, đài kỷ niệm, bia kỷ niệm, công trình kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "a monument erected to soldiers killed in the war",
+              "full_vn": "một đài kỷ niệm được dựng lên để tưởng nhớ các chiến sĩ đã hy sinh trong chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toà nhà được bảo tồn vì tầm quan trọng lịch sử của nó đối với một đất nước",
+          "list_en_vn": [
+            {
+              "full_en": "an ancient monument",
+              "full_vn": "một di tích cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( monument to something ) vật nổi tiếng tồn tại như một điều nhắc nhở lâu dài về thành tích, chiến công của ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Monument",
+              "list_im": [
+                {
+                  "im_full_vn": "đài kỷ niệm hoả hoạn (năm 1666) ở Luân-đôn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this whole city is a monument to his skill as a planner and administrator",
+              "full_vn": "cả thành phố này là một chứng tích về tài năng của ông ta, một nhà hoạch định và nhà quản lý"
+            },
+            {
+              "full_en": "a monument of science",
+              "full_vn": "một công trình khoa học bất hủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382162_c846eb6530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382162_cb3d4e1081_o.png",
+      "id_image": "monument_530853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337096_f379e87622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337096_84e431714a_o.png",
+      "id_image": "monument_5368249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451943_7a185657db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451943_52ba44cffa_o.png",
+      "id_image": "monument_5392244"
+    }
+  ]
+}

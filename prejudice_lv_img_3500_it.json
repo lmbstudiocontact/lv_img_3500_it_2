@@ -1,0 +1,96 @@
+{
+  "english": "prejudice",
+  "phat_am": "['predʒudis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ý kiến (thích hoặc không thích) không dựa theo kinh nghiệm hoặc lý lẽ; định kiến, thành kiến, sự thiên kiến",
+          "list_one_mean": [
+            {
+              "id_full_en": "without prejudice (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không có tác động đến quyền lợi hoặc quyền yêu sách hiện tồn; không có gì tổn hại cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the firm agreed to pay compensation without prejudice",
+                      "full_vn": "công ty đồng ý đền bù mà không bị truy cứu (không thừa nhận trách nhiệm (pháp lý))"
+                    },
+                    {
+                      "full_en": "the offer was accepted without prejudice to the current pay negotiations",
+                      "full_vn": "hàng biếu được nhận mà không phương hại đến các cuộc thương lượng thanh toán hiện thời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the prejudice of something",
+              "list_im": [
+                {
+                  "im_full_vn": "dẫn đến kết quả là làm hại quyền lợi của ai; làm thiệt hại cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to the prejudice of somebody's rights",
+                      "full_vn": "làm thiệt hại quyền lợi của ai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "colour /racial prejudice",
+              "full_vn": "thành kiến chủng tộc/màu da"
+            },
+            {
+              "full_en": "to have a prejudice against someone",
+              "full_vn": "có thành kiến đối với ai"
+            },
+            {
+              "full_en": "to have a prejudice in favour of someone",
+              "full_vn": "có định kiến thiên về ai"
+            },
+            {
+              "full_en": "To succeed here , you will need to overcome your prejudices",
+              "full_vn": "Anh muốn thành công thì phải khắc phục những định kiến của anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prejudice somebody against / in favour of somebody / something ) làm cho (ai) có định kiến, làm cho (ai) có thành kiến",
+          "list_en_vn": [
+            {
+              "full_en": "the judge told the jury that they must not allow their feelings to prejudice them",
+              "full_vn": "vị quan toà nói với hội đồng xét xử là không được để tình cảm chi phối mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây tổn hại cho (một vụ án, lời yêu sách...); làm yếu",
+          "list_en_vn": [
+            {
+              "full_en": "he prejudiced his claim by demanding too much compensation",
+              "full_vn": "nó làm hại cho yêu sách của nó do đòi hỏi đền bù quá nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373967_4dd68c310b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373967_27eb742933_o.png",
+      "id_image": "prejudice_6174387"
+    }
+  ]
+}

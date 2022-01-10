@@ -1,0 +1,77 @@
+{
+  "english": "runner",
+  "phat_am": "['rʌnə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người (con vật) đang chạy; người (con vật) đang tham dự một cuộc chạy đua",
+          "list_en_vn": [
+            {
+              "full_en": "a long-distance runner",
+              "full_vn": "một đấu thủ chạy cự ly dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đưa tin, người tùy phái (nhất là cho một ngân hàng, một người bán cổ phần chứng khoán)"
+        },
+        {
+          "m_full_vn": "người buôn lậu",
+          "list_en_vn": [
+            {
+              "full_en": "drug-runners",
+              "full_vn": "những người buôn lậu ma túy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải vải để trang trí, thảm trang trí"
+        },
+        {
+          "m_full_vn": "đường rãnh (để đẩy giường, ngăn kéo...)"
+        },
+        {
+          "m_full_vn": "(thực vật học) thực vật thân bò (đâm rễ ra từ thân)"
+        },
+        {
+          "m_full_vn": "dây cáp kéo đồ vật nặng (ở ròng rọc)"
+        },
+        {
+          "m_full_vn": "người phá vỡ vòng vây (như) blockade runner"
+        },
+        {
+          "m_full_vn": "(động vật học) gà nước"
+        },
+        {
+          "m_full_vn": "thớt trên (cối xay bột)"
+        },
+        {
+          "m_full_vn": "vòng trượt"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) con lăn, cái ròng rọc"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) công nhân đầu máy xe lửa"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) cảnh sát, công an (như) Bow-street runner"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383992_f11d3b1c55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383992_77223cd233_o.png",
+      "id_image": "runner_1397159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383947_2dc63c26e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383947_2da83f2e5d_o.png",
+      "id_image": "runner_6040288"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "mentality",
+  "phat_am": "[men'tæliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái tâm lý; tâm tính",
+          "list_en_vn": [
+            {
+              "full_en": "criminal mentality",
+              "full_vn": "tâm lý tội phạm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trí lực",
+          "list_en_vn": [
+            {
+              "full_en": "a woman of poor mentality",
+              "full_vn": "người đàn bà có trí lực kém"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701814_2cf45b2951_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701814_05c13fa004_o.png",
+      "id_image": "mentality_3588609"
+    }
+  ]
+}

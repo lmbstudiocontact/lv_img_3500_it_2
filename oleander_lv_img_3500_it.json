@@ -1,0 +1,27 @@
+{
+  "english": "oleander",
+  "phat_am": "[,ouli'ændə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây trúc đào",
+          "list_en_vn": [
+            {
+              "full_en": "oleander has red or white flowers and hard leaf",
+              "full_vn": "cây trúc đào có những hoa màu đỏ hoặc màu trắng và lá ráp cứng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496823_e19c3f35fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496823_11d0057495_o.png",
+      "id_image": "oleander_4759173"
+    }
+  ]
+}

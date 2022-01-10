@@ -1,0 +1,142 @@
+{
+  "english": "sail",
+  "phat_am": "[seil]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều sail",
+      "list_m": [
+        {
+          "m_full_vn": "buồm; cánh buồm; sự đẩy bằng buồm",
+          "list_en_vn": [
+            {
+              "full_en": "to hoist a sail",
+              "full_vn": "kéo buồm lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (hàng hải) tàu thủy",
+          "list_en_vn": [
+            {
+              "full_en": "a fleet of twenty sails",
+              "full_vn": "một đội tàu gồm 20 chiếc"
+            },
+            {
+              "full_en": "sail ho !",
+              "full_vn": "tàu kia rồi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản hứng gió (ở cánh cối xay gió)"
+        },
+        {
+          "m_full_vn": "quạt gió (trên boong tàu, trên hầm mỏ)"
+        },
+        {
+          "m_full_vn": "chuyến đi bằng thuyền buồm; chuyến du lịch xa có cung đường xác định",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take in sail",
+              "list_im": [
+                {
+                  "im_full_vn": "cuốn buồm lại"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) hạ thấp yêu cầu, bớt tham vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under sail",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo buồm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "set sail (from /to /for ..)",
+              "list_im": [
+                {
+                  "im_full_vn": "căng buồm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a three day sail to get to Brest",
+              "full_vn": "một chuyến đi thuyền ba ngày đến Brest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi tàu thủy, đi thuyền buồm (như) go sailing"
+        },
+        {
+          "m_full_vn": "nhổ neo; xuống tàu"
+        },
+        {
+          "m_full_vn": "đi tàu; vượt"
+        },
+        {
+          "m_full_vn": "chạy bằng buồm, chạy bằng máy (tàu)"
+        },
+        {
+          "m_full_vn": "đi một cách oai vệ ( (thường) nói về đàn bà...)"
+        },
+        {
+          "m_full_vn": "( + across , into , past ) lướt, trôi, lao, liệng (chim, máy..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi trên, chạy trên (biển...)",
+          "list_en_vn": [
+            {
+              "full_en": "he had sailed the sea for many years",
+              "full_vn": "anh ta đã đi biển nhiều năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều khiển, lái (thuyền buồm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sail into",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lao vào (công việc), bắt đầu một cách hăng hái"
+                },
+                {
+                  "im_full_vn": "mắng nhiếc; chỉ trích thậm tệ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452148_2f3485aa1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452148_5932c86379_o.png",
+      "id_image": "sail_1949309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692654_bb835d8c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692654_10f0ea3abf_o.png",
+      "id_image": "sail_859139"
+    }
+  ]
+}

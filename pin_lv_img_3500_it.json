@@ -1,0 +1,221 @@
+{
+  "english": "pin",
+  "phat_am": "[pin]",
+  "list_type": [
+    {
+      "type": "danh từ ( PIN )",
+      "list_m": [
+        {
+          "m_full_vn": "(ngân hàng) (viết tắt) của Personal Identification Number (số nhận dạng cá nhân) (như) PIN number )"
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều pins",
+      "list_m": [
+        {
+          "m_full_vn": "đinh ghim, kim gút; vật cài để trang điểm",
+          "list_en_vn": [
+            {
+              "full_en": "a diamond pin",
+              "full_vn": "ghim kim cương"
+            },
+            {
+              "full_en": "a tie-pin",
+              "full_vn": "cái ghim cài cà vạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấu, chốt, ghim, kẹp, cặp (bằng gỗ, kim loại)",
+          "list_en_vn": [
+            {
+              "full_en": "a 2-pin plug",
+              "full_vn": "cái phít cắm điện hai chạc"
+            },
+            {
+              "full_en": "a hairpin",
+              "full_vn": "cái cặp tóc"
+            },
+            {
+              "full_en": "a clothes-pin",
+              "full_vn": "(từ Mỹ, nghĩa Mỹ) cái kẹp quần áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chốt an toàn (như) safety pin"
+        },
+        {
+          "m_full_vn": "con ky (trong trò chơi ky)"
+        },
+        {
+          "m_full_vn": "ống"
+        },
+        {
+          "m_full_vn": "trục (đàn)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) chân, cẳng",
+          "list_en_vn": [
+            {
+              "full_en": "to be quick on one's pins",
+              "full_vn": "nhanh chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thùng nhỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "I don't care a pin",
+              "list_im": [
+                {
+                  "im_full_vn": "như care"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a merry pin",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) vui vẻ, phấn khởi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pins and needles",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm giác tê tê buồn buồn, cảm giác như có kiến bò",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have pins and needles in one's legs",
+                      "full_vn": "có cảm giác như kiến bò ở chân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on pins and needles",
+              "list_im": [
+                {
+                  "im_full_vn": "bồn chồn (bứt rứt) như ngồi phải gai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for two pins",
+              "list_im": [
+                {
+                  "im_full_vn": "có rất ít sự thuyết phục, khiêu khích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hear a pin drop",
+              "list_im": [
+                {
+                  "im_full_vn": "như hear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on one's pin",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khi đang đứng, đi bộ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up , together ) ghim, găm, cặp, kẹp, gắn",
+          "list_en_vn": [
+            {
+              "full_en": "to pin up one's hair",
+              "full_vn": "cặp tóc"
+            },
+            {
+              "full_en": "to pin sheets of paper together",
+              "full_vn": "ghim những tờ giấy vào với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chọc thủng bằng đinh ghim; đâm thủng bằng giáo mác"
+        },
+        {
+          "m_full_vn": "ghìm chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to pin something against the wall",
+              "full_vn": "ghìm chặt ai vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + down ) bắt buộc (ai phải giữ lời hứa...), trói chặt (ai... phải làm gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to pin someone down to a promise",
+              "full_vn": "buộc ai phải giữ lời hứa"
+            },
+            {
+              "full_en": "to pin someone down to a contract",
+              "full_vn": "trói chặt ai phải theo đúng giao kèo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rào quanh bằng chấn song"
+        },
+        {
+          "m_full_vn": "phó thác (trách nhiệm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pin one's faith upon something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem faith"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pin one's hopes",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt hy vọng vào cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701349_db4bcb938b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701349_6d588dd802_o.png",
+      "id_image": "pin_595735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346471_56d9d4e9b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346471_d280621474_o.png",
+      "id_image": "pin_684449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461198_d207f3188e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461198_b8a7bbd592_o.png",
+      "id_image": "pin_709383"
+    }
+  ]
+}

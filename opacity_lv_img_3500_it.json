@@ -1,0 +1,46 @@
+{
+  "english": "opacity",
+  "phat_am": "[ou'pæsiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính mờ đục"
+        },
+        {
+          "m_full_vn": "(vật lý) tính chắn sáng; độ chắn sáng"
+        },
+        {
+          "m_full_vn": "sự tối nghĩa (của một từ)"
+        },
+        {
+          "m_full_vn": "sự trì độn",
+          "list_en_vn": [
+            {
+              "full_en": "the opacity of glass",
+              "full_vn": "sự mờ đục của tấm kính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701549_9d9d2ea46d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701549_baab5b272a_o.png",
+      "id_image": "opacity_2135013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346746_16e37f2ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346746_ec11f9ea33_o.png",
+      "id_image": "opacity_681617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346721_60deffc118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346721_5986b88e1a_o.png",
+      "id_image": "opacity_828561"
+    }
+  ]
+}

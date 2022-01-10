@@ -1,0 +1,30 @@
+{
+  "english": "sacrament",
+  "phat_am": "['sækrəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tôn giáo) lễ ban phước; phép bí tích",
+          "list_en_vn": [
+            {
+              "full_en": "the sacraments of baptism , confirmation , confession",
+              "full_vn": "lễ rửa tội, kiên tín, xưng tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the sacrament ) bánh và rượu cúng trong lễ ban thánh thể; lễ ban thánh thể; thánh lễ (như) the Blessed Sacrament , the Holy Sacrament"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452913_aaee4dd263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452913_dc9e5b82be_o.png",
+      "id_image": "sacrament_280026"
+    }
+  ]
+}

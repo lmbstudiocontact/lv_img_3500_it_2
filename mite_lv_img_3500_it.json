@@ -1,0 +1,60 @@
+{
+  "english": "mite",
+  "phat_am": "[mait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "mite of consolation",
+              "full_vn": "một chút an ủi"
+            },
+            {
+              "full_en": "to contribution one's mite to ...",
+              "full_vn": "góp phần nhỏ vào..."
+            },
+            {
+              "full_en": "the widow's mite",
+              "full_vn": "lòng thảo của người nghèo, của ít lòng nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật nhỏ bé; (thân mật) em bé",
+          "list_en_vn": [
+            {
+              "full_en": "poor little mite",
+              "full_vn": "em bé đáng thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) bét, ve"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đồng tiền trinh",
+          "list_one_mean": [
+            {
+              "id_full_en": "not a mite",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không một chút nào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385612_0e34725dc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385612_e6b4f0e520_o.png",
+      "id_image": "mite_1357517"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "reaction",
+  "phat_am": "[ri:'æk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phản tác dụng, sự phản ứng lại",
+          "list_en_vn": [
+            {
+              "full_en": "action and reaction",
+              "full_vn": "tác dụng và phản tác dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý); (hoá học) phản ứng",
+          "list_en_vn": [
+            {
+              "full_en": "catalytic reaction",
+              "full_vn": "phản ứng xúc tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) sự phản động"
+        },
+        {
+          "m_full_vn": "(quân sự) sự phản công, sự đánh trả lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337166_3c04284589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337166_8f9e1dbeeb_o.png",
+      "id_image": "reaction_2161483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382167_4cb716fa6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382167_1fe029cb77_o.png",
+      "id_image": "reaction_4143318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382137_7f1dfdc864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382137_50eafcc487_o.png",
+      "id_image": "reaction_5132587"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "english": "plate",
+  "phat_am": "[pleit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản, tấm kim loại, kính bẹt, mỏng..; (sinh vật học) mảng sừng, xương.. mỏng, dẹt",
+          "list_en_vn": [
+            {
+              "full_en": "steel plates",
+              "full_vn": "các tấm thép (dùng trong chế tạo tàu biển)"
+            },
+            {
+              "full_en": "battery plate",
+              "full_vn": "bản ắc quy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa chất) phiến đá (cứng, lớn tạo nên bề mặt trái đất)",
+          "list_en_vn": [
+            {
+              "full_en": "plate tectonics",
+              "full_vn": "(thuộc ngữ) kiến tạo địa tầng học (nghiên cứu cấu trúc, sự hình thành bề mặt trái đất thông qua các chuyển động của các tầng đá)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biển, bảng (bằng đồng...)",
+          "list_en_vn": [
+            {
+              "full_en": "a brass plate",
+              "full_vn": "biển đồng (ở ngay trên cửa phòng mạch ghi tên bác sĩ phòng mạch đó)"
+            },
+            {
+              "full_en": "number plate",
+              "full_vn": "biển số xe (ô tô...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản khắc kẽm; tranh khắc kẽm, bản đồ khắc kẽm; khuôn in (bằng chì...)"
+        },
+        {
+          "m_full_vn": "tấm kính ảnh, tấm kẽm chụp ảnh (thay cho phim)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) đòn ngang; thanh ngang",
+          "list_en_vn": [
+            {
+              "full_en": "roof plate",
+              "full_vn": "đòn móc"
+            },
+            {
+              "full_en": "window plate",
+              "full_vn": "thanh ngang khung cửa sổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đĩa (để đựng thức ăn); đĩa thức ăn; đĩa tương tự (đựng tiền.. bằng gỗ, kim loại)",
+          "list_en_vn": [
+            {
+              "full_en": "a soup plate",
+              "full_vn": "đĩa súp"
+            },
+            {
+              "full_en": "a plate of beef",
+              "full_vn": "một đĩa thịt bò"
+            },
+            {
+              "full_en": "pass round the plate",
+              "full_vn": "luân chuyển chiếc đĩa quyên tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bát, đĩa.. bằng vàng bạc (dùng tại các bữa ăn); đĩa, bát, cốc.. bằng vàng bạc (dùng trong nhà thờ)"
+        },
+        {
+          "m_full_vn": "đồ mạ (vàng, bạc)",
+          "list_en_vn": [
+            {
+              "full_en": "electroplate",
+              "full_vn": "đồ mạ điện"
+            },
+            {
+              "full_en": "gold /silver plate",
+              "full_vn": "đồ mạ vàng/bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) cúp vàng, cúp bạc (trong đua ngựa); cúp của các cuộc đua ngựa"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) vị trí phát bóng của bên đánh bóng (trong bóng chày)"
+        },
+        {
+          "m_full_vn": "lợi giả (để cắm răng giả) (như) dental plate , denture"
+        },
+        {
+          "m_full_vn": "đường ray (như) plate rail"
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) kính được phủ màng thuốc bắt sáng nhạy",
+          "list_en_vn": [
+            {
+              "full_en": "whole-plate",
+              "full_vn": "tấm kính ảnh cỡ toàn phần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) bát chữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "on one's plate",
+              "list_im": [
+                {
+                  "im_full_vn": "choán thời gian, công sức của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hand /give somebody something on a plate",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trao cho ai cái gì mà không cần bất cứ sự nổ lực nào từ phía anh ta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bọc sắt, bọc kim loại",
+          "list_en_vn": [
+            {
+              "full_en": "to plate a ship",
+              "full_vn": "bọc sắt một chiếc tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạ",
+          "list_en_vn": [
+            {
+              "full_en": "to plate something with gold (silver )",
+              "full_vn": "mạ vàng (bạc) vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) sắp chữ thành bát"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697119_573741e3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697119_503fa6e90d_o.png",
+      "id_image": "plate_3534510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386897_242b00e7c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386897_0cf0134d6a_o.png",
+      "id_image": "plate_6150146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697144_139c24e2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697144_f8f1e47d31_o.png",
+      "id_image": "plate_883743"
+    }
+  ]
+}

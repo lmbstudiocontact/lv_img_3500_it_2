@@ -1,0 +1,58 @@
+{
+  "english": "religion",
+  "phat_am": "[ri'lidʒən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tôn giáo, đạo; sự tín ngưỡng, sự tu hành; niềm tin tôn giáo",
+          "list_en_vn": [
+            {
+              "full_en": "the Christian religion",
+              "full_vn": "đạo Cơ đốc"
+            },
+            {
+              "full_en": "freedom of religion",
+              "full_vn": "tự do tín ngưỡng"
+            },
+            {
+              "full_en": "to enter into religion",
+              "full_vn": "đi tu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sùng bái",
+          "list_en_vn": [
+            {
+              "full_en": "to make a religion of something",
+              "full_vn": "sùng bái cái gì; coi cái gì như là việc có nghĩa vụ phải làm"
+            },
+            {
+              "full_en": "foorball is like a religion for Bill",
+              "full_vn": "đối với Bill, bóng đá là một thứ sùng bái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681704_60361599b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681704_78d724913e_o.png",
+      "id_image": "religion_2367921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063510_d4bb9d0e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063510_ea39b31203_o.png",
+      "id_image": "religion_3053788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441563_9cbe93347c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441563_277d2a3f90_o.png",
+      "id_image": "religion_3995342"
+    }
+  ]
+}

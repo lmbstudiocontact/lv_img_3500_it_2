@@ -1,0 +1,100 @@
+{
+  "english": "remote",
+  "phat_am": "[ri'mout]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở xa cộng đồng nhà cửa, biệt lập; xa xôi; hẻo lánh",
+          "list_en_vn": [
+            {
+              "full_en": "to be remote from the road",
+              "full_vn": "ở cách xa đường cái"
+            },
+            {
+              "full_en": "a remote region /village /farmhouse",
+              "full_vn": "khu vực/làng/ngôi nhà hẻo lánh"
+            },
+            {
+              "full_en": "in the remotest parts of Africa",
+              "full_vn": "ở những nơi hẻo lánh nhất của châu Phi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xa về mối quan hệ, xa về mặt họ hàng",
+          "list_en_vn": [
+            {
+              "full_en": "remote kinsman",
+              "full_vn": "người bà con xa"
+            },
+            {
+              "full_en": "a remote ancestor of mine",
+              "full_vn": "ông tổ lâu đời của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xa xôi về mặt thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "the remote past /future",
+              "full_vn": "trong quá khứ xa xưa/tương lai xa vời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tách biệt (trong cảm xúc, mối quan tâm..); không quan hệ với (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "your comments are rather remote from the subject we are discussing",
+              "full_vn": "những lời nhận xét của anh khá xa rời chủ đề mà chúng ta đang bàn luận"
+            },
+            {
+              "full_en": "remote causes /effects",
+              "full_vn": "các nguyên nhân/tác dụng tách biệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thờ ơ, lãnh đạm, không thân mật (về con người, tính cách của anh ta)"
+        },
+        {
+          "m_full_vn": "nhỏ, một chút",
+          "list_en_vn": [
+            {
+              "full_en": "a remote possibility /chance",
+              "full_vn": "khả năng/cơ hội mong manh"
+            },
+            {
+              "full_en": "I haven't the remotest idea who did it",
+              "full_vn": "tôi không hề có chút ý kiến nào về việc ai đã làm điều đó"
+            },
+            {
+              "full_en": "the connection between the two events is remote",
+              "full_vn": "mối quan hệ giữa hai sự kiện rất là mơ hồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062465_56d5dffc35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062465_c24c174d57_o.png",
+      "id_image": "remote_4170492"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325606_4677448bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325606_e4679350fe_o.png",
+      "id_image": "remote_4752482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370492_ed080ea26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370492_49da5dd2b9_o.png",
+      "id_image": "remote_502587"
+    }
+  ]
+}

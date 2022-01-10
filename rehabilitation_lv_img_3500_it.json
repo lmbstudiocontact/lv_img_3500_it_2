@@ -1,0 +1,37 @@
+{
+  "english": "rehabilitation",
+  "phat_am": "[,ri:ə,bili'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phục hồi hoặc được phục hồi",
+          "list_en_vn": [
+            {
+              "full_en": "The patient's slow rehabilitation",
+              "full_vn": "Sự phục hồi chậm chạp của bệnh nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329356_b98d05aa5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329356_7287f5e7a1_o.png",
+      "id_image": "rehabilitation_2742148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329331_8c293b3fb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329331_8517afec51_o.png",
+      "id_image": "rehabilitation_4812386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684229_f46d4bb6c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684229_200651c241_o.png",
+      "id_image": "rehabilitation_5255872"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "pensive",
+  "phat_am": "['pensiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sâu sắc, trầm ngâm (suy nhĩ)",
+          "list_en_vn": [
+            {
+              "full_en": "a pensive expression",
+              "full_vn": "một vẻ mặt trầm ngâm, đăm chiêu"
+            },
+            {
+              "full_en": "a pensive mood",
+              "full_vn": "một tâm trạng trầm ngâm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366882_f5c6bb7fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366882_7915a0e9ab_o.png",
+      "id_image": "pensive_3362215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677044_7e32770416_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677044_5b862fde07_o.png",
+      "id_image": "pensive_708681"
+    }
+  ]
+}

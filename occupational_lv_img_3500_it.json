@@ -1,0 +1,43 @@
+{
+  "english": "occupational",
+  "phat_am": "[,ɒkju'pei∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "an occupational advice service",
+              "full_vn": "cơ quan tư vấn về nghề nghiệp"
+            },
+            {
+              "full_en": "occupational disease (cũng industrial disease )",
+              "full_vn": "bệnh nghề nghiệp"
+            },
+            {
+              "full_en": "occupational hazard",
+              "full_vn": "nguy cơ nghề nghiệp"
+            },
+            {
+              "full_en": "occupational therapy",
+              "full_vn": "phép điều trị bằng lao động"
+            },
+            {
+              "full_en": "occupational therapist",
+              "full_vn": "chuyên gia điều trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349121_2b185927b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349121_f8422bc6b0_o.png",
+      "id_image": "occupational_1176223"
+    }
+  ]
+}

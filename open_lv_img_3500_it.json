@@ -1,0 +1,679 @@
+{
+  "english": "open",
+  "phat_am": "['oupən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mở, ngỏ",
+          "list_en_vn": [
+            {
+              "full_en": "an open letter",
+              "full_vn": "bức thư ngỏ"
+            },
+            {
+              "full_en": "open eyes",
+              "full_vn": "mắt mở trao tráo; (nghĩa bóng) sự tự giác, ý thức đầy đủ"
+            },
+            {
+              "full_en": "open mouth",
+              "full_vn": "mồm há hốc (âm thanh, ngạc nhiên...); mồm toang toác (nói thẳng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở rộng, không hạn chế; không cấm",
+          "list_en_vn": [
+            {
+              "full_en": "an open competition",
+              "full_vn": "cuộc thi mở rộng cho mọi người"
+            },
+            {
+              "full_en": "an open season",
+              "full_vn": "mùa săn (cho phép săn không cấm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trần, không có mui che; không gói, không bọc",
+          "list_en_vn": [
+            {
+              "full_en": "an open carriage",
+              "full_vn": "xe mui trần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trống, hở, thoáng rộng, lộ ra ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "in the open air",
+              "full_vn": "giữa trời"
+            },
+            {
+              "full_en": "in the open sea",
+              "full_vn": "ở giữa biển khơi"
+            },
+            {
+              "full_en": "an open quarry",
+              "full_vn": "mỏ đá lộ thiên"
+            },
+            {
+              "full_en": "an open field",
+              "full_vn": "đồng không mông quạnh (mênh mông)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông, không bị tắc nghẽn",
+          "list_en_vn": [
+            {
+              "full_en": "an open road",
+              "full_vn": "đường không bị tắc nghẽn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công khai, rõ ràng, ra mắt, không che giấu, ai cũng biết",
+          "list_en_vn": [
+            {
+              "full_en": "an open quarrel",
+              "full_vn": "mối bất hoà công khai"
+            },
+            {
+              "full_en": "open contempt",
+              "full_vn": "sự khinh bỉ ra mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cởi mở, thật tình",
+          "list_en_vn": [
+            {
+              "full_en": "to be open with somebody",
+              "full_vn": "cởi mở với ai"
+            },
+            {
+              "full_en": "an open countenance",
+              "full_vn": "nét mặt cởi mở ngay thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thưa, có lỗ hỏng, có khe hở...",
+          "list_en_vn": [
+            {
+              "full_en": "open ranks",
+              "full_vn": "hàng thưa"
+            },
+            {
+              "full_en": "in open order",
+              "full_vn": "(quân sự) đứng thành hàng thưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chưa giải quyết, chưa xong",
+          "list_en_vn": [
+            {
+              "full_en": "an open question",
+              "full_vn": "vấn đề còn chưa giải quyết, vấn đề còn đang tranh luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rộng rãi, phóng khoáng, sẵn sàng tiếp thu cái mới, không thành kiến",
+          "list_en_vn": [
+            {
+              "full_en": "to have an open hand",
+              "full_vn": "hào phóng, rộng rãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn bỏ trống, chưa ai đảm nhiệm, chưa ai làm...",
+          "list_en_vn": [
+            {
+              "full_en": "the job still open",
+              "full_vn": "công việc đó chưa có ai làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không đóng băng",
+          "list_en_vn": [
+            {
+              "full_en": "the lake is open in May",
+              "full_vn": "vào tháng năm, hồ không đóng băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có trong sương giá, dịu, ấm áp",
+          "list_en_vn": [
+            {
+              "full_en": "an open winter",
+              "full_vn": "một mùa đông không có sương giá"
+            },
+            {
+              "full_en": "open weather",
+              "full_vn": "tiết trời dịu (ấm áp)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở ra cho, có thể bị",
+          "list_en_vn": [
+            {
+              "full_en": "the only course open to him",
+              "full_vn": "con đường duy nhất mở ra cho hắn, con đường duy nhất hắn có thể theo"
+            },
+            {
+              "full_en": "to be open to many objections",
+              "full_vn": "có thể bị phản đối nhiều"
+            },
+            {
+              "full_en": "open to attack",
+              "full_vn": "có thể bị tấn công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) hở",
+          "list_en_vn": [
+            {
+              "full_en": "open circuit",
+              "full_vn": "mạch hở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) quang đãng, không có sương mù"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) mở (âm)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) buông (dây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "be an open secret",
+              "list_im": [
+                {
+                  "im_full_vn": "điều bí mật ai cũng biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be /lay oneself (wide ) open to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ứng xử thế nào để dễ bị chỉ trích.."
+                }
+              ]
+            },
+            {
+              "id_full_en": "be open to offer /offers",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng xem xét giá người mua đưa ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have /keep an open mind (about /on sth )",
+              "list_im": [
+                {
+                  "im_full_vn": "có đầu óc rộng rãi (sẵn sàng tiếp thu cái mới, không thành kiến)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the open air",
+              "list_im": [
+                {
+                  "im_full_vn": "giữa trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep one's ears /eyes open",
+              "list_im": [
+                {
+                  "im_full_vn": "để ý theo dõi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep one's eyes open /peeled /skinned",
+              "list_im": [
+                {
+                  "im_full_vn": "như eye"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep open house",
+              "list_im": [
+                {
+                  "im_full_vn": "ai đến cũng tiếp đãi, rất hiếu khách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep /leave one's options open",
+              "list_im": [
+                {
+                  "im_full_vn": "như option"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep a weather eye open",
+              "list_im": [
+                {
+                  "im_full_vn": "như weather"
+                }
+              ]
+            },
+            {
+              "id_full_en": "leave the door open",
+              "list_im": [
+                {
+                  "im_full_vn": "như leave",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to leave the door open",
+                      "full_vn": "bỏ ngõ cửa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "an open book",
+              "list_im": [
+                {
+                  "im_full_vn": "người dễ thông cảm, rất chân thật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open , Sesame",
+              "list_im": [
+                {
+                  "im_full_vn": "(câu thần chú) Vừng ơi, mở ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open Sesame (to sth )",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếc chìa khoá thần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng được cho ai, có thể dùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "throw sth open (to sb )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai cái gì (ai (cũng) có thể làm được)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wide open",
+              "list_im": [
+                {
+                  "im_full_vn": "như wide"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one's eyes open",
+              "list_im": [
+                {
+                  "im_full_vn": "như eye"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay open",
+              "list_im": [
+                {
+                  "im_full_vn": "như lay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with open arms",
+              "list_im": [
+                {
+                  "im_full_vn": "niềm nở, ân cần"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ ngoài trời, chỗ thoáng mát, chỗ rộng rãi, nơi đồng không mông quạnh",
+          "list_en_vn": [
+            {
+              "full_en": "in the open",
+              "full_vn": "ở ngoài trời, giữa thanh thiên bạch nhật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biển khơi"
+        },
+        {
+          "m_full_vn": "sự công khai"
+        },
+        {
+          "m_full_vn": "chỗ hở, chỗ mở"
+        },
+        {
+          "m_full_vn": "( the open ) (từ Mỹ,nghĩa Mỹ) cuộc thi (điền kinh, thể dục, thể thao...) tranh giải vô địch toàn quốc tế (như) the National Open",
+          "list_one_mean": [
+            {
+              "id_full_en": "bring sth in (to ) the open",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho được nhiều người biết đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the open sea",
+                      "full_vn": "biển khơi"
+                    },
+                    {
+                      "full_en": "the open season",
+                      "full_vn": "mùa săn bắt"
+                    },
+                    {
+                      "full_en": "the Open University",
+                      "full_vn": "trường đại học mở"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mở, bắt đầu, khai mạc",
+          "list_en_vn": [
+            {
+              "full_en": "to open a business",
+              "full_vn": "bắt đầu kinh doanh"
+            },
+            {
+              "full_en": "to open an account",
+              "full_vn": "mở tài khoản"
+            },
+            {
+              "full_en": "to open fire",
+              "full_vn": "bắt đầu bắn, nổ súng"
+            },
+            {
+              "full_en": "to open a shop",
+              "full_vn": "mở cửa hàng"
+            },
+            {
+              "full_en": "to open a road",
+              "full_vn": "mở đường giao thông"
+            },
+            {
+              "full_en": "to open the mind",
+              "full_vn": "mở rộng trí óc"
+            },
+            {
+              "full_en": "to open a prospect",
+              "full_vn": "mở ra một cái nhìn, mở ra một triển vọng"
+            },
+            {
+              "full_en": "to open Parliament",
+              "full_vn": "khai mạc nghị viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổ lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to open one's heart to someone",
+              "full_vn": "thổ lộ tâm tình với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) nhìn thấy, trông thấy",
+          "list_one_mean": [
+            {
+              "id_full_en": "the heavens opened",
+              "list_im": [
+                {
+                  "im_full_vn": "như heaven"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open fire",
+              "list_im": [
+                {
+                  "im_full_vn": "nổ súng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open the floodgates",
+              "list_im": [
+                {
+                  "im_full_vn": "tháo củi xổ lồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open one's heart /mind to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "bày tỏ tâm tình/tâm sự với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open out",
+              "list_im": [
+                {
+                  "im_full_vn": "mở rộng ra, bộc lộ ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open (sth ) up",
+              "list_im": [
+                {
+                  "im_full_vn": "mở ra, khai khẩn, khai phá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "open (sth ) with sth",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu với cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mở cửa",
+          "list_en_vn": [
+            {
+              "full_en": "the shop opens at 8 a .m",
+              "full_vn": "cửa hàng mở cửa từ lúc 8 giờ sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở ra, trông ra",
+          "list_en_vn": [
+            {
+              "full_en": "the room opens on to a lawn",
+              "full_vn": "buồng trông ra bãi cỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu, khai mạc",
+          "list_en_vn": [
+            {
+              "full_en": "the discussion opens upon the economic question",
+              "full_vn": "cuộc thảo luận bắt đầu nói về vấn đề kinh tế"
+            },
+            {
+              "full_en": "the meeting opened yesterday",
+              "full_vn": "buổi họp khai mạc hôm qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nở"
+        },
+        {
+          "m_full_vn": "trông thấy rõ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to open out",
+              "list_im": [
+                {
+                  "im_full_vn": "phơi bày ra, mở ra, mở rộng ra, trải ra"
+                },
+                {
+                  "im_full_vn": "bộc lộ ra, thổ lộ tâm tình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open up",
+              "list_im": [
+                {
+                  "im_full_vn": "mở ra, trải ra"
+                },
+                {
+                  "im_full_vn": "làm cho có thể đến được, làm nhìn thấy được"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bắt đầu"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bắt đầu nổ súng, bắt đầu tấn công"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) khai ra (điều bí mật)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open bowels",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai đi ngoài được, làm cho nhuận tràng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open a debate",
+              "list_im": [
+                {
+                  "im_full_vn": "phát biểu đầu tiên trong một cuộc tranh luận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open the door to",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) door"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open one's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "mở to mắt, tỏ vẻ ngạc nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open someone's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai trố mắt ra; làm cho ai sáng mắt ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open one's shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng ở tư thế sắp đánh một cú bên phải ( crickê)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the harbour light opened",
+              "full_vn": "đèn ở hải cảng đã trông thấy rõ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461503_08d5b9fbc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461503_fdbd7711a8_o.png",
+      "id_image": "open_2742019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391617_7f2a004584_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391617_fbef314c39_o.png",
+      "id_image": "open_3543139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461448_b9e7cd9c85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461448_a60fc38d61_o.png",
+      "id_image": "open_4383420"
+    }
+  ]
+}

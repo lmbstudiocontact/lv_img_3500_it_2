@@ -1,0 +1,86 @@
+{
+  "english": "navigate",
+  "phat_am": "['nævigeit]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tìm vị trí và đánh dấu đường đi của tàu thủy, máy bay, xe hơi... bằng cách dùng bản đồ và dụng cụ; làm hoa tiêu",
+          "list_en_vn": [
+            {
+              "full_en": "Which officer in the ship navigates ?",
+              "full_vn": "Sĩ quan nào ở trên tàu làm hoa tiêu đấy?"
+            },
+            {
+              "full_en": "I'll drive the car : You navigate",
+              "full_vn": "Tôi sẽ cầm lái, còn anh chỉ đường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lái (tàu thủy, máy bay)",
+          "list_en_vn": [
+            {
+              "full_en": "To navigate the tanker round the Cape",
+              "full_vn": "lái tàu chở dầu vòng qua mũi Hảo Vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đem thông qua",
+          "list_en_vn": [
+            {
+              "full_en": "To navigate a bill through Parliament",
+              "full_vn": "đem thông qua một dự luật ở quốc hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lái tàu đi khắp (biển, sông...)",
+          "list_en_vn": [
+            {
+              "full_en": "Who first navigated the Atlantic ?",
+              "full_vn": "Ai là người đầu tiên vượt Đại Tây Dương?"
+            },
+            {
+              "full_en": "The first woman to navigate the Amazon alone",
+              "full_vn": "Người phụ nữ đầu tiên một mình đi thuyền dọc theo sông Amazon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm ra đường của mình xuyên qua, khắp (cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "I don't like having to navigate London's crowded streets",
+              "full_vn": "Tôi không thích phải len lỏi qua các đường phố đông nghịt ở London"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327181_6a527ec596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327181_30f2ef7739_o.png",
+      "id_image": "navigate_1406305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442198_52896b94bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442198_0562d2ea99_o.png",
+      "id_image": "navigate_1516447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063980_6a872226b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063980_e860748f5f_o.png",
+      "id_image": "navigate_2878798"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "parasite",
+  "phat_am": "['pærəsait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ ăn bám",
+          "list_en_vn": [
+            {
+              "full_en": "to live as a parasite on society",
+              "full_vn": "sống như một kẻ ăn bám vào xã hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) động, thực vật ký sinh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069810_86e8373c5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069810_5ee500297e_o.png",
+      "id_image": "parasite_4092758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377737_bb962c397b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377737_9b85ae914d_o.png",
+      "id_image": "parasite_5266675"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "minor",
+  "phat_am": "['mainə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhỏ hơn, không quan trọng, thứ yếu",
+          "list_en_vn": [
+            {
+              "full_en": "minor mistakes",
+              "full_vn": "những lỗi nhỏ"
+            },
+            {
+              "full_en": "minor planet",
+              "full_vn": "hành tinh nhỏ"
+            },
+            {
+              "full_en": "to play a minor part",
+              "full_vn": "đóng một vai thứ yếu, đóng một vai phụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "em, bé (dùng trong trường hợp có hai anh em học cùng trường)",
+          "list_en_vn": [
+            {
+              "full_en": "Smith minor",
+              "full_vn": "Xmít bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) thứ",
+          "list_en_vn": [
+            {
+              "full_en": "minor interval",
+              "full_vn": "quãng thứ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người vị thành niên"
+        },
+        {
+          "m_full_vn": "đề tài phụ của một sinh viên"
+        },
+        {
+          "m_full_vn": "(âm nhạc) điệu thứ"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to minor in something ) học cái gì như là một đề tài phụ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697029_9e591d394b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697029_ab4697c39f_o.png",
+      "id_image": "minor_2332289"
+    }
+  ]
+}

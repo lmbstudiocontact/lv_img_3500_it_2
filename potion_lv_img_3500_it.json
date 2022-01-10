@@ -1,0 +1,47 @@
+{
+  "english": "potion",
+  "phat_am": "['pou∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuốc độc, chất độc, chất lỏng dùng trong ma thuật",
+          "list_en_vn": [
+            {
+              "full_en": "a love potion",
+              "full_vn": "bùa mê thuốc lú"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377412_31ff67ec58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377412_59144b0467_o.png",
+      "id_image": "potion_3004195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377372_c7f51c0f7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377372_616a99819b_o.png",
+      "id_image": "potion_4133560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069350_44291a58f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069350_652791eda6_o.png",
+      "id_image": "potion_4243100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069315_3f473cb4bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069315_7dd453a134_o.png",
+      "id_image": "potion_5833197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377247_2fd5b5708a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377247_400c033c19_o.png",
+      "id_image": "potion_5833199"
+    }
+  ]
+}

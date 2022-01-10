@@ -1,0 +1,63 @@
+{
+  "english": "merchant",
+  "phat_am": "['mə:t∫ənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà buôn; thương gia"
+        },
+        {
+          "m_full_vn": "người say mê một lĩnh vực nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a speed merchant",
+              "full_vn": "người thích lái xe thật nhanh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn, buôn bán",
+          "list_en_vn": [
+            {
+              "full_en": "merchant ship",
+              "full_vn": "tàu buôn; thương thuyền"
+            },
+            {
+              "full_en": "merchant prince",
+              "full_vn": "nhà buôn giàu, phú thương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701409_a38dbfcaa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701409_926723f4c8_o.png",
+      "id_image": "merchant_1100474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083945_933164a965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083945_4670e27207_o.png",
+      "id_image": "merchant_2104181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083920_801c44cc14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083920_2bff45452a_o.png",
+      "id_image": "merchant_4016132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461233_03a1a02258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461233_fa5ac72e96_o.png",
+      "id_image": "merchant_4633140"
+    }
+  ]
+}

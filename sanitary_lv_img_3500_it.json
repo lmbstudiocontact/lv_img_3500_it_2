@@ -1,0 +1,45 @@
+{
+  "english": "sanitary",
+  "phat_am": "['sænitri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có bụi bặm bẩn thỉu hoặc những chất có thể gây bệnh; vệ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "conditions in the kitchen are not very sanitary",
+              "full_vn": "điều kiện trong nhà bếp không được vệ sinh lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc hoặc liên quan đến việc bảo vệ sức khoẻ; vệ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "sanitary ware",
+              "full_vn": "thiết bị vệ sinh (bệ xí, la-va-bô......)"
+            },
+            {
+              "full_en": "sanitary inspector",
+              "full_vn": "thanh tra vệ sinh (viên chức đi kiểm tra điều kiện vệ sinh ở các cửa hàng, hiệu ăn...)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334796_4b28ebdb6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334796_f47b61ed69_o.png",
+      "id_image": "sanitary_3959112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071770_0dcab9768b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071770_9f58fa8469_o.png",
+      "id_image": "sanitary_4698505"
+    }
+  ]
+}

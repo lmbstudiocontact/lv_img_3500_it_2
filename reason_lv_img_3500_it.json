@@ -1,0 +1,259 @@
+{
+  "english": "reason",
+  "phat_am": "['ri:zn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( reason for something / doing something ; reason to do something ) lý do",
+          "list_en_vn": [
+            {
+              "full_en": "for one /some reason or other",
+              "full_vn": "vì lý do này hoặc lý do khác"
+            },
+            {
+              "full_en": "to have adequate /sufficient reason for doing something",
+              "full_vn": "có lý do thích đáng/đầy đủ để làm điềugi"
+            },
+            {
+              "full_en": "all the more reason for doing /to do something",
+              "full_vn": "càng có lý do để làm cái gì"
+            },
+            {
+              "full_en": "give me your reasons for going /the reasons for your going",
+              "full_vn": "hãy cho tôi biết lý do vì sao anh đi"
+            },
+            {
+              "full_en": "there is /we have (good ) reason to believe that he's lying",
+              "full_vn": "có/chúng ta có lý do (chắc chắn) để tin rằng anh ta nói dối"
+            },
+            {
+              "full_en": "is there any (particular ) reason why you can't come ?",
+              "full_vn": "có lý do (đặc biệt) gì mà anh không đến được?"
+            },
+            {
+              "full_en": "the reason why I'm late is that /because I missed the bus",
+              "full_vn": "lý do khiến tôi đến muộn là vì tôi nhỡ chuyến xe búyt"
+            },
+            {
+              "full_en": "we aren't going for the simple reason that we can't afford it",
+              "full_vn": "chúng tôi không đi vì một lý do đơn giản là chúng tôi không có khả năng để đi"
+            },
+            {
+              "full_en": "she complained with reason that she had been underpaid",
+              "full_vn": "cô ta kêu ca có lý (đúng) rằng cô ta bị trả lương thấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý trí",
+          "list_en_vn": [
+            {
+              "full_en": "only man has reason",
+              "full_vn": "chỉ có con người mới có lý trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( one's / somebody's reason ) sự lành mạnh về tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "to lose one's reason /senses",
+              "full_vn": "mất trí"
+            },
+            {
+              "full_en": "we feared for her reason",
+              "full_vn": "chúng tôi sợ cô ta có thể mất trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý; lẽ phải",
+          "list_one_mean": [
+            {
+              "id_full_en": "beyond /past all reason",
+              "list_im": [
+                {
+                  "im_full_vn": "không có lý hoặc không thể chấp nhận được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by reason of something",
+              "list_im": [
+                {
+                  "im_full_vn": "vì cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was excused by reason of his age",
+                      "full_vn": "ông ấy được miễn thứ vì tuổi tác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "for reasons /some reason best known to oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nào hiểu nỗi vì sao",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "for reasons best known to himself , he drinks tea from a beer glass",
+                      "full_vn": "không thể nào hiểu nổi vì sao nó lại uống trà bằng cốc bia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do anything in /within reason",
+              "list_im": [
+                {
+                  "im_full_vn": "biết phải trái",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll do anything within reason to earn my living",
+                      "full_vn": "tôi sẽ làm bất cứ việc gì hợp lý để kiếm sống"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose all reason",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "rhyme or reason",
+              "list_im": [
+                {
+                  "im_full_vn": "xem rhyme"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it /that stands to reason",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đó là hiển nhiên đối với mọi người",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it stands to reason that nobody will work without pay",
+                      "full_vn": "hiển nhiên là chẳng có ai lại đi làm không công"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to see /listen to /hear /be open to reason",
+              "full_vn": "thấy/nghe theo/nghe/sẵn sàng chấp nhận lẽ phải"
+            },
+            {
+              "full_en": "to bring somebody to reason ; to make somebody see reason",
+              "full_vn": "làm cho ai hiểu ra lẽ phải"
+            },
+            {
+              "full_en": "there is a good deal of reason in what you say",
+              "full_vn": "anh nói rất có lý"
+            },
+            {
+              "full_en": "light of reason",
+              "full_vn": "ánh sáng của lẽ phải"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "suy luận; lập luận",
+          "list_one_mean": [
+            {
+              "id_full_en": "to reason somebody into /out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyết phục ai làm/không làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to reason somebody out of his fears",
+                      "full_vn": "thuyết phục ai đừng sợ"
+                    },
+                    {
+                      "full_en": "she was reasoned into a sensible course of action",
+                      "full_vn": "cô ấy được thuyết phục để hành động theo một hướng hợp lý"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to reason something out",
+              "list_im": [
+                {
+                  "im_full_vn": "suy ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the detective tried to reason out how the thief had escaped",
+                      "full_vn": "người thám tử cố gắng suy ra tên trộm đã trốn thoát bằng cách nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to reason with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tranh luận với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I reasoned with her for hours about the danger , but she would not change her mind",
+                      "full_vn": "tôi tranh luận với bà ta hàng giờ về mối nguy hiểm, nhưng bà ta không muốnthay đổi ý kiến"
+                    },
+                    {
+                      "full_en": "there's no reasoning with that woman",
+                      "full_vn": "không thể nào tranh luận với người đàn bà đó"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "man's ability to reason",
+              "full_vn": "khả năng suy luận của con người"
+            },
+            {
+              "full_en": "he reasoned that if we started at dawn , we would be there by noon",
+              "full_vn": "nó lập luận rằng nếu chúng ta xuất phát lúc bình minh, chúng ta sẽ đến đó vào buổi trưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381597_0776666f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381597_e5b8f9dd31_o.png",
+      "id_image": "reason_2106612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451473_a61debf025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451473_4a287e7109_o.png",
+      "id_image": "reason_4525477"
+    }
+  ]
+}

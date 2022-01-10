@@ -1,0 +1,117 @@
+{
+  "english": "royal",
+  "phat_am": "['rɔiəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) vua; (thuộc) nữ hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "royal power",
+              "full_vn": "vương quyền"
+            },
+            {
+              "full_en": "the royal family",
+              "full_vn": "hoàng gia"
+            },
+            {
+              "full_en": "the royal prerogative",
+              "full_vn": "đặc quyền của nhà vua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Royal ) (thuộc) hoàng gia",
+          "list_en_vn": [
+            {
+              "full_en": "Royal Military Academy",
+              "full_vn": "học viện quân sự hoàng gia"
+            },
+            {
+              "full_en": "Royal Air Force",
+              "full_vn": "không quân hoàng gia"
+            },
+            {
+              "full_en": "Royal Navy",
+              "full_vn": "hải quân hoàng gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vương giả, như vua chúa; trọng thể, long trọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in royal spirits",
+              "list_im": [
+                {
+                  "im_full_vn": "cao hứng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a royal time",
+              "list_im": [
+                {
+                  "im_full_vn": "được hưởng một thời gian vui đùa thoả thích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the royal 'we'",
+              "list_im": [
+                {
+                  "im_full_vn": "cách vua hoặc nữ hoàng dùng đại từ số nhiều để nói về mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "We've never liked Italy - Is that the royal 'we' ? I think Italy's great !",
+                      "full_vn": "Chúng tôi chưa bao giờ thích nước ý. Cái 'chúng tôi' ấy phải chăng là cái 'chúng tôi' của nhà vua? Chứ tôi thì tôi cho rằng ý quốc rất tuyệt!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give someone a royal welcome",
+              "full_vn": "đón tiếp ai một cách trọng thể"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) người trong hoàng tộc; hoàng thân"
+        },
+        {
+          "m_full_vn": "hươu đực già, nai đực già (gạc có trên 12 nhánh) (như) royal stag"
+        },
+        {
+          "m_full_vn": "(hàng hải) cánh buồm ngọn (ở đỉnh cột buồm)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455373_c891e2007a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455373_45232efe0c_o.png",
+      "id_image": "royal_2653345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340391_e93cec499d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340391_4fc427b17d_o.png",
+      "id_image": "royal_2653349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385367_649be95693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385367_bf7b3cb1df_o.png",
+      "id_image": "royal_2653375"
+    }
+  ]
+}

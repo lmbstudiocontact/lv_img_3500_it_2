@@ -1,0 +1,65 @@
+{
+  "english": "polar",
+  "phat_am": "['poulə(r)]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) địa cực, ở địa cực",
+          "list_en_vn": [
+            {
+              "full_en": "polar ice",
+              "full_vn": "băng ở địa cực"
+            },
+            {
+              "full_en": "the polar regions",
+              "full_vn": "những vùng địa cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) có cực",
+          "list_en_vn": [
+            {
+              "full_en": "polar attraction",
+              "full_vn": "sức hút của cực nam châm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) cực",
+          "list_en_vn": [
+            {
+              "full_en": "polar angle",
+              "full_vn": "góc cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hoàn toàn đối nhau, cực kỳ trái ngược; thái cực (tính cách)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học), (điện học) đường cực, điện cực"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452738_cfd4d74efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452738_1b43e14ebd_o.png",
+      "id_image": "polar_172758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452718_3f6c489ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452718_ba2984dcfd_o.png",
+      "id_image": "polar_2844402"
+    }
+  ]
+}

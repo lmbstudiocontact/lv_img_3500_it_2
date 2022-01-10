@@ -1,0 +1,46 @@
+{
+  "english": "pottery",
+  "phat_am": "['pɔtəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ gốm, thủ công"
+        },
+        {
+          "m_full_vn": "nghề làm đồ gốm (nhất là làm bằng tay); nghề gốm thủ công",
+          "list_en_vn": [
+            {
+              "full_en": "a pottery class",
+              "full_vn": "(thuộc ngữ) lớp học nghề đồ gốm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi làm đồ gốm, xưởng gốm"
+        },
+        {
+          "m_full_vn": "( the Potteries ) ( số nhiều) một hạt ở Staffordshire, trung tâm kỹ nghệ làm đồ gốm của Anh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687239_84ba940167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687239_ecddfacfb8_o.png",
+      "id_image": "pottery_1406293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068965_67ce61c867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068965_2fcd205dc1_o.png",
+      "id_image": "pottery_2505757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376962_c96674cd90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376962_803418f0fd_o.png",
+      "id_image": "pottery_5558269"
+    }
+  ]
+}

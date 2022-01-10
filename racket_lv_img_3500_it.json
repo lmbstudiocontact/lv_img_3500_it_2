@@ -1,0 +1,100 @@
+{
+  "english": "racket",
+  "phat_am": "['rækit]",
+  "list_type": [
+    {
+      "type": "danh từ (như) racquet",
+      "list_m": [
+        {
+          "m_full_vn": "cái vợt (trong môn quần vợt, cầu lông..)"
+        },
+        {
+          "m_full_vn": "( rackets ) môn quần vợt sân trường",
+          "list_en_vn": [
+            {
+              "full_en": "a rackets court",
+              "full_vn": "(thuộc ngữ) sân chơi quần vợt sân trường"
+            },
+            {
+              "full_en": "a rackets ball",
+              "full_vn": "(thuộc ngữ) bóng chơi quần vợt sân trường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự huyên náo; tiếng ồn ào; cảnh huyên náo",
+          "list_en_vn": [
+            {
+              "full_en": "to pick up a racket ; to make a racket",
+              "full_vn": "làm huyên náo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh ăn chơi nhộn nhịp, cảnh ăn chơi phóng đãng, lối sống trác táng",
+          "list_en_vn": [
+            {
+              "full_en": "a center of racket and dissipation",
+              "full_vn": "khu ăn chơi trác táng"
+            },
+            {
+              "full_en": "to go on the racket",
+              "full_vn": "thích ăn chơi phóng đãng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) mưu mô; mánh lới, thủ đoạn làm tiền; công việc làm ăn, chuyện nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "a gambling racket",
+              "full_vn": "thủ đoạn làm tiền bằng cờ bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơn thử thách",
+          "list_en_vn": [
+            {
+              "full_en": "to stand the racket",
+              "full_vn": "vượt qua cơn thử thách; chịu lấy hậu quả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) làm ồn; đi lại ồn ào"
+        },
+        {
+          "m_full_vn": "chơi bời phóng đãng; sống trác táng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456648_70e179c56e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456648_79c88e0a32_o.png",
+      "id_image": "racket_184063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456598_71f7b86184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456598_1794b0bea3_o.png",
+      "id_image": "racket_2845178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341686_e576328b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341686_ace4dbc769_o.png",
+      "id_image": "racket_4611021"
+    }
+  ]
+}

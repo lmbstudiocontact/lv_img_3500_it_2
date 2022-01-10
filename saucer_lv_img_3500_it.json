@@ -1,0 +1,27 @@
+{
+  "english": "saucer",
+  "phat_am": "['sɔ:sə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đĩa nhỏ, nông để đựng chén; đĩa hứng nước (dưới chậu hoa)",
+          "list_en_vn": [
+            {
+              "full_en": "saucer eye",
+              "full_vn": "( định ngữ) mắt to và tròn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448873_b957b4e1ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448873_fa2920cdb4_o.png",
+      "id_image": "saucer_455315"
+    }
+  ]
+}

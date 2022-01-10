@@ -1,0 +1,43 @@
+{
+  "english": "renewable",
+  "phat_am": "[ri'nju:əbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể hồi phục lại"
+        },
+        {
+          "m_full_vn": "có thể thay mới, có thể đổi mới"
+        },
+        {
+          "m_full_vn": "có thể gia hạn được",
+          "list_en_vn": [
+            {
+              "full_en": "Is the permit renewable",
+              "full_vn": "giấy phép đó có thể gia hạn được không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369912_db7ef95e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369912_d2890bc6ff_o.png",
+      "id_image": "renewable_2286227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061850_f494671cd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061850_a97587ff63_o.png",
+      "id_image": "renewable_4987056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325091_367febd6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325091_90c84f0671_o.png",
+      "id_image": "renewable_550792"
+    }
+  ]
+}

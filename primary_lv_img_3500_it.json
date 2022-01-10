@@ -1,0 +1,128 @@
+{
+  "english": "primary",
+  "phat_am": "['praiməri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyên thuỷ, đầu tiên; ( Primary ) cổ sinh đại, nguyên sinh",
+          "list_en_vn": [
+            {
+              "full_en": "in the primary stage of development",
+              "full_vn": "ở giai đoạn phát triển đầu tiên"
+            },
+            {
+              "full_en": "Primary rocks",
+              "full_vn": "đá nguyên sinh"
+            },
+            {
+              "full_en": "the primary meaning of a word",
+              "full_vn": "nghĩa gốc của một từ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc hoặc cho ngành giáo dục sơ cấp",
+          "list_en_vn": [
+            {
+              "full_en": "primary school",
+              "full_vn": "trường tiểu học"
+            },
+            {
+              "full_en": "primary teacher",
+              "full_vn": "giáo viên tiểu học"
+            },
+            {
+              "full_en": "primary particle",
+              "full_vn": "(vật lý) hạt sơ cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng đầu, chủ yếu, chính, quan trọng nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the primary aim",
+              "full_vn": "mục đích chính"
+            },
+            {
+              "full_en": "primary stress",
+              "full_vn": "trọng âm chính"
+            },
+            {
+              "full_en": "the primary tenses",
+              "full_vn": "(ngôn ngữ học) những thời chính (hiện tại, tương lai, quá khứ)"
+            },
+            {
+              "full_en": "of primary importance",
+              "full_vn": "quan trọng bậc nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) (thuộc) đại cổ sinh",
+          "list_one_mean": [
+            {
+              "id_full_en": "primary battery",
+              "list_im": [
+                {
+                  "im_full_vn": "(điện học) bộ pin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "primary meeting (assembly )",
+              "list_im": [
+                {
+                  "im_full_vn": "hội nghị tuyển lựa ứng cử viên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều đầu tiên"
+        },
+        {
+          "m_full_vn": "điều chính, điều chủ yếu, điều căn bản, điều quan trọng bậc nhất"
+        },
+        {
+          "m_full_vn": "(hội họa) màu gốc"
+        },
+        {
+          "m_full_vn": "(thiên văn học) hành tinh sơ cấp (hành tinh xoay quanh mặt trời)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) cuộc bầu cử chọn ứng cử viên của Đảng cho cuộc tuyển cử sắp tới (như) primary election",
+          "list_en_vn": [
+            {
+              "full_en": "presidential primaries",
+              "full_vn": "những cuộc bầu cử chọn ứng cử viên tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) đại cổ sinh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370632_e6b09fbabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370632_44793e0e68_o.png",
+      "id_image": "primary_2473147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325796_2c8e04c1b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325796_1b08efd309_o.png",
+      "id_image": "primary_2758741"
+    }
+  ]
+}

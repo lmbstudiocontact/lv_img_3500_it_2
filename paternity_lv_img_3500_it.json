@@ -1,0 +1,36 @@
+{
+  "english": "paternity",
+  "phat_am": "[pə'tə:niti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư cách làm cha, cương vị làm cha; quan hệ cha con",
+          "list_en_vn": [
+            {
+              "full_en": "he denied paternity of the child",
+              "full_vn": "anh ta không nhận là cha của đứa trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn gốc về đằng cha",
+          "list_en_vn": [
+            {
+              "full_en": "a child of unknown paternity",
+              "full_vn": "một đứa trẻ không rõ cha là ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065105_c8f8b5eb56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065105_9733ff7230_o.png",
+      "id_image": "paternity_5904087"
+    }
+  ]
+}

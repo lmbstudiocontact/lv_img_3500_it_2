@@ -1,0 +1,233 @@
+{
+  "english": "ready",
+  "phat_am": "['redi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sẵn sàng",
+          "list_en_vn": [
+            {
+              "full_en": "dinner is ready",
+              "full_vn": "cơm nước đã sẵn sàng"
+            },
+            {
+              "full_en": "to get ready for a journey",
+              "full_vn": "chuẩn bị sẵn sàng cho chuyến đi"
+            },
+            {
+              "full_en": "I've got my overalls on , so I'm ready to work",
+              "full_vn": "tôi đã mặc xong quần áo lao động, vậy là tôi sẵn sàng bắt đầu làm việc"
+            },
+            {
+              "full_en": "'Shall we go ? ' - 'I'm ready when you are'",
+              "full_vn": "Chúng ta đi chứ? - Lúc nào anh chuẩn bị xong là tôi xong"
+            },
+            {
+              "full_en": "to be ready to go anywhere",
+              "full_vn": "sẵn sàng đi bất cứ đâu"
+            },
+            {
+              "full_en": "the troops were ready for anything",
+              "full_vn": "bộ đội đã sẵn sàng để làm bất cứ việc gì"
+            },
+            {
+              "full_en": "ready , steady , go !",
+              "full_vn": "(thể dục,thể thao) sẵn sàng! chạy!"
+            },
+            {
+              "full_en": "ready , present , fire !",
+              "full_vn": "chuẩn bị, ngắm, bắn!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẵn lòng",
+          "list_en_vn": [
+            {
+              "full_en": "he is ready to help you",
+              "full_vn": "anh ta sẵn lòng giúp anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có sẵn",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a revolver ready",
+              "full_vn": "để sẵn một khẩu súng lục"
+            },
+            {
+              "full_en": "keep your dictionary ready (to hand ) at all times",
+              "full_vn": "hãy luôn luôn có sẵn quyển từ điển bên mình (trong tầm tay)"
+            },
+            {
+              "full_en": "this account provides you with a ready source of income",
+              "full_vn": "tài khoản này mang lại cho anh một nguồn thu nhập trong tầm tay"
+            },
+            {
+              "full_en": "ready money",
+              "full_vn": "tiền có sẵn (trong tay); tiền mặt"
+            },
+            {
+              "full_en": "there's a ready market for antiques",
+              "full_vn": "có sẵn một thị trường đồ cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố ý; có khuynh hướng",
+          "list_en_vn": [
+            {
+              "full_en": "don't be so ready to find fault",
+              "full_vn": "đừng cố ý bắt bẻ như thế!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp, sắp sửa",
+          "list_en_vn": [
+            {
+              "full_en": "she looked ready to collapse at any minute",
+              "full_vn": "cô ta có vẻ như sắp gục bất cứ lúc nào"
+            },
+            {
+              "full_en": "a bud just ready to brust",
+              "full_vn": "nụ hoa sắp nở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh, mau, ngay tức khắc; lưu loát",
+          "list_en_vn": [
+            {
+              "full_en": "a ready retort",
+              "full_vn": "câu đối đáp nhanh"
+            },
+            {
+              "full_en": "to have a ready wit /mind",
+              "full_vn": "nhanh trí"
+            },
+            {
+              "full_en": "to have a ready pen",
+              "full_vn": "viết lưu loát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ dàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be too ready with excuses /criticisms",
+              "list_im": [
+                {
+                  "im_full_vn": "luôn có sẵn những lời bào chữa/chỉ trích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make ready (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make ready for the Queen's visit",
+                      "full_vn": "chuẩn bị cho cuộc viếng thăm của Nữ hoàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "ready and waiting",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng làm nhiệm vụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "rough and ready",
+              "list_im": [
+                {
+                  "im_full_vn": "xem rough"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "goods that meet with a ready sale",
+              "full_vn": "những hàng bán rất dễ dàng nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng trước một động tính từ quá khứ) rồi, sẵn",
+          "list_en_vn": [
+            {
+              "full_en": "ready cooked /mixed",
+              "full_vn": "nấu chín/trộn sẵn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the ready ) tiền mặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the ready",
+              "list_im": [
+                {
+                  "im_full_vn": "(về súng trường) ở tư thế sẵn sàng bắn; sẵn sàng hành động tức khắc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "reserve troops held at the ready",
+                      "full_vn": "quân dự bị đang ở tư thế sẵn sàng chiến đấu"
+                    },
+                    {
+                      "full_en": "he had his camera at the ready",
+                      "full_vn": "anh ấy chuẩn bị máy ảnh sẵn sàng chụp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuẩn bị sẵn sàng",
+          "list_en_vn": [
+            {
+              "full_en": "ships readied for battle",
+              "full_vn": "tàu chiến đã sẵn sàng xung trận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336731_53a2b9671c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336731_4d22b2e5f3_o.png",
+      "id_image": "ready_1024205"
+    }
+  ]
+}

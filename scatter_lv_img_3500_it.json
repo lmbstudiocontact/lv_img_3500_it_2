@@ -1,0 +1,68 @@
+{
+  "english": "scatter",
+  "phat_am": "['skætə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tung rắc, sự rải ra, sự phân tán"
+        },
+        {
+          "m_full_vn": "tầm phân bố (đạn)"
+        },
+        {
+          "m_full_vn": "số lượng những thứ được tung rắc (như) scattering",
+          "list_en_vn": [
+            {
+              "full_en": "a scatter of hailstones",
+              "full_vn": "một trận mưa đá rơi lả tả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tung, rải, rắc, gieo, đặt chỗ này đặt chỗ kia",
+          "list_en_vn": [
+            {
+              "full_en": "to scatter seed",
+              "full_vn": "gieo hạt giống"
+            },
+            {
+              "full_en": "to scatter gravel on road",
+              "full_vn": "rải sỏi lên mặt đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho chạy tán loạn (người, động vật..)"
+        },
+        {
+          "m_full_vn": "làm tan (mây, hy vọng...)"
+        },
+        {
+          "m_full_vn": "toả (ánh sáng)"
+        },
+        {
+          "m_full_vn": "lia, quét (súng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068540_dab0499636_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068540_24f47934bf_o.png",
+      "id_image": "scatter_1809506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446898_acc45614b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446898_00f066c1ee_o.png",
+      "id_image": "scatter_6001160"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "nasal",
+  "phat_am": "['neizəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) mũi",
+          "list_en_vn": [
+            {
+              "full_en": "a nasal sound",
+              "full_vn": "âm mũi"
+            },
+            {
+              "full_en": "to suffer from nasal catarrh",
+              "full_vn": "bị viêm chảy mũi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "âm mũi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683144_85aef67273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683144_5b2c3abe32_o.png",
+      "id_image": "nasal_4118545"
+    }
+  ]
+}

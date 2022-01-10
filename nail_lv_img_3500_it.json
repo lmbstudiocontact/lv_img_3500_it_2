@@ -1,0 +1,156 @@
+{
+  "english": "nail",
+  "phat_am": "[neil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "móng (tay; chân); móng vuốt (thú vật)",
+          "list_en_vn": [
+            {
+              "full_en": "finger-nail",
+              "full_vn": "móng tay"
+            },
+            {
+              "full_en": "toe-nail",
+              "full_vn": "móng chân"
+            },
+            {
+              "full_en": "to cut one's nails",
+              "full_vn": "cắt móng tay (hoặc móng chân)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái đinh",
+          "list_en_vn": [
+            {
+              "full_en": "to drive a nail",
+              "full_vn": "đóng đinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nên (đơn vị (đo lường) thời cổ, bằng khoảng 55 cm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "hard as nails",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) rắn rỏi; sung sức; được tập luyện kỹ"
+                },
+                {
+                  "im_full_vn": "cứng rắn; tàn nhẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fight tooth and nail",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc quyết chiến một mất một còn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the right nail on the head",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hit"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a nail in one's coffin",
+              "list_im": [
+                {
+                  "im_full_vn": "cái có thể làm cho người ta chóng chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pay on the nail",
+              "list_im": [
+                {
+                  "im_full_vn": "trả ngay không lần lữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "right a nail",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng lắm, hoàn toàn đúng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng đinh; (nghĩa bóng) ghìm chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to nail up a window",
+              "full_vn": "lấy đinh vít chặt cửa sổ lại"
+            },
+            {
+              "full_en": "to nail one's eyes on something",
+              "full_vn": "nhìn chăm chú (nhìn chòng chọc) vật gì"
+            },
+            {
+              "full_en": "he stood nailed to the ground",
+              "full_vn": "nó đứng như chôn chân xuống đất"
+            },
+            {
+              "full_en": "to nail a blow",
+              "full_vn": "giáng cho một đòn"
+            },
+            {
+              "full_en": "to nail someone down to his promise",
+              "full_vn": "bắt ai phải giữ lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bắt giữ, tóm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to nail one's colours to mast",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vững lập trường, kiên định lập trường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to nail a lie to the counter (barn-door )",
+              "list_im": [
+                {
+                  "im_full_vn": "vạch trần sự dối trá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374022_40c03b67cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374022_07c93ef390_o.png",
+      "id_image": "nail_215254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444278_d9789ba76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444278_9608137e47_o.png",
+      "id_image": "nail_280160"
+    }
+  ]
+}

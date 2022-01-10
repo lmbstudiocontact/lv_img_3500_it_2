@@ -1,0 +1,88 @@
+{
+  "english": "mint",
+  "phat_am": "[mint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây bạc hà",
+          "list_en_vn": [
+            {
+              "full_en": "a sprig of mint",
+              "full_vn": "một nhánh bạc hà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẹo bạc hà cay (cũng) peppermint"
+        },
+        {
+          "m_full_vn": "sở đúc tiền"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) món lớn, kho vô tận, nguồn vô tận",
+          "list_one_mean": [
+            {
+              "id_full_en": "in mint condition",
+              "list_im": [
+                {
+                  "im_full_vn": "mới tinh; mới toanh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a mint of documents",
+              "full_vn": "một nguồn tài liệu vô tận"
+            },
+            {
+              "full_en": "a mint of money",
+              "full_vn": "một món tiền lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúc (tiền)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đặt ra, tạo ra",
+          "list_en_vn": [
+            {
+              "full_en": "to mint a new word",
+              "full_vn": "đặt ra một từ mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696974_bc57743e77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696974_a5ec5d4476_o.png",
+      "id_image": "mint_1407838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079115_02c64ebcf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079115_95892730e9_o.png",
+      "id_image": "mint_1918892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079100_7bf84e2103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079100_2060cded81_o.png",
+      "id_image": "mint_4264701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456458_3dace02a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456458_89902e2a90_o.png",
+      "id_image": "mint_5389307"
+    }
+  ]
+}

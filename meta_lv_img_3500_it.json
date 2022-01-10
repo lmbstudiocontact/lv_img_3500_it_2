@@ -1,0 +1,45 @@
+{
+  "english": "meta",
+  "phat_am": "",
+  "list_type": [
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "sau",
+          "list_en_vn": [
+            {
+              "full_en": "metasedimentary",
+              "full_vn": "sau trầm tích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "siêu",
+          "list_en_vn": [
+            {
+              "full_en": "metaphysics",
+              "full_vn": "siêu hình học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biến đổi",
+          "list_en_vn": [
+            {
+              "full_en": "metachromatic",
+              "full_vn": "biến sắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083155_4b2285ebfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083155_cf08763a7d_o.png",
+      "id_image": "meta_6357751"
+    }
+  ]
+}

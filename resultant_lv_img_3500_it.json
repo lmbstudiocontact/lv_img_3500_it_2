@@ -1,0 +1,48 @@
+{
+  "english": "resultant",
+  "phat_am": "[ri'zʌltənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xảy ra như một kết quả; xảy ra như một hậu quả",
+          "list_en_vn": [
+            {
+              "full_en": "the resultant profit from reducing staff and increasing sales",
+              "full_vn": "lợi nhuận có được do giảm nhân viên và tăng doanh số bán ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) (toán học) tổng hợp",
+          "list_en_vn": [
+            {
+              "full_en": "resultant force",
+              "full_vn": "lực tổng hợp, hợp lực"
+            },
+            {
+              "full_en": "resultant law",
+              "full_vn": "luật phân phối tổng hợp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) (toán học) lực tổng hợp, hợp lực"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087130_fbe0f1a58b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087130_1e0b7e5695_o.png",
+      "id_image": "resultant_1960631"
+    }
+  ]
+}

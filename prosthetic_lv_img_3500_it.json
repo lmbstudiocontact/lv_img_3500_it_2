@@ -1,0 +1,37 @@
+{
+  "english": "prosthetic",
+  "phat_am": "[prɔs'θetik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) (thuộc) sự lắp bộ phận giả",
+          "list_en_vn": [
+            {
+              "full_en": "a prosthetic appliance",
+              "full_vn": "việc lắp ráp một bộ phận giả (răng, chân...)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350316_21d8eecc63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350316_771e2895d1_o.png",
+      "id_image": "prosthetic_1467309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395077_1b378e5e3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395077_4ff636972f_o.png",
+      "id_image": "prosthetic_4198354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395062_cfa6c60826_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395062_6a0cbe4a82_o.png",
+      "id_image": "prosthetic_4215377"
+    }
+  ]
+}

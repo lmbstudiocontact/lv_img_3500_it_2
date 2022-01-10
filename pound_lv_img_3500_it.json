@@ -1,0 +1,149 @@
+{
+  "english": "pound",
+  "phat_am": "[paund]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) IP pao (đơn vị (đo lường) trọng lượng, 16 ao xơ theo hệ thống (đo lường) của Anh Mỹ, bằng 0, 454 kg)"
+        },
+        {
+          "m_full_vn": "(viết tắt) IP pao (đơn vị (đo lường) trọng lượng, 12 ao xơ theo hệ thống trọng lượng tơ-roi, bằng 0, 373 kg)"
+        },
+        {
+          "m_full_vn": "đồng bảng Anh, pao (như) pound sterling ; đồng pao (đơn vị tiền tệ của Síp, Ai cập, Ai len, Ixraen và Manta); ( the pound ) giá trị đồng bảng Anh trên thị trường tiền tệ quốc tế"
+        },
+        {
+          "m_full_vn": "(săn bắn) thế cùng, đường cùng",
+          "list_en_vn": [
+            {
+              "full_en": "to bring a wild boar into a pound",
+              "full_vn": "dồn con lợn lòi vào thế cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ nhốt trâu bò lạc (cho đến khi chủ đến xác nhận)"
+        },
+        {
+          "m_full_vn": "chỗ nhốt chó mèo lạc; nơi giam giữ xe (xe bất hợp pháp)",
+          "list_one_mean": [
+            {
+              "id_full_en": "(have ,want ,demand ..) one's pound of flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) một đòi hỏi hợp pháp nhưng quá đáng"
+                },
+                {
+                  "im_full_vn": "đòi cho kỳ đủ (khăng khăng đòi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in for a penny , in for a pound",
+              "list_im": [
+                {
+                  "im_full_vn": "xem penny"
+                }
+              ]
+            },
+            {
+              "id_full_en": "penny wise pound foolish",
+              "list_im": [
+                {
+                  "im_full_vn": "xem penny"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiền, giã",
+          "list_en_vn": [
+            {
+              "full_en": "pound crystals (to powder )",
+              "full_vn": "nghiền những tinh thể (thành bột)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nện, thụi, thoi (bằng quả đấm); đánh (cái gì) bằng những cú đánh mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to pound something to pieces",
+              "full_vn": "đập cái gì vỡ tan từng mảnh"
+            },
+            {
+              "full_en": "to pound someone into a jelly",
+              "full_vn": "đánh cho ai nhừ tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhốt (súc vật...) vào bãi rào; nhốt vào trại giam",
+          "list_one_mean": [
+            {
+              "id_full_en": "pound the beat",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đi ruồng (nhất là cảnh sát)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập thình thịch (trái tim..)",
+          "list_en_vn": [
+            {
+              "full_en": "a heart pouding (with fear )",
+              "full_vn": "tim đập thình thịch (vì sợ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra trọng lượng tiền đồng (theo trọng lượng đồng bảng Anh)"
+        },
+        {
+          "m_full_vn": "( + at , on , away at ) giã, nện, thoi, đập thình lình; (quân sự) nện vào, giã vào, nã oàng oàng vào",
+          "list_en_vn": [
+            {
+              "full_en": "to pound at the door",
+              "full_vn": "đập cửa thình thình"
+            },
+            {
+              "full_en": "guns pound away at the enemy's position",
+              "full_vn": "đại bác nã oàng oàng vào vị trí địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + along , down , up ...) chạy rầm rập"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446793_bbc568cb65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446793_cf6cd8d0e9_o.png",
+      "id_image": "pound_2349360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686829_77ced42d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686829_30bdc612a6_o.png",
+      "id_image": "pound_506129"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "repository",
+  "phat_am": "[ri'pɔzitri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kho, chỗ chứa ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "a repository of goods",
+              "full_vn": "kho hàng"
+            },
+            {
+              "full_en": "a furniture repository",
+              "full_vn": "một kho chứa đồ đạc"
+            },
+            {
+              "full_en": "my diary is the repository of all my hopes and plans",
+              "full_vn": "cuốn nhật ký của tôi là nơi chứa đựng tất cả mọi hy vọng và dự kiến của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ đựng"
+        },
+        {
+          "m_full_vn": "nơi chôn cất"
+        },
+        {
+          "m_full_vn": "người được ký thác tâm sự; người được ký thác điều bí mật"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059410_f0c9e4c35c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059410_baf840bff1_o.png",
+      "id_image": "repository_1832056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322606_2d197257ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322606_a9672161f6_o.png",
+      "id_image": "repository_6309923"
+    }
+  ]
+}

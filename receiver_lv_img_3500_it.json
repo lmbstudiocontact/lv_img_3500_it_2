@@ -1,0 +1,47 @@
+{
+  "english": "receiver",
+  "phat_am": "[ri'si:və]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nhận, người lĩnh"
+        },
+        {
+          "m_full_vn": "(pháp lý) người quản lý tài sản (tài sản đang tranh tụng hoặc của một công ty bị vỡ nợ, được một toà án chỉ định)"
+        },
+        {
+          "m_full_vn": "người chứa chấp đồ trộm cắp"
+        },
+        {
+          "m_full_vn": "(kỹ thuật), (hoá học) bình chứa, thùng chứa, bể chứa"
+        },
+        {
+          "m_full_vn": "(rađiô) máy thu"
+        },
+        {
+          "m_full_vn": "ống nghe (máy điện thoại)",
+          "list_en_vn": [
+            {
+              "full_en": "to lift the receiver",
+              "full_vn": "nhấc ống nghe lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073060_a30ccf3ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073060_a425a5b980_o.png",
+      "id_image": "receiver_2725197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451038_002ec107a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451038_2d47740803_o.png",
+      "id_image": "receiver_3069572"
+    }
+  ]
+}

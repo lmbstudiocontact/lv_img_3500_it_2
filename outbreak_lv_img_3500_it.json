@@ -1,0 +1,66 @@
+{
+  "english": "outbreak",
+  "phat_am": "['autbreik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phun lửa (núi lửa)"
+        },
+        {
+          "m_full_vn": "cơn; sự bộc phát",
+          "list_en_vn": [
+            {
+              "full_en": "an outbreak of anger",
+              "full_vn": "cơn giận, sự nổi xung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bùng nổ (của chiến tranh...)",
+          "list_en_vn": [
+            {
+              "full_en": "at the outbreak of war",
+              "full_vn": "khi chiến tranh bùng nổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nổi dậy, sự bạo động (của quần chúng)"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) như outcrop"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phun ra, phụt ra"
+        },
+        {
+          "m_full_vn": "bùng nổ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387057_d8350ba8c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387057_10fd314f0d_o.png",
+      "id_image": "outbreak_2785845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079415_fc7da27f76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079415_3526ca4dcc_o.png",
+      "id_image": "outbreak_2834380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456803_3fed1e89ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456803_c0eb2b765a_o.png",
+      "id_image": "outbreak_2927330"
+    }
+  ]
+}

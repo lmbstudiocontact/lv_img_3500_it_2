@@ -1,0 +1,58 @@
+{
+  "english": "responsibility",
+  "phat_am": "[ri,spɔnsə'biləti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( responsibility for somebody / something ) trách nhiệm; sự chịu trách nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "a position of real , great , major responsibility",
+              "full_vn": "một địa vị có trách nhiệm thật sự, lớn, quan trọng"
+            },
+            {
+              "full_en": "to have , show a sense of responsibility",
+              "full_vn": "có, tỏ ra có tinh thần trách nhiệm"
+            },
+            {
+              "full_en": "to take /assume /accept /bear full responsibility for one's act",
+              "full_vn": "chịu hoàn toàn trách nhiệm về hành động của mình"
+            },
+            {
+              "full_en": "to disclaim all responsibility for damage caused by misuse",
+              "full_vn": "hoàn toàn không chịu trách nhiệm về thiệt hại do việc sử dụng không đúng gây ra"
+            },
+            {
+              "full_en": "it's your responsibility to drive carefully",
+              "full_vn": "trách nhiệm của anh là lái xe cẩn thận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350726_1e2dae4e27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350726_1320ecb963_o.png",
+      "id_image": "responsibility_2072718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350696_16481ed85a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350696_0052f5deba_o.png",
+      "id_image": "responsibility_3062368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705199_3dac98ac99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705199_06efd262e9_o.png",
+      "id_image": "responsibility_3588563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395382_ce19cf984a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395382_4e8eb642e8_o.png",
+      "id_image": "responsibility_4371066"
+    }
+  ]
+}

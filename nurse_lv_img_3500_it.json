@@ -1,0 +1,122 @@
+{
+  "english": "nurse",
+  "phat_am": "[nə:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá nhám"
+        },
+        {
+          "m_full_vn": "vú em, người bảo mẫu, người giữ trẻ (cũng) nursemaid ; wet nurse"
+        },
+        {
+          "m_full_vn": "nơi nuôi dưỡng, xứ sở, vườn ương (nghĩa bóng), cái nôi (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "the nurse of liberty",
+              "full_vn": "xứ sở của tự do"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "y tá, nữ y tá",
+          "list_en_vn": [
+            {
+              "full_en": "Red Cross nurses",
+              "full_vn": "các nữ y tá của Hội chữ thập đỏ"
+            },
+            {
+              "full_en": "male nurses are often employed in hospitals for the mentally ill",
+              "full_vn": "nam y tá thường được tuyển vào làm ở bệnh viện tâm thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nông nghiệp) cây che bóng"
+        },
+        {
+          "m_full_vn": "(động vật học) ong thợ; kiến thợ"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn sóc (người bệnh hoặc người bị thương); trông nom; nuôi dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "my mother's been nursing for 40 years",
+              "full_vn": "mẹ tôi làm nghề hộ lý đã 40 năm"
+            },
+            {
+              "full_en": "she nurses her aged mother",
+              "full_vn": "cô ta nuôi dưỡng mẹ già"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được cho bú; cho (trẻ) bú",
+          "list_en_vn": [
+            {
+              "full_en": "the baby was nursing /being nursed at its mother's breast",
+              "full_vn": "đứa bé được nuôi bằng sữa mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chăm chút (cây con, mảnh vườn...); nâng niu (một việc gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to nurse a child /puppy",
+              "full_vn": "chăm chút một đứa trẻ/con chó con"
+            },
+            {
+              "full_en": "to nurse a fragile vase in one's arms",
+              "full_vn": "nâng niu một cái bình dễ vỡ trong tay"
+            },
+            {
+              "full_en": "to nurse young plants (along )",
+              "full_vn": "chăm chút cây non (cho chúng mau lớn)"
+            },
+            {
+              "full_en": "to nurse a constituency",
+              "full_vn": "o bế cử tri"
+            },
+            {
+              "full_en": "to nurse a cold",
+              "full_vn": "chăm lo bệnh cảm (nghỉ ngơi, uống thuốc cho mau khoẻ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nung nấu, nuôi dưỡng, ấp ủ (hy vọng, hận thù; phong trào văn nghệ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to nurse feelings of revenge , hopes of promotion",
+              "full_vn": "nung nấu ý nghĩ phục thù, ôm ấp hy vọng thăng chức"
+            },
+            {
+              "full_en": "to nurse a grievance",
+              "full_vn": "ấp ủ nỗi ưu phiền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319616_8a5f7e0644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319616_5101915ab0_o.png",
+      "id_image": "nurse_203108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434688_330506ca29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434688_7f8412ab92_o.png",
+      "id_image": "nurse_822111"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "english": "quiet",
+  "phat_am": "['kwaiət]",
+  "list_type": [
+    {
+      "type": "tính từ (so sánh)",
+      "list_m": [
+        {
+          "m_full_vn": "yên lặng, êm ả, không ồn ào, ầm ĩ (không có tiếng động)",
+          "list_en_vn": [
+            {
+              "full_en": "her quiet voice",
+              "full_vn": "giọng nói của cô ta êm ả"
+            },
+            {
+              "full_en": "be quiet , please !",
+              "full_vn": "đề nghị im lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yên lặng, yên tĩnh (không di chuyển, không náo động)",
+          "list_en_vn": [
+            {
+              "full_en": "the sea looks quiet now",
+              "full_vn": "lúc này biển trông có vẻ lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịu dàng, trầm lặng, hoà nhã, không mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a lady of a quiet disposition",
+              "full_vn": "một người phụ nữ tính tình trầm lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhã, không loè loẹt (màu sắc)",
+          "list_en_vn": [
+            {
+              "full_en": "quiet colours",
+              "full_vn": "màu nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thái bình, yên ổn, thanh bình; thanh thản (không có sự kích động, hoạt động, gián đoạn)",
+          "list_en_vn": [
+            {
+              "full_en": "quiet times",
+              "full_vn": "thời đại thái bình"
+            },
+            {
+              "full_en": "lead a quiet life",
+              "full_vn": "sống một cuộc sống thanh thản"
+            },
+            {
+              "full_en": "quiet conscience",
+              "full_vn": "lương tâm thanh thản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thầm kín, kín đáo, kiềm chế, không biểu hiện ầm ĩ",
+          "list_en_vn": [
+            {
+              "full_en": "to harbour quiet resentment",
+              "full_vn": "nuôi một mối oán hận thầm kín"
+            },
+            {
+              "full_en": "have a quiet laugh about something",
+              "full_vn": "cười thầm cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn giản, không hình thức",
+          "list_one_mean": [
+            {
+              "id_full_en": "keep something quiet ; keep quiet about something",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ kín một điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as quiet as a mouse",
+              "list_im": [
+                {
+                  "im_full_vn": "im lặng như tờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a quiet weeding",
+              "full_vn": "lễ cưới đơn giản"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự yên lặng, sự êm ả",
+          "list_en_vn": [
+            {
+              "full_en": "in the quiet of night",
+              "full_vn": "trong đêm khuya thanh vắng"
+            },
+            {
+              "full_en": "the quiet of the countryside",
+              "full_vn": "cảnh yên tĩnh của miền quê"
+            },
+            {
+              "full_en": "a few hours of quiet",
+              "full_vn": "một vài giờ phút êm ả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yên lặng, sự yên tĩnh"
+        },
+        {
+          "m_full_vn": "sự yên ổn, sự thanh bình, sự thanh thản",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the quiet",
+              "list_im": [
+                {
+                  "im_full_vn": "bí mật, một cách kín đáo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "have a drink on the quiet",
+                      "full_vn": "kín đáo uống một cốc rượu"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live in quiet",
+              "full_vn": "sống trong cảnh thanh bình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ (như) quieten",
+      "list_m": [
+        {
+          "m_full_vn": "làm lắng xuống, làm yên tĩnh (về cái gì)"
+        },
+        {
+          "m_full_vn": "làm êm, làm dịu, làm nín, vỗ về (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to quiet a fretful child",
+              "full_vn": "dỗ một em bé đang quấy"
+            },
+            {
+              "full_en": "quiet a frightened horse",
+              "full_vn": "vỗ về một con ngựa đang hoảng sợ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + down ) trở lại yên tĩnh, lắng xuống",
+          "list_en_vn": [
+            {
+              "full_en": "the city quieted down",
+              "full_vn": "thành phố trở lại yên tĩnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388177_a7f1d38c38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388177_f88c605afe_o.png",
+      "id_image": "quiet_2867427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343191_bf05aea2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343191_4ce9b4cc2a_o.png",
+      "id_image": "quiet_3295323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698404_ba27ee50bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698404_30f1fd6c04_o.png",
+      "id_image": "quiet_4138874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080585_74133ca0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080585_3310f1bdd2_o.png",
+      "id_image": "quiet_6401142"
+    }
+  ]
+}

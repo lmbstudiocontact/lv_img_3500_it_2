@@ -1,0 +1,81 @@
+{
+  "english": "pawn",
+  "phat_am": "[pɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con tốt (trong bộ cờ)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) quân tốt đen, người bị sai khiến theo mưu đồ của kẻ khác"
+        },
+        {
+          "m_full_vn": "sự đem cầm, tình trạng cầm cố; vật đem cầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "in pawn",
+              "list_im": [
+                {
+                  "im_full_vn": "tình trạng bị đem cầm đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his watch is in pawn",
+                      "full_vn": "đồng hồ của anh ấy đã đem cầm rồi"
+                    },
+                    {
+                      "full_en": "to put something in pawn",
+                      "full_vn": "đem cầm vật gì"
+                    },
+                    {
+                      "full_en": "to take something out of pawn",
+                      "full_vn": "chuộc lại vật gì đã cầm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cầm, đem cầm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đem đảm bảo",
+          "list_en_vn": [
+            {
+              "full_en": "to pawn one's honour",
+              "full_vn": "đem danh dự ra đảm bảo"
+            },
+            {
+              "full_en": "to pawn one's life",
+              "full_vn": "lấy tính mệnh ra đảm bảo"
+            },
+            {
+              "full_en": "to pawn one's word",
+              "full_vn": "hứa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063370_5399b6bac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063370_eb325f896e_o.png",
+      "id_image": "pawn_1141811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681504_d083be2aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681504_2325efb157_o.png",
+      "id_image": "pawn_3490275"
+    }
+  ]
+}

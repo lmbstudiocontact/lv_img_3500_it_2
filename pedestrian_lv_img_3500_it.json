@@ -1,0 +1,63 @@
+{
+  "english": "pedestrian",
+  "phat_am": "[pi'destriən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc dành cho người đi bộ",
+          "list_en_vn": [
+            {
+              "full_en": "A pedestrian walkway",
+              "full_vn": "Một lối đi dành cho người đi bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chán ngắt; tẻ nhạt; không lý thú gì",
+          "list_en_vn": [
+            {
+              "full_en": "Life in the suburbs can be pretty pedestrian",
+              "full_vn": "Cuộc sống ở ngoại ô khá tẻ nhạt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đi bộ; khách bộ hành",
+          "list_en_vn": [
+            {
+              "full_en": "Two pedestrians and a cyclist were injured when the car skidded",
+              "full_vn": "Hai người đi bộ và một người đi xe đạp đã bị thương khi chiếc xe hơi trượt bánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) vận động viên (môn) đi bộ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439048_7739250009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439048_df12f92eca_o.png",
+      "id_image": "pedestrian_1056246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679099_70006f63a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679099_2d421fb35b_o.png",
+      "id_image": "pedestrian_1138114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324016_836e2e8fdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324016_2deaafa71f_o.png",
+      "id_image": "pedestrian_631700"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "english": "remove",
+  "phat_am": "[ri'mu:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món ăn tiếp theo (sau một món khác)"
+        },
+        {
+          "m_full_vn": "sự lên lớp",
+          "list_en_vn": [
+            {
+              "full_en": "examination for the remove",
+              "full_vn": "kỳ thi lên lớp"
+            },
+            {
+              "full_en": "not to get one's remove",
+              "full_vn": "không được lên lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp chuyển tiếp (trong một số trường ở Anh)"
+        },
+        {
+          "m_full_vn": "khoảng cách, sự khác biệt",
+          "list_en_vn": [
+            {
+              "full_en": "to be many removes from the carefree days of one's youth",
+              "full_vn": "khác biệt rất xa những ngày vô tư lự của tuổi thanh xuân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dời đi, di chuyển, dọn, cất dọn",
+          "list_en_vn": [
+            {
+              "full_en": "to remove a machine",
+              "full_vn": "chuyển một cái máy (ra chỗ khác)"
+            },
+            {
+              "full_en": "to remove mountains",
+              "full_vn": "(nghĩa bóng) dời non lấp biển, làm những việc phi thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ ra, tháo ra",
+          "list_en_vn": [
+            {
+              "full_en": "to remove one's hat",
+              "full_vn": "bỏ mũ ra"
+            },
+            {
+              "full_en": "to remove a tyre",
+              "full_vn": "tháo lốp xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách chức, đuổi",
+          "list_en_vn": [
+            {
+              "full_en": "to remove an afficial",
+              "full_vn": "cách chức một viên chức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy ra, đưa ra, rút ra...",
+          "list_en_vn": [
+            {
+              "full_en": "to remove a boy from school",
+              "full_vn": "xin rút một học sinh ra khỏi trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tẩy trừ (tham nhũng...), tẩy, xoá bỏ, loại bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to remove grease stains",
+              "full_vn": "tẩy vết mỡ"
+            },
+            {
+              "full_en": "to remove someone's name from a list",
+              "full_vn": "xoá bỏ tên ai trong danh sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giết, thủ tiêu, khử đi"
+        },
+        {
+          "m_full_vn": "làm hết (đau đớn), xua đuổi sạch (sự sợ hãi, mối nghi ngờ...)"
+        },
+        {
+          "m_full_vn": "bóc (niêm phong)"
+        },
+        {
+          "m_full_vn": "(y học) cắt bỏ"
+        },
+        {
+          "m_full_vn": "(y học) tháo (băng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dời đi xa, đi ra, tránh ra xa",
+          "list_en_vn": [
+            {
+              "full_en": "they shall never remove from here",
+              "full_vn": "họ nhất định không bao giờ rời khỏi chốn này đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dọn nhà, đổi chỗ ở",
+          "list_en_vn": [
+            {
+              "full_en": "to remove to a new house",
+              "full_vn": "dọn nhà đến một căn nhà mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680604_a4a5b47c17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680604_a7b7cf3b44_o.png",
+      "id_image": "remove_316529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062295_f481d0b605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062295_b196f5d303_o.png",
+      "id_image": "remove_5511669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325481_1474ccb2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325481_d970ef3107_o.png",
+      "id_image": "remove_6183125"
+    }
+  ]
+}

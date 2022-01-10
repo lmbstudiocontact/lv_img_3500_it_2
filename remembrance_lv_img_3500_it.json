@@ -1,0 +1,53 @@
+{
+  "english": "remembrance",
+  "phat_am": "[ri'membrəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc nhớ hoặc được nhớ; trí nhớ",
+          "list_en_vn": [
+            {
+              "full_en": "to have no remembrance of something",
+              "full_vn": "không nhớ được cái gì đó, quên hẳn cái gì đó"
+            },
+            {
+              "full_en": "a service in remembrance of those killed in the war",
+              "full_vn": "buổi lễ tưởng nhớ những người đã chết trong chiến tranh"
+            },
+            {
+              "full_en": "to have something in remembrance",
+              "full_vn": "nhớ lại cái gì, hồi tưởng lại cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món quà lưu niệm, vật kỷ niệm (để tưởng nhớ ai)",
+          "list_en_vn": [
+            {
+              "full_en": "he sent us a small remembrance of his visit",
+              "full_vn": "ông ấy gửi cho chúng tôi một vật kỷ niệm nhỏ để nhớ về chuyến viếng thăm của ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời chúc, lời hỏi thăm (qua một người nào)",
+          "list_en_vn": [
+            {
+              "full_en": "please give my remembrances to him",
+              "full_vn": "anh làm ơn cho tôi gửi lời hỏi thăm ông ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680994_3c906bdeb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680994_28bf794c32_o.png",
+      "id_image": "remembrance_4515212"
+    }
+  ]
+}

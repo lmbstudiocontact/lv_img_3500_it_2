@@ -1,0 +1,220 @@
+{
+  "english": "please",
+  "phat_am": "[pli:z]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm vui lòng, làm hài lòng, làm vừa lòng, làm vừa ý; làm thích, làm vui",
+          "list_en_vn": [
+            {
+              "full_en": "to please the eye",
+              "full_vn": "làm vui mắt, làm thích mắt"
+            },
+            {
+              "full_en": "our main aim is to please the customers",
+              "full_vn": "mục đích chính của chúng tôi là làm cho khách hàng ưng ý"
+            },
+            {
+              "full_en": "to please one's parents",
+              "full_vn": "làm vui lòng cha mẹ"
+            },
+            {
+              "full_en": "he's a very hard /difficult man to please",
+              "full_vn": "anh ta là người rất khó chiều"
+            },
+            {
+              "full_en": "I shall have nothing to do on holiday but please myself",
+              "full_vn": "tôi chẳng có gì làm vào ngày nghỉ ngoài việc thích làm gì thì làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong các mệnh đề phụ bắt đầu bằng as hoặc what ) thấy như thế là phù hợp hoặc hợp lý; tùy ý",
+          "list_one_mean": [
+            {
+              "id_full_en": "if you please",
+              "list_im": [
+                {
+                  "im_full_vn": "mong ông (bà...) vui lòng; xin mời (khi yêu cầu một cách lịch sự)"
+                },
+                {
+                  "im_full_vn": "anh thử nghĩ xem, thử tưởng tượng (diễn đạt nỗi bực tức, tức giận khi đề cập cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "come this way , if you please",
+                      "full_vn": "xin vui lòng đi lối này"
+                    },
+                    {
+                      "full_en": "and now , if you please , I've been told I'm to get nothing for my work!",
+                      "full_vn": "và bây giờ, anh thử nghĩ xem, người ta bảo là tôi sẽ chẳng được gì cho công việc của tôi cả"
+                    },
+                    {
+                      "full_en": "he says the food isn't hot enough , if you please!",
+                      "full_vn": "anh tưởng tượng xem, ông ta bảo thức ăn nguội cơ chứ!"
+                    },
+                    {
+                      "full_en": "and now , if you please , he expects me to pay for it !",
+                      "full_vn": "anh thử tưởng tượng xem, hắn ta lại đợi tôi trả tiền cơ!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "please God",
+              "list_im": [
+                {
+                  "im_full_vn": "lạy Chúa!, lạy Trời!",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Please God , things will start to improve soon",
+                      "full_vn": "cầu Trời cho mọi sự đều tốt hơn"
+                    },
+                    {
+                      "full_en": "she'll get better one day , please God",
+                      "full_vn": "lạy Chúa, mong cho một ngày gần đây cô ấy sẽ khá hơn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "please yourself",
+              "list_im": [
+                {
+                  "im_full_vn": "xin cứ làm theo ý mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "'I don't want to come with you today' . 'Oh , please yourself'",
+                      "full_vn": "'Hôm nay tôi không muốn đi với anh'. 'Ồ, vậy thì tùy em'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to please the pigs",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pig"
+                }
+              ]
+            },
+            {
+              "id_full_en": "may it please your honour",
+              "list_im": [
+                {
+                  "im_full_vn": "mong ngài vui lòng cho, mong ngài hạ cố cho, ngài rủ lòng cho"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "take as many as you please",
+              "full_vn": "anh muốn bao nhiêu xin cứ lấy"
+            },
+            {
+              "full_en": "you may stay here as long as you please",
+              "full_vn": "anh muốn ở đây bao lâu tùy anh"
+            },
+            {
+              "full_en": "the child behaves just as he pleases",
+              "full_vn": "đứa bé cư xử đúng như những gì nó thích"
+            },
+            {
+              "full_en": "I shall do as I please",
+              "full_vn": "tôi sẽ làm theo ý tôi"
+            },
+            {
+              "full_en": "do what you please",
+              "full_vn": "hãy làm những gì anh thích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng như phép lịch sự để yêu cầu, ra lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "please come in",
+              "full_vn": "xin mời vào"
+            },
+            {
+              "full_en": "tickets , please !",
+              "full_vn": "xin cho xem vé!"
+            },
+            {
+              "full_en": "two cups of tea , please",
+              "full_vn": "xin cho hai chén trà"
+            },
+            {
+              "full_en": "please don't leave me here alone !",
+              "full_vn": "xin đừng bỏ em ở đây một mình!"
+            },
+            {
+              "full_en": "please , please , don't be late",
+              "full_vn": "xin chú ý, đừng đến muộn"
+            },
+            {
+              "full_en": "please, I don't understand what I have to do",
+              "full_vn": "thưa ông, tôi vẫn chưa hiểu tôi phải làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) vâng, rất vui lòng (dùng để chấp nhận một lời đề nghị về cái gì)",
+          "list_one_mean": [
+            {
+              "id_full_en": "yes , please",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi chấp nhận và biết ơn (dùng (như) một phép lịch sự để chấp nhận một lời đề nghị về cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "'Would you like some coffee ? ' - 'Yes , please",
+                      "full_vn": "ông dùng tí cà phê nhé? - vâng, xin cám ơn"
+                    },
+                    {
+                      "full_en": "'Would you like a lift into town ? ' - 'Yes , please'",
+                      "full_vn": "cô lên xe cùng tôi vào thành phố nhé? - vâng, xin cám ơn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Can you help me ? - Please !",
+              "full_vn": "Bạn có thể giúp tôi không? - Rất vui lòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077885_ee75668387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077885_a79fc583fe_o.png",
+      "id_image": "please_5849437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695894_eb85cd02bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695894_628b9b0551_o.png",
+      "id_image": "please_599536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455438_7f68c9a5a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455438_2dfd962452_o.png",
+      "id_image": "please_6171972"
+    }
+  ]
+}

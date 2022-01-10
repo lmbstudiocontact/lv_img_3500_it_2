@@ -1,0 +1,27 @@
+{
+  "english": "ophthalmologist",
+  "phat_am": "[,ɔfθæl'mɔlədʒist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bác sĩ khoa mắt",
+          "list_en_vn": [
+            {
+              "full_en": "he is an ophthalmologist at the Cho ray hospital",
+              "full_vn": "anh ta là bác sĩ khoa mắt tại bệnh viện Chợ rẫy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083270_afeabc995f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083270_bc07038045_o.png",
+      "id_image": "ophthalmologist_3461756"
+    }
+  ]
+}

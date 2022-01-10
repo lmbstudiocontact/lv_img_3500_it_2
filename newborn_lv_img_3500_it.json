@@ -1,0 +1,27 @@
+{
+  "english": "newborn",
+  "phat_am": "['nju:bɔ:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mới sinh",
+          "list_en_vn": [
+            {
+              "full_en": "a newborn baby",
+              "full_vn": "trẻ sơ sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323281_83b446370c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323281_a23bf00135_o.png",
+      "id_image": "newborn_388350"
+    }
+  ]
+}

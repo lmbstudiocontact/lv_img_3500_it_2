@@ -1,0 +1,64 @@
+{
+  "english": "prisoner",
+  "phat_am": "['priznə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tù nhân, người bị giam giữ, người bị bắt nhốt; con vật bị nhốt",
+          "list_en_vn": [
+            {
+              "full_en": "political prisoner ; prisoner of conscience",
+              "full_vn": "tù chính trị"
+            },
+            {
+              "full_en": "a prison built to hold 1000 prisoners",
+              "full_vn": "một trại giam được xây lên để giam 1000 tù nhân"
+            },
+            {
+              "full_en": "to hold /take someone captive /prisoner",
+              "full_vn": "bắt ai bỏ tù; (quân sự) bắt ai làm tù binh"
+            },
+            {
+              "full_en": "prisoner at the bar , do you plead guilty or not guilty ?",
+              "full_vn": "bị cáo (nghĩa là phạm nhân đang đứng trước vành móng ngựa) có nhận tội hay không?"
+            },
+            {
+              "full_en": "he is a prisoner to his chair",
+              "full_vn": "nó (bị ốm) ngồi liệt trên ghế"
+            },
+            {
+              "full_en": "a fever took me prisoner in my bed",
+              "full_vn": "cơn sốt bắt tôi phải nằm liệt giường"
+            },
+            {
+              "full_en": "you're our prisoner now and we won't release you until a ransom is paid",
+              "full_vn": "bây giờ anh là tù nhân của chúng tôi và chúng tôi sẽ không thả anh ra nếu chúng tôi chưa nhận được tiền chuộc"
+            },
+            {
+              "full_en": "he spent two years as the prisoner of rebel soldiers in the mountains",
+              "full_vn": "anh ta bị quân lính nổi loạn cầm tù hai năm trên núi"
+            },
+            {
+              "full_en": "the wretched man is the prisoner of his own greed",
+              "full_vn": "con người khốn khổ đó là tù nhân của thói tham lam của chính y"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679279_20d6abc1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679279_2f67359b62_o.png",
+      "id_image": "prisoner_1396588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324091_ffd9943a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324091_e804dfef20_o.png",
+      "id_image": "prisoner_372300"
+    }
+  ]
+}

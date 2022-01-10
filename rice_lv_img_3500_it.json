@@ -1,0 +1,61 @@
+{
+  "english": "rice",
+  "phat_am": "[rais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thóc; gạo; cơm",
+          "list_en_vn": [
+            {
+              "full_en": "rough rice",
+              "full_vn": "lúa chưa xay"
+            },
+            {
+              "full_en": "husked rice",
+              "full_vn": "lúa xay rồi"
+            },
+            {
+              "full_en": "ground rice",
+              "full_vn": "bột gạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây lúa",
+          "list_en_vn": [
+            {
+              "full_en": "summer rice",
+              "full_vn": "lúa chiêm"
+            },
+            {
+              "full_en": "winter rice",
+              "full_vn": "lúa mùa"
+            },
+            {
+              "full_en": "rice fields",
+              "full_vn": "(thuộc ngữ) đồng lúa"
+            },
+            {
+              "full_en": "rice paddies",
+              "full_vn": "(thuộc ngữ) ruộng lúa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347296_76e540a834_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347296_b0eb40e737_o.png",
+      "id_image": "rice_129356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392252_9f07c6d54a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392252_0296c68c1a_o.png",
+      "id_image": "rice_909147"
+    }
+  ]
+}

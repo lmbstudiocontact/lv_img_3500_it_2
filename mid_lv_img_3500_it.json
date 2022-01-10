@@ -1,0 +1,61 @@
+{
+  "english": "mid",
+  "phat_am": "[mid]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữa của cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "mid-morning coffee",
+              "list_im": [
+                {
+                  "im_full_vn": "bữa cà phê giữa buổi sáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "mid-air collision",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc va chạm ở giữa không trung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "midsummer /midwinter",
+              "list_im": [
+                {
+                  "im_full_vn": "giữa mùa hè/giữa mùa đông"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "from mid June to mid August",
+              "full_vn": "từ giữa tháng sáu đến giữa tháng tám"
+            },
+            {
+              "full_en": "in mid autumn",
+              "full_vn": "vào giữa mùa thu"
+            },
+            {
+              "full_en": "a collision in mid Channel /in mid air",
+              "full_vn": "cuộc va chạm ở giữa biển Măngsơ/ở giữa không trung"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389142_63011f61a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389142_ec23f67ac9_o.png",
+      "id_image": "mid_3014430"
+    }
+  ]
+}

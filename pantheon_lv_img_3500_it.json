@@ -1,0 +1,43 @@
+{
+  "english": "pantheon",
+  "phat_am": "[pæn'θi:ən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đền bách thần (đền thờ tất cả các vị thần ở cổ Hy-lạp và La mã)"
+        },
+        {
+          "m_full_vn": "tất cả các vị thần (của một (dân tộc), một nước)",
+          "list_en_vn": [
+            {
+              "full_en": "the Egyptian pantheon",
+              "full_vn": "các vị thần của Ai-cập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lăng danh nhân, đền thờ các danh nhân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689874_fb75d5c5fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689874_d3314ce8e9_o.png",
+      "id_image": "pantheon_1201813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379712_a813896ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379712_23ca1c3d40_o.png",
+      "id_image": "pantheon_1373385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449888_65ba6013cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449888_d3dbaef2ae_o.png",
+      "id_image": "pantheon_533491"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "english": "neck",
+  "phat_am": "[nek]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cổ (người, súc vật; chai, lọ)",
+          "list_en_vn": [
+            {
+              "full_en": "to break one's neck",
+              "full_vn": "gãy cổ, chết vì gãy cổ"
+            },
+            {
+              "full_en": "to have a stiff neck",
+              "full_vn": "bị bệnh cứng cổ"
+            },
+            {
+              "full_en": "the neck of a bottle",
+              "full_vn": "cổ chai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thịt cổ (cừu)"
+        },
+        {
+          "m_full_vn": "chỗ thắt lại, chỗ hẹp lại (của một cái gì)"
+        },
+        {
+          "m_full_vn": "(từ lóng) tính táo tợn, tính liều lĩnh; người táo tợn, người liều lĩnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to break the neck of",
+              "list_im": [
+                {
+                  "im_full_vn": "khắc phục được những phần khó khăn nhất (của một công việc...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (catch , take ) it in the neck",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bị đánh chết"
+                },
+                {
+                  "im_full_vn": "bị một vố đau; bị quở trách trừng phạt nặng nề; bị thải hồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to harden the neck",
+              "list_im": [
+                {
+                  "im_full_vn": "dở bướng, cứng đầu cứng cổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "neck and neck",
+              "list_im": [
+                {
+                  "im_full_vn": "ngang nhau, không hơn nhau tí nào (chạy thi; đua ngựa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "neck or nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "được ăn cả ngã về không; một mất một còn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to risk one's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "liều mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to save one's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát chết ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick (shoot ) one's neck out",
+              "list_im": [
+                {
+                  "im_full_vn": "thách đánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stiff neck",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) sự bướng bỉnh, sự ngoan cố, sự cứng đầu cứng cổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk through the back of one's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nói lung tung, nói bừa bãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to breathe down sb's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "ở sát đằng sau ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "neck and crop",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a pain in the neck",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật gây phiền toái, của nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be up to one's neck in sth",
+              "list_im": [
+                {
+                  "im_full_vn": "bị liên lụy vào việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win /lose by a neck",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng/thua trong gang tấc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wring sb's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "tức tối đến nỗi muốn vặn cổ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a millstone round one's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "gánh nặng trách nhiệm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread on somebody's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "đè đầu cưỡi cổ ai, bức hiếp ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "what a neck !",
+              "full_vn": "thằng táo tợn gớm!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ôm cổ; ôm ấp, âu yếm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063540_1a3f03d384_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063540_581326b8fc_o.png",
+      "id_image": "neck_2688254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441608_50fd5efe0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441608_ba9e48a49a_o.png",
+      "id_image": "neck_2688307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681649_89e7109298_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681649_e560612ae7_o.png",
+      "id_image": "neck_5737469"
+    }
+  ]
+}

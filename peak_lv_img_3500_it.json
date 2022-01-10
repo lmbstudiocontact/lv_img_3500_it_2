@@ -1,0 +1,114 @@
+{
+  "english": "peak",
+  "phat_am": "[pi:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưỡi trai (của mũ)"
+        },
+        {
+          "m_full_vn": "đỉnh, chỏm, chóp (núi); núi",
+          "list_en_vn": [
+            {
+              "full_en": "hair combed into a peak",
+              "full_vn": "tóc chải thành chỏm"
+            },
+            {
+              "full_en": "the peak of a roof",
+              "full_vn": "nóc nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu nhọn (của râu, ngạnh)"
+        },
+        {
+          "m_full_vn": "tột đỉnh, cao điểm; tối đa, nhộn nhịp, mãnh liệt nhất",
+          "list_en_vn": [
+            {
+              "full_en": "peak production",
+              "full_vn": "sản xuất tối đa"
+            },
+            {
+              "full_en": "peak load",
+              "full_vn": "trọng tải cao nhất"
+            },
+            {
+              "full_en": "the peak hour",
+              "full_vn": "giờ cao điểm"
+            },
+            {
+              "full_en": "resonance peak",
+              "full_vn": "(vật lý) đỉnh cộng hưởng"
+            },
+            {
+              "full_en": "peak rate",
+              "full_vn": "giá cao điểm (giá cao nhất trong thời kỳ đông khách nhất)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) mỏm (tàu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) dựng thẳng (trục buồm); dựng đứng (mái chèo)"
+        },
+        {
+          "m_full_vn": "dựng ngược (đuôi cá voi)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm cho đạt tới đỉnh cao nhất"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dựng ngược đuôi lao thẳng đứng xuống (cá voi)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đạt tới đỉnh cao nhất"
+        },
+        {
+          "m_full_vn": "héo hom, ốm o gầy mòn, xanh xao, tiều tuỵ",
+          "list_one_mean": [
+            {
+              "id_full_en": "peak and pine",
+              "list_im": [
+                {
+                  "im_full_vn": "héo hon chết mòn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the Peak District",
+                      "full_vn": "khu vực ở Derbyshire ( Anh) nơi có nhiều đỉnh núi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680194_df54f7f0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680194_df69ea7e46_o.png",
+      "id_image": "peak_1655129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325071_9972699a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325071_59236c9f91_o.png",
+      "id_image": "peak_980766"
+    }
+  ]
+}

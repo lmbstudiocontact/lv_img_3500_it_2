@@ -1,0 +1,64 @@
+{
+  "english": "potato",
+  "phat_am": "[pə'teitou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều potatoes",
+      "list_m": [
+        {
+          "m_full_vn": "cây khoai tây; củ khoai tây; món khoai tây",
+          "list_one_mean": [
+            {
+              "id_full_en": "potatoes and point",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ thấy khoai chẳng thấy thịt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite the potato",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) được, ổn, chu toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "such behaviour is not quite the potato",
+                      "full_vn": "cách cư xử như thế không ổn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hot potato",
+              "list_im": [
+                {
+                  "im_full_vn": "như hot"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "sweet potato",
+              "full_vn": "khoai lang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377777_04902168e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377777_5be72e2b69_o.png",
+      "id_image": "potato_1292465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069760_d94fb5f667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069760_7c14e78043_o.png",
+      "id_image": "potato_2333938"
+    }
+  ]
+}

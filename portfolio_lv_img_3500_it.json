@@ -1,0 +1,53 @@
+{
+  "english": "portfolio",
+  "phat_am": "[pɔ:t'fouliou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều portfolios",
+      "list_m": [
+        {
+          "m_full_vn": "cặp giấy (để mang giấy tờ, hồ sơ.. rời)"
+        },
+        {
+          "m_full_vn": "danh mục vốn đầu tư (của một công ty, một nhà ngân hàng)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chức vụ bộ trưởng",
+          "list_en_vn": [
+            {
+              "full_en": "Minister without portfolio",
+              "full_vn": "Bộ trưởng không bộ (ở Anh, bộ trưởng trong Nội các không chịu trách nhiệm về một bộ nào)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334681_b6467c064e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334681_0fd12dd83e_o.png",
+      "id_image": "portfolio_1096152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449648_604f385aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449648_bd34fe1b29_o.png",
+      "id_image": "portfolio_1907425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071600_1c69dc574c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071600_0932943ced_o.png",
+      "id_image": "portfolio_2345295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689684_97172481be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689684_2644e9f7e6_o.png",
+      "id_image": "portfolio_3365880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379662_d6c2877c3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379662_832329b292_o.png",
+      "id_image": "portfolio_683511"
+    }
+  ]
+}

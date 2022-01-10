@@ -1,0 +1,30 @@
+{
+  "english": "sassy",
+  "phat_am": "['sæsi]",
+  "list_type": [
+    {
+      "type": "tính từ so sánh",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) thô bạo một cách hỗn xược"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) tươi tắn, bảnh bao",
+          "list_en_vn": [
+            {
+              "full_en": "a real sassy dresser",
+              "full_vn": "người ăn mặc thật bảnh bao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689594_e15dae3e5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689594_08c790731b_o.png",
+      "id_image": "sassy_1815129"
+    }
+  ]
+}

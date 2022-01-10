@@ -1,0 +1,48 @@
+{
+  "english": "nappy",
+  "phat_am": "['næpi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) có bọt; bốc mạnh (rượu bia)"
+        },
+        {
+          "m_full_vn": "có tuyết (hàng vải)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tã lót (của trẻ con)",
+          "list_en_vn": [
+            {
+              "full_en": "a disposable napkin",
+              "full_vn": "tã lót dùng một lần (dùng xong thì vứt đi)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373127_ee56624d99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373127_6961e2cfef_o.png",
+      "id_image": "nappy_1607295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683434_2aeb29e0d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683434_6a955ce887_o.png",
+      "id_image": "nappy_1607305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683384_23675272a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683384_153bb0a0ca_o.png",
+      "id_image": "nappy_3739497"
+    }
+  ]
+}

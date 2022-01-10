@@ -1,0 +1,31 @@
+{
+  "english": "scarcity",
+  "phat_am": "['skeəsəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khan hiếm; sự khó tìm",
+          "list_en_vn": [
+            {
+              "full_en": "frequent scarcities of raw materials",
+              "full_vn": "sự khan hiếm thường xuyên về nhiên liệu"
+            },
+            {
+              "full_en": "the scarcity of food forced prices up",
+              "full_vn": "sự khan hiếm thực phẩm thúc đẩy giá cả tăng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447258_3940735937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447258_6f6fdb6741_o.png",
+      "id_image": "scarcity_6203109"
+    }
+  ]
+}

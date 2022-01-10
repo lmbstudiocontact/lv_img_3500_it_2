@@ -1,0 +1,70 @@
+{
+  "english": "recovery",
+  "phat_am": "[ri'kʌvəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lấy lại được, sự tìm lại được (vật đã mất...); vật lấy lại được, vật tìm lại được"
+        },
+        {
+          "m_full_vn": "sự đòi lại được (món nợ...)"
+        },
+        {
+          "m_full_vn": "sự bình phục, sự khỏi bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "recovery from infuenza",
+              "full_vn": "sự khỏi cúm"
+            },
+            {
+              "full_en": "past recovery",
+              "full_vn": "không thể khỏi được (người ốm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng hồi sức",
+          "list_en_vn": [
+            {
+              "full_en": "the patient is in recovery",
+              "full_vn": "bệnh nhân nằm trong phòng hồi sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khôi phục lại, sự phục hồi lại (kinh tế)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng thủ thế lại (đánh kiếm)"
+        },
+        {
+          "m_full_vn": "(hàng không) sự lấy lại thăng bằng (sau vòng liệng xoáy trôn ốc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334091_8728b57772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334091_139c313076_o.png",
+      "id_image": "recovery_1564280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334061_f36e2b6a14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334061_a1dd577277_o.png",
+      "id_image": "recovery_3063585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378882_a1b82e2c5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378882_bac03ac979_o.png",
+      "id_image": "recovery_5116226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689189_662f4f8dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689189_1e19bcf345_o.png",
+      "id_image": "recovery_719159"
+    }
+  ]
+}

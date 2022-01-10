@@ -1,0 +1,31 @@
+{
+  "english": "pharmaceutical",
+  "phat_am": "[,fɑ:mə'sju:tikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) dược; (thuộc) việc mua bán, sử dụng thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "pharmaceutical products",
+              "full_vn": "dược phẩm"
+            },
+            {
+              "full_en": "the pharmaceutical industry",
+              "full_vn": "nền công nghiệp dược"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704929_2f8563c6ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704929_411d226dce_o.png",
+      "id_image": "pharmaceutical_1354761"
+    }
+  ]
+}

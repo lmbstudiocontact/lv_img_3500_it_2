@@ -1,0 +1,59 @@
+{
+  "english": "military",
+  "phat_am": "['militri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về binh lính hoặc cho một quân đội; thuộc về hoặccho lực lượng vũ trang",
+          "list_en_vn": [
+            {
+              "full_en": "military training ; military discipline",
+              "full_vn": "sự huấn luyện quân sự; kỷ luật quân đội"
+            },
+            {
+              "full_en": "in full military uniform",
+              "full_vn": "mặc quân phục chỉnh tề"
+            },
+            {
+              "full_en": "to be called up for military service ; to do military service",
+              "full_vn": "được gọi đi nghĩa vụ quân sự; đi nghĩa vụ quân sự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the military ) binh lính hoặc quân đội; bộ đội (khác với cảnh sát, công an)",
+          "list_en_vn": [
+            {
+              "full_en": "the military were called in to deal with the riot",
+              "full_vn": "quân đội được gọi đến giải quyết vụ bạo động"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458478_fcc21b3618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458478_17921e9d88_o.png",
+      "id_image": "military_3191044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081130_b283f75d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081130_359ab80b54_o.png",
+      "id_image": "military_6250548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698984_7351555aed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698984_7f37736d61_o.png",
+      "id_image": "military_771344"
+    }
+  ]
+}

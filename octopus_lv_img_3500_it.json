@@ -1,0 +1,32 @@
+{
+  "english": "octopus",
+  "phat_am": "['ɒktəpəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con bạch tuộc, con mực phủ",
+          "list_en_vn": [
+            {
+              "full_en": "Have you ever tasted octopus ?",
+              "full_vn": "Bạn đã bao giờ ăn con mực phủ chưa?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348956_8234c6ce51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348956_3e5da1d971_o.png",
+      "id_image": "octopus_1660594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393742_e5bd293b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393742_c6bc304202_o.png",
+      "id_image": "octopus_3751415"
+    }
+  ]
+}

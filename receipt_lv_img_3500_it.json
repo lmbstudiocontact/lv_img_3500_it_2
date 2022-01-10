@@ -1,0 +1,68 @@
+{
+  "english": "receipt",
+  "phat_am": "[ri'si:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công thức (làm bánh, nấu món ăn...)",
+          "list_en_vn": [
+            {
+              "full_en": "a receipt for cake",
+              "full_vn": "công thức làm bánh ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn thuốc"
+        },
+        {
+          "m_full_vn": "sự nhận được (thơ...)",
+          "list_en_vn": [
+            {
+              "full_en": "on receipt of your letter",
+              "full_vn": "khi nhận được thơ ông"
+            },
+            {
+              "full_en": "to acknowledge receipt of ...",
+              "full_vn": "báo đã nhận được..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (thương nghiệp); (tài chính) sự thu; số thu",
+          "list_en_vn": [
+            {
+              "full_en": "receipts and expenses",
+              "full_vn": "số thu và số chi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấy biên nhận, biên lai (nhận tiền...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ký nhận số tiền đã trả (trên một biên lại, hoá đơn); đóng dấu nhận thực \"đã trả\" (trên một hoá đơn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381357_e3a9f4ab3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381357_b48e720bee_o.png",
+      "id_image": "receipt_1652599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073265_61248c0056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073265_42114c6b12_o.png",
+      "id_image": "receipt_4116585"
+    }
+  ]
+}

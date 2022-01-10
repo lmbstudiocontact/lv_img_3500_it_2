@@ -1,0 +1,41 @@
+{
+  "english": "pneumonia",
+  "phat_am": "[nju:'mouniə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) viêm phổi",
+          "list_en_vn": [
+            {
+              "full_en": "single pneumonia",
+              "full_vn": "viêm một buồng phổi"
+            },
+            {
+              "full_en": "double pneumonia",
+              "full_vn": "viêm cả hai buồng phổi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076530_ded0c0a53c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076530_e47fe9704b_o.png",
+      "id_image": "pneumonia_2636734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339346_f6a7a05b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339346_cbe315a4c6_o.png",
+      "id_image": "pneumonia_2713270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076480_de5ef95fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076480_5acdbdc310_o.png",
+      "id_image": "pneumonia_4171527"
+    }
+  ]
+}

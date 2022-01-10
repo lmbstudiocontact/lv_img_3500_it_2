@@ -1,0 +1,76 @@
+{
+  "english": "reflex",
+  "phat_am": "['ri:fleks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng phản chiếu; vật phản chiếu, bóng phản chiếu trong gương"
+        },
+        {
+          "m_full_vn": "tiếng dội lại"
+        },
+        {
+          "m_full_vn": "(vật lý) sự phản xạ"
+        },
+        {
+          "m_full_vn": "(sinh vật học); (y học) phản xạ",
+          "list_en_vn": [
+            {
+              "full_en": "conditioned reflex",
+              "full_vn": "phản xạ có điều kiện"
+            },
+            {
+              "full_en": "unconditioned reflex",
+              "full_vn": "phản xạ không có điều kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phản ánh"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn sâu vào nội tâm; soi rọi lại bản thân (ý nghĩ)"
+        },
+        {
+          "m_full_vn": "phản chiếu (ánh sáng)"
+        },
+        {
+          "m_full_vn": "phản ứng, tác động trở lại",
+          "list_en_vn": [
+            {
+              "full_en": "a reflex influence",
+              "full_vn": "một ảnh hưởng tác động trở lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản xạ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686339_4770c219a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686339_348b5a944e_o.png",
+      "id_image": "reflex_2534470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686304_cacc01a50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686304_2d6b41afdc_o.png",
+      "id_image": "reflex_2621819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331331_eed0fc6975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331331_6b3419c46f_o.png",
+      "id_image": "reflex_813586"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "mourn",
+  "phat_am": "[mɔ:n]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to mourn for / over somebody / something ) than khóc, thương tiếc",
+          "list_en_vn": [
+            {
+              "full_en": "she mourned (for / over) her dead child for many years",
+              "full_vn": "bà ta than khóc đứa con đã qua đời trong nhiều năm qua"
+            },
+            {
+              "full_en": "we all mourn the destruction of a well loved building",
+              "full_vn": "tất cả chúng tôi đều nuối tiếc vì việc phá hủy một toà nhà yêu dấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378937_a6c308d442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378937_6430d31c9c_o.png",
+      "id_image": "mourn_3768716"
+    }
+  ]
+}

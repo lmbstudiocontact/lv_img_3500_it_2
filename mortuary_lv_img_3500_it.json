@@ -1,0 +1,35 @@
+{
+  "english": "mortuary",
+  "phat_am": "['mɔ:t∫əri; 'mɔ:t∫ueri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sự chết, (thuộc) việc tang",
+          "list_en_vn": [
+            {
+              "full_en": "mortuary rites",
+              "full_vn": "lễ tang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà xác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691094_91e08b1fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691094_f9550a1487_o.png",
+      "id_image": "mortuary_5967445"
+    }
+  ]
+}

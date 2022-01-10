@@ -1,0 +1,59 @@
+{
+  "english": "perfume",
+  "phat_am": "[pə'fju:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hương thơm; mùi thơm",
+          "list_en_vn": [
+            {
+              "full_en": "the perfume of flowers",
+              "full_vn": "nước hoa; dầu thơm"
+            },
+            {
+              "full_en": "flowery perfumes",
+              "full_vn": "hươnh thơm của hoa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "toả hương thơm vào, toả mùi thơm vào (không khí...)",
+          "list_en_vn": [
+            {
+              "full_en": "the roses perfumed the room",
+              "full_vn": "hoa hồng toả hương thơm khắp căn phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xức nước hoa vào (khăn tay, tóc...)",
+          "list_en_vn": [
+            {
+              "full_en": "perfume a handkerchief",
+              "full_vn": "xức nước hoa vào khăn tay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057370_60a796e5b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057370_8ee4124688_o.png",
+      "id_image": "perfume_1660259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320646_6176db297c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320646_258c0e9731_o.png",
+      "id_image": "perfume_410448"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "english": "move",
+  "phat_am": "[mu:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chuyển động, sự di chuyển, sự xê dịch",
+          "list_en_vn": [
+            {
+              "full_en": "to make a move",
+              "full_vn": "di chuyển, đổi chuyển, sự xê dịch"
+            },
+            {
+              "full_en": "to make a move",
+              "full_vn": "di chuyển đổi chỗ, đứng dạy đi chỗ khác"
+            },
+            {
+              "full_en": "on the move",
+              "full_vn": "di chuyển, hoạt động; tiến triển"
+            },
+            {
+              "full_en": "to get a move on",
+              "full_vn": "(từ lóng) hoạt động lên; làm gấp, tiến hành gấp rút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh cờ) nước",
+          "list_en_vn": [
+            {
+              "full_en": "that was a good move",
+              "full_vn": "đó là một nước hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượt, lần, phiên (trong một trò chơi)",
+          "list_en_vn": [
+            {
+              "full_en": "it's your move",
+              "full_vn": "đến lượt anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biện pháp; bước"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyển, di chuyển, chuyển dịch, xê dịch, đổi chỗ, dời chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to move troops from one place to another",
+              "full_vn": "chuyển quân từ chỗ này sang chỗ khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắc, lay, khuấy, quấy, làm chuyển động; nhấc",
+          "list_en_vn": [
+            {
+              "full_en": "he can't move his arm",
+              "full_vn": "nó không thể nhắc được cánh tay"
+            },
+            {
+              "full_en": "to move heaven and earth",
+              "full_vn": "khuấy đảo trời đất, dùng đủ mọi biện pháp, xoay xở đủ trò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nhuận (tràng)"
+        },
+        {
+          "m_full_vn": "kích thích, kích động, gây ra, làm cho, xúi giục, gợi",
+          "list_en_vn": [
+            {
+              "full_en": "it moved them to anger",
+              "full_vn": "cái đó làm cho chúng nó nổi giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cảm động, làm xúc động, làm mũi lòng, gợi mối thương cảm",
+          "list_en_vn": [
+            {
+              "full_en": "to be moved to tears",
+              "full_vn": "cảm động đến ứa nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "I move the adjournment of the meeting",
+              "full_vn": "tôi đề nghị hoãn buổi họp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyển động, cử động, động đậy, cựa quậy, lay động",
+          "list_en_vn": [
+            {
+              "full_en": "it was calm and not a leaf moved",
+              "full_vn": "trời lặng gió, không một chiếc lá lay động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi, di chuyển, xê dịch, chuyển dịch",
+          "list_en_vn": [
+            {
+              "full_en": "it is about time we should move",
+              "full_vn": "đã đến giờ chúng ta phải đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động, hoạt động",
+          "list_one_mean": [
+            {
+              "id_full_en": "to move about",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đi lại lại, đi quanh, chuyển quanh"
+                },
+                {
+                  "im_full_vn": "hay dọn nhà, hay thay đổi chỗ ở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move along",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move away",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn đi, cất đi"
+                },
+                {
+                  "im_full_vn": "đi xa, đi hẳn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move back",
+              "list_im": [
+                {
+                  "im_full_vn": "lùi; kéo lùi lại, chuyển về phía sau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move forward",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến; cho tiến lên, chuyển về phía trước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move in",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn nhà (đến chỗ ở mới)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move off",
+              "list_im": [
+                {
+                  "im_full_vn": "ra đi, đi xa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move on",
+              "list_im": [
+                {
+                  "im_full_vn": "cho đi tiếp; tiến lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "move on",
+                      "full_vn": "đề nghị đi đi, đừng đứng ùn lại (lệnh của công an (giao thông))"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move out",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn nhà đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to move up",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển lên; trèo lên, tiến lên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378687_d7fc984dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378687_534021d15e_o.png",
+      "id_image": "move_1083106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070715_563627857a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070715_ca5c3502d1_o.png",
+      "id_image": "move_1558171"
+    }
+  ]
+}

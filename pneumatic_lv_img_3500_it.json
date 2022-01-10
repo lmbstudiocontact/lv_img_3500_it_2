@@ -1,0 +1,60 @@
+{
+  "english": "pneumatic",
+  "phat_am": "[nju:'mætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầy không khí",
+          "list_en_vn": [
+            {
+              "full_en": "a pneumatic tyre",
+              "full_vn": "bánh hơi"
+            },
+            {
+              "full_en": "pneumatic hammer",
+              "full_vn": "búa hơi, búa gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chạy bằng khí, chạy bằng hơi; làm việc nhờ khí nén",
+          "list_en_vn": [
+            {
+              "full_en": "a pneumatic drill",
+              "full_vn": "máy khoan bằng khí nén"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy bằng lốp hơi, có lốp hơi"
+        },
+        {
+          "m_full_vn": "(động vật học) có nhiều khoang khí, xốp (xương chim)"
+        },
+        {
+          "m_full_vn": "(tôn giáo) (thuộc) tinh thần, (thuộc) linh hồn"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lốp hơi, lốp bơm hơi"
+        },
+        {
+          "m_full_vn": "xe chạy bằng lốp hơi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454343_e6e32850b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454343_6e0c8480db_o.png",
+      "id_image": "pneumatic_951028"
+    }
+  ]
+}

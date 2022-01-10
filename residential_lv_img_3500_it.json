@@ -1,0 +1,64 @@
+{
+  "english": "residential",
+  "phat_am": "[,rezi'den∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nhà ở, (thuộc) nhà riêng; để ở; dân cư",
+          "list_en_vn": [
+            {
+              "full_en": "residential address",
+              "full_vn": "địa chỉ nhà ở"
+            },
+            {
+              "full_en": "residential district",
+              "full_vn": "khu dân cư (không phải khu cơ quan hay khu buôn bán)"
+            },
+            {
+              "full_en": "residential rental",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) tiền thuê nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có liên quan tới nơi cư trú, dựa trên nơi ở",
+          "list_en_vn": [
+            {
+              "full_en": "the residential qualification for voters",
+              "full_vn": "tư cách cư trú đối với cử tri"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676949_00a24bc0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676949_9fcfec3a6e_o.png",
+      "id_image": "residential_2947576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706619_ae43d5c97d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706619_527b2bf4a8_o.png",
+      "id_image": "residential_3053792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466613_db444a2acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466613_0592461811_o.png",
+      "id_image": "residential_4413920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396807_239830be0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396807_c6ae80dc09_o.png",
+      "id_image": "residential_4698496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089270_5373e52ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089270_8b62caaa00_o.png",
+      "id_image": "residential_6289587"
+    }
+  ]
+}

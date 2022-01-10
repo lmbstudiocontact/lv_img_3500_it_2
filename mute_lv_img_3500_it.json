@@ -1,0 +1,100 @@
+{
+  "english": "mute",
+  "phat_am": "[mju:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "câm, thầm lặng, lặng thinh, ngầm, không nói được nên lời, im hơi lặng tiếng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stand mute of malice",
+              "list_im": [
+                {
+                  "im_full_vn": "(pháp lý) khăng khăng từ chối không chịu biện bạch"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stand mute",
+              "full_vn": "đứng lặng thinh"
+            },
+            {
+              "full_en": "in mute love",
+              "full_vn": "trong tình yêu thầm lặng"
+            },
+            {
+              "full_en": "mute e",
+              "full_vn": "e câm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người câm"
+        },
+        {
+          "m_full_vn": "(sân khấu) vai tuồng câm"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) nguyên âm câm; phụ âm câm"
+        },
+        {
+          "m_full_vn": "người đi đưa ma thuê; người khóc mướn"
+        },
+        {
+          "m_full_vn": "người đầy tớ câm"
+        },
+        {
+          "m_full_vn": "(âm nhạc) cái chặn tiếng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) chặn tiếng"
+        },
+        {
+          "m_full_vn": "(âm nhạc) lắp cái chặn tiếng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm câm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ỉa (chim)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445243_c249823d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445243_1edfc40e28_o.png",
+      "id_image": "mute_1112541"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445203_59f2141af8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445203_4fa5a7260e_o.png",
+      "id_image": "mute_2831073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067065_d1236c223a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067065_fd589bce6b_o.png",
+      "id_image": "mute_6212371"
+    }
+  ]
+}

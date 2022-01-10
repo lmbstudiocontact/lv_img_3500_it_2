@@ -1,0 +1,143 @@
+{
+  "english": "punch",
+  "phat_am": "[pʌnt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú đấm, cú thoi, quả thụi",
+          "list_en_vn": [
+            {
+              "full_en": "a punch on the head",
+              "full_vn": "cú đấm vào đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hùng hồn, sự mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a speech with plenty of punch",
+              "full_vn": "một bài diễn văn rất hùng hồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sức mạnh, lực; đà, trớn"
+        },
+        {
+          "m_full_vn": "rượu pân (rượu mạnh pha nước nóng, đường, sữa, chanh, gia vị..)"
+        },
+        {
+          "m_full_vn": "bát rượu pân"
+        },
+        {
+          "m_full_vn": "tiệc rượu pân"
+        },
+        {
+          "m_full_vn": "ngựa thồ mập lùn (như) Suffork punch ; vật béo lùn, vật to lùn"
+        },
+        {
+          "m_full_vn": "( Punch ) Pân (nhân vật gù lưng, lố bịch trong vở rối truyền thống có tên là Punch and Judy)",
+          "list_one_mean": [
+            {
+              "id_full_en": "(as) pleased as Punch",
+              "list_im": [
+                {
+                  "im_full_vn": "rất hài lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as proud as Punch",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức vây vo, dương dương tự đắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull one's punches",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) (đặc biệt dùng ở thể phủ định) tấn công không mãnh liệt bằng khả năng có thể có của mình; không thẳng tay",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He certainly didn't pull any punches when it came to criticizing the work",
+                      "full_vn": "Chắc chắn ông ấy không thẳng tay khi phê bình tác phẩm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ (như) puncheon",
+      "list_m": [
+        {
+          "m_full_vn": "cái giùi, máy giùi; kìm bấm (vé tàu); kìm nhổ đinh"
+        },
+        {
+          "m_full_vn": "máy khoan"
+        },
+        {
+          "m_full_vn": "máy dập dấu (để đóng dấu, in hình lên một mặt phẳng)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đấm, thoi, thụi"
+        },
+        {
+          "m_full_vn": "giùi lỗ (miếng da, giấy, tôn... bằng cái giùi); bấm (vé tàu... bằng kìm bấm)"
+        },
+        {
+          "m_full_vn": "khoan (lỗ bằng máy khoan)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thúc (trâu, bò...) bằng giấy đầu nhọn"
+        },
+        {
+          "m_full_vn": "chọc, thúc bằng gậy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to punch in",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng (đinh) vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to punch out",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ (đinh) ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392692_a4b5679cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392692_8957b43c8b_o.png",
+      "id_image": "punch_1754044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462533_5655d25bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462533_a4d426656f_o.png",
+      "id_image": "punch_2121104"
+    }
+  ]
+}

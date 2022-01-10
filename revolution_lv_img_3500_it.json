@@ -1,0 +1,71 @@
+{
+  "english": "revolution",
+  "phat_am": "[,revə'lu:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xoay vòng; vòng quay; vòng, tua",
+          "list_en_vn": [
+            {
+              "full_en": "revolutions per minute",
+              "full_vn": "số vòng quay mỗi phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học); (thiên văn học) sự xoay vòng"
+        },
+        {
+          "m_full_vn": "cuộc cách mạng (nhất là bằng vũ lực, lật đổ một chế độ cai trị)",
+          "list_en_vn": [
+            {
+              "full_en": "the socialist revolution",
+              "full_vn": "cuộc cách mạng xã hội chủ nghĩa"
+            },
+            {
+              "full_en": "the national democratic revolution",
+              "full_vn": "cuộc cách mạng dân tộc dân chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc cách mạng (sự thay đổi hoàn toàn về phương pháp, hoàn cảnh..)",
+          "list_en_vn": [
+            {
+              "full_en": "a revolution in the treatment of cancer",
+              "full_vn": "một cuộc cách mạng trong cách điều trị ung thư"
+            },
+            {
+              "full_en": "a technological revolution",
+              "full_vn": "một cuộc cách mạng trong công nghệ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085370_b0c83050a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085370_068ce47432_o.png",
+      "id_image": "revolution_1610502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702774_652e860bce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702774_99f34e702f_o.png",
+      "id_image": "revolution_2229972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702749_175735f957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702749_e6681978a0_o.png",
+      "id_image": "revolution_2529759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085290_aa73a614c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085290_9deffc055f_o.png",
+      "id_image": "revolution_3919324"
+    }
+  ]
+}

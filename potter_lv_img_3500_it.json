@@ -1,0 +1,51 @@
+{
+  "english": "potter",
+  "phat_am": "['pɔtə(r)]",
+  "list_type": [
+    {
+      "type": "nội động từ (như) putter",
+      "list_m": [
+        {
+          "m_full_vn": "làm qua loa, làm tắc trách, làm không ra đầu ra đuôi; đi thơ thẩn"
+        },
+        {
+          "m_full_vn": "( + about , around ) đi lang thang; làm tà tà, làm công việc vặt vãnh"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + away ) lãng phí",
+          "list_en_vn": [
+            {
+              "full_en": "to potter away one's time",
+              "full_vn": "lãng phí thời giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ gốm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069065_cf7d2b25b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069065_21aac2679c_o.png",
+      "id_image": "potter_1230732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447333_466598ffb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447333_901ca0c62a_o.png",
+      "id_image": "potter_4539349"
+    }
+  ]
+}

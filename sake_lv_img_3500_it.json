@@ -1,0 +1,78 @@
+{
+  "english": "sake",
+  "phat_am": "['sɑ:ki]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mục đích, lợi ích",
+          "list_one_mean": [
+            {
+              "id_full_en": "for somebody's/something's sake",
+              "list_im": [
+                {
+                  "im_full_vn": "vì ai/cái gì; vì lợi ích của ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the sake of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "vì ai/cái gì; vì lợi ích của ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "for the sake of somebody ; for somebody's sake",
+                      "full_vn": "vì ai, vì lợi ích của ai"
+                    },
+                    {
+                      "full_en": "for God's sake",
+                      "full_vn": "vì Chúa"
+                    },
+                    {
+                      "full_en": "for the sake of peace",
+                      "full_vn": "vì hoà bình"
+                    },
+                    {
+                      "full_en": "for old sake's sake",
+                      "full_vn": "để tưởng nhớ thời xưa"
+                    },
+                    {
+                      "full_en": "for someone's name's sake",
+                      "full_vn": "vì tên tuổi của ai, vì thanh danh của ai"
+                    },
+                    {
+                      "full_en": "art for art's sake",
+                      "full_vn": "nghệ thuật vì nghệ thuật"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rượu xa-kê (của người Nhật) (như) saki"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074130_478c621d77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074130_8345e4c6fd_o.png",
+      "id_image": "sake_2700273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692394_7927c0cfd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692394_c8231ff4ed_o.png",
+      "id_image": "sake_2721385"
+    }
+  ]
+}

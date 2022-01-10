@@ -1,0 +1,1286 @@
+{
+  "english": "run",
+  "phat_am": "[of]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chạy",
+          "list_en_vn": [
+            {
+              "full_en": "at a run",
+              "full_vn": "đang chạy"
+            },
+            {
+              "full_en": "on the run all day",
+              "full_vn": "chạy ngược, chạy xuôi suốt ngày, bận rộn suốt ngày"
+            },
+            {
+              "full_en": "to be on the run",
+              "full_vn": "chạy đi, chạy trốn, chuồn"
+            },
+            {
+              "full_en": "to break into a run",
+              "full_vn": "bắt đầu chạy"
+            },
+            {
+              "full_en": "to keep the enemy on the run",
+              "full_vn": "truy kích (đuổi theo) quân địch"
+            },
+            {
+              "full_en": "to go for a short run before breakfast",
+              "full_vn": "chạy một quãng ngắn trước khi ăn sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc hành trình ngắn, cuộc đi tham quan ngắn; cuộc đi dạo, cuộc đi chơi",
+          "list_en_vn": [
+            {
+              "full_en": "a run up to town",
+              "full_vn": "cuộc đi thăm tỉnh ngắn ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyến đi; quãng đường đi (xe lửa, tàu thuỷ...)",
+          "list_en_vn": [
+            {
+              "full_en": "it is only a 30 minute's run to our place",
+              "full_vn": "đến chỗ chúng tôi ở chỉ mất 30 phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hoạt động, sự vận hành, sự chạy (máy móc...); thời gian vận hành"
+        },
+        {
+          "m_full_vn": "sự giảm nhanh, sự tụt nhanh, sự hạ nhanh, sự sụp đổ nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "the temperature came down with a run",
+              "full_vn": "nhiệt độ giảm nhanh"
+            },
+            {
+              "full_en": "run of ground",
+              "full_vn": "sự lở đất, sự sụp đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian liên tục, hồi, cơn, loạt",
+          "list_en_vn": [
+            {
+              "full_en": "a long run of power",
+              "full_vn": "sự nắm quyền trong một thời gian dài"
+            },
+            {
+              "full_en": "the play has a run of 50 nights",
+              "full_vn": "vở kịch được diễn đi diễn lại trong một thời gian liên tục năm mươi đêm liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp đại đa số, loại bình thường; hạng bình thường",
+          "list_en_vn": [
+            {
+              "full_en": "the common run of men ; the run of mankind",
+              "full_vn": "những người bình thường"
+            },
+            {
+              "full_en": "the run of the mill",
+              "full_vn": "những sản phẩm bình thường của nhà máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại, hạng, thứ (hàng hoá)"
+        },
+        {
+          "m_full_vn": "đàn (cá...), bầy (súc vật...)"
+        },
+        {
+          "m_full_vn": "sân nuôi (gà, cịt...), cánh đồng cỏ (nuôi cừu...), bãi rào kín (để chăn nuôi)"
+        },
+        {
+          "m_full_vn": "dấu vết quãng đường thường lui tới (của một thú rừng...)"
+        },
+        {
+          "m_full_vn": "máng dẫn nước"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ngòi, lạch, nước, dòng suối"
+        },
+        {
+          "m_full_vn": "hướng; chiều hướng, xu thế",
+          "list_en_vn": [
+            {
+              "full_en": "the run of the mountains is N .E .",
+              "full_vn": "dãy núi chạy theo hướng đông bắc"
+            },
+            {
+              "full_en": "the run of public opinion",
+              "full_vn": "chiều hướng của dư luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhịp điệu (của một câu thơ...)"
+        },
+        {
+          "m_full_vn": "dải liên tục, đường dây liên tục, dòng mạch chạy dài",
+          "list_en_vn": [
+            {
+              "full_en": "a run of gold",
+              "full_vn": "mạch mỏ vàng chạy dài"
+            },
+            {
+              "full_en": "run of tide",
+              "full_vn": "dòng thuỷ triều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đổ xô tới; nhu cầu lớn, sự đòi hỏi nhiều (một thứ hàng gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "a run on the bank",
+              "full_vn": "sự đổ xô tới đòi rút tiền ở nhà ngân hàng ra"
+            },
+            {
+              "full_en": "the book has a considerable run",
+              "full_vn": "quyển sách bán được rất chạy (được nhiều người hỏi mua)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cho phép tự do sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to have the run of somebody's books",
+              "full_vn": "được phép tự do sử dụng sách của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) sự bay theo đường thẳng với một tốc độ cố định (trước khi hoặc lúc ném bom)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) mặt nghiêng, mặt dốc"
+        },
+        {
+          "m_full_vn": "(hàng hải) phần đuôi tàu (đáy tàu về phía bánh lái)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) Rulat",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the long run",
+              "list_im": [
+                {
+                  "im_full_vn": "rút cục là; kết quả là; sau cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the run of something",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) nắm được diễn biến của việc gì, nắm được việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose the run of something",
+              "list_im": [
+                {
+                  "im_full_vn": "không nắm được diễn biến của việc gì, không nắm được việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a run of it",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy trốn, trốn thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the common run",
+              "list_im": [
+                {
+                  "im_full_vn": "khác thường, không bình thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to put the run the somebody",
+                      "full_vn": "buộc ai phải chạy trốn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "by the run",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh, nhanh vùn vụt"
+                },
+                {
+                  "im_full_vn": "ngay lập tức, không chậm trễ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ran , run",
+      "list_m": [
+        {
+          "m_full_vn": "chạy",
+          "list_en_vn": [
+            {
+              "full_en": "to run down a slope",
+              "full_vn": "chạy xuống con đường dốc"
+            },
+            {
+              "full_en": "a cold shiver ran down his spine",
+              "full_vn": "cơn rùng mình ớn lạnh chạy suốt dọc theo xương sống anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy vội, vội vã",
+          "list_en_vn": [
+            {
+              "full_en": "to run to meet somebody",
+              "full_vn": "vội vã đến gặp ai"
+            },
+            {
+              "full_en": "to run to help somebody",
+              "full_vn": "chạy vội đến giúp ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy trốn, tẩu thoát",
+          "list_en_vn": [
+            {
+              "full_en": "to run for one's life",
+              "full_vn": "chạy trốn bán sống bán chết"
+            },
+            {
+              "full_en": "to run for it",
+              "full_vn": "(thông tục) chạy trốn"
+            },
+            {
+              "full_en": "to cut and run",
+              "full_vn": "(từ lóng) chuồn, tẩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy đua",
+          "list_en_vn": [
+            {
+              "full_en": "to run in a race",
+              "full_vn": "chạy đua"
+            },
+            {
+              "full_en": "to run second",
+              "full_vn": "chạy về thứ nhì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy, vận hành, hoạt động (máy móc, nhà máy...)",
+          "list_en_vn": [
+            {
+              "full_en": "to leave the engine of the motorcar running",
+              "full_vn": "để cho động cơ ô tô chạy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trôi đi, lướt đi, trượt đi, chạy lướt, lăn mau...",
+          "list_en_vn": [
+            {
+              "full_en": "the pen runs on the paper",
+              "full_vn": "ngòi bút chạy lướt trên trang giấy"
+            },
+            {
+              "full_en": "time runs fast",
+              "full_vn": "thời gian trôi nhanh"
+            },
+            {
+              "full_en": "how his tongue runs !",
+              "full_vn": "mồm nó cứ nói lem lẻm suốt đi!"
+            },
+            {
+              "full_en": "his life runs smoothly",
+              "full_vn": "cuộc đời anh ta cứ êm dềm trôi đi"
+            },
+            {
+              "full_en": "the rope runs freely in the pulley",
+              "full_vn": "cái dây thừng trượt đi một cách dễ dàng trên ròng rọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xoay quanh (một cái trục...; một vấn đề...)",
+          "list_en_vn": [
+            {
+              "full_en": "that is the point on which the whole argument runs",
+              "full_vn": "đó là điểm mà tất cả cuộc tranh luận xoay quanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ khắp, mọc lan ra (cây)"
+        },
+        {
+          "m_full_vn": "chạy dài, chạy quanh",
+          "list_en_vn": [
+            {
+              "full_en": "the road runs across a plain",
+              "full_vn": "con đường chạy qua cánh đồng"
+            },
+            {
+              "full_en": "the moutain range runs North and South",
+              "full_vn": "dãy núi chạy dài từ phía bắc đến phía nam"
+            },
+            {
+              "full_en": "the fence runs round the house",
+              "full_vn": "hàng rao bao quanh ngôi nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được viết, được thảo, được kể, có nội dung (thư, văn kiện, câu chuyện...)",
+          "list_en_vn": [
+            {
+              "full_en": "the letter runs as follows",
+              "full_vn": "bức thư được viết như sau"
+            },
+            {
+              "full_en": "the story runs in these words",
+              "full_vn": "câu chuyện được kể như thế này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp tục tồn tại, tiếp diễn trong một quãng thời gian liên tục, kéo dài",
+          "list_en_vn": [
+            {
+              "full_en": "the play has been running for six months",
+              "full_vn": "vở kịch được diễn đi diễn lại sáu tháng liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có giá trị, có hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "the contract runs for seven years",
+              "full_vn": "bản giao kèo có giá trị trong bảy năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ám ảnh, vương vấn",
+          "list_en_vn": [
+            {
+              "full_en": "the tune is still running in my head",
+              "full_vn": "điệu nhạc đó cứ vương vấn mãi trong óc tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lưu luyến, truyền mãi, còn mãi mãi",
+          "list_en_vn": [
+            {
+              "full_en": "it runs in the family",
+              "full_vn": "cái đó truyền mãi trong gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lan nhanh, truyền đi",
+          "list_en_vn": [
+            {
+              "full_en": "the news ran like wildfire",
+              "full_vn": "tin tức lan đi rất nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng về, nghĩ về",
+          "list_en_vn": [
+            {
+              "full_en": "the eyes run over something",
+              "full_vn": "đưa mắt nhìn (hướng về) cái gì"
+            },
+            {
+              "full_en": "to run back over the past",
+              "full_vn": "nghĩ về quá khứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy trên tuyến đường (xe khách, tàu chở khách...)",
+          "list_en_vn": [
+            {
+              "full_en": "the boat runs between Hanoi and Namdinh",
+              "full_vn": "con tàu chạy trên tuyến đường Hà nội Nam định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhoè (mực); thôi (màu), phai, bạc (màu)"
+        },
+        {
+          "m_full_vn": "chảy",
+          "list_en_vn": [
+            {
+              "full_en": "blood runs in veins",
+              "full_vn": "máu chảy trong mạch máu"
+            },
+            {
+              "full_en": "the tide runs strong",
+              "full_vn": "thuỷ triều chảy mạnh"
+            },
+            {
+              "full_en": "pus is running",
+              "full_vn": "mủ chảy"
+            },
+            {
+              "full_en": "nose runs",
+              "full_vn": "mũi chảy nước"
+            },
+            {
+              "full_en": "eyes run",
+              "full_vn": "chảy nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầm đìa, lênh láng, dầm dề",
+          "list_en_vn": [
+            {
+              "full_en": "to be running with sweat",
+              "full_vn": "đầm đìa mồ hôi"
+            },
+            {
+              "full_en": "to be running with blood",
+              "full_vn": "máu đổ lênh láng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rỉ rò (chùng, chậu...)"
+        },
+        {
+          "m_full_vn": "lên tới, đạt tới",
+          "list_en_vn": [
+            {
+              "full_en": "rice runs five tons a hectare this year",
+              "full_vn": "năm nay lúa đạt năm tấn một hecta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên, trở thành, có xu thế, có chiều hướng",
+          "list_en_vn": [
+            {
+              "full_en": "potatoes run big this year",
+              "full_vn": "khoai tây năm nay to củ"
+            },
+            {
+              "full_en": "to run mad",
+              "full_vn": "hoá điên"
+            },
+            {
+              "full_en": "to run to extremes",
+              "full_vn": "đi đến chỗ quá khích, đi đến chỗ cực đoan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tuột",
+          "list_en_vn": [
+            {
+              "full_en": "silk stockings sometimes run",
+              "full_vn": "bít tất tơ đôi khi bị tuột sợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngược nước để đẻ (cá)"
+        },
+        {
+          "m_full_vn": "ứng cử",
+          "list_en_vn": [
+            {
+              "full_en": "to run for parliament",
+              "full_vn": "ứng cử vào nghị viện"
+            },
+            {
+              "full_en": "to run for the Presidency",
+              "full_vn": "ứng cử tổng thống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạy (một quãng đường...)"
+        },
+        {
+          "m_full_vn": "chạy đua, chạy thi, cho (ngựa) chạy đua",
+          "list_en_vn": [
+            {
+              "full_en": "to run a horse",
+              "full_vn": "cho ngựa chạy đua"
+            },
+            {
+              "full_en": "to run a race",
+              "full_vn": "chạy đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho chạy",
+          "list_en_vn": [
+            {
+              "full_en": "to run a ship to ...",
+              "full_vn": "cho tàu chạy tới..."
+            },
+            {
+              "full_en": "to run a machine",
+              "full_vn": "cho máy chạy"
+            },
+            {
+              "full_en": "to run a car into a garage",
+              "full_vn": "đánh ô tô vào nhà để xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt qua; chọc thủng, phá vỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to run rapids",
+              "full_vn": "vượt thác ghềnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo, đi theo",
+          "list_en_vn": [
+            {
+              "full_en": "to let things run their course",
+              "full_vn": "cứ để cho mọi việc tiến hành theo lệ thường của nó"
+            },
+            {
+              "full_en": "to run a scent",
+              "full_vn": "theo vết (thú săn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đuổi theo, rượt theo (thú săn...)",
+          "list_en_vn": [
+            {
+              "full_en": "to run to earth",
+              "full_vn": "đuổi (chồn...) vào tận hang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho chảy; đổ (kim loại...) vào khuôn",
+          "list_en_vn": [
+            {
+              "full_en": "to run the water off",
+              "full_vn": "cho nước chảy đi"
+            },
+            {
+              "full_en": "to run metal into mould",
+              "full_vn": "đổ kim loại vào khuôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ huy, điều khiển, quản lý, trông nom",
+          "list_en_vn": [
+            {
+              "full_en": "to run a hotel",
+              "full_vn": "quản lý một khách sạn"
+            },
+            {
+              "full_en": "to run a factory",
+              "full_vn": "điều khiển một nhà máy"
+            },
+            {
+              "full_en": "to run the show",
+              "full_vn": "điều khiển mọi việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xô vào, lao vào, đụng vào",
+          "list_en_vn": [
+            {
+              "full_en": "to run one's head against the wall",
+              "full_vn": "lao đầu vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đâm vào, chọc vào",
+          "list_en_vn": [
+            {
+              "full_en": "to run one's sword through somebody ; to run somebody through with one's sword",
+              "full_vn": "đâm lưỡi kiếm xuyên qua người ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luồn",
+          "list_en_vn": [
+            {
+              "full_en": "to run a rope through a ring",
+              "full_vn": "luồn sợi dây thừng qua cái vòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa lướt đi",
+          "list_en_vn": [
+            {
+              "full_en": "to run one's hand over something",
+              "full_vn": "đưa tay lướt trên vật gì"
+            },
+            {
+              "full_en": "to run one's fingers through one's hair",
+              "full_vn": "đưa ngón tay lên vuốt tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ tràn trề, đổ chứa chan, đổ lai láng, chảy đầm đìa, chảy ròng ròng",
+          "list_en_vn": [
+            {
+              "full_en": "to run wine",
+              "full_vn": "đổ rượu tràn trề"
+            },
+            {
+              "full_en": "to run blood",
+              "full_vn": "đổ máu lênh láng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho ra đồng cỏ (vật nuôi)"
+        },
+        {
+          "m_full_vn": "buôn lậu",
+          "list_en_vn": [
+            {
+              "full_en": "to run arms",
+              "full_vn": "buôn lậu khí giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khâu lược (cái áo...)"
+        },
+        {
+          "m_full_vn": "gạch, vẽ (một đường...); đặt (đường dây điện thoại...)"
+        },
+        {
+          "m_full_vn": "để cho chất đống (nợ nầm...)"
+        },
+        {
+          "m_full_vn": "đem (so sánh...)",
+          "list_en_vn": [
+            {
+              "full_en": "to paralled ; to run a simile",
+              "full_vn": "đem so sánh, đem đối chiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đề cử, giới thiệu; ủng hộ (một người ra ứng cử)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to run about",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy quanh, chạy lăng xăng, chạy ngược, chạy xuôi"
+                },
+                {
+                  "im_full_vn": "chạy lang thang (trẻ con)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run across",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy ngang qua"
+                },
+                {
+                  "im_full_vn": "ngẫu nhiên gặp, tình cờ gặp (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run after",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi theo; chạy theo sau (ai)"
+                },
+                {
+                  "im_full_vn": "theo đuổi (cái gì...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run against",
+              "list_im": [
+                {
+                  "im_full_vn": "xô vào, va vào, đụng vào"
+                },
+                {
+                  "im_full_vn": "ngẫu nhiên gặp (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run at",
+              "list_im": [
+                {
+                  "im_full_vn": "nhảy vào, lao vào, xông vào đánh (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run away",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ chạy, tháo chạy, chạy trốn, tẩu thoát"
+                },
+                {
+                  "im_full_vn": "lồng lên (ngựa)"
+                },
+                {
+                  "im_full_vn": "bỏ xa, vượt xa (người khác trong một cuộc đua)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run away with",
+              "list_im": [
+                {
+                  "im_full_vn": "trốn đi với (ai), cuỗm đi (người nào, cái gì...)"
+                },
+                {
+                  "im_full_vn": "thừa nhận nột cách vội vã (một ý kiến gì...)"
+                },
+                {
+                  "im_full_vn": "tiêu phá, xài phí (tiền bạc...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run back",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy trở lại, chạy về, chạy lùi lại"
+                },
+                {
+                  "im_full_vn": "( + to ) nhìn lại (dĩ vãng); truy cứu (căn nguyên...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run by",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy ngang qua trước (cửa sổ...)"
+                },
+                {
+                  "im_full_vn": "trôi qua (thời gian...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run down",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy xuống (đường dốc...)"
+                },
+                {
+                  "im_full_vn": "chảy xuống, chảy ròng ròng (mồ hôi...)"
+                },
+                {
+                  "im_full_vn": "chết vì không lên giây (đồng hồ...)"
+                },
+                {
+                  "im_full_vn": "kiệt sức (vì làm việc nhiều, vì thiếu ăn)"
+                },
+                {
+                  "im_full_vn": "đè ngã (ai); đánh đắm, làm chìm (một chiếc tàu...) đụng phải, va phải"
+                },
+                {
+                  "im_full_vn": "đuổi đến cùng đường (thú săn)"
+                },
+                {
+                  "im_full_vn": "đuổi kịp, bắt được (người chạy trốn...)"
+                },
+                {
+                  "im_full_vn": "tìm ra chỗ ẩn náp, phát hiện ra tung tích (của ai...)"
+                },
+                {
+                  "im_full_vn": "bôi nhọ, nói xấu, gièm pha"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run in",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy vào"
+                },
+                {
+                  "im_full_vn": "xô vào đánh giáp lá cà; xô vào đánh gần người (quyền anh)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) mang bóng vào đường vạch khung thành bên đối phương và đặt xuống (bóng bầu dục)"
+                },
+                {
+                  "im_full_vn": "( + to ) ghé thăm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run in to somebody",
+                      "full_vn": "ghé thăm ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) bắt giam (ai)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm cho (người ứng cử) chắc chắn trúng cử"
+                },
+                {
+                  "im_full_vn": "cho chạy thử (máy mới cho thuần)"
+                },
+                {
+                  "im_full_vn": "mắc (nợ)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run in debt",
+                      "full_vn": "mắc nợ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run into",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy vào trong"
+                },
+                {
+                  "im_full_vn": "mắc vào, rơi vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run into debt",
+                      "full_vn": "mắc nợ"
+                    },
+                    {
+                      "full_en": "to run into absurdity",
+                      "full_vn": "rơi vào chỗ vô lý"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "va phải, đụng phải"
+                },
+                {
+                  "im_full_vn": "hoà hợp với nhau; đổi thành, biến thành"
+                },
+                {
+                  "im_full_vn": "ngẫu nhiên gặp"
+                },
+                {
+                  "im_full_vn": "đạt tới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the book run into five aditions",
+                      "full_vn": "cuốn sách được xuất bản tới năm lần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run off",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy trốn, tẩu thoát"
+                },
+                {
+                  "im_full_vn": "chảy đi (nước...)"
+                },
+                {
+                  "im_full_vn": "bỗng nhiên nói lạc đề, bỗng nhiên nói chệch sang vấn đề khác (trong khi nói chuyện...)"
+                },
+                {
+                  "im_full_vn": "cho (nước...) chảy đi; tháo (nước...) đi"
+                },
+                {
+                  "im_full_vn": "đọc một mạch, đọc làu làu (bài học thuộc lòng...)"
+                },
+                {
+                  "im_full_vn": "trật (đường ray...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run off the rails",
+                      "full_vn": "trật đường ray (xe lửa)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(kỹ thuật) đồ (kim loại lỏng...) vào khuôn"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) vào chung kết để quyết định kết quả (sau khi thi loại, sau một trận hoà)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the race will be run of on next Sunday",
+                      "full_vn": "kỳ chung kết của cuộc chạy đua sẽ được tổ chức vào chủ nhật sau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run on",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục chạy cứ chạy tiếp"
+                },
+                {
+                  "im_full_vn": "tiếp tục không ngừng"
+                },
+                {
+                  "im_full_vn": "trôi đi (thời gian)"
+                },
+                {
+                  "im_full_vn": "nói lem lém, nói luôn mồm"
+                },
+                {
+                  "im_full_vn": "dắt dây vào vớ nhau (chữ viết)"
+                },
+                {
+                  "im_full_vn": "(ngành in) sắp chữ đầu dòng hàng như thường (không thụt vào)"
+                },
+                {
+                  "im_full_vn": "xoay quanh, trở đi trở lại (một vấn đề...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run out",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy ra"
+                },
+                {
+                  "im_full_vn": "chảy ra, tuôn ra, trào ra"
+                },
+                {
+                  "im_full_vn": "hết (thời gian...), kiệt cạn (đồ dự trữ...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our lease has run out",
+                      "full_vn": "hạn thuê của chúng ta đã hết"
+                    },
+                    {
+                      "full_en": "my patience is running out",
+                      "full_vn": "tôi không thể kiên nhẫn được nữa"
+                    },
+                    {
+                      "full_en": "to run out of provisions",
+                      "full_vn": "cạn hết đồ dự trữ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ló ra, nhô ra (cầu tàu, mũi đất...)"
+                },
+                {
+                  "im_full_vn": "được thả ra, được kéo xuống thẳng ra (dây thừng, chão...)"
+                },
+                {
+                  "im_full_vn": "hoàn thành cuộc thi đấu, hoàn thành chạy đua (được xếp thứ mấy, được bao nhiêu điểm...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run oneself out",
+                      "full_vn": "chạy đến kiệt sức"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) phạt việt vị (một đấu thủ crickê trong khi đang chạy)"
+                },
+                {
+                  "im_full_vn": "đưa (pháo) vào trận địa (để chuẩn bị bắn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run over",
+              "list_im": [
+                {
+                  "im_full_vn": "tràn ra, trào ra (chậu nước...)"
+                },
+                {
+                  "im_full_vn": "chạy đè lên; chẹt phải (ai...) ( ôtô)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be run over",
+                      "full_vn": "bị ( ôtô) chẹt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lướt (ngón tay trên phím đàn...)"
+                },
+                {
+                  "im_full_vn": "đưa (mắt) nhìn lướt qua (cái gì...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run the eyes over something",
+                      "full_vn": "đưa mắt nhìn lướt qua cái gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xem qua, nhìn qua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run throught",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy qua"
+                },
+                {
+                  "im_full_vn": "đâm xuyên qua (bằng lưỡi lê...)"
+                },
+                {
+                  "im_full_vn": "gạch đi, xoá đi (chữ...)"
+                },
+                {
+                  "im_full_vn": "xem lướt qua, đọc lướt qua (tờ báo...)"
+                },
+                {
+                  "im_full_vn": "phung phí, xài phí, tiêu xài hết nhanh (của cải...)"
+                },
+                {
+                  "im_full_vn": "thấm vào, thấm qua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run up",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy lên"
+                },
+                {
+                  "im_full_vn": "lên nhanh, tăng nhanh (giá cả...); làm cho (giá cả) lên nhanh; chất đống (nợ nần...)"
+                },
+                {
+                  "im_full_vn": "cộng (hàng con số)"
+                },
+                {
+                  "im_full_vn": "xây cao lên một cách giả dối vội vã (bức tường, toà nhà...)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) được xếp thứ nhì (khi vào chung kết một trận đấu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run upon",
+              "list_im": [
+                {
+                  "im_full_vn": "nghĩ xoay quanh, nghĩ miên man (vấn đề gì...)"
+                },
+                {
+                  "im_full_vn": "bất chợt gặp; ngẫu nhiên gặp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run errands",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy việc vặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run like a lamplighter (like a deer , like a rabbit )",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy cuống cuồng, chạy bán sống bán chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try to run before one can walk",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đủ lông đủ cánh đã đòi bay bổng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run counter to something",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngược lại cái gì, làm ngược lại với cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run foul of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) foul"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run in one's head (mind )",
+              "list_im": [
+                {
+                  "im_full_vn": "xoay lộn trong đầu óc; ám ảnh, vương vấn trong óc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run high",
+              "list_im": [
+                {
+                  "im_full_vn": "lên cao (giá cả, thuỷ triều); động mạnh (biển); nổi lên đùng đùng (cơn giận)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run in the blood",
+              "list_im": [
+                {
+                  "im_full_vn": "di truyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run it close (fine )",
+              "list_im": [
+                {
+                  "im_full_vn": "còn vừa đủ, còn vừa đúng (tiền...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run somebody close (hard )",
+              "list_im": [
+                {
+                  "im_full_vn": "bám sát ai, đuổi sát ai"
+                },
+                {
+                  "im_full_vn": "là đối thủ đáng gờm của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run low",
+              "list_im": [
+                {
+                  "im_full_vn": "hết, cạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run riot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) riot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run straight",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay thẳng, thẳng thắn, chính trực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run the streets",
+              "list_im": [
+                {
+                  "im_full_vn": "sống cầu bơ cầu bấc, sống lang thang đầu đường xó chợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run wild",
+              "list_im": [
+                {
+                  "im_full_vn": "mọc bừa bãi, mọc lung tung (cây, cỏ...)"
+                },
+                {
+                  "im_full_vn": "sống lêu lổng; lớn lên không dạy dỗ trông nom"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to run a candidate",
+              "full_vn": "giới thiệu người ứng cử; ủng hộ một người ứng cử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076260_e882658655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076260_0e78f62563_o.png",
+      "id_image": "run_501115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694169_bd77756e7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694169_48ecc00591_o.png",
+      "id_image": "run_599543"
+    }
+  ]
+}

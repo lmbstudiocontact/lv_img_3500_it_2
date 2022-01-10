@@ -1,0 +1,35 @@
+{
+  "english": "pilgrim",
+  "phat_am": "['pilgrim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hành hương"
+        },
+        {
+          "m_full_vn": "người du hành",
+          "list_en_vn": [
+            {
+              "full_en": "the Pilgrim Fathers",
+              "full_vn": "tên dành cho những tín đồ Thanh giáo Anh (đến Mỹ năm 1620 và thành lập khu kiều dân Plymouth ở bang Massachusets)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084515_9b9ab89e01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084515_d35b5db5f5_o.png",
+      "id_image": "pilgrim_2052305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392047_7f97777e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392047_5ec7308035_o.png",
+      "id_image": "pilgrim_2069379"
+    }
+  ]
+}

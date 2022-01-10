@@ -1,0 +1,148 @@
+{
+  "english": "operation",
+  "phat_am": "[,ɔpə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoạt động; cách hoạt động; quá trình hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "to come into operation",
+              "full_vn": "bắt đầu hoạt động; đi vào sản xuất (nhà máy)"
+            },
+            {
+              "full_en": "the operation of thinking",
+              "full_vn": "quá trình tư duy"
+            },
+            {
+              "full_en": "I can steer a motorbike , but I don't understand its operation",
+              "full_vn": "Tôi có thể điều khiển xe mô tô, nhưng chẳng hiểu cách thức hoạt động của nó ra sao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoạt động bao gồm nhiều người và/hoặc trải ra một thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "to mount a rescue operation",
+              "full_vn": "tổ chức một hoạt động cấp cứu"
+            },
+            {
+              "full_en": "at each stage of the massive police operation",
+              "full_vn": "ở từng giai đoạn trong chiến dịch ồ ạt của cảnh sát"
+            },
+            {
+              "full_en": "the entire operation will take about five days",
+              "full_vn": "toàn bộ hoạt động đó mất khoảng năm ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( operation on somebody for something ) ( operation to do something ) sự mổ xẻ; ca mổ (cũng) op",
+          "list_en_vn": [
+            {
+              "full_en": "to undergo an operation for appendicitis",
+              "full_vn": "qua một ca mổ ruột thừa"
+            },
+            {
+              "full_en": "to perform an operation to amputate his left leg",
+              "full_vn": "tiến hành phẫu thuật để cắt bỏ chân trái của nó"
+            },
+            {
+              "full_en": "liver transplant operation",
+              "full_vn": "ca phẫu thuật ghép gan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công ty kinh doanh",
+          "list_en_vn": [
+            {
+              "full_en": "a huge multinational electronics operation",
+              "full_vn": "một doanh nghiệp điện tử đa quốc gia khổng lồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc hành quân; cuộc hành binh",
+          "list_en_vn": [
+            {
+              "full_en": "the officer in charge of operations",
+              "full_vn": "sĩ quan phụ trách hành quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Operation ) (quân sự) chiến dịch",
+          "list_en_vn": [
+            {
+              "full_en": "Operation Overlord",
+              "full_vn": "Chiến dịch Overlord"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc vận động có kế hoạch trong công nghiệp, kinh doanh...; hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "involved in building , banking , business operations",
+              "full_vn": "tham dự các hoạt động xây dựng, ngân hàng, kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phép tính; phép toán",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in operation ; to bring something /come into operation",
+              "list_im": [
+                {
+                  "im_full_vn": "(làm cho cái gì) có hoặc trở nên có hiệu quả; có tác dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when does your plan come into operation ?",
+                      "full_vn": "bao giờ kế hoạch của anh đi vào thực hiện?"
+                    },
+                    {
+                      "full_en": "is this rule in operation ?",
+                      "full_vn": "quy tắc này có hiệu lực chưa?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391127_4230647ab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391127_4596dd1e50_o.png",
+      "id_image": "operation_2191414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083560_ef5e937787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083560_b172c2b6ec_o.png",
+      "id_image": "operation_3538500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346061_2f47f650ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346061_32d5db67ec_o.png",
+      "id_image": "operation_3974875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391022_2456b6dcb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391022_d2769ba243_o.png",
+      "id_image": "operation_4149660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083465_cea04e7d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083465_d5a78219b6_o.png",
+      "id_image": "operation_5138535"
+    }
+  ]
+}

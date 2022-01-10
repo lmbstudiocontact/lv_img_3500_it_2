@@ -1,0 +1,43 @@
+{
+  "english": "saturation",
+  "phat_am": "[,sæt∫ə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự no, sự bão hoà, trạng thái bão hoà, sự bị bão hoà; độ bão hoà"
+        },
+        {
+          "m_full_vn": "sự ướt sũng, sự thấm đẫm"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập trung; dồn dập (về một trận tấn công)",
+          "list_en_vn": [
+            {
+              "full_en": "saturation bombing of the town",
+              "full_vn": "việc ném bom tập trung xuống thành phố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070995_94918360ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070995_211fcfd435_o.png",
+      "id_image": "saturation_2473155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333921_c54b7d3f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333921_6b9e62ae47_o.png",
+      "id_image": "saturation_2473178"
+    }
+  ]
+}

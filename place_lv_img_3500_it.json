@@ -1,0 +1,326 @@
+{
+  "english": "place",
+  "phat_am": "[pleis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Place ) (viết tắt) Pl (quảng trường)"
+        },
+        {
+          "m_full_vn": "nơi, chỗ, địa điểm, địa phương (thành phố, tỉnh, làng...); đoạn phố",
+          "list_en_vn": [
+            {
+              "full_en": "in all places",
+              "full_vn": "ở khắp nơi"
+            },
+            {
+              "full_en": "a native of the place",
+              "full_vn": "một người sinh trưởng ở địa phương ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà, nơi ở, nơi (dùng vào mục đích gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a nice little place in the country",
+              "full_vn": "có một ngôi nhà nhỏ xinh xinh ở nông thôn"
+            },
+            {
+              "full_en": "can you come to my place ?",
+              "full_vn": "anh có thể đến chơi đằng nhà tôi được không?"
+            },
+            {
+              "full_en": "places of amusement",
+              "full_vn": "những nơi vui chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ, vị trí, địa vị; chỗ ngồi, chỗ đứng; chỗ thích đáng; chỗ thích hợp",
+          "list_en_vn": [
+            {
+              "full_en": "everything in its place",
+              "full_vn": "vật nào chỗ ấy"
+            },
+            {
+              "full_en": "a sore place on the wrist",
+              "full_vn": "chỗ đau ở cổ tay"
+            },
+            {
+              "full_en": "to give place to someone",
+              "full_vn": "tránh chỗ cho ai đi, nhường chỗ cho ai"
+            },
+            {
+              "full_en": "to change place with someone",
+              "full_vn": "đổi chỗ cho ai"
+            },
+            {
+              "full_en": "if I were in your place",
+              "full_vn": "nếu tôi ở địa vị anh"
+            },
+            {
+              "full_en": "this is no place for children",
+              "full_vn": "đây không phải chỗ cho trẻ con"
+            },
+            {
+              "full_en": "the remark is out of place",
+              "full_vn": "lời nhận xét không đúng chỗ (không đúng lúc, không thích hợp)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ làm",
+          "list_en_vn": [
+            {
+              "full_en": "to get a place in ...",
+              "full_vn": "kiếm được một chỗ làm ở..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiệm vụ, cương vị",
+          "list_en_vn": [
+            {
+              "full_en": "it is not my place to inquire into that",
+              "full_vn": "tôi không có nhiệm vụ tìm hiểu việc ấy"
+            },
+            {
+              "full_en": "to keep somebody in his place",
+              "full_vn": "bắt ai phải giữ đúng cương vị, không để cho ai vượt quá cương vị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị (xã hôi), cấp bậc, thứ bậc, hạng",
+          "list_en_vn": [
+            {
+              "full_en": "to obtain a high place",
+              "full_vn": "đạt địa vị cao sang"
+            },
+            {
+              "full_en": "to get the first place in the race",
+              "full_vn": "được xếp hạng nhất trong cuộc đua, về nhất trong cuộc đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn sách, đoạn bài nói",
+          "list_en_vn": [
+            {
+              "full_en": "I've lost my place",
+              "full_vn": "tôi không tìm được đoạn tôi đã đọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "the place can be defended",
+              "full_vn": "có thể bảo vệ được vị trí đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) vị trí (của một con số trong một dãy số)",
+          "list_en_vn": [
+            {
+              "full_en": "calculated to five places of decimals",
+              "full_vn": "được tính đến năm số lẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thứ tự",
+          "list_one_mean": [
+            {
+              "id_full_en": "in place of",
+              "list_im": [
+                {
+                  "im_full_vn": "thay vì, thay cho, thay thế vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look out of place",
+              "list_im": [
+                {
+                  "im_full_vn": "có vẻ lúng túng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not quite in place",
+              "list_im": [
+                {
+                  "im_full_vn": "không đúng chỗ, không thích hợp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the proposal is not quite in place",
+                      "full_vn": "đề nghị ấy không thích hợp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take place",
+              "list_im": [
+                {
+                  "im_full_vn": "xảy ra, được cử hành, được tổ chức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all over the place",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khắp mọi nơi; trong tình trạng hỗn độn, lộn xộn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a place in the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "công bằng bình đẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's no place like home",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không đâu bằng nhà mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the first place",
+              "full_vn": "thứ nhất, trước hết"
+            },
+            {
+              "full_en": "in the second place",
+              "full_vn": "thứ nhì, kế đó"
+            },
+            {
+              "full_en": "in the last place",
+              "full_vn": "cuối cùng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để, đặt",
+          "list_en_vn": [
+            {
+              "full_en": "to place everything in good order",
+              "full_vn": "để mọi thứ có thứ tự"
+            },
+            {
+              "full_en": "the house is well placed",
+              "full_vn": "ngôi nhà được đặt ở một vị trí rất tốt"
+            },
+            {
+              "full_en": "to place confidence in a leader",
+              "full_vn": "đặt tin tưởng ở một lãnh tụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cứ làm, đưa vào làm, đặt vào (cương vị công tác)",
+          "list_en_vn": [
+            {
+              "full_en": "to be placed in command of the regiment",
+              "full_vn": "được cử làm chỉ huy trung đoàn ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu tư (vốn)"
+        },
+        {
+          "m_full_vn": "đưa cho, giao cho",
+          "list_en_vn": [
+            {
+              "full_en": "to place an order for goods with a firm",
+              "full_vn": "(đưa đơn) đặt mua hàng của một công ty"
+            },
+            {
+              "full_en": "to place a book with a publisher",
+              "full_vn": "giao cho một nhà xuất bản in và phát hành một cuốn sách"
+            },
+            {
+              "full_en": "to place a matter in someone's hands",
+              "full_vn": "giao một vấn đề cho ai giải quyết"
+            },
+            {
+              "full_en": "to place a child under someone's care",
+              "full_vn": "giao một đứa bé cho ai chăm nom hộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xếp hạng",
+          "list_en_vn": [
+            {
+              "full_en": "to be placed third",
+              "full_vn": "được xếp hạng ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán",
+          "list_en_vn": [
+            {
+              "full_en": "a commodity difficult to place",
+              "full_vn": "một mặt hàng khó bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhớ (tên, nơi gặp gỡ...)",
+          "list_en_vn": [
+            {
+              "full_en": "I know his face but I can't place him",
+              "full_vn": "tôi biết mặt nó nhưng không nhớ tên nó tên gì và gặp ở đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh giá (ai, về tính tình, địa vị...)",
+          "list_en_vn": [
+            {
+              "full_en": "he is a difficult man to place",
+              "full_vn": "khó đánh giá được anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ghi (bàn thắng bóng đá) bằng cú đặt bóng sút"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344211_5962414a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344211_61a4f934a1_o.png",
+      "id_image": "place_1692037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344191_6faf709780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344191_c31bb9b5ed_o.png",
+      "id_image": "place_5744807"
+    }
+  ]
+}

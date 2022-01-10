@@ -1,0 +1,50 @@
+{
+  "english": "puppet",
+  "phat_am": "['pʌpit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "búp bê hoặc hình nhỏ của một con vật... hoặc là con rối cử động bằng cách giật dây nối với chân tay có khớp của nó hoặc là con rối xỏ vào bàn tay khiến người ta làm cho nó cử động đầu và tay bằng các ngón tay; con rối",
+          "list_en_vn": [
+            {
+              "full_en": "a puppet theatre",
+              "full_vn": "rạp múa rối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) con rối; bù nhìn; kẻ bị giật dây",
+          "list_en_vn": [
+            {
+              "full_en": "puppet administration (government )",
+              "full_vn": "chính quyền bù nhìn, chính quyền nguỵ"
+            },
+            {
+              "full_en": "puppet king",
+              "full_vn": "vua bù nhìn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392377_82686b806e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392377_47c839a8bb_o.png",
+      "id_image": "puppet_320470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392342_6e967858a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392342_755b3a02f9_o.png",
+      "id_image": "puppet_320480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347311_8aff21642b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347311_bd9a25b789_o.png",
+      "id_image": "puppet_5578266"
+    }
+  ]
+}

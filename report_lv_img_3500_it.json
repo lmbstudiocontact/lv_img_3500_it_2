@@ -1,0 +1,261 @@
+{
+  "english": "report",
+  "phat_am": "[ri'pɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản báo cáo, bản tường thuật; biên bản",
+          "list_en_vn": [
+            {
+              "full_en": "a detailed /persuasive /reliable report",
+              "full_vn": "bản tường thuật chi tiết/có sức thuyết phục/đáng tin cậy"
+            },
+            {
+              "full_en": "a positive /negative report",
+              "full_vn": "bản báo cáo chính xác/không chính xác"
+            },
+            {
+              "full_en": "to draw up /produce /submit regular progress reports",
+              "full_vn": "thảo/lập/nộp báo cáo thường kỳ về tiến độ"
+            },
+            {
+              "full_en": "to make /give a report on the state of the roads",
+              "full_vn": "báo cáo về tình trạng đường sá"
+            },
+            {
+              "full_en": "law reports",
+              "full_vn": "hồ sơ toà án"
+            },
+            {
+              "full_en": "a radio /TV /press report on the juvenile delinquency",
+              "full_vn": "phóng sự truyền thanh/truyền hình/báo chí về tình trạng vị thành niên phạm pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản tin, bản dự báo; phiếu thành tích học tập (hằng tháng hoặc từng học kỳ của học sinh)",
+          "list_en_vn": [
+            {
+              "full_en": "school report",
+              "full_vn": "phiếu thành tích học tập"
+            },
+            {
+              "full_en": "weather report",
+              "full_vn": "bản dự báo thời tiết"
+            },
+            {
+              "full_en": "to get a good report from one's foreman",
+              "full_vn": "có được bản nhận xét tốt của đốc công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin đồn",
+          "list_en_vn": [
+            {
+              "full_en": "report goes that ...; report has it that ...",
+              "full_vn": "có tin đồn rằng..., người ta nói rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẩu chuyện tầm phào",
+          "list_en_vn": [
+            {
+              "full_en": "I have only reports to go on",
+              "full_vn": "tôi chỉ có vài mẩu chuyện tầm phào để nói tiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng tăm, danh tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of good /bad report",
+              "full_vn": "một người có tiếng tăm tốt/xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng nổ (súng...)",
+          "list_en_vn": [
+            {
+              "full_en": "the sharp report of a pistol",
+              "full_vn": "tiếng nổ đanh của một khẩu súng lục"
+            },
+            {
+              "full_en": "the tyre burst with a loud report",
+              "full_vn": "lốp xe nổ một tiếng chát chúa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to report on somebody / something ; to report to somebody / something ; to report something to somebody ) báo cáo, tường trình, tường thuật",
+          "list_en_vn": [
+            {
+              "full_en": "to report on /upon the state of exports and imports",
+              "full_vn": "báo cáo (tường trình) về tình hình xuất nhập khẩu"
+            },
+            {
+              "full_en": "to report (on) progress made",
+              "full_vn": "báo cáo về tiến bộ đã đạt được"
+            },
+            {
+              "full_en": "to report a football match",
+              "full_vn": "tường thuật một cuộc thi đấu bóng đá"
+            },
+            {
+              "full_en": "he reports his exam results to his parents",
+              "full_vn": "anh ta báo cáo kết quả thi cho bố mẹ"
+            },
+            {
+              "full_en": "she reported (his ) having seen the housebreaker",
+              "full_vn": "bà ta báo cáo là (anh ấy) có nhìn thấy tên trộm"
+            },
+            {
+              "full_en": "the doctor reported the patient fit and well",
+              "full_vn": "bác sĩ cho biết là bệnh nhân đã mạnh khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông báo, tuyên bố",
+          "list_en_vn": [
+            {
+              "full_en": "police reported the closure of the road ; police reported that the road was closed",
+              "full_vn": "cảnh sát thông báo là đường đó cấm"
+            },
+            {
+              "full_en": "they reported that Tom headed the poll",
+              "full_vn": "họ cho biết rằng Tom được nhiều phiếu bầu nhất"
+            },
+            {
+              "full_en": "they reported sighting the plane",
+              "full_vn": "họ thông báo là có nhìn thấy chiếc máy bay"
+            },
+            {
+              "full_en": "the judge reported the case closed",
+              "full_vn": "quan toà tuyên bố vụ án kết thúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to report somebody for something ; to report somebody / something to somebody ) tố giác, tố cáo",
+          "list_en_vn": [
+            {
+              "full_en": "to report somebody to the police",
+              "full_vn": "tố giác ai với cảnh sát"
+            },
+            {
+              "full_en": "to report a treasurer for embezzlement",
+              "full_vn": "tố cáo viên thủ quỹ về hành vi thụt két"
+            },
+            {
+              "full_en": "to report a robbery /traffic accident to the police",
+              "full_vn": "báo cho cảnh sát biết một vụ cướp/tai nạn giao thông"
+            },
+            {
+              "full_en": "to report somebody's lateness to the manager",
+              "full_vn": "báo cho giám đốc biết rằng ai đến trễ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to report for something ) làm phóng viên",
+          "list_en_vn": [
+            {
+              "full_en": "to report for a broadcast",
+              "full_vn": "làm phóng viên cho đài phát thanh"
+            },
+            {
+              "full_en": "to report for a newspaper",
+              "full_vn": "làm phóng viên cho một tờ báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồn, đưa tin, nói về (ai), phát biểu về (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "it is reported that ...",
+              "full_vn": "người ta đồn rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyên bố là có mặt hoặc ai ở trong tình trạng nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "to report somebody sick /absent /fit",
+              "full_vn": "báo cho biết ai ốm/vắng mặt/mạnh khoẻ"
+            },
+            {
+              "full_en": "the child was reported missing on Friday",
+              "full_vn": "người ta báo là đứa trẻ bị mất tích hôm thứ Sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to report to somebody / something ) chịu trách nhiệm trước một người hoặc một cơ quan giám sát công việc của mình",
+          "list_en_vn": [
+            {
+              "full_en": "all representatives report directly to the sales department",
+              "full_vn": "tất cả các đại diện chịu trách nhiệm trực tiếp với phòng giao dịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to report to somebody / something for something ) trình diện là mình đã đến, đã về, đã sẵn sàng làm việc...",
+          "list_one_mean": [
+            {
+              "id_full_en": "to report for duty",
+              "list_im": [
+                {
+                  "im_full_vn": "đến nhận công tác (sau khi xin được việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to report oneself to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "ra trình diện ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to report to the receptionist for one's room key",
+              "full_vn": "hỏi nhân viên tiếp tân để lấy chìa khoá phòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678249_fbd947f6b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678249_03ef9e37d4_o.png",
+      "id_image": "report_1312289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678194_44e07abbf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678194_35aeb069bf_o.png",
+      "id_image": "report_1402116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059850_9ce3f7c045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059850_db840df9fe_o.png",
+      "id_image": "report_413669"
+    }
+  ]
+}

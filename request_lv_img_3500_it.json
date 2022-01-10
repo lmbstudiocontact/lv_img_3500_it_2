@@ -1,0 +1,107 @@
+{
+  "english": "request",
+  "phat_am": "[ri'kwest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( request for something / that ...) lời thỉnh cầu, lời yêu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "to make repeated requests for help",
+              "full_vn": "liên tiếp đưa ra những lời yêu cầu giúp đỡ"
+            },
+            {
+              "full_en": "your request that I should destroy the letter",
+              "full_vn": "việc anh yêu cầu tôi hủy lá thư đó"
+            },
+            {
+              "full_en": "your requests will be granted",
+              "full_vn": "các yêu cầu của anh sẽ được đáp ứng"
+            },
+            {
+              "full_en": "to do something at somebody's request ; to do something at the request of somebody ; to do something by request of somebody",
+              "full_vn": "làm việc gì theo lời thỉnh cầu của ai"
+            },
+            {
+              "full_en": "I come here at your special request",
+              "full_vn": "tôi đến đây theo lời yêu cầu đặc biệt của anh"
+            },
+            {
+              "full_en": "by popular request , the chairman was re-elected",
+              "full_vn": "theo yêu cầu của nhân dân, ông chủ tịch đã được bầu lại"
+            },
+            {
+              "full_en": "on request",
+              "full_vn": "khi có yêu cầu"
+            },
+            {
+              "full_en": "catalogues are available on request",
+              "full_vn": "các bản mục lục liệt kê luôn có sẵn khi khách hàng yêu cầu"
+            },
+            {
+              "full_en": "a request programme /show",
+              "full_vn": "chương trình/buổi biểu diễn theo yêu cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhu cầu, sự hỏi mua (trong kinh doanh)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in great request ; to come into request",
+              "full_vn": "được hỏi mua rất nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thỉnh cầu, yêu cầu, đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to request compliance with the rules",
+              "full_vn": "yêu cầu tuân theo các quy tắc"
+            },
+            {
+              "full_en": "visitors are requested not to touch the exhibits",
+              "full_vn": "yêu cầu khách đến tham quan không sờ vào hiện vật trưng bày"
+            },
+            {
+              "full_en": "all I requested of you was that you came early",
+              "full_vn": "tất cả những gì tôi yêu cầu anh là anh phải đến sớm"
+            },
+            {
+              "full_en": "I requested him to help",
+              "full_vn": "tôi yêu cầu anh ấy giúp đỡ"
+            },
+            {
+              "full_en": "you're (kindly ) requested not to smoke",
+              "full_vn": "đề nghị anh không hút thuốc"
+            },
+            {
+              "full_en": "to request somebody's company",
+              "full_vn": "kính mời ai đến dự (tiệc...)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367177_bfb757e01b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367177_b6bb70a62f_o.png",
+      "id_image": "request_1321719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437528_7aa13e76be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437528_37ec66300f_o.png",
+      "id_image": "request_1373258"
+    }
+  ]
+}

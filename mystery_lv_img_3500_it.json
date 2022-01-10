@@ -1,0 +1,60 @@
+{
+  "english": "mystery",
+  "phat_am": "['mistəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều huyền bí, điều thần bí",
+          "list_en_vn": [
+            {
+              "full_en": "the mystery of nature",
+              "full_vn": "điều huyền bí của toạ vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bí mật, điều bí ẩn",
+          "list_en_vn": [
+            {
+              "full_en": "to make a mystery of something",
+              "full_vn": "coi cái gì là một điều bí mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (tôn giáo) nghi lễ bí truyền, nghi thức bí truyền"
+        },
+        {
+          "m_full_vn": "kịch tôn giáo (thời Trung cổ)"
+        },
+        {
+          "m_full_vn": "tiểu thuyết thần bí; truyện trinh thám"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444698_fba16b3bc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444698_bef4e14760_o.png",
+      "id_image": "mystery_2040703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684659_6ca58591cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684659_a3ccc0898a_o.png",
+      "id_image": "mystery_2178097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684614_18babe74bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684614_5c99378688_o.png",
+      "id_image": "mystery_3079241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329626_563ea9e013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329626_16e0996cbc_o.png",
+      "id_image": "mystery_4114763"
+    }
+  ]
+}

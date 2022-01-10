@@ -1,0 +1,67 @@
+{
+  "english": "satisfy",
+  "phat_am": "['sætisfai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm hài lòng; thoả mãn",
+          "list_en_vn": [
+            {
+              "full_en": "Nothing satisfies him : He's always complaining",
+              "full_vn": "Chẳng có gì làm anh ta hài lòng; Anh ta cứ than phiền suốt"
+            },
+            {
+              "full_en": "she's not satisfied with anything but the best",
+              "full_vn": "cô ta không hài lòng với bất cứ thứ gì ngoài cái tốt nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành (một yêu cầu, một ước mơ...); đáp ứng; thoả mãn",
+          "list_en_vn": [
+            {
+              "full_en": "to satisfy somebody's hunger /demand /curiosity",
+              "full_vn": "thoả mãn cơn đói/yêu cầu/tính tò mò của ai"
+            },
+            {
+              "full_en": "she has satisfied the conditions for entry into the college",
+              "full_vn": "cô ta hội đủ các điều kiện nhập học trường cao đẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to satisfy somebody as to something ) đưa ra cho ai bằng chứng, thông tin... để thuyết phục",
+          "list_one_mean": [
+            {
+              "id_full_en": "satisfy the examiners",
+              "list_im": [
+                {
+                  "im_full_vn": "trúng tuyển, thi đạt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "My assurances don't satisfy him : He's still sceptical",
+              "full_vn": "Những lời bảo đảm của tôi không thuyết phục được anh ta : Anh ta vẫn chưa hết nghi ngờ"
+            },
+            {
+              "full_en": "to satisfy the police that one is innocent /as to one's innocence",
+              "full_vn": "đưa bằng chứng cho cảnh sát để nói rằng ai vô tội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333996_a729db5b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333996_ab7cbd497f_o.png",
+      "id_image": "satisfy_4795838"
+    }
+  ]
+}

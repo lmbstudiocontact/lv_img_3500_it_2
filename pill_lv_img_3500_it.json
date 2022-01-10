@@ -1,0 +1,104 @@
+{
+  "english": "pill",
+  "phat_am": "[pil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "viên thuốc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điều cay đắng, điều tủi nhục, điều sỉ nhục",
+          "list_en_vn": [
+            {
+              "full_en": "a bitter pill",
+              "full_vn": "điều cay đắng, điều tủi nhục"
+            },
+            {
+              "full_en": "to swallow the pill",
+              "full_vn": "ngậm bồ hòn làm ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng); (đùa cợt) quả bóng đá, quả bóng quần vợt; đạn đại bác"
+        },
+        {
+          "m_full_vn": "( số nhiều) trò chơi bi-a"
+        },
+        {
+          "m_full_vn": "( the pill , the Pill ) (thông tục) thuốc ngừa thai, thuốc tránh thai",
+          "list_one_mean": [
+            {
+              "id_full_en": "a pill to cure an earthquake",
+              "list_im": [
+                {
+                  "im_full_vn": "biện pháp nửa vời không đem lại kết quả gì; cho voi uống thuốc gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gild the pill",
+              "list_im": [
+                {
+                  "im_full_vn": "như gild"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "be /go on the pill",
+              "full_vn": "tiếp tục dùng thuốc tránh thai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ phiếu đen, bỏ phiếu chống lại (để khai trừ ai)"
+        },
+        {
+          "m_full_vn": "đánh bại"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) cướp bóc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về vải) sổ lông"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461793_a8c5e4d4ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461793_cffa2e92e6_o.png",
+      "id_image": "pill_197881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701809_934f453249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701809_8590aaf542_o.png",
+      "id_image": "pill_2688338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346911_8f307c123d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346911_77f48e84a9_o.png",
+      "id_image": "pill_2950116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346866_28cac88466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346866_477c297378_o.png",
+      "id_image": "pill_2992063"
+    }
+  ]
+}

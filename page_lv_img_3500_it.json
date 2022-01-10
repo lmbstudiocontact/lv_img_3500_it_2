@@ -1,0 +1,86 @@
+{
+  "english": "page",
+  "phat_am": "[page-boy]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang (sách...)",
+          "list_en_vn": [
+            {
+              "full_en": "read a few pages of a book",
+              "full_vn": "đọc vài trang sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tờ; bản thân tờ giấy",
+          "list_en_vn": [
+            {
+              "full_en": "several pages have been torn out of the book",
+              "full_vn": "có mấy tờ đã bị xé ra khỏi sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang sử (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "a glorious page of Vietnam history",
+              "full_vn": "một trang sử vẻ vang của nước Việt nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiểu đồng"
+        },
+        {
+          "m_full_vn": "cậu bé phục vụ cho người có địa vị hoặc cô dâu"
+        },
+        {
+          "m_full_vn": "em nhỏ mặc đồng phục làm phục vụ ở khách sạn, rạp hát... ( bellboy )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh số trang (cái gì)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sai em nhỏ phục vụ gọi (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm em nhỏ phục vụ (ở khách sạn, rạp hát)"
+        },
+        {
+          "m_full_vn": "gọi trên loa (để nhắn tin)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452158_1c11bdfb19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452158_ac5d20d19d_o.png",
+      "id_image": "page_485245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382297_375621451d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382297_d53bf58130_o.png",
+      "id_image": "page_4905252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452123_79412d1b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452123_de12c829ea_o.png",
+      "id_image": "page_893427"
+    }
+  ]
+}

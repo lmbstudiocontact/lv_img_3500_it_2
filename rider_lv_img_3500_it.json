@@ -1,0 +1,47 @@
+{
+  "english": "rider",
+  "phat_am": "['raidə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cưỡi ngựa; người đi xe đạp",
+          "list_en_vn": [
+            {
+              "full_en": "he is no rider",
+              "full_vn": "anh ấy không biết cưỡi ngựa (hoặc không biết đi xe đạp)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (hàng hải) nẹp (bằng gỗ, sắt đóng thêm vào sườn thuyền, tàu cho chắc thêm)"
+        },
+        {
+          "m_full_vn": "phần phụ lục (văn kiện); điều khoản thêm vào (dự luật)"
+        },
+        {
+          "m_full_vn": "(toán học) bài toán ứng dụng (một định lý...)"
+        },
+        {
+          "m_full_vn": "bộ phận hố (lên bộ phận khác), bộ phận bắc ngang (qua những bộ phận khác trong máy...)"
+        },
+        {
+          "m_full_vn": "con mã (cân bàn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701824_bfb960ea95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701824_5f744f1882_o.png",
+      "id_image": "rider_1960954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084310_233b0a6d6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084310_e6528cda05_o.png",
+      "id_image": "rider_5050416"
+    }
+  ]
+}

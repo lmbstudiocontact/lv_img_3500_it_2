@@ -1,0 +1,50 @@
+{
+  "english": "resume",
+  "phat_am": "[ri'zju:m]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy lại, chiếm lại, giành lại; hồi phục lại",
+          "list_en_vn": [
+            {
+              "full_en": "to resume one's spirits",
+              "full_vn": "lấy lại tinh thần, lấy lại can đảm"
+            },
+            {
+              "full_en": "to resume a territory",
+              "full_vn": "chiếm lại một lãnh thổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu lại, lại tiếp tục (sau khi nghỉ, dừng)",
+          "list_en_vn": [
+            {
+              "full_en": "to resume work",
+              "full_vn": "lại tiếp tục công việc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349716_707809eea3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349716_5d0c6a86da_o.png",
+      "id_image": "resume_1945753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086925_16753de8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086925_7ca0e5bab0_o.png",
+      "id_image": "resume_1945800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464393_737985400d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464393_49052d46d3_o.png",
+      "id_image": "resume_470202"
+    }
+  ]
+}

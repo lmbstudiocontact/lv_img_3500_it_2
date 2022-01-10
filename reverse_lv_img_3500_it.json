@@ -1,0 +1,210 @@
+{
+  "english": "reverse",
+  "phat_am": "[ri'və:s]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đảo, nghịch, ngược lại, trái lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /into reverse order",
+              "list_im": [
+                {
+                  "im_full_vn": "từ cuối trở lại đầu; theo trình tự ngược lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the reverse direction",
+              "full_vn": "ngược chiều"
+            },
+            {
+              "full_en": "the reverse side",
+              "full_vn": "mặt trái"
+            },
+            {
+              "full_en": "reverse current",
+              "full_vn": "dòng nước ngược"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the reverse ) điều trái ngược",
+          "list_en_vn": [
+            {
+              "full_en": "it is quite the reverse",
+              "full_vn": "hoàn toàn ngược lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề trái, mặt trái (của đồng tiền, tờ giấy, huân chương...)"
+        },
+        {
+          "m_full_vn": "sự chạy lùi (ô tô)",
+          "list_en_vn": [
+            {
+              "full_en": "on the reverse",
+              "full_vn": "đang chạy lùi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bất hạnh; vận rủi, vận bĩ, sự thất bại",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer a reverse",
+              "full_vn": "bị thất bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lùi (của xe máy..) (như) reverse gear"
+        },
+        {
+          "m_full_vn": "sự rẽ trong khi chạy lùi (của xe máy..) (như) reverse turn"
+        },
+        {
+          "m_full_vn": "miếng đánh trái"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự đổi chiều; cái đổi chiều, thiết bị quay ngược",
+          "list_en_vn": [
+            {
+              "full_en": "an automatic ribbon reverse",
+              "full_vn": "cái tự động quay ngược ruy băng (trên máy đánh chữ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đảo ngược, lộn ngược",
+          "list_en_vn": [
+            {
+              "full_en": "writing is reversed in a mirror",
+              "full_vn": "chữ viết bị đảo ngược lại trong gương"
+            },
+            {
+              "full_en": "their situations are now reversed as employee has become employee",
+              "full_vn": "tình thế của họ bây giờ đã đảo ngược vì người làm công đã trở thành ông chủ"
+            },
+            {
+              "full_en": "to reverse the collar and cuffs on a shirt",
+              "full_vn": "lộn cổ áo và cổ tay áo sơ mi (để giấu những đường viền bị sờn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (chiếc xe) đi giật lùi",
+          "list_en_vn": [
+            {
+              "full_en": "to reverse a car round a corner /up a hill",
+              "full_vn": "lùi xe quanh góc phố/lên đồi"
+            },
+            {
+              "full_en": "he reversed the car into a tree",
+              "full_vn": "anh ta lùi xe đâm vào một cái cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (cái máy) chạy ngược lại; làm cho (cái máy) chạy lùi",
+          "list_en_vn": [
+            {
+              "full_en": "to reverse the thrust of the rocket motors",
+              "full_vn": "đảo ngược chiều đẩy của động cơ tên lửa"
+            },
+            {
+              "full_en": "to reverse the engine",
+              "full_vn": "cho máy chạy lùi"
+            },
+            {
+              "full_en": "to brake by reversing the pedalling action",
+              "full_vn": "phanh bằng cách đạp ngược trở lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh đổi (hai chức năng, vị trí...)",
+          "list_en_vn": [
+            {
+              "full_en": "husband and wife have reversed roles",
+              "full_vn": "chồng và vợ đã đánh đổi vai trò của nhau (chồng lo việc nội trợ, vợ đi làm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thay đổi hoàn toàn; lật ngược (thủ tục, chính sách, lệnh, quyết định, ý kiến...)"
+        },
+        {
+          "m_full_vn": "(pháp lý) huỷ bỏ, thủ tiêu (bản án...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to reverse the charges",
+              "list_im": [
+                {
+                  "im_full_vn": "gọi điện thoại do người được gọi trả tiền",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to reverse the charges on /for a call",
+                      "full_vn": "gọi điện thoại do người được gọi trả tiền"
+                    },
+                    {
+                      "full_en": "to make a reversed -charge call to New York",
+                      "full_vn": "gọi điện thoại đi New York (do người ở New York trả tiền)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to reverse the decision of a lower court",
+              "full_vn": "bãi bỏ quyết định của toà án cấp dưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xoay tròn ngược chiều (người nhảy điệu van)"
+        },
+        {
+          "m_full_vn": "đi giật lùi; chạy lùi (ô tô)"
+        },
+        {
+          "m_full_vn": "đổi chiều (máy)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703249_736ebfe56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703249_77cf54dfcc_o.png",
+      "id_image": "reverse_2620728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085780_a2fc4f70fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085780_5727799b9e_o.png",
+      "id_image": "reverse_5869874"
+    }
+  ]
+}

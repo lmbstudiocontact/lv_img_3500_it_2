@@ -1,0 +1,110 @@
+{
+  "english": "purpose",
+  "phat_am": "['pə:pəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mục đích, ý định",
+          "list_en_vn": [
+            {
+              "full_en": "for the purpose of ...",
+              "full_vn": "nhằm mục đích..."
+            },
+            {
+              "full_en": "to serve a purpose",
+              "full_vn": "đáp ứng yêu cầu"
+            },
+            {
+              "full_en": "to what purpose ?",
+              "full_vn": "nhằm mục đích (ý định) gì?"
+            },
+            {
+              "full_en": "to the purpose",
+              "full_vn": "có lợi cho mục đích, có lợi cho ý định; đúng lúc, phải lúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủ định, chủ tâm",
+          "list_en_vn": [
+            {
+              "full_en": "on purpose",
+              "full_vn": "cố tình, cố ý, có chủ tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý nhất định, tính quả quyết",
+          "list_en_vn": [
+            {
+              "full_en": "infirm of purpose",
+              "full_vn": "không quả quyết"
+            },
+            {
+              "full_en": "of set purpose",
+              "full_vn": "nhất định, quả quyết"
+            },
+            {
+              "full_en": "wanting in purpose",
+              "full_vn": "không có ý nhất định, thiếu sự quả quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết quả",
+          "list_en_vn": [
+            {
+              "full_en": "to some purpose",
+              "full_vn": "được phần nào kết quả"
+            },
+            {
+              "full_en": "to little purpose",
+              "full_vn": "chẳng được kết quả là bao"
+            },
+            {
+              "full_en": "to no purpose",
+              "full_vn": "chẳng được kết quả gì, vô ích"
+            },
+            {
+              "full_en": "to good purpose",
+              "full_vn": "có kết quả tốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có mục đích, có ý định",
+          "list_en_vn": [
+            {
+              "full_en": "he purposed coming ; he purposed to come",
+              "full_vn": "hắn ta có ý định đến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701664_48aed85906_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701664_2be98af4ea_o.png",
+      "id_image": "purpose_1432068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461628_352dfbab81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461628_41928c4afe_o.png",
+      "id_image": "purpose_4185707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701729_8fcd575e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701729_43dde94fc9_o.png",
+      "id_image": "purpose_992638"
+    }
+  ]
+}

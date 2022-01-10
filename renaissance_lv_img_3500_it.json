@@ -1,0 +1,33 @@
+{
+  "english": "renaissance",
+  "phat_am": "[ri'neisəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phục hưng"
+        },
+        {
+          "m_full_vn": "( the Renaissance ) thời kỳ Phục hưng (thời kỳ làm sống lại (nghệ thuật) và (văn học) ở (thế kỷ) 14, 15 và 16, dựa trên các hình thức cổ điển)"
+        },
+        {
+          "m_full_vn": "( Renaissance ) ( định ngữ) (thuộc) thời kỳ Phục hưng",
+          "list_en_vn": [
+            {
+              "full_en": "renaissance art",
+              "full_vn": "nghệ thuật thời Phục hưng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680414_39a651359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680414_0a9891500a_o.png",
+      "id_image": "renaissance_5234443"
+    }
+  ]
+}

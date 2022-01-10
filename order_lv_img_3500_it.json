@@ -1,0 +1,689 @@
+{
+  "english": "order",
+  "phat_am": "['ɔ:də]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) bậc",
+          "list_en_vn": [
+            {
+              "full_en": "equation of the first order",
+              "full_vn": "phương trình bậc nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại, hạng",
+          "list_en_vn": [
+            {
+              "full_en": "skills of the highest order",
+              "full_vn": "các kỹ năng thuộc loại cao nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phẩm cấp",
+          "list_en_vn": [
+            {
+              "full_en": "the Order of the Garter is an ancient order of chivalry",
+              "full_vn": "phẩm cấp Gatơ là một cấp hiệp sĩ thời cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) phẩm chức; giáo phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "the Order of Priests /Deacons /Bishops",
+              "full_vn": "phẩm chức linh mục/trợ tế/giám mục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luật dòng tu",
+          "list_en_vn": [
+            {
+              "full_en": "the monastic orders",
+              "full_vn": "các luật dòng ở tu viện"
+            },
+            {
+              "full_en": "the Order of Dominican Friars",
+              "full_vn": "luật lệ của các thầy dòng Đôminich"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) kiểu",
+          "list_en_vn": [
+            {
+              "full_en": "the five classical orders of architecture",
+              "full_vn": "năm kiểu kiến trúc cổ điển"
+            },
+            {
+              "full_en": "the Doric order",
+              "full_vn": "kiểu kiến trúc Đorich"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huân chương",
+          "list_en_vn": [
+            {
+              "full_en": "to wear all one's orders and medals",
+              "full_vn": "đeo tất cả huân chương và huy chương của mình"
+            },
+            {
+              "full_en": "Labour Order",
+              "full_vn": "huân chương lao động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thứ tự; trình tự",
+          "list_en_vn": [
+            {
+              "full_en": "in alphabetical order",
+              "full_vn": "theo thứ tự abc"
+            },
+            {
+              "full_en": "in chronological order",
+              "full_vn": "theo thứ tự thời gian"
+            },
+            {
+              "full_en": "arranged in order of size /merit /importance",
+              "full_vn": "được xếp thứ tự theo kích thước/công lao/tầm quan trọng"
+            },
+            {
+              "full_en": "to follow the order of events",
+              "full_vn": "theo thứ tự của sự kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trật tự, nội quy, thủ tục (ở nghị viện, ở hội trường...), nghi lễ (tôn giáo)",
+          "list_en_vn": [
+            {
+              "full_en": "to restore law and order",
+              "full_vn": "lập lại an ninh và trật tự"
+            },
+            {
+              "full_en": "the social order of ants is very interesting",
+              "full_vn": "trật tự xã hội của loài kiến rất đáng chú ý"
+            },
+            {
+              "full_en": "to call to order",
+              "full_vn": "nhắc phải theo đúng nội quy"
+            },
+            {
+              "full_en": "the rules of order",
+              "full_vn": "các nguyên tắc của nội quy"
+            },
+            {
+              "full_en": "the order of business",
+              "full_vn": "thủ tục kinh doanh"
+            },
+            {
+              "full_en": "I want to raise a point of order",
+              "full_vn": "tôi muốn nêu lên vấn đề về thủ tục"
+            },
+            {
+              "full_en": "to put /leave /set one's affairs , papers , accounts in order",
+              "full_vn": "để/đặt/thu xếp công việc, giấy tờ, sổ sách kế toán cho có trật tự"
+            },
+            {
+              "full_en": "get your ideas into some kind of order before beginning to write",
+              "full_vn": "hãy sắp xếp ý tưởng của anh theo trình tự nào đó rồi hãy bắt đầu viết"
+            },
+            {
+              "full_en": "some teachers find it difficult to keep order in their classes /to keep their classes in order",
+              "full_vn": "một số giáo viên thấy rằng khó giữ được trật tự trong lớp họ"
+            },
+            {
+              "full_en": "the order of service as laid down in the prayer-book",
+              "full_vn": "nghi lễ như trong sách kinh đã đề ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "các thành viên của một nhóm, một tầng lớp",
+          "list_en_vn": [
+            {
+              "full_en": "the lower classes",
+              "full_vn": "những tầng lớp dưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm động vật, thực vật có liên quan nhau, bên dưới lớp và bên trên họ; bộ",
+          "list_en_vn": [
+            {
+              "full_en": "the rose and the bean families belong to the same order",
+              "full_vn": "họ hoa hồng và họ đậu thuộc cùng một bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mệnh lệnh, chỉ thị",
+          "list_en_vn": [
+            {
+              "full_en": "soldiers must obey orders",
+              "full_vn": "binh lính phải chấp hành mệnh lệnh"
+            },
+            {
+              "full_en": "he gave orders for the work to be started /that the work should be started immediately",
+              "full_vn": "ông ta ra lệnh phải bắt đầu công việc ngay"
+            },
+            {
+              "full_en": "my orders prevent me from doing that",
+              "full_vn": "mệnh lệnh (tôi nhận được) ngăn không cho tôi làm việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đặt hàng, đơn đặt hàng",
+          "list_en_vn": [
+            {
+              "full_en": "to fill an order",
+              "full_vn": "thực hiện đơn đặt hàng (cung cấp hàng theo yêu cầu)"
+            },
+            {
+              "full_en": "we received an order for two tons of coal",
+              "full_vn": "chúng tôi nhận được đơn đặt hai tấn than"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng được cung cấp",
+          "list_en_vn": [
+            {
+              "full_en": "a delivery van has brought the grocery order",
+              "full_vn": "chiếc xe giao hàng đã chở hàng tạp phẩm đặt mua đến"
+            },
+            {
+              "full_en": "your order has arrived",
+              "full_vn": "hàng ông đặt đã tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phiếu, lệnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "order ! order !",
+              "list_im": [
+                {
+                  "im_full_vn": "chú ý!; trật tự!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in /take (holy ) orders",
+              "list_im": [
+                {
+                  "im_full_vn": "trở thành tu sĩ; đi tu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be under orders (to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "được lệnh phải làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm under strict orders not to let any stranger in",
+                      "full_vn": "tôi được lệnh nghiêm ngặt không cho bất cứ người lạ nào vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "by order of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "theo lệnh của một người có quyền",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "by order of the court /Governor",
+                      "full_vn": "theo lệnh của toà án/thống đốc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in apple-pie order",
+              "list_im": [
+                {
+                  "im_full_vn": "xem apple"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in running /working order",
+              "list_im": [
+                {
+                  "im_full_vn": "(máy móc) chạy tốt, êm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in order",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "is your passport in order ?",
+                      "full_vn": "hộ chiếu của anh có hợp lệ không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in bad order",
+              "list_im": [
+                {
+                  "im_full_vn": "xấu, hỏng (máy)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in good order",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt, chạy tốt"
+                },
+                {
+                  "im_full_vn": "đúng nội quy, đúng thủ tục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of order",
+              "list_im": [
+                {
+                  "im_full_vn": "xấu, hỏng (máy)"
+                },
+                {
+                  "im_full_vn": "không đúng nội quy, không đúng thủ tục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in order that",
+              "list_im": [
+                {
+                  "im_full_vn": "cốt để, mục đích để",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he left early in order that he should arrive on time",
+                      "full_vn": "ông ta đi sớm cốt là để đến đúng giờ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in order to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "để mà, cốt để mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she arrived early in order to get a good seat",
+                      "full_vn": "cô ta đến sớm để có được chỗ ngồi tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in order to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "theo thủ tục, nội quy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's not in order to interrupt",
+                      "full_vn": "theo nội quy không được phép ngắt lời"
+                    },
+                    {
+                      "full_en": "is it in order to speak now ?",
+                      "full_vn": "theo nội quy thì bây giờ có được nói hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on order",
+              "list_im": [
+                {
+                  "im_full_vn": "đã đặt rồi nhưng chưa nhận được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've got two books on order at the bookshop",
+                      "full_vn": "tôi đã đặt mua hai cuốn sách ở hiệu sách (nhưng chưa nhận được)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "of /in the order of something",
+              "list_im": [
+                {
+                  "im_full_vn": "khoảng, chừng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "her salary is in the order of $150 a week",
+                      "full_vn": "lương cô ta khoảng 150 đô la một tuần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in short order",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh và không ồn ào; nhanh gọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /into reverse order",
+              "list_im": [
+                {
+                  "im_full_vn": "xem reverse"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an order to view",
+              "list_im": [
+                {
+                  "im_full_vn": "giấy của một người kinh doanh bất động sản cho phép khách đi xem ngôi nhà mà mình muốn mua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in short order",
+              "list_im": [
+                {
+                  "im_full_vn": "như short"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the pecking order",
+              "list_im": [
+                {
+                  "im_full_vn": "xem peck"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a point of order",
+              "list_im": [
+                {
+                  "im_full_vn": "xem point"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put /set one's own house in order",
+              "list_im": [
+                {
+                  "im_full_vn": "xem house"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take orders from somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm theo lệnh của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a tall order",
+              "list_im": [
+                {
+                  "im_full_vn": "xem tall"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(made ) to order",
+              "list_im": [
+                {
+                  "im_full_vn": "(được làm) theo yêu cầu của khách hàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this company will tailor a suit to order",
+                      "full_vn": "công ty này cắt quần áo theo yêu cầu của khách hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the orders of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới quyền của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under starter's orders",
+              "list_im": [
+                {
+                  "im_full_vn": "xem starter"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's /give somebody his marching orders",
+              "list_im": [
+                {
+                  "im_full_vn": "xem march"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the order of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "chương trình làm việc; chương trình nghị sự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "industry is the order of the day",
+                      "full_vn": "công nghiệp là vấn đề trọng tâm hiện nay"
+                    },
+                    {
+                      "full_en": "good behaviour must be the order of the day when the school inspector comes",
+                      "full_vn": "tư cách đạo đức tốt hẳn là nộidung chương trình làm việc khi ông thanh tra học đường tới"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a banker's /postal order",
+              "full_vn": "phiếu cho ngân hàng/bưu điện chi trả"
+            },
+            {
+              "full_en": "a court order to allow a divorced man to visit his children",
+              "full_vn": "một lệnh của toà án cho phép người đàn ông đã ly hôn được đến thăm con cái của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to order an enquiry",
+              "full_vn": "ra lệnh điều tra"
+            },
+            {
+              "full_en": "the doctor ordered me to stay in bed",
+              "full_vn": "bác sĩ ra lệnh cho tôi phải nằm nghỉ"
+            },
+            {
+              "full_en": "the boy was ordered out of the room",
+              "full_vn": "đứa bé được lệnh phải ra khỏi phòng"
+            },
+            {
+              "full_en": "the judge ordered that the prisoner should be remanded",
+              "full_vn": "quan toà ra lệnh tù nhân phải được trả lại trại giam để điều tra thêm"
+            },
+            {
+              "full_en": "we ordered him to leave immediately",
+              "full_vn": "chúng tôi ra lệnh cho nó phải đi ngay lập tức"
+            },
+            {
+              "full_en": "to be ordered abroad",
+              "full_vn": "được lệnh ra nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ dẫn; cho, cho dùng (thuốc...)",
+          "list_en_vn": [
+            {
+              "full_en": "the doctor ordered a purge",
+              "full_vn": "bác sĩ cho uống thuốc xổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gọi (món ăn, thức uống...), bảo người hầu đưa (thức ăn...); đặt (hàng...)",
+          "list_en_vn": [
+            {
+              "full_en": "we haven't ordered yet",
+              "full_vn": "chúng tôi chưa gọi món nào cả"
+            },
+            {
+              "full_en": "she ordered lunch at 1:30",
+              "full_vn": "bà ta đặt bữa trưa vào lúc 1 giờ rưỡi"
+            },
+            {
+              "full_en": "I've ordered a steak",
+              "full_vn": "tôi đã gọi một miếng bít tết"
+            },
+            {
+              "full_en": "he ordered himself a pint of beer",
+              "full_vn": "nó gọi cho mình một panh bia"
+            },
+            {
+              "full_en": "I've ordered you egg and chips , I've ordered you egg and chips for you",
+              "full_vn": "tôi đã gọi cho anh trứng và khoai tây rán"
+            },
+            {
+              "full_en": "to order two roast chickens and five bottles of beer",
+              "full_vn": "gọi hai con gà quay và năm chai bia"
+            },
+            {
+              "full_en": "I've ordered a new carpet (from the shop )",
+              "full_vn": "tôi đã đặt mua một tấm thảm mới (ở cửa hàng)"
+            },
+            {
+              "full_en": "we don't have the book in stock but we can order it",
+              "full_vn": "chúng tôi không có cuốn sách đó trong kho nhưng chúng tôi có thể đặt mua được"
+            },
+            {
+              "full_en": "he ordered himself three shirts",
+              "full_vn": "nó đặt riêng cho nó ba áo sơ mi"
+            },
+            {
+              "full_en": "she ordered a garden chair for her husband",
+              "full_vn": "bà ta đặt một chiếc ghế ngồi ở vườn cho chồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu xếp, sắp đặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to order somebody about /around",
+              "list_im": [
+                {
+                  "im_full_vn": "sai ai chạy như cờ lông công; sai ai luôn miệng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to order somebody off",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể thao) ra lệnh cho ai rời khỏi bãi (vì đã phạm luật)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to order somebody out",
+              "list_im": [
+                {
+                  "im_full_vn": "ra lệnh (cho cảnh sát, quân đội) diễu hành để trấn an dân chúng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the government ordered the police out to restore order in the streets",
+                      "full_vn": "chính phủ ra lệnh cho cảnh sát triển khai để khôi phục trật tự trên đường phố"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he ordered his life according to strict rules",
+              "full_vn": "ông ta thu xếp cuộc sống của mình theo những quy tắc chặt chẽ"
+            },
+            {
+              "full_en": "I must have time to order my thoughts",
+              "full_vn": "tôi phải có thời gian để sắp xếp lại ý tưởng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081660_44103c7338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081660_070227e129_o.png",
+      "id_image": "order_2082194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699314_89420fb95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699314_5768e87b21_o.png",
+      "id_image": "order_4645439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458918_97df653f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458918_062d29563b_o.png",
+      "id_image": "order_4829979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389197_74e47755dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389197_bb1b7bcf62_o.png",
+      "id_image": "order_804665"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "plank",
+  "phat_am": "[plæηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấm ván (dài, mỏng, dày từ 50 đến 150 mm, rộng ít nhất là 200 mm để lót sàn nhà..)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mục, nguyên tắc chủ yếu (của một cương lĩnh, chính sách của một đảng (chính trị))",
+          "list_one_mean": [
+            {
+              "id_full_en": "walk the plank",
+              "list_im": [
+                {
+                  "im_full_vn": "như walk"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thick as two planks",
+              "list_im": [
+                {
+                  "im_full_vn": "như thick"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lát ván (sàn...)"
+        },
+        {
+          "m_full_vn": "(thông tục) ( + down ) đặt (cái gì) mạnh xuống; trả (tiền) ngay",
+          "list_en_vn": [
+            {
+              "full_en": "to plank down money",
+              "full_vn": "trả tiền ngay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nướng (cá, thịt...) bằng cặp chả"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343256_c445512a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343256_dfbc85c85d_o.png",
+      "id_image": "planks_972738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698544_ed238764af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698544_2deb8d14da_o.png",
+      "id_image": "plank_972756"
+    }
+  ]
+}

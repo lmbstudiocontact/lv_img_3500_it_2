@@ -1,0 +1,93 @@
+{
+  "english": "pool",
+  "phat_am": "[pu:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vũng nước, ao tù; vũng (máu, chất lỏng..)"
+        },
+        {
+          "m_full_vn": "bể bơi, hồ bơi"
+        },
+        {
+          "m_full_vn": "vực (chỗ nước sâu và lặng ở con sông)"
+        },
+        {
+          "m_full_vn": "tiền đậu chến, tiền góp đánh bài"
+        },
+        {
+          "m_full_vn": "vốn chung, vốn đóng góp; quỹ vốn chung",
+          "list_en_vn": [
+            {
+              "full_en": "a pool car",
+              "full_vn": "(thuộc ngữ) xe dùng chung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Pun (tổ hợp các nhà kinh doanh hoặc sản xuất để loại trừ sự cạnh tranh lẫn nhau); khối thị trường chung"
+        },
+        {
+          "m_full_vn": "nhóm trực (nhóm người có sẵn để làm việc khi cần đến)",
+          "list_en_vn": [
+            {
+              "full_en": "a typing pool",
+              "full_vn": "tổ đánh máy trực"
+            },
+            {
+              "full_en": "a pool of doctors",
+              "full_vn": "nhóm bác sĩ trực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối đánh pun (một lối chơi bi-a với 16 viên tròn có màu trên bàn, tương tự lối đánh bi-a 21 viên)"
+        },
+        {
+          "m_full_vn": "( the pools ) ( số nhiều) trò đánh cá độ bóng đá (như) football pools",
+          "list_one_mean": [
+            {
+              "id_full_en": "shoot pool",
+              "list_im": [
+                {
+                  "im_full_vn": "như shoot"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào (lỗ) để đóng nêm phá đá"
+        },
+        {
+          "m_full_vn": "đào xới chân (vĩa than...)"
+        },
+        {
+          "m_full_vn": "góp quỹ, góp vốn chung"
+        },
+        {
+          "m_full_vn": "chia phần, chung phần (tiền thu được...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072920_51d96d38dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072920_804a5393d5_o.png",
+      "id_image": "pool_1403345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072895_deaf72d681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072895_7c50a8782b_o.png",
+      "id_image": "pool_4052543"
+    }
+  ]
+}

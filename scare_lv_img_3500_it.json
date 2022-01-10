@@ -1,0 +1,78 @@
+{
+  "english": "scare",
+  "phat_am": "[skeə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sợ hãi, sự kinh hoàng, sự hoang mang lo sợ (chiến tranh xảy ra...)"
+        },
+        {
+          "m_full_vn": "sự mua vội vì hốt hoảng, sự bán chạy vì hốt hoảng hoang mang"
+        },
+        {
+          "m_full_vn": "tin báo động"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm kinh hãi, làm sợ hãi, doạ",
+          "list_en_vn": [
+            {
+              "full_en": "scared face",
+              "full_vn": "mặt tỏ vẻ sợ hãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xua đuổi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to scare off",
+              "list_im": [
+                {
+                  "im_full_vn": "xua đuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to scare up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) vất vả mới thu được"
+                },
+                {
+                  "im_full_vn": "làm ra nhanh; thu lượm nhanh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên sợ hãi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447178_e474a6ce0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447178_a9771a34ea_o.png",
+      "id_image": "scare_1917684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068935_bea7fa3247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068935_d589477be4_o.png",
+      "id_image": "scare_260248"
+    }
+  ]
+}

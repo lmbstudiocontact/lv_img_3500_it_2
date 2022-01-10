@@ -1,0 +1,109 @@
+{
+  "english": "picket",
+  "phat_am": "['pikit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đứng cản (không cho đình công)",
+          "list_en_vn": [
+            {
+              "full_en": "a picket line",
+              "full_vn": "(thuộc ngữ) một hàng người đứng cản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm cảnh sát làm nhiệm vụ"
+        },
+        {
+          "m_full_vn": "cọc (rào, buộc ngựa...)"
+        },
+        {
+          "m_full_vn": "(quân sự) đội quân cảnh (như) picquet , piquet",
+          "list_en_vn": [
+            {
+              "full_en": "a picket fence",
+              "full_vn": "hàng rào cọc nhọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những người đứng gác (không cho ai vào làm trong cuộc bãi công)"
+        },
+        {
+          "m_full_vn": "người đứng biểu tình, người ngồi biểu tình",
+          "list_one_mean": [
+            {
+              "id_full_en": "antiaircraft picket",
+              "list_im": [
+                {
+                  "im_full_vn": "ban trực chiến phòng không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fire picket",
+              "list_im": [
+                {
+                  "im_full_vn": "đội thường trực cứu hoả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rào bằng cọc"
+        },
+        {
+          "m_full_vn": "buộc vào cọc",
+          "list_en_vn": [
+            {
+              "full_en": "to picket a horse",
+              "full_vn": "buộc ngựa vào cọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt (người) đứng gác; đặt người đứng gác (sở, xưởng) không cho vào làm trong lúc bãi công",
+          "list_en_vn": [
+            {
+              "full_en": "to picket men during a strike",
+              "full_vn": "đặt người đứng gác không cho ai vào làm trong một cuộc bãi công"
+            },
+            {
+              "full_en": "to picket a factory",
+              "full_vn": "đặt người đứng gác một xưởng không cho ai vào làm trong lúc bãi công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đứng gác không cho ai vào làm trong lúc bãi công"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085695_101e2d5125_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085695_212478fbbe_o.png",
+      "id_image": "picket_351802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463208_814e880c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463208_6a4fc6145a_o.png",
+      "id_image": "picket_422069"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "repellent",
+  "phat_am": "[ri'pelənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có khuynh hướng đẩy ra; có ý cự tuyệt, có ý khước từ"
+        },
+        {
+          "m_full_vn": "làm khó chịu, kinh tởm, làm ghê tởm",
+          "list_en_vn": [
+            {
+              "full_en": "the repellent smell of rotting meat",
+              "full_vn": "mùi ghê tởm của thịt thối rửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) không thể thấm qua (nước..)",
+          "list_en_vn": [
+            {
+              "full_en": "a water-repellent fabric",
+              "full_vn": "vải không thấm nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đẩy lùi"
+        },
+        {
+          "m_full_vn": "chất dùng làm vải (da..) không thấm nước"
+        },
+        {
+          "m_full_vn": "thuốc trừ sâu bọ, thuốc trừ rệp (ở cây)"
+        },
+        {
+          "m_full_vn": "(y học) thuốc làm giảm sưng tấy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323651_f475488587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323651_b11dd09d47_o.png",
+      "id_image": "repellent_1846178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060430_2a6dce2b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060430_cca478676c_o.png",
+      "id_image": "repellent_6364950"
+    }
+  ]
+}

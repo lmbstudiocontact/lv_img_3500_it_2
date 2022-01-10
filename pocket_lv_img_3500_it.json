@@ -1,0 +1,225 @@
+{
+  "english": "pocket",
+  "phat_am": "['pɔkit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "túi (quần, áo); túi đựng (trong xe hơi, vali..)",
+          "list_en_vn": [
+            {
+              "full_en": "a coat pocket",
+              "full_vn": "túi áo khoát"
+            },
+            {
+              "full_en": "a pocket dictionary",
+              "full_vn": "tự điển bỏ túi"
+            },
+            {
+              "full_en": "a pocket edition",
+              "full_vn": "ấn bản bỏ túi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao ( 75 kg)",
+          "list_en_vn": [
+            {
+              "full_en": "a pocket of hops",
+              "full_vn": "một bao hoa bia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "túi tiền",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer in one's pocket",
+              "full_vn": "tiêu pha nhiều, tiêu tốn tiền"
+            },
+            {
+              "full_en": "to be 5d in pocket",
+              "full_vn": "có sẵn 5 đồng trong túi; lãi được năm đồng"
+            },
+            {
+              "full_en": "to be 5 d out of pocket",
+              "full_vn": "hao mất 5 đồng"
+            },
+            {
+              "full_en": "an empty pocket",
+              "full_vn": "người không một xu dính túi, người rỗng túi"
+            },
+            {
+              "full_en": "easy /hard on the pocket",
+              "full_vn": "dễ/khó đối với khả năng tài chánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm biệt lập; ổ (nhất là trong chiến đấu)",
+          "list_en_vn": [
+            {
+              "full_en": "pockets of resistance",
+              "full_vn": "ổ đề kháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) túi lưới, túi hứng bi (cạnh bàn bi-a)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) túi quặng, túi khí độc; túi, hốc nhỏ ở trong hốc đá (chứa vàng, than..)",
+          "list_en_vn": [
+            {
+              "full_en": "pockets of coal",
+              "full_vn": "túi than"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) lỗ hổng không khí (như) air pocket"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ngõ cụt"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thế bị chèn, thế bị càn (của một vận động viên trong cuộc đua)",
+          "list_one_mean": [
+            {
+              "id_full_en": "money burns a hole in one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu hoang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have empty pockets",
+              "list_im": [
+                {
+                  "im_full_vn": "hết tiền rỗng túi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have somebody in one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "dắt mũi ai, khống chế ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "line one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) lo nhét đầy túi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pay out of one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "phải lấy tiền túi ra mà chi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put one's pride in one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "như pride"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put one's hand in one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be in somebody's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần gũi, thân tình với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they live in each other's pockets",
+                      "full_vn": "họ sống rất thân thiết với nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /out of pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "thu được/mất tiền do cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ (cái gì) vào túi"
+        },
+        {
+          "m_full_vn": "đút túi; giữ, lấy (cái gì)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cam chịu, nuốt",
+          "list_en_vn": [
+            {
+              "full_en": "to pocket one's anger",
+              "full_vn": "nén giận, nuốt giận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thọc (quả bi) vào túi lưới"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) chèn, cản (đối thủ trong cuộc đấu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pocket one's pride",
+              "list_im": [
+                {
+                  "im_full_vn": "nén giận, giấu ngượng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076410_8ebcdf88ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076410_175b4f11fc_o.png",
+      "id_image": "pocket_2803510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339221_f8c3e4991e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339221_92d5a38b31_o.png",
+      "id_image": "pocket_3655751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076440_fa445966eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076440_7dcb1336ee_o.png",
+      "id_image": "pocket_532027"
+    }
+  ]
+}

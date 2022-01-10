@@ -1,0 +1,41 @@
+{
+  "english": "rover",
+  "phat_am": "['rouvə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hay đi lang thang"
+        },
+        {
+          "m_full_vn": "trưởng đoàn hướng đạo"
+        },
+        {
+          "m_full_vn": "đích không nhất định, đích bắn tầm xa (bắn cung)",
+          "list_en_vn": [
+            {
+              "full_en": "to shoot at rovers",
+              "full_vn": "bắn vào những đích không nhất định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) cướp biển, hải tặc (như) sea rover"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455613_34435dc913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455613_97ea66646f_o.png",
+      "id_image": "rover_1794564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455588_c9b111a41a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455588_a7f07c8dab_o.png",
+      "id_image": "rover_2086532"
+    }
+  ]
+}

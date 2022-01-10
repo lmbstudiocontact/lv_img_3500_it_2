@@ -1,0 +1,53 @@
+{
+  "english": "reorder",
+  "phat_am": "[,ri:'ɔ:də]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt mua lại, đặt mua bổ sung"
+        },
+        {
+          "m_full_vn": "sắp xếp lại, sắp đặt theo trật tự mới",
+          "list_en_vn": [
+            {
+              "full_en": "reorder the furniture",
+              "full_vn": "xếp đặt lại đồ đạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "yêu cầu cung cấp thêm",
+          "list_en_vn": [
+            {
+              "full_en": "put in a reorder for Oxford dictionaries",
+              "full_vn": "đặt mua thêm một từ điển Oxford"
+            },
+            {
+              "full_en": "a reorder form",
+              "full_vn": "(thuộc ngữ) mẫu đơn đặt mua lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061300_ca6a6e1617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061300_ba8f4fee14_o.png",
+      "id_image": "reorder_5184415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324336_00a88d4652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324336_5d30c64e94_o.png",
+      "id_image": "reorder_5331779"
+    }
+  ]
+}

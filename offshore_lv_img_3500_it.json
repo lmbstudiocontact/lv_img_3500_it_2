@@ -1,0 +1,50 @@
+{
+  "english": "offshore",
+  "phat_am": "[,ɔf∫ɔ:(r)]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "xa bờ biển, ở ngoài khơi",
+          "list_en_vn": [
+            {
+              "full_en": "offshore fishing",
+              "full_vn": "đánh cá ngoài khơi"
+            },
+            {
+              "full_en": "offshore oil-rig",
+              "full_vn": "giàn khoan dầu ngoài khơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổi từ đất liền ra biển (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "offshore wind",
+              "full_vn": "gió thổi từ đất liền ra biển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392817_46d542f267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392817_80e0b90ea8_o.png",
+      "id_image": "offshore_1486217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347906_d243e3d9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347906_ec31b5cb19_o.png",
+      "id_image": "offshore_2321487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085185_41afa433f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085185_9b615f3a47_o.png",
+      "id_image": "offshore_6315464"
+    }
+  ]
+}

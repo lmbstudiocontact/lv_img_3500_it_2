@@ -1,0 +1,61 @@
+{
+  "english": "recorder",
+  "phat_am": "[ri'kɔ:də]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy ghi âm, máy ghi hình ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a tape recorder",
+              "full_vn": "máy ghi âm"
+            },
+            {
+              "full_en": "a video recorder",
+              "full_vn": "đầu máy video"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy ghi; dụng cụ ghi, bộ phận ghi"
+        },
+        {
+          "m_full_vn": "ống tiêu (bằng gỗ hoặc nhựa thuộc loại sáo, chơi (như) thổi còi, có tám lỗ để bấm)"
+        },
+        {
+          "m_full_vn": "người giữ sổ sách"
+        },
+        {
+          "m_full_vn": "người ghi lại"
+        },
+        {
+          "m_full_vn": "quan toà (tại một số thành phố ở Anh)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334546_ff6d0fd484_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334546_9e2ce7395d_o.png",
+      "id_image": "recorder_1776540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449483_26f5af5446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449483_e0a959d9db_o.png",
+      "id_image": "recorder_1982408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334466_50280b9c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334466_34088687f8_o.png",
+      "id_image": "recorder_3966600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334586_b661aff4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334586_50c799e792_o.png",
+      "id_image": "recorder_654958"
+    }
+  ]
+}

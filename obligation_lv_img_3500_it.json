@@ -1,0 +1,107 @@
+{
+  "english": "obligation",
+  "phat_am": "[,ɔbli'gei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghĩa vụ, bổn phận",
+          "list_one_mean": [
+            {
+              "id_full_en": "to repay an obligation",
+              "list_im": [
+                {
+                  "im_full_vn": "trả ơn (đáp lại lòng mến khách mà mình đã nhận được)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to place /put somebody under an obligation to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "khiến ai phải chịu ơn ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "their hearty advice placed me under an obligation to them",
+                      "full_vn": "lời khuyên chân tình của họ đã khiến tôi phải mang ơn họ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be under an obligation to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu ơn ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm under an obligation to her because she herself taught me Chinese",
+                      "full_vn": "tôi mang ơn bà ta vì chính bà ta đã dạy tiếng Hoa cho tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be under an obligation to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có nghĩa vụ phải làm điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be under no obligation to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "không có nghĩa vụ phải làm điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to place /put somebody under an obligation to do something ; to place /put somebody under no obligation to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt buộc ai làm điều gì; không bắt buộc ai làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "damaging other people's property puts you under an obligation to pay damages",
+                      "full_vn": "gây thiệt hại cho tài sản người khác thì phải bồi thường"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "rights and obligations of the seller",
+              "full_vn": "quyền và nghĩa vụ của bên bán"
+            },
+            {
+              "full_en": "the obligations of conscience",
+              "full_vn": "những bổn phận của lương tâm"
+            },
+            {
+              "full_en": "obligations imposed by parenthood",
+              "full_vn": "những nghĩa vụ do địa vị cha mẹ đặt ra"
+            },
+            {
+              "full_en": "to fulfill an obligation",
+              "full_vn": "thực hiện một nghĩa vụ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394397_ea53813904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394397_876838ab4c_o.png",
+      "id_image": "obligation_1401429"
+    }
+  ]
+}

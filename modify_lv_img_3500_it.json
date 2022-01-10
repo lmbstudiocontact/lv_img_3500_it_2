@@ -1,0 +1,48 @@
+{
+  "english": "modify",
+  "phat_am": "['mɔdifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giảm bớt, làm nhẹ, làm dịu",
+          "list_en_vn": [
+            {
+              "full_en": "to modify one's tone",
+              "full_vn": "dịu giọng, hạ giọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa đổi, thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "the revolution modified the whole social structure of the country",
+              "full_vn": "cách mạng đã làm thay đổi cả cấu trúc xã hội của đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) thay đổi (nguyên âm) bằng hiện tượng biến sắc"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) bổ nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "adjectives modify nouns and adverbs modify verbs",
+              "full_vn": "tính từ bổ nghĩa cho danh từ, phó từ bổ nghĩa cho động từ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453778_3acce5486d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453778_8031287382_o.png",
+      "id_image": "modify_2196224"
+    }
+  ]
+}

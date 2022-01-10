@@ -1,0 +1,182 @@
+{
+  "english": "peg",
+  "phat_am": "[peg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chốt; cái móc; cái mắc"
+        },
+        {
+          "m_full_vn": "cái mắc (áo, mũ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a hat peg",
+              "full_vn": "cái mắc mũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cọc buộc lều (như) tent-peg"
+        },
+        {
+          "m_full_vn": "cọc đánh dấu (đất..)",
+          "list_en_vn": [
+            {
+              "full_en": "a surveyor's peg",
+              "full_vn": "cọc của người vẽ bản đồ địa hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái ngạc"
+        },
+        {
+          "m_full_vn": "miếng gỗ chèn, bít (lỗ thùng...)"
+        },
+        {
+          "m_full_vn": "núm lên dây đàn (như) tuning peg"
+        },
+        {
+          "m_full_vn": "cái kẹp phơi quần áo (như) clothes peg"
+        },
+        {
+          "m_full_vn": "chân giả (thường) bằng gỗ; người có chân giả (như) peg leg"
+        },
+        {
+          "m_full_vn": "rượu cônhắc pha xô-đa"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cớ, lý do, cơ hội; đề tài",
+          "list_one_mean": [
+            {
+              "id_full_en": "a peg to hang something on",
+              "list_im": [
+                {
+                  "im_full_vn": "cớ để vin vào, cơ hội để bám vào; đề tài để xoáy vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off the peg",
+              "list_im": [
+                {
+                  "im_full_vn": "may sẵn (quần áo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a round peg in a square hole",
+              "list_im": [
+                {
+                  "im_full_vn": "như hole"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone on the peg",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự), (từ lóng) đưa ai ra ban chỉ huy vì một lỗi gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take someone down a peg or two",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nhục ai; làm cho ai hết vênh váo, làm cho ai co vòi lại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng chốt, đóng cọc (để giữ chặt)"
+        },
+        {
+          "m_full_vn": "( + down ) ghìm chặt, hạn chế, câu thúc, kiềm chế",
+          "list_en_vn": [
+            {
+              "full_en": "to peg someone down to rules",
+              "full_vn": "câu thúc ai theo đúng luật lệ, ghìm ai theo đúng luật lệ"
+            },
+            {
+              "full_en": "to peg someone down to his work",
+              "full_vn": "ghim chặt ai vào công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghìm không cho lên xuống (giá hối đoái)"
+        },
+        {
+          "m_full_vn": "ổn định (giá cả...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) ném (đá...)"
+        },
+        {
+          "m_full_vn": "ghi (điểm số) bằng chốt (chơi kipbi)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vạch mặt chỉ tên là",
+          "list_en_vn": [
+            {
+              "full_en": "to peg somebody as a scoundred",
+              "full_vn": "vạch mặt chỉ tên ai là một thằng vô lại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( + at )",
+      "list_m": [
+        {
+          "m_full_vn": "cầm chốt đánh vào, cầm cọc đánh vào; cầm chốt nhắm vào, cầm cọc nhắm vào; đâm thủng bằng chốt, đâm thủng bằng cọc"
+        },
+        {
+          "m_full_vn": "ném đá vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to peg away at",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên trì làm, bền bỉ làm (việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to peg out",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh dấu ranh giới bằng cọc"
+                },
+                {
+                  "im_full_vn": "chạm bóng vào cọc kết thúc cuộc đấu ( critkê)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) chết; sạt nghiệp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438323_f5c95fd20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438323_c66af93a9b_o.png",
+      "id_image": "peg_4636779"
+    }
+  ]
+}

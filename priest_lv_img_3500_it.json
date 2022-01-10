@@ -1,0 +1,51 @@
+{
+  "english": "priest",
+  "phat_am": "[pri:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "linh mục, thầy tu",
+          "list_en_vn": [
+            {
+              "full_en": "a parish priest",
+              "full_vn": "cha xứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thầy tế (giống cái priestess )"
+        },
+        {
+          "m_full_vn": "cái vồ đập cá ( Ai-len)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm (ai) trở thành thầy tu, làm (ai) trở thành thầy tế"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681059_ab762eeb08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681059_f2bf572802_o.png",
+      "id_image": "priest_4261534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681024_b29341a5d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681024_c6d46f3155_o.png",
+      "id_image": "priest_4530994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681104_02f2978099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681104_6c57572ff7_o.png",
+      "id_image": "priest_807694"
+    }
+  ]
+}

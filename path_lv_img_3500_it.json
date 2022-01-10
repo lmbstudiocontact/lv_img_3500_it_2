@@ -1,0 +1,98 @@
+{
+  "english": "path",
+  "phat_am": "[pɑ:θ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều paths",
+      "list_m": [
+        {
+          "m_full_vn": "đường mòn, đường nhỏ, lối đi (như) pathway , footpath",
+          "list_en_vn": [
+            {
+              "full_en": "mountain path",
+              "full_vn": "đường mòn trên núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng đi, đường đi",
+          "list_en_vn": [
+            {
+              "full_en": "the path of a comes",
+              "full_vn": "đường đi của sao chổi"
+            },
+            {
+              "full_en": "on the path of honour",
+              "full_vn": "trên con đường danh vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường lối (chiều hướng hành động)",
+          "list_en_vn": [
+            {
+              "full_en": "I strongly advised him not to take that path",
+              "full_vn": "tôi đã mạnh mẽ khuyên nó không nên đi theo con đường ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con đường để đi tới hoặc thực hiện cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "lead somebody up the garden path",
+              "list_im": [
+                {
+                  "im_full_vn": "như lead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the primrose path",
+              "list_im": [
+                {
+                  "im_full_vn": "như primrose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "smooth somebody's path",
+              "list_im": [
+                {
+                  "im_full_vn": "như smooth"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the path to success",
+              "full_vn": "con đường đi tới thành công"
+            },
+            {
+              "full_en": "the path to ruin",
+              "full_vn": "con đường dẫn đến thất bại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328196_3a2af57f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328196_c7e93d7763_o.png",
+      "id_image": "path_2491545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443233_180b00a9f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443233_8126ae2e09_o.png",
+      "id_image": "path_5228669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065045_99e544e00d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065045_31ec3c401f_o.png",
+      "id_image": "path_781603"
+    }
+  ]
+}

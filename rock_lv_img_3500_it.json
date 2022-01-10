@@ -1,0 +1,205 @@
+{
+  "english": "rock",
+  "phat_am": "[rɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá; khối đá nhô lên khỏi mặt đất, mặt biển"
+        },
+        {
+          "m_full_vn": "hòn đá, tảng đá lớn, tách rời ra",
+          "list_en_vn": [
+            {
+              "full_en": "falling rocks",
+              "full_vn": "đá lở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) hòn đá nhỏ, đá cuội"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (từ Mỹ,nghĩa Mỹ), (thông tục) tiền"
+        },
+        {
+          "m_full_vn": "kẹo cứng",
+          "list_en_vn": [
+            {
+              "full_en": "a stick of rock",
+              "full_vn": "một que kẹo bạc hà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) bồ câu núi (như) rock-pigeon",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the rocks",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) kiết, không một đồng xu dính túi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "built (founded ) on the rock",
+              "list_im": [
+                {
+                  "im_full_vn": "xây dựng trên nền đá; (nghĩa bóng) xây dựng trên một nền tảng vững chắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run upon the rocks",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm phải núi đá (tàu biển)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) lâm vào cảnh khó khăn không khắc phục nổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see rocks ahead",
+              "list_im": [
+                {
+                  "im_full_vn": "trông thấy núi đá trước mắt khó tránh được (tàu biển...)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) trông thấy nguy hiểm trước mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as firm / solid as a rock",
+              "list_im": [
+                {
+                  "im_full_vn": "không lạy chuyển được, vững như bàn thạch; có thể tin cậy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the rock",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm phải đá bị đắm (về tàu)"
+                },
+                {
+                  "im_full_vn": "(thông tục) gặp khó khăn (một cuộc hôn nhân, một doanh nghiệp..)"
+                },
+                {
+                  "im_full_vn": "(thông tục) pha với đá cục nhưng không pha nước (về đồ uống)"
+                },
+                {
+                  "im_full_vn": "(sử học) guồng quay chỉ"
+                },
+                {
+                  "im_full_vn": "sự đu đưa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đu đưa, lúc lắc",
+          "list_en_vn": [
+            {
+              "full_en": "to rock a child to sleep",
+              "full_vn": "đu đưa cho đứa bé ngủ"
+            },
+            {
+              "full_en": "the ship is rocking on the waves",
+              "full_vn": "con tàu đu đưa trên ngọn sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm rung chuyển mạnh; rung chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "the earthquake rocked the houses",
+              "full_vn": "cuộc động đất làm những ngôi nhà rung chuyển"
+            },
+            {
+              "full_en": "the house rocks",
+              "full_vn": "căn nhà rung chuyển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bối rối, làm lo lắng, làm sửng sốt, làm choáng váng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be rocked in hopes",
+              "list_im": [
+                {
+                  "im_full_vn": "ấp ủ hy vọng, sống trong hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be rocked in security",
+              "list_im": [
+                {
+                  "im_full_vn": "sống trong cảnh yên ổn không phải lo nghĩ gì đến mọi hiểm nguy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhạc rốc (như) rock-music",
+          "list_en_vn": [
+            {
+              "full_en": "a rock-star",
+              "full_vn": "một ngôi sao nhạc rốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiêu vũ thep nhạc rốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458958_70179e34d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458958_43f4925f07_o.png",
+      "id_image": "rock_3413211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344251_93ea020157_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344251_d3286b7bee_o.png",
+      "id_image": "rock_343034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458928_0f78e2196c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458928_50c7cd496e_o.png",
+      "id_image": "rock_5167332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699349_0f15e7ba95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699349_fa2de388f9_o.png",
+      "id_image": "rock_881190"
+    }
+  ]
+}

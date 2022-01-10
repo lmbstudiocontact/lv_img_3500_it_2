@@ -1,0 +1,180 @@
+{
+  "english": "pitch",
+  "phat_am": "[pit∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dầu hắc ín"
+        },
+        {
+          "m_full_vn": "sự ném, tung, liệng (cái gì), lao xuống (người); (thể dục thể thao) cách ném bóng, đường ném bóng (trong criket); động tác ném (trong bóng chày)",
+          "list_en_vn": [
+            {
+              "full_en": "a headlong pitch from a rock",
+              "full_vn": "sự lao người từ một tảng đá xuống"
+            },
+            {
+              "full_en": "a full pitch",
+              "full_vn": "quả ném bổng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) độ cao thấp (nốt nhạc, giọng hát); chất lượng âm thanh",
+          "list_en_vn": [
+            {
+              "full_en": "give the pitch",
+              "full_vn": "bắt giọng, xướng âm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức độ, cường độ (vấn đề..)",
+          "list_en_vn": [
+            {
+              "full_en": "to come to such a pitch that ...",
+              "full_vn": "đến mức độ là..."
+            },
+            {
+              "full_en": "anger is at its highest pitch",
+              "full_vn": "cơn giận đến cực độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + of something ) tuyệt đỉnh"
+        },
+        {
+          "m_full_vn": "sự nhồi sóng (tàu..)"
+        },
+        {
+          "m_full_vn": "độ dốc (mái nhà..)"
+        },
+        {
+          "m_full_vn": "lời rao hàng (như) sales pitch"
+        },
+        {
+          "m_full_vn": "chỗ ngồi thường lệ (của người bán hàng rong, người hát xẩm)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bước răng (đinh ốc), răng (bánh răng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "black as pitch",
+              "list_im": [
+                {
+                  "im_full_vn": "như black"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at concert pitch",
+              "list_im": [
+                {
+                  "im_full_vn": "như concert"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at /to fever pitch",
+              "list_im": [
+                {
+                  "im_full_vn": "như fever"
+                }
+              ]
+            },
+            {
+              "id_full_en": "queer somebody's pitch",
+              "list_im": [
+                {
+                  "im_full_vn": "như queer"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "screw pitch",
+              "full_vn": "bước đinh ốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quét hắc ín, trát hắc ín"
+        },
+        {
+          "m_full_vn": "dựng, cắm (lều, trại)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) bắt giọng, xướng âm; diễn đạt (cái gì) theo phong cách đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "a high /low-pitched voice",
+              "full_vn": "một giọng có âm vực cao/thấp"
+            },
+            {
+              "full_en": "pitch one's hopes high",
+              "full_vn": "có cao vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ném, quăng (cái gì), rơi mạnh xuống (người)"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) đập xuống đất cạnh, cọc gôn (trong criket); ném bóng cho người cầm chày (trong bóng chày)",
+          "list_en_vn": [
+            {
+              "full_en": "pitch the ball up a bit",
+              "full_vn": "ném bóng cho bật cao lên một tí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kể (câu chuyện), viện (một lý do); (từ lóng) thuê dệt (chuyện)"
+        },
+        {
+          "m_full_vn": "( + in , into something ) (thông tục) làm việc hăng say; ăn (cái gì) rất ngon miệng"
+        },
+        {
+          "m_full_vn": "( + into somebody ) (thông tục) tấn công ai dữ dội"
+        },
+        {
+          "m_full_vn": "( + in ( with something )) sẵn sàng giúp đỡ, hổ trợ"
+        },
+        {
+          "m_full_vn": "nhồi lên hụp xuống (tàu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344791_eac1b45e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344791_398f6d82a8_o.png",
+      "id_image": "pitch_1031443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344741_d7120a1511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344741_714ea6ca40_o.png",
+      "id_image": "pitch_1529269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459533_af91040caa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459533_c58b12d2cc_o.png",
+      "id_image": "pitch_1999349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699814_57e4efa204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699814_3e51f82b77_o.png",
+      "id_image": "pitch_2132535"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "prioritize",
+  "phat_am": "[prai'ɔrətaiz]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dành ưu tiên",
+          "list_en_vn": [
+            {
+              "full_en": "If elected , we will prioritize administrative reform",
+              "full_vn": "Nếu được bầu, chúng tôi sẽ ưu tiên cải cách hành chính"
+            },
+            {
+              "full_en": "It is advisable to prioritize the old and the disabled",
+              "full_vn": "Nên ưu tiên cho người già và người tàn tật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324446_1d277249da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324446_e71248bab4_o.png",
+      "id_image": "prioritize_4133572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369287_98883454b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369287_5c1d111e6c_o.png",
+      "id_image": "prioritize_5184663"
+    }
+  ]
+}

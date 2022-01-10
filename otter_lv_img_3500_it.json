@@ -1,0 +1,35 @@
+{
+  "english": "otter",
+  "phat_am": "['ɔtə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con rái cá"
+        },
+        {
+          "m_full_vn": "bộ lông rái cá",
+          "list_en_vn": [
+            {
+              "full_en": "a jacket made of otter skins",
+              "full_vn": "một chiếc áo làm bằng da con rái cá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342206_5d03aba6dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342206_aa5c915a35_o.png",
+      "id_image": "otter_185709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387167_3019e66a32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387167_ed3a502c11_o.png",
+      "id_image": "otter_4561006"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "promoter",
+  "phat_am": "[prə'moutə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tổ chức, người tài trợ (cuộc thi đấu thể thao..); người ủng hộ (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a boxing promoter",
+              "full_vn": "người bảo trợ cuộc đấu quyền Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người sáng lập, người tham gia sáng lập (một công ty buôn bán); người đề xướng, người khởi xướng (một kế hoạch...)"
+        },
+        {
+          "m_full_vn": "(hoá học) chất hoạt hoá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088410_70fcdebf77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088410_a2ee0cba03_o.png",
+      "id_image": "promoter_2037836"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "relationship",
+  "phat_am": "[ri'lei∫n∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( relationship between A and B ; of A to / with B ) mối quan hệ, mối liên hệ",
+          "list_en_vn": [
+            {
+              "full_en": "the relationship between the socialist countries is based on proletarian internationalism",
+              "full_vn": "quan hệ giữa các nước xã hội chủ nghĩa dựa trên cơ sở chủ nghĩa quốc tế vô sản"
+            },
+            {
+              "full_en": "a purely business relationship",
+              "full_vn": "mối quan hệ kinh doanh đơn thuần"
+            },
+            {
+              "full_en": "the author had a good working relationship with his editor",
+              "full_vn": "tác giả có mối quan hệ làm việc tốt với nhà xuất bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình thân thuộc, tình họ hàng",
+          "list_en_vn": [
+            {
+              "full_en": "the relationship by blood",
+              "full_vn": "tình họ hàng ruột thịt"
+            },
+            {
+              "full_en": "a father-son relationship",
+              "full_vn": "tình thân thuộc cha con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan hệ tình cảm; quan hệ tình dục",
+          "list_en_vn": [
+            {
+              "full_en": "to have a relationship with somebody",
+              "full_vn": "có quan hệ tình dục với ai"
+            },
+            {
+              "full_en": "their affair did not develop into a lasting relationship",
+              "full_vn": "cuộc tình của họ đã không trở thành một mốiquan hệ tình cảm lâu bền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064765_5b2c3abe32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064765_fe0b14d571_o.png",
+      "id_image": "relationship_1001208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683059_f2d4e7807e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683059_5226bc4fb5_o.png",
+      "id_image": "relationship_1924427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683019_b89135a398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683019_8c444db56d_o.png",
+      "id_image": "relationship_2753149"
+    }
+  ]
+}

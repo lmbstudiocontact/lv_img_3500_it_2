@@ -1,0 +1,83 @@
+{
+  "english": "recreation",
+  "phat_am": "[,rekri'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghỉ ngơi, sự giải trí, sự tiêu khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to walk for recreation",
+              "full_vn": "đi dạo để giải trí"
+            },
+            {
+              "full_en": "to look upon gardening as a recreation",
+              "full_vn": "coi công việc làm vườn như một thú tiêu khiển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giờ chơi, giờ nghỉ, giờ giải lao (ở trường học)",
+          "list_one_mean": [
+            {
+              "id_full_en": "recreation center",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (quân sự) căn cứ (để) nghỉ ngơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "recreation centre",
+              "list_im": [
+                {
+                  "im_full_vn": "câu lạc bộ, nhà văn hoá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "recreation ground",
+              "list_im": [
+                {
+                  "im_full_vn": "sân chơi, sân thể thao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "recreation room",
+              "list_im": [
+                {
+                  "im_full_vn": "phòng giải trí"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449023_829fa20c8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449023_a475dd9975_o.png",
+      "id_image": "recreation_2773107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448968_e11de6be7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448968_5422e2aa54_o.png",
+      "id_image": "recreation_3124471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070935_24d1026041_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070935_d0a3d276a7_o.png",
+      "id_image": "recreation_5778818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070905_15a829818a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070905_afae81749e_o.png",
+      "id_image": "recreation_5783721"
+    }
+  ]
+}

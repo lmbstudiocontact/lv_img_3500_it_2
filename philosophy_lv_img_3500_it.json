@@ -1,0 +1,81 @@
+{
+  "english": "philosophy",
+  "phat_am": "[fi'lɔsəfi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "triết học; triết lý",
+          "list_en_vn": [
+            {
+              "full_en": "Marxist-Leninist philosophy",
+              "full_vn": "triết học Mác-Lênin"
+            },
+            {
+              "full_en": "the philosophy of Aristotle",
+              "full_vn": "triết lý Atixtot"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xử thế; triết lý sống",
+          "list_en_vn": [
+            {
+              "full_en": "a man without a philosophy of life",
+              "full_vn": "một con người không có triết lý sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính bình thản, sự bình thản (bình tĩnh, thản nhiên trong cuộc sống)",
+          "list_one_mean": [
+            {
+              "id_full_en": "normal philosophy",
+              "list_im": [
+                {
+                  "im_full_vn": "luân lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "natural philosophy",
+              "list_im": [
+                {
+                  "im_full_vn": "khoa học tự nhiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087300_d5882996f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087300_58a351abca_o.png",
+      "id_image": "philosophy_1651657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087270_89f2fdb0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087270_c7feaed4cf_o.png",
+      "id_image": "philosophy_2244711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464723_0dc701a6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464723_107a8913e2_o.png",
+      "id_image": "philosophy_401540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394782_7e01223cf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394782_7ef0ed96eb_o.png",
+      "id_image": "philosophy_4601310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349971_8a37032486_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349971_abd60acd69_o.png",
+      "id_image": "philosophy_4635451"
+    }
+  ]
+}

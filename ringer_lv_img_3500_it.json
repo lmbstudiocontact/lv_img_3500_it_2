@@ -1,0 +1,42 @@
+{
+  "english": "ringer",
+  "phat_am": "['riηə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người kéo chuông (như) bell-ringer"
+        },
+        {
+          "m_full_vn": "cái để rung chuông"
+        },
+        {
+          "m_full_vn": "con cáo chạy vòng quanh (khi bị săn đuổi)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) vật hảo hạng; người cừ khôi, người xuất sắc"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ngựa tham gia gian lận một cuộc đua; đấu thủ tham gia gian lận một cuộc đấu"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người giống (ai) như đúc",
+          "list_en_vn": [
+            {
+              "full_en": "he is a ringer for his father",
+              "full_vn": "nó giống bố nó như đúc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083885_1d026c9582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083885_e73fd911ca_o.png",
+      "id_image": "ringer_637977"
+    }
+  ]
+}

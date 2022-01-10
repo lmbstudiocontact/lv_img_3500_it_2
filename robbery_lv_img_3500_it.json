@@ -1,0 +1,50 @@
+{
+  "english": "robbery",
+  "phat_am": "['rɔbəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ăn cướp, vụ ăn cướp; sự ăn trộm, vụ ăn trộm",
+          "list_en_vn": [
+            {
+              "full_en": "a highway robbery",
+              "full_vn": "một vụ cướp đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bán giá cắt cổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "daylight robbery",
+              "list_im": [
+                {
+                  "im_full_vn": "sự bóc lột trắng trợn; sự bán với giá quá đắt (ví (như) ăn cướp giữa ban ngày)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344571_cd728dc9bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344571_15538f5332_o.png",
+      "id_image": "robbery_2084060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459378_5999a9f455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459378_df106bbab3_o.png",
+      "id_image": "robbery_2650121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459348_f33f259342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459348_722a2234b4_o.png",
+      "id_image": "robbery_4351782"
+    }
+  ]
+}

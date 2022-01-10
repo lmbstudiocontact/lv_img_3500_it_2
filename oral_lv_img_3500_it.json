@@ -1,0 +1,63 @@
+{
+  "english": "oral",
+  "phat_am": "['ɔ:rəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng lời nói, nói miệng",
+          "list_en_vn": [
+            {
+              "full_en": "an oral examination",
+              "full_vn": "cuộc thi vấn đáp"
+            },
+            {
+              "full_en": "stories passed on by oral tradition",
+              "full_vn": "những chuyện được truyền miệng từ đời này qua đời khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc, bằng hoặc ở miệng",
+          "list_en_vn": [
+            {
+              "full_en": "oral hygiene",
+              "full_vn": "vệ sinh miệng"
+            },
+            {
+              "full_en": "oral contraceptives",
+              "full_vn": "thuốc uống tránh thụ thai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) thi nói, thi vấn đáp",
+          "list_en_vn": [
+            {
+              "full_en": "he passed the oral",
+              "full_vn": "anh ấy đã đậu kỳ thi vấn đáp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459463_213d52a4e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459463_5e19310583_o.png",
+      "id_image": "oral_1488179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389552_0d3122cd42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389552_ffcc76724f_o.png",
+      "id_image": "oral_2037310"
+    }
+  ]
+}

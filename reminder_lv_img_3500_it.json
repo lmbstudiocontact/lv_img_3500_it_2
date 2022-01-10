@@ -1,0 +1,49 @@
+{
+  "english": "reminder",
+  "phat_am": "[ri'maində]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật làm nhớ lại, cái làm nhớ lại (một điều gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the statue is the lasting reminder of Churchill's greatness",
+              "full_vn": "bức tượng là một điều mãi mãi nhắc nhở về sự vĩ đại của Churchill"
+            },
+            {
+              "full_en": "letter of reminder",
+              "full_vn": "thư nhắc nhở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách nhắc nhở ai làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to send /give somebody a gentle reminder",
+              "full_vn": "nhắc nhở ai một cách tế nhị"
+            },
+            {
+              "full_en": "the waiters were clearing the tables , which served as a reminder that it was time to leave",
+              "full_vn": "những người hầu bàn đang dọn dẹp bàn ghế là một điều nhắc nhở rằng đã đến lúc phải ra về"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062610_058fd135eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062610_555b310ebf_o.png",
+      "id_image": "reminder_735200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062575_cac718b016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062575_ab6826aba1_o.png",
+      "id_image": "reminder_843169"
+    }
+  ]
+}

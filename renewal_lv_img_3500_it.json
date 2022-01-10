@@ -1,0 +1,47 @@
+{
+  "english": "renewal",
+  "phat_am": "[ri'nju:əl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phục hồi, sự khôi phục, sự tái sinh",
+          "list_en_vn": [
+            {
+              "full_en": "urban renewal",
+              "full_vn": "việc quy hoạch lại thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thay mới, sự đổi mới"
+        },
+        {
+          "m_full_vn": "sự làm lại, sự nối lại, sự nhắc lại, sự tiếp tục lại"
+        },
+        {
+          "m_full_vn": "sự gia hạn",
+          "list_en_vn": [
+            {
+              "full_en": "the renewal date",
+              "full_vn": "(thuộc ngữ) ngày gia hạn (mượn sách..)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324966_6362010542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324966_8642406dea_o.png",
+      "id_image": "renewal_4295989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061810_27f5394164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061810_3eecfda300_o.png",
+      "id_image": "renewal_5091974"
+    }
+  ]
+}

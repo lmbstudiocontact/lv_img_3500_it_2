@@ -1,0 +1,84 @@
+{
+  "english": "motion",
+  "phat_am": "['mou∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vận động, sự chuyển đông, sự di động",
+          "list_en_vn": [
+            {
+              "full_en": "motion to and from",
+              "full_vn": "sự chuyển động qua lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cử động, cử chỉ, dáng đi",
+          "list_en_vn": [
+            {
+              "full_en": "a very graceful motion",
+              "full_vn": "dáng đi rất duyên dáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản kiến nghị; sự đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to table a motion",
+              "full_vn": "đưa ra một đề nghị"
+            },
+            {
+              "full_en": "on the motion of",
+              "full_vn": "theo đề nghị của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự đi ngoài, sự đi ỉa"
+        },
+        {
+          "m_full_vn": "máy móc"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra hiệu, ra ý",
+          "list_en_vn": [
+            {
+              "full_en": "to motion someone to go out",
+              "full_vn": "ra hiệu cho ai đi ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380362_1da6272db0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380362_d64b3b22b3_o.png",
+      "id_image": "motion_1533958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380312_c087d80505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380312_2cd8619479_o.png",
+      "id_image": "motion_4542659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072150_53e9d4c5f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072150_02be5bc703_o.png",
+      "id_image": "motion_5775777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072130_6b8f5513da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072130_f6fd8666fb_o.png",
+      "id_image": "motion_5775923"
+    }
+  ]
+}

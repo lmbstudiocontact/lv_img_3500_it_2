@@ -1,0 +1,36 @@
+{
+  "english": "nativity",
+  "phat_am": "[nə'tiviti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sinh đẻ"
+        },
+        {
+          "m_full_vn": "(tôn giáo) ( the nativity ) lễ Thánh đản"
+        },
+        {
+          "m_full_vn": "( the nativity ) ảnh Chúa giáng sinh"
+        },
+        {
+          "m_full_vn": "lá số tử vi",
+          "list_en_vn": [
+            {
+              "full_en": "to cast somebody's nativity",
+              "full_vn": "xem số tử vi cho ai; lấy số tử vi cho ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064470_65b3c6bc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064470_9f3d7eba46_o.png",
+      "id_image": "nativity_6369900"
+    }
+  ]
+}

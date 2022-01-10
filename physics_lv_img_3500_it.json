@@ -1,0 +1,58 @@
+{
+  "english": "physics",
+  "phat_am": "['fiziks]",
+  "list_type": [
+    {
+      "type": "danh từ ( động từ theo sau ở số ít)",
+      "list_m": [
+        {
+          "m_full_vn": "vật lý học",
+          "list_en_vn": [
+            {
+              "full_en": "physics has made enormous progress in this century",
+              "full_vn": "vật lý học đã có tiến bộ to lớn trong thế kỷ này"
+            },
+            {
+              "full_en": "nuclear physics",
+              "full_vn": "vật lý học hạt nhân"
+            },
+            {
+              "full_en": "the laws of physics",
+              "full_vn": "các định luật vật lý"
+            },
+            {
+              "full_en": "the physics of the electron",
+              "full_vn": "vật lý học điện tử"
+            },
+            {
+              "full_en": "a physics textbook",
+              "full_vn": "sách giáo khoa vật lý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703654_cd3418909d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703654_b2b2e82842_o.png",
+      "id_image": "physics_195821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703624_000557d084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703624_0d89f823bb_o.png",
+      "id_image": "physics_2161370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086145_fbbd3e34be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086145_3ef4e33c74_o.png",
+      "id_image": "physics_4819810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086130_ec8843721b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086130_59f975c95a_o.png",
+      "id_image": "physics_5190400"
+    }
+  ]
+}

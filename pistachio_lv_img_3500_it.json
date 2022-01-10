@@ -1,0 +1,38 @@
+{
+  "english": "pistachio",
+  "phat_am": "[pi'stɑ:∫iou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả hồ trăn (như) pistachio nut",
+          "list_en_vn": [
+            {
+              "full_en": "pistachio ice-cream",
+              "full_vn": "(thuộc ngữ) kem hồ trăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây hồ trăn"
+        },
+        {
+          "m_full_vn": "màu hồ trăn (như) pistachio green"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344946_b738634d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344946_7b7c171e9e_o.png",
+      "id_image": "pistachio_1112958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344921_eb68ef52fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344921_c98941f1f6_o.png",
+      "id_image": "pistachio_4366696"
+    }
+  ]
+}

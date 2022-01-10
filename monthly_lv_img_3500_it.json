@@ -1,0 +1,84 @@
+{
+  "english": "monthly",
+  "phat_am": "['mʌnθli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ra, xảy ra, được xuất bản mỗi tháng một lần; hàng tháng",
+          "list_en_vn": [
+            {
+              "full_en": "a monthly meeting , visit , magazine",
+              "full_vn": "cuộc gặp gỡ, sự thăm viếng mỗi tháng một lần; tờ báo ra hàng tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể trả, có giá trị hoặc được tính toán trong một tháng",
+          "list_en_vn": [
+            {
+              "full_en": "a monthly season ticket",
+              "full_vn": "vé dài hạn có giá trị trong một tháng"
+            },
+            {
+              "full_en": "monthly income of 1000 dollars",
+              "full_vn": "khoản thu nhập 1000 đô la hàng tháng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỗi tháng một lần; hàng tháng",
+          "list_en_vn": [
+            {
+              "full_en": "to be paid monthly",
+              "full_vn": "được trả công mỗi tháng một lần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyệt san, tạp chí ra hằng tháng"
+        },
+        {
+          "m_full_vn": "vé dài hạn có giá trị trong một tháng",
+          "list_en_vn": [
+            {
+              "full_en": "a monthly is more economical than four weeklies",
+              "full_vn": "một vé tháng thì tiết kiệm hơn 4 vé hàng tuần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) kinh nguyệt (như) menses"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452073_300395bcba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452073_53e90ce61d_o.png",
+      "id_image": "monthly_2390318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382237_0c561d0a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382237_32dcd7c8d6_o.png",
+      "id_image": "monthly_4334665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074220_81b95e1040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074220_163f252718_o.png",
+      "id_image": "monthly_5571536"
+    }
+  ]
+}

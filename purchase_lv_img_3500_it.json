@@ -1,0 +1,84 @@
+{
+  "english": "purchase",
+  "phat_am": "['pə:t∫əs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mua, tậu; vật mua được, vật tậu được"
+        },
+        {
+          "m_full_vn": "thu hoạch hằng năm, hoa lợi hằng năm, lợi tức hằng năm (của đất đai...)",
+          "list_en_vn": [
+            {
+              "full_en": "the land is sold at 20 year's purchase",
+              "full_vn": "miếng đất được bán đi với giá bằng hai mươi năm hoa lợi"
+            },
+            {
+              "full_en": "his life is not worth a day's purchase",
+              "full_vn": "(nghĩa bóng) anh ta chẳng chắc đã sống thêm được một ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự tậu được (chứ không phải do hưởng thừa kế)"
+        },
+        {
+          "m_full_vn": "điểm tựa, chỗ dựa, chỗ bám"
+        },
+        {
+          "m_full_vn": "lực bẩy, lực đòn bẩy"
+        },
+        {
+          "m_full_vn": "(hàng hải) dụng cụ để kéo lên, dụng cụ bẩy lên; đòn bẩy; dây chão; ròng rọc, palăng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mua, sắm, tậu"
+        },
+        {
+          "m_full_vn": "trả giá cho (giành được, thực hiện được bằng sự hy sinh, bằng lao động gian khổ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to purchase freedom with one's blood",
+              "full_vn": "giành được tự do bằng xương máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) tậu được (chứ không phải được hưởng thừa kế)"
+        },
+        {
+          "m_full_vn": "(hàng hải) kéo (neo) lên bằng ròng rọc; bẩy lên bằng đòn bẩy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347231_21cf98f58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347231_76e507a040_o.png",
+      "id_image": "purchase_1198278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702044_77d209a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702044_3d03c0d8f1_o.png",
+      "id_image": "purchase_1648812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702019_33b658c3e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702019_bc60d417b4_o.png",
+      "id_image": "purchase_4646890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084595_8cb3f6358c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084595_9253572d31_o.png",
+      "id_image": "purchase_5986569"
+    }
+  ]
+}

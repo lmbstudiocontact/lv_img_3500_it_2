@@ -1,0 +1,46 @@
+{
+  "english": "pest",
+  "phat_am": "[pest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ quấy rầy, người làm khó chịu; vật làm khó chịu"
+        },
+        {
+          "m_full_vn": "loài gây hại, vật phá hoại (sâu bọ, súc vật)",
+          "list_en_vn": [
+            {
+              "full_en": "garden pests",
+              "full_vn": "các loài gây hại ở vườn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tai hoạ; điều gây rắc rối"
+        },
+        {
+          "m_full_vn": "như pestilence"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364787_6ecc64b1e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364787_8f61629fda_o.png",
+      "id_image": "pest_1345383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320016_9cfbd053ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320016_19b769ccb7_o.png",
+      "id_image": "pest_2674474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320011_6fb1dbe270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320011_6be14bbcb1_o.png",
+      "id_image": "pest_4212893"
+    }
+  ]
+}

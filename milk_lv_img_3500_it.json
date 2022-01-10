@@ -1,0 +1,122 @@
+{
+  "english": "milk",
+  "phat_am": "[milk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sữa",
+          "list_en_vn": [
+            {
+              "full_en": "condensed milk",
+              "full_vn": "sữa đặc"
+            },
+            {
+              "full_en": "milk of almonds",
+              "full_vn": "nước sữa hạnh"
+            },
+            {
+              "full_en": "skimmed milk",
+              "full_vn": "sữa đã lấy hết kem"
+            },
+            {
+              "full_en": "powdered milk",
+              "full_vn": "sữa bột"
+            },
+            {
+              "full_en": "milk fresh from the cow",
+              "full_vn": "sữa bò tươi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhựa mủ (cây), nước (dừa...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "it is no use crying over spilt milk",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) spill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "milk and water",
+              "list_im": [
+                {
+                  "im_full_vn": "câu chuyện/ý tưởng nhạt nhẽo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the milk of human kindness",
+              "list_im": [
+                {
+                  "im_full_vn": "tính bản thiện của con người"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vắt sữa",
+          "list_en_vn": [
+            {
+              "full_en": "to milk a cow",
+              "full_vn": "vắt sữa bò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bòn rút (của cải)"
+        },
+        {
+          "m_full_vn": "lấy (nhựa) ở cây; nặn (nọc) ở rắn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to milk somebody dry",
+              "list_im": [
+                {
+                  "im_full_vn": "moi sạch những gì mà ai có được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to milk the sap from a tree",
+              "full_vn": "lấy nhựa trong cây ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho sữa",
+          "list_en_vn": [
+            {
+              "full_en": "the cows are milking well this season",
+              "full_vn": "mùa này bò cho nhiều sữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343711_b975765a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343711_54d178f318_o.png",
+      "id_image": "milk_373024"
+    }
+  ]
+}

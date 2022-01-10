@@ -1,0 +1,49 @@
+{
+  "english": "prohibition",
+  "phat_am": "[,prouhi'bi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cấm; sự ngăn cấm",
+          "list_en_vn": [
+            {
+              "full_en": "they voted in favour of the prohibition of smoking in public areas",
+              "full_vn": "họ bỏ phiếu tán thành việc cấm hút thuốc lá ở những nơi công cộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Prohibition ) luật cấm nấu và bán rượu (thời kỳ 1920 - 1933 ở Mỹ)"
+        },
+        {
+          "m_full_vn": "luật cấm, lệnh cấm (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a prohibition against the sale of firearms",
+              "full_vn": "lệnh cấm bán súng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436043_6bca85b61e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436043_87ee63e3f4_o.png",
+      "id_image": "prohibition_2707411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320876_fb94123bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320876_ab90e2c09d_o.png",
+      "id_image": "prohibition_394539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675894_52044376fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675894_9cc7430096_o.png",
+      "id_image": "prohibition_4866944"
+    }
+  ]
+}

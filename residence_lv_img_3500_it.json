@@ -1,0 +1,77 @@
+{
+  "english": "residence",
+  "phat_am": "['rezidəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá trình ở; quá trình cư trú; thời gian cư trú",
+          "list_en_vn": [
+            {
+              "full_en": "hall of residence",
+              "full_vn": "ký túc xá"
+            },
+            {
+              "full_en": "to take up one's residence in the country",
+              "full_vn": "về ở nông thôn"
+            },
+            {
+              "full_en": "during my residence abroad",
+              "full_vn": "trong khi tôi ở nước ngoài"
+            },
+            {
+              "full_en": "foreign visitors are only allowed one month's residence",
+              "full_vn": "khách nước ngoài chỉ được phép cư trú một tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà (nhất là cách dùng của người mua bán nhà)",
+          "list_en_vn": [
+            {
+              "full_en": "a desirable country residence for sale",
+              "full_vn": "bán nhà đẹp ở nông thôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà lớn, nguy nga tráng lệ; dinh thự",
+          "list_one_mean": [
+            {
+              "id_full_en": "in residence",
+              "list_im": [
+                {
+                  "im_full_vn": "sống ở một nơi cụ thể (vì công việc, nhiệm vụ của mình)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "10 Downing Street is the British Prime Minister's official residence",
+              "full_vn": "Số 10 phố Downing là công thự của Thủ tướng Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676959_8087b3cd49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676959_890c749fd2_o.png",
+      "id_image": "residence_6407962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676949_00a24bc0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676949_9fcfec3a6e_o.png",
+      "id_image": "residential_2947576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352146_de876f4734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352146_8ac6730b68_o.png",
+      "id_image": "residential_4413249"
+    }
+  ]
+}

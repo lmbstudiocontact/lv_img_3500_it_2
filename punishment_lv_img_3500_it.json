@@ -1,0 +1,30 @@
+{
+  "english": "punishment",
+  "phat_am": "['pʌni∫mənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trừng phạt, sự trừng trị; sự bị trừng phạt, sự bị trừng trị",
+          "list_en_vn": [
+            {
+              "full_en": "capital punishment",
+              "full_vn": "tội tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) sự hành hạ, sự ngược đãi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462298_66c907eb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462298_05fbfb7935_o.png",
+      "id_image": "punishment_2350570"
+    }
+  ]
+}

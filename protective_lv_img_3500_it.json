@@ -1,0 +1,74 @@
+{
+  "english": "protective",
+  "phat_am": "[prə'tektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảo vệ, bảo hộ, che chở",
+          "list_en_vn": [
+            {
+              "full_en": "protective barrage",
+              "full_vn": "(quân sự) lưới lửa bảo vệ"
+            },
+            {
+              "full_en": "a protective layer of varnish",
+              "full_vn": "một lớp véc ni bảo vệ"
+            },
+            {
+              "full_en": "workers who handle asbestos need to wear protective clothing",
+              "full_vn": "công nhân tiếp xúc với amiăng cần phải quần áo bảo hộ lao động"
+            },
+            {
+              "full_en": "wearing protective headgear on a motorcycle",
+              "full_vn": "đội mũ bảo hộ khi đi xe mô tô"
+            },
+            {
+              "full_en": "protective tariffs /duties",
+              "full_vn": "thuế bảo hộ hàng hoá sản xuất trong nước; thuế bảo hộ hàng nội địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( protective towards somebody ) che chở (tỏ ý muốn bảo vệ..)",
+          "list_en_vn": [
+            {
+              "full_en": "he put his arm round her in a protective gesture",
+              "full_vn": "anh ấy vòng tay ôm lấy cô ta trong một cử chỉ che chở"
+            },
+            {
+              "full_en": "a mother naturally feels protective towards her children",
+              "full_vn": "một người mẹ dĩ nhiên cảm thấy cần che chở cho con cái mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) ca-pốt, bao tránh thai, bao phòng ngừa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394702_167484a807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394702_a5a7280739_o.png",
+      "id_image": "protective_2503420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349866_dae8bdc286_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349866_c0502f5e2f_o.png",
+      "id_image": "protective_2718113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087100_85bfe214c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087100_0e69304b16_o.png",
+      "id_image": "protective_3022209"
+    }
+  ]
+}

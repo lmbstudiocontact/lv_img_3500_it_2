@@ -1,0 +1,73 @@
+{
+  "english": "pyjamas",
+  "phat_am": "[pə'dʒɑ:məz]",
+  "list_type": [
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "pi-gia-ma, quần áo ngủ (nhất là của đàn ông)"
+        },
+        {
+          "m_full_vn": "xà rông (quần rộng quấn quanh bụng cho cả nam lẫn nữ, ở Ân độ, Pakistan)",
+          "list_one_mean": [
+            {
+              "id_full_en": "be cat's whiskers /pyjamas",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) là vật, người, tư tưởng tốt nhất..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he thinks he's the cat's pyjamas",
+                      "full_vn": "anh ấy nghĩ rằng mình rất cao kiến"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) pi-gia-ma",
+          "list_en_vn": [
+            {
+              "full_en": "pyjamas trousers",
+              "full_vn": "quần pi-gia-ma"
+            },
+            {
+              "full_en": "pyjamas jacket",
+              "full_vn": "áo pi-gia-ma"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083675_f2d7e3ed58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083675_903fe8d6c4_o.png",
+      "id_image": "pyjamas_2008029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083645_edaa2a0023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083645_22bdf44bfc_o.png",
+      "id_image": "pyjamas_2553589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460918_4c48a2ac15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460918_0dec64fa33_o.png",
+      "id_image": "pyjamas_2554103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460998_01d23cab3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460998_68e8148dd8_o.png",
+      "id_image": "pyjamas_407328"
+    }
+  ]
+}

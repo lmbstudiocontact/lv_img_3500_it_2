@@ -1,0 +1,37 @@
+{
+  "english": "octagon",
+  "phat_am": "['ɒktəgən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) hình bát giác; hình tám cạnh",
+          "list_en_vn": [
+            {
+              "full_en": "that box is octagon",
+              "full_vn": "cái hộp đó hình bát giác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703804_7cf9ea9b50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703804_4cb6f07229_o.png",
+      "id_image": "octagon_3810200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703769_fc005d55fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703769_3c02e0cdc5_o.png",
+      "id_image": "octagon_3810213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393772_4a39bdaee4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393772_224d2bb675_o.png",
+      "id_image": "octagon_5854098"
+    }
+  ]
+}

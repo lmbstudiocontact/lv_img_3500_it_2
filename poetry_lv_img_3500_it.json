@@ -1,0 +1,48 @@
+{
+  "english": "poetry",
+  "phat_am": "['pouitri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thi ca (thơ ca) nói chung; nghệ thuật thơ",
+          "list_en_vn": [
+            {
+              "full_en": "epic poetry",
+              "full_vn": "sử thi"
+            },
+            {
+              "full_en": "lyric poetry",
+              "full_vn": "thơ trữ tình"
+            },
+            {
+              "full_en": "dramatic poetry",
+              "full_vn": "kịch thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất thơ, thi vị; tính chất thú vị về thẩm mỹ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453753_aae20b14c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453753_72ea367827_o.png",
+      "id_image": "poetry_2446554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338721_fd65c54344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338721_6368d15eb5_o.png",
+      "id_image": "poetry_3579795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338691_d712dc14ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338691_6df2463743_o.png",
+      "id_image": "poetry_5320497"
+    }
+  ]
+}

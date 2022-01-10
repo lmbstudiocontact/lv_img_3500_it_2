@@ -1,0 +1,49 @@
+{
+  "english": "saloon",
+  "phat_am": "[sə'lu:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng khách lớn; hội trường (ở khách sạn...)"
+        },
+        {
+          "m_full_vn": "phòng công cộng (để khiêu vũ, chơi bi da..)",
+          "list_en_vn": [
+            {
+              "full_en": "shaving saloon",
+              "full_vn": "phòng cắt tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ca-bin lớn, phòng hạng nhất (tàu thuỷ); phòng hành khách (trong máy bay lớn)"
+        },
+        {
+          "m_full_vn": "phòng dành cho người lái và hành khách khép kín, tách khỏi chỗ để hành lý và khoang máy trên xe ô tô (như) saloon-car , saloon-carriage , sedan"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) quán rượu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691329_3ec5588529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691329_e89ac8eb86_o.png",
+      "id_image": "saloon_1353835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450953_66c5705d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450953_a07b576ef3_o.png",
+      "id_image": "saloon_2396819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381082_bc5dba0965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381082_27805f73d3_o.png",
+      "id_image": "saloon_683819"
+    }
+  ]
+}

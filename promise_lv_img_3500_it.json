@@ -1,0 +1,200 @@
+{
+  "english": "promise",
+  "phat_am": "['prɔmis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( promise of something ) lời hứa, điều hứa, điều hẹn ước; sự hứa hẹn",
+          "list_en_vn": [
+            {
+              "full_en": "we received many promises of help",
+              "full_vn": "chúng tôi đã nhận được nhiều lời hứa giúp đỡ"
+            },
+            {
+              "full_en": "to make a promise",
+              "full_vn": "đưa ra một lời hứa"
+            },
+            {
+              "full_en": "to carry out /fulfil /give /keep /break a promise",
+              "full_vn": "thực hiện/làm trọn/đưa ra/giữ/không giữ một lời hứa"
+            },
+            {
+              "full_en": "promise of marriage",
+              "full_vn": "sự hứa hôn"
+            },
+            {
+              "full_en": "empty promise",
+              "full_vn": "lời hứa hão, lời hứa suông"
+            },
+            {
+              "full_en": "I told him the truth under a promise of secrecy",
+              "full_vn": "Tôi đã nói cho nó biết sự thật với lời hứa là giữ bí mật"
+            },
+            {
+              "full_en": "I'll keep you /hold you to your promise",
+              "full_vn": "Tôi sẽ buộc anh phải giữ lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( promise of something ) (nghĩa bóng) khả năng hoặc hy vọng cái gì có thể xảy ra; triển vọng; hứa hẹn",
+          "list_en_vn": [
+            {
+              "full_en": "there is a promise of better weather tomorrow",
+              "full_vn": "có dấu hiệu hứa hẹn ngày mai trời sẽ đẹp hơn"
+            },
+            {
+              "full_en": "there seems little promise of success for the expedition",
+              "full_vn": "dường như cuộc thám hiểm ít có triển vọng thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hứa hẹn (sự thành công, kết quả tốt trong tương lai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a lick and a promise",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) sự làm qua quít, làm cẩu thả (để lấp liếm)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a scholarship for young musicians of promise",
+              "full_vn": "một học bổng cho những nhạc sĩ trẻ có triển vọng"
+            },
+            {
+              "full_en": "Her work /She shows great promise",
+              "full_vn": "Công việc của cô ta/Cô ta tỏ ra có nhiều hứa hẹn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to promise something to somebody ) hứa với ai, đảm bảo với ai sẽ cho, hẹn ước",
+          "list_en_vn": [
+            {
+              "full_en": "I can't promise , but I'll do my best",
+              "full_vn": "Tôi không thể hứa được, nhưng tôi sẽ cố làm hết sức mình"
+            },
+            {
+              "full_en": "this year promises good crops",
+              "full_vn": "năm nay hứa hẹn được mùa"
+            },
+            {
+              "full_en": "he has promised a thorough investigation into the affair",
+              "full_vn": "ông ta đã hứa sẽ điều tra kỹ vụ này"
+            },
+            {
+              "full_en": "Do you promise faithfully to pay me back ? - Yes , I promise",
+              "full_vn": "Anh có hứa chắc là sẽ trả tiền lại cho tôi hay không? - Vâng, tôi hứa"
+            },
+            {
+              "full_en": "I've promised myself a quiet weekend",
+              "full_vn": "Tôi đã tự hứa dành cho mình một kỳ nghỉ cuối tuần yên tĩnh"
+            },
+            {
+              "full_en": "she promised me her help",
+              "full_vn": "cô ta hứa là sẽ giúp tôi"
+            },
+            {
+              "full_en": "the firm promised a wage increase to the workers /promised the workers a wage increase",
+              "full_vn": "công ty đã hứa sẽ tăng lương cho công nhân"
+            },
+            {
+              "full_en": "she promised me (that ) she would be punctual",
+              "full_vn": "cô ta hứa với tôi (rằng) cô ta sẽ đúng giờ"
+            },
+            {
+              "full_en": "Promise (me ) you won't forget !",
+              "full_vn": "Hãy hứa (với tôi) rằng anh sẽ không quên!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho cái gì có vẻ có thể xảy ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "I (can ) promise you",
+              "list_im": [
+                {
+                  "im_full_vn": "Tôi cam đoan với anh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You won't regret it , I promise you",
+                      "full_vn": "Anh sẽ không hối tiếc điều đó, tôi đảm bảo với anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the promised land",
+              "list_im": [
+                {
+                  "im_full_vn": "(trong (kinh thánh)) miền đất phì nhiêu do Chúa Trời hứa với người Do Thái; miền đất hứa"
+                },
+                {
+                  "im_full_vn": "chốn thiên thai; nơi cực lạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to promise well",
+              "list_im": [
+                {
+                  "im_full_vn": "có vẻ sẽ đem lại kết quả tốt đẹp; có triển vọng tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The new sales policy promises well",
+                      "full_vn": "Chính sách bán hàng mới có triển vọng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to promise (somebody ) the earth /moon",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hứa hão, hứa nhăng, hứa cuội"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the clouds promise rain",
+              "full_vn": "mây nhiều báo hiệu trời mưa"
+            },
+            {
+              "full_en": "it promises to be warm this afternoon",
+              "full_vn": "chiều nay có vẻ sẽ ấm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351581_e387432d6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351581_8e3baa9924_o.png",
+      "id_image": "promise_1925214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351566_ef61b71d6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351566_de1a025abe_o.png",
+      "id_image": "promise_2121079"
+    }
+  ]
+}

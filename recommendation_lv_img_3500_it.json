@@ -1,0 +1,76 @@
+{
+  "english": "recommendation",
+  "phat_am": "[,rekəmen'dei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giới thiệu; sự tiến cử",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in recommendation of something",
+              "full_vn": "giới thiệu cái gì"
+            },
+            {
+              "full_en": "to speak in recommendation of somebody",
+              "full_vn": "tiến cử ai"
+            },
+            {
+              "full_en": "I bought it on your recommendation",
+              "full_vn": "Tôi mua món đó theo lời giới thiệu của anh"
+            },
+            {
+              "full_en": "a letter of recommendation",
+              "full_vn": "thư giới thiệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thư giới thiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to write /give somebody a recommendation",
+              "full_vn": "viết/gửi thư giới thiệu ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phẩm chất làm cho ai/cái gì có vẻ hấp dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "the cheapness of coach travel is its only recommendation",
+              "full_vn": "sự rẻ tiền của việc đi du lịch bằng xe ngựa bốn bánh là điều hấp dẫn duy nhất của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kế hoạch được gợi ý là nên theo",
+          "list_en_vn": [
+            {
+              "full_en": "the judge made recommendations to the court",
+              "full_vn": "ông thẩm phán khuyến cáo với toà án"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071840_af5c0f7f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071840_b0b74d8c78_o.png",
+      "id_image": "recommendation_5352142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071890_919eb8e542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071890_93984a5446_o.png",
+      "id_image": "recommendation_709246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379882_762e0bc9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379882_a2aa617ee2_o.png",
+      "id_image": "recommendation_709247"
+    }
+  ]
+}

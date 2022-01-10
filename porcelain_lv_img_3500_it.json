@@ -1,0 +1,39 @@
+{
+  "english": "porcelain",
+  "phat_am": "['pɔ:səlin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sứ; đồ sứ"
+        },
+        {
+          "m_full_vn": "( định ngữ) sứ, bằng sứ; (nghĩa bóng) mỏng manh, dễ vỡ",
+          "list_en_vn": [
+            {
+              "full_en": "porcelain enamel",
+              "full_vn": "men sứ"
+            },
+            {
+              "full_en": "a porcelain figure",
+              "full_vn": "(thuộc ngữ) một hình tượng bằng sứ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335461_81e6732163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335461_63c2d772ef_o.png",
+      "id_image": "porcelain_2448771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690619_370efb790f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690619_48750edf82_o.png",
+      "id_image": "porcelain_5627051"
+    }
+  ]
+}

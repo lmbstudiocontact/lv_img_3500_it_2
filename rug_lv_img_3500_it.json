@@ -1,0 +1,45 @@
+{
+  "english": "rug",
+  "phat_am": "[rʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thảm dầy trải sàn ( (thường) nhỏ)",
+          "list_en_vn": [
+            {
+              "full_en": "a hearth-rug",
+              "full_vn": "một tấm thảm trải trước lò sưởi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mền, chăn",
+          "list_en_vn": [
+            {
+              "full_en": "as snug as a bug in a rug",
+              "full_vn": "ấm như nằm trong chăn"
+            },
+            {
+              "full_en": "a travelling-rug",
+              "full_vn": "mền du lịch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454898_fca0ab013a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454898_8d3febe3f8_o.png",
+      "id_image": "rug_1606443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077240_c935bddf93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077240_bb91802799_o.png",
+      "id_image": "rug_2152057"
+    }
+  ]
+}

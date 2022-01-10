@@ -1,0 +1,59 @@
+{
+  "english": "preservative",
+  "phat_am": "[pri'zə:vətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "để phòng giữ, để gìn giữ, để bảo quản, để bảo tồn, để duy trì",
+          "list_en_vn": [
+            {
+              "full_en": "preservative measure",
+              "full_vn": "biện pháp phòng giữ"
+            },
+            {
+              "full_en": "preservative drug",
+              "full_vn": "thuốc phòng bệnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất dùng để bảo quản",
+          "list_en_vn": [
+            {
+              "full_en": "food free from preservative",
+              "full_vn": "thức phẩm không phải dùng chất bảo quản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc phòng bệnh"
+        },
+        {
+          "m_full_vn": "biện pháp phòng giữ"
+        },
+        {
+          "m_full_vn": "(hoá học) chất phòng phân huỷ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682969_98757fdfee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682969_bb9f0b9aa8_o.png",
+      "id_image": "preservative_1497103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442903_c045abef13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442903_3310621ddc_o.png",
+      "id_image": "preservative_3637224"
+    }
+  ]
+}

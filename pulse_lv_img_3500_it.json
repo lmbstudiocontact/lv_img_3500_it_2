@@ -1,0 +1,94 @@
+{
+  "english": "pulse",
+  "phat_am": "[pʌls]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hột đậu (đậu lăng, đậu Hà lan..)"
+        },
+        {
+          "m_full_vn": "(y học) mạch",
+          "list_en_vn": [
+            {
+              "full_en": "to feel the pulse",
+              "full_vn": "bắt mạch; (nghĩa bóng) thăm dò ý định (của ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhịp đập; (nghĩa bóng) nhịp đập của cuộc sống, cảm xúc rộn ràng",
+          "list_en_vn": [
+            {
+              "full_en": "to stir one's pulses",
+              "full_vn": "gây cảm xúc rộn ràng"
+            },
+            {
+              "full_en": "the pulse of the nation",
+              "full_vn": "sự xúc động của cả nước, nhịp đập của trái tim cả nước (khi có một sự kiện gì...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nhịp điệu"
+        },
+        {
+          "m_full_vn": "(vật lý) xung (rung động của âm thanh, ánh sáng..); những loạt xung",
+          "list_one_mean": [
+            {
+              "id_full_en": "take /feel somebody's pulse",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt mạch"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "discharge pulse",
+              "full_vn": "xung phóng điện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ (như) pulsate",
+      "list_m": [
+        {
+          "m_full_vn": "nở ra co lại theo nhịp, đập nhanh (tim...)"
+        },
+        {
+          "m_full_vn": "đập, dao động, rung động"
+        },
+        {
+          "m_full_vn": "bị rung động, rộn ràng (một cảm xúc..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085225_6cbf9188ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085225_1386b0e9c3_o.png",
+      "id_image": "pulse_1347298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702664_05dff4d87f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702664_757138ee87_o.png",
+      "id_image": "pulse_205917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392787_eba07382d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392787_ed0aaaab19_o.png",
+      "id_image": "pulse_2660225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085180_5aebce6a08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085180_fc59e99e0d_o.png",
+      "id_image": "pulse_6371038"
+    }
+  ]
+}

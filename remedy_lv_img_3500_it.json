@@ -1,0 +1,82 @@
+{
+  "english": "remedy",
+  "phat_am": "['remədi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( remedy for something ) phương thuốc, thuốc cứu chữa hoặc làm giảm bệnh tật",
+          "list_en_vn": [
+            {
+              "full_en": "a popular remedy for flu , toothache , cramp",
+              "full_vn": "phương thuốc dân gian chữa cúm, đau răng, chuột rút"
+            },
+            {
+              "full_en": "I often use herbal remedies",
+              "full_vn": "tôi thường dùng thuốc nam"
+            },
+            {
+              "full_en": "the remedy seems worse than the disease",
+              "full_vn": "cách điều trị đó dường như còn tệ hơn cả bệnh tật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biện pháp chống hoặc loại bỏ cái gì không mong muốn; biện pháp cứu chữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "beyond /past remedy",
+              "list_im": [
+                {
+                  "im_full_vn": "không cứu chữa được; vô phương cứu chữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to seek a remedy for injustice",
+              "full_vn": "tìm biện pháp khắc phục tình trạng bất công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp biện pháp cứu chữa đối với cái gì không mong muốn",
+          "list_en_vn": [
+            {
+              "full_en": "to remedy injustices , mistakes , losses , deficiencies",
+              "full_vn": "khắc phục sự bất công, các sai lầm, sự thất thoát, sự kém hiệu quả"
+            },
+            {
+              "full_en": "the situation could not be remedied",
+              "full_vn": "tình thế đó không thể cứu vãn được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370832_04822ca541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370832_fff6b5382c_o.png",
+      "id_image": "remedy_1347254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440938_2fba43f1f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440938_3627ba2029_o.png",
+      "id_image": "remedy_4005663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326086_cb8e37da6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326086_88b6264ae1_o.png",
+      "id_image": "remedy_673551"
+    }
+  ]
+}

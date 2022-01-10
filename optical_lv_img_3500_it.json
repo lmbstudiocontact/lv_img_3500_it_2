@@ -1,0 +1,51 @@
+{
+  "english": "optical",
+  "phat_am": "['ɔptikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thị giác",
+          "list_en_vn": [
+            {
+              "full_en": "optical effects and sound effects",
+              "full_vn": "những tác động của thị giác và của âm thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) quang học",
+          "list_en_vn": [
+            {
+              "full_en": "optical instruments",
+              "full_vn": "những dụng cụ quang học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700484_58ea93d414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700484_5295b120eb_o.png",
+      "id_image": "optical_286535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700444_84e7d926e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700444_3b023cfaf4_o.png",
+      "id_image": "optical_4106094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700389_ec979d1f8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700389_995f47d81a_o.png",
+      "id_image": "optical_4106327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082775_c1cf3dbf4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082775_25f6bed493_o.png",
+      "id_image": "optical_948492"
+    }
+  ]
+}

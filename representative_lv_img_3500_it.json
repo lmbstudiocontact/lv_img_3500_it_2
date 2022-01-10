@@ -1,0 +1,117 @@
+{
+  "english": "representative",
+  "phat_am": "[,repri'zentətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( representative of something / somebody ) đại diện cho một giai cấp hoặc một nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "Is a questionnaire answered by 500 people truly representative of national opinion ?",
+              "full_vn": "Một bảng câu hỏi được 500 người trả lời đã đủ để thực sự đại diện cho ý kiến của một dân tộc hay chưa?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miêu tả; thể hiện",
+          "list_en_vn": [
+            {
+              "full_en": "manuscripts representative of monastic life",
+              "full_vn": "những sách viết tay miêu tả cuộc đời tu hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiêu biểu; điển hình",
+          "list_en_vn": [
+            {
+              "full_en": "a meeting of representative men",
+              "full_vn": "cuộc họp của những người tiêu biểu"
+            },
+            {
+              "full_en": "a representative collection of stamps",
+              "full_vn": "bộ sưu tập tem tiêu biểu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) bao gồm những người đại diện được bầu ra; dựa vào sự đại diện của những người như vậy; đại nghị",
+          "list_en_vn": [
+            {
+              "full_en": "representative government",
+              "full_vn": "chính thể đại nghị"
+            },
+            {
+              "full_en": "representative elections , institutions",
+              "full_vn": "các cuộc bầu cử, thể chế đại nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) biểu diễn",
+          "list_en_vn": [
+            {
+              "full_en": "representative system",
+              "full_vn": "hệ biểu diễn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẫu đại diện cho một tầng lớp hoặc một nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "many representatives of the older generation were there",
+              "full_vn": "nhiều vị đại diện cho thế hệ già đã có mặt ở đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đại lý của một hãng (nhất là người bán hàng lưu động) (như) rep",
+          "list_en_vn": [
+            {
+              "full_en": "to act as sole representatives of XYZ Oil",
+              "full_vn": "làm người đại diện duy nhất của hãng dầu lửa XYZ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đại biểu, người đại diện",
+          "list_en_vn": [
+            {
+              "full_en": "the Queen's representative at the ceremony",
+              "full_vn": "người đại diện của Nữ Hoàng tại buổi lễ"
+            },
+            {
+              "full_en": "our representative in the House of Commons",
+              "full_vn": "đại diện của chúng ta trong Hạ nghị viện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322531_d7588843e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322531_c763c72923_o.png",
+      "id_image": "representative_1534926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322501_baac266455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322501_c5d344f0c5_o.png",
+      "id_image": "representative_2720587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677599_c2fbe33754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677599_4c4b483caf_o.png",
+      "id_image": "representative_3965805"
+    }
+  ]
+}

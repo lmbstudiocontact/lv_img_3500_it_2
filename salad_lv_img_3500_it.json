@@ -1,0 +1,48 @@
+{
+  "english": "salad",
+  "phat_am": "['sæləd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xà-lách dầu giấm; rau trộn dầu giấm"
+        },
+        {
+          "m_full_vn": "thức ăn dùng với rau trộn dầu giấm",
+          "list_en_vn": [
+            {
+              "full_en": "a chicken salad",
+              "full_vn": "một món xà lách trộn gà xé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rau sống",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's salad days",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi trẻ nông nổi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692369_e6fa99b823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692369_9209d5c4c3_o.png",
+      "id_image": "salad_557811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074020_6bf24b9526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074020_0ce764d2cf_o.png",
+      "id_image": "salad_590721"
+    }
+  ]
+}

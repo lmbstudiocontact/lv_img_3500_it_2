@@ -1,0 +1,46 @@
+{
+  "english": "referee",
+  "phat_am": "[,refə'ri:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) trọng tài (trong bóng đá..) (như) ref"
+        },
+        {
+          "m_full_vn": "(pháp lý) trọng tài (kinh tế)."
+        },
+        {
+          "m_full_vn": "người chứng nhận (đơn xin việc..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) làm trọng tài",
+          "list_en_vn": [
+            {
+              "full_en": "to referee at the match",
+              "full_vn": "làm trọng tài cho một trận đấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447263_c3712d97ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447263_2fcd205dc1_o.png",
+      "id_image": "referee_3116364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687189_53dd2b4872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687189_16959c341b_o.png",
+      "id_image": "referee_6036797"
+    }
+  ]
+}

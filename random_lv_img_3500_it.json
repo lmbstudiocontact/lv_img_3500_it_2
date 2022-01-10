@@ -1,0 +1,38 @@
+{
+  "english": "random",
+  "phat_am": "['rændəm]",
+  "list_type": [
+    {
+      "type": "danh từ"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ẩu, ngẫu nhiên, tùy tiện",
+          "list_en_vn": [
+            {
+              "full_en": "a random remark",
+              "full_vn": "một lời nhận xét ẩu, một lời nhận xét tùy tiện"
+            },
+            {
+              "full_en": "a random shot",
+              "full_vn": "một phát bắn bừa"
+            },
+            {
+              "full_en": "a random sample /selection",
+              "full_vn": "một mẫu/sự tuyển lựa tình cờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694194_97c83de985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694194_15880b47df_o.png",
+      "id_image": "random_5835728"
+    }
+  ]
+}

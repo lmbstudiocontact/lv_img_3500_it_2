@@ -1,0 +1,172 @@
+{
+  "english": "respect",
+  "phat_am": "[ri'spekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( respect for somebody / something ) sư kính trọng; sự tôn trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a deep /sincere respect for somebody",
+              "full_vn": "có sự kính trọng sâu sắc/chân thành đối với ai"
+            },
+            {
+              "full_en": "a mark /token of respect",
+              "full_vn": "dấu hiệu/biểu hiện kính trọng"
+            },
+            {
+              "full_en": "I've the greatest respect for you /hold you in the greatest respect",
+              "full_vn": "tôi hết sức kính trọng ngài"
+            },
+            {
+              "full_en": "the new officer soon won /earned the respect of his men",
+              "full_vn": "người sĩ quan mới chẳng bao lâu đã được binh lính của ông ta kính trọng"
+            },
+            {
+              "full_en": "out of respect , he took off his hat",
+              "full_vn": "do kính trọng, anh ta ngã mũ ra chào"
+            },
+            {
+              "full_en": "to have little /no respect for somebody's feelings",
+              "full_vn": "ít/không tôn trọng tình cảm của ai"
+            },
+            {
+              "full_en": "to have very little respect for human rights",
+              "full_vn": "rất ít tôn trọng nhân quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khía cạnh, chi tiết cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "in this one respect",
+              "full_vn": "chỉ riêng về mặt này"
+            },
+            {
+              "full_en": "in some /all /many /several /few respects",
+              "full_vn": "ở một số/tất cả/nhiều/vài/một ít khía cạnh"
+            },
+            {
+              "full_en": "In what respect do you think the film is biased ?",
+              "full_vn": "anh nghĩ là bộ phim đã thiên về khía cạnh nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lưu tâm, sự chú ý",
+          "list_one_mean": [
+            {
+              "id_full_en": "in respect of something",
+              "list_im": [
+                {
+                  "im_full_vn": "về; đặc biệt nói về",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the book is admirable in respect of style",
+                      "full_vn": "quyển sách đó đáng được khâm phục về mặt văn phong"
+                    },
+                    {
+                      "full_en": "price rises in respect of gas and water costs",
+                      "full_vn": "giá cả tăng về hơi đốt và nước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "with respect to something",
+              "list_im": [
+                {
+                  "im_full_vn": "về, đối với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this is true with respect to English but not to French",
+                      "full_vn": "điều này đúng đối với tiếng Anh, chứ không đúng với tiếng Pháp"
+                    },
+                    {
+                      "full_en": "with respect to your enquiry , I enclose an explanatory leaflet",
+                      "full_vn": "về điều ông muốn tìm hiểu, tôi xin gửi kèm đây một tờ quảng cáo giải thích"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to do something without respect to the consequences",
+              "full_vn": "làm việc gì mà không chú ý đến hậu quả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to respect somebody / something for something ) tôn trọng, kính trọng, khâm phục, đánh giá cao",
+          "list_one_mean": [
+            {
+              "id_full_en": "to respect oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "tự trọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you don't respect yourself , how can you expect others to respect you ?",
+                      "full_vn": "anh không tự trọng thì làm sao mong người khác tôn trọng anh?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I respect you for your honesty",
+              "full_vn": "tôi kính trọng ông về đức tính trung thực"
+            },
+            {
+              "full_en": "to respect the law",
+              "full_vn": "tôn trọng luật pháp"
+            },
+            {
+              "full_en": "to respect somebody's opinions",
+              "full_vn": "tôn trọng ý kiến của ai"
+            },
+            {
+              "full_en": "respect somebody's privileges",
+              "full_vn": "tôn trọng đặc quyền của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705554_caa0e7a62e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705554_96bed68f79_o.png",
+      "id_image": "respect_2284927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705534_f0d23b804c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705534_eee30c9a1b_o.png",
+      "id_image": "respect_3994210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088110_f2136379ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088110_c650f352a3_o.png",
+      "id_image": "respect_4412760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350996_2a70bdc8e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350996_26c1a3504c_o.png",
+      "id_image": "respect_4960764"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "sceptre",
+  "phat_am": "['septə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vương trượng, quyền trượng, gậy tượng trưng cho quyền lực"
+        },
+        {
+          "m_full_vn": "ngôi vua, quyền vua",
+          "list_en_vn": [
+            {
+              "full_en": "to wield the sceptre",
+              "full_vn": "trị vì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331101_2e3a1c4c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331101_2d47795998_o.png",
+      "id_image": "sceptre_2014113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375757_15c2d80862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375757_36a7710678_o.png",
+      "id_image": "sceptre_722888"
+    }
+  ]
+}

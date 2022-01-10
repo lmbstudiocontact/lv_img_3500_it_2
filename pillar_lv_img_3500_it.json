@@ -1,0 +1,73 @@
+{
+  "english": "pillar",
+  "phat_am": "['pilə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cột (bằng đá, gỗ..) để chống, trang trí; vật có hình dánh như cột (nước, khói..)",
+          "list_en_vn": [
+            {
+              "full_en": "a pillar of cloud",
+              "full_vn": "cột mây"
+            },
+            {
+              "full_en": "a pillar of fire",
+              "full_vn": "cột khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cột trụ, rường cột; vật chống đỡ chính của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "one of the pillars of the State",
+              "full_vn": "một trong những cột trụ của quốc gia"
+            },
+            {
+              "full_en": "I'm a pillar of my family",
+              "full_vn": "tôi là trụ cột của gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành mỏ) cột than (chừa lại để chống mái hầm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be driven from pillar to post",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đẩy từ khó khăn này đến khó khăn khác; bị đẩy từ chỗ này đến chỗ khác mà cũng không đi đến đâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go from pillar to post",
+              "list_im": [
+                {
+                  "im_full_vn": "gõ hết cửa này đến cửa khác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chống, đỡ (bằng cột, trụ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084260_c1f2933300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084260_222f907ea6_o.png",
+      "id_image": "pillar_5236373"
+    }
+  ]
+}

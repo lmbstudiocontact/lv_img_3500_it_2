@@ -1,0 +1,79 @@
+{
+  "english": "music",
+  "phat_am": "['mju:zik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhạc; âm nhạc",
+          "list_en_vn": [
+            {
+              "full_en": "to have an ear for music",
+              "full_vn": "có năng khiếu về âm nhạc"
+            },
+            {
+              "full_en": "to set a poem to music",
+              "full_vn": "phổ nhạc một bài thơ"
+            },
+            {
+              "full_en": "to study music",
+              "full_vn": "học nhạc"
+            },
+            {
+              "full_en": "a music teacher",
+              "full_vn": "thầy dạy nhạc"
+            },
+            {
+              "full_en": "a music lover",
+              "full_vn": "người yêu âm nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng nhạc; khúc nhạc; bản nhạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to face the music",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dũng cảm chống chọi với tất cả những khó khăn; chịu đựng tất cả những hậu quả của việc mình làm; chịu đựng tất cả những lời phê bình chê trách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be music to somebody's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "khiến ai rất hài lòng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Mozart's music",
+              "full_vn": "nhạc của Mozart"
+            },
+            {
+              "full_en": "to play a piece of music",
+              "full_vn": "chơi một bản nhạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445838_a89da6ebb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445838_ffec26e0ec_o.png",
+      "id_image": "music_183605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685859_f975a5068c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685859_5414d0c211_o.png",
+      "id_image": "music_439532"
+    }
+  ]
+}

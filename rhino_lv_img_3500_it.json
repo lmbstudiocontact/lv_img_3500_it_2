@@ -1,0 +1,46 @@
+{
+  "english": "rhino",
+  "phat_am": "['rainou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) tiền",
+          "list_en_vn": [
+            {
+              "full_en": "ready rhino",
+              "full_vn": "tiền mặt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều rhino , rhinos",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) của rhinoceros (thông tục) con tê giác",
+          "list_en_vn": [
+            {
+              "full_en": "rhino horn",
+              "full_vn": "(thuộc ngữ) sừng tê giác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085150_37855f40a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085150_f23b3424a2_o.png",
+      "id_image": "rhino_1392812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702499_a56fee26c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702499_110651fb60_o.png",
+      "id_image": "rhino_3069176"
+    }
+  ]
+}

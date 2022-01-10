@@ -1,0 +1,54 @@
+{
+  "english": "ownership",
+  "phat_am": "['ounə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyền sở hữu",
+          "list_en_vn": [
+            {
+              "full_en": "collective ownership",
+              "full_vn": "quyền sở hữu tập thể"
+            },
+            {
+              "full_en": "the ownership of the land is disputed",
+              "full_vn": "quyền sở hữu về mảnh đất ấy đang bị tranh chấp"
+            },
+            {
+              "full_en": "ownership of property involves great expense",
+              "full_vn": "quyền sở hữu tài sản đòi hỏi phải tốn kém nhiều"
+            },
+            {
+              "full_en": "this hotel is under new ownership",
+              "full_vn": "khách sạn này thuộc quyền sở hữu mới (do người khác làm chủ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694504_3fefdb3324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694504_f8bcd9fbf6_o.png",
+      "id_image": "ownership_2329886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694439_a3e69fe16d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694439_4e4f9d94c9_o.png",
+      "id_image": "ownership_2361731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694424_9be8c1c137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694424_a559ac384c_o.png",
+      "id_image": "ownership_4813547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076395_eb0550c68b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076395_5a832c122d_o.png",
+      "id_image": "ownership_4999481"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "paradise",
+  "phat_am": "['pærədais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Paradise ) thiên đường, nơi cực lạc (trong (kinh thánh))"
+        },
+        {
+          "m_full_vn": "nơi lý tưởng, hoàn hảo",
+          "list_en_vn": [
+            {
+              "full_en": "this island is a paradise for bird-watcher",
+              "full_vn": "đảo này là nơi lý tưởng cho những người quan sát các loại chim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lạc viên (như) earthly paradise"
+        },
+        {
+          "m_full_vn": "vườn thú"
+        },
+        {
+          "m_full_vn": "(từ lóng) tầng thượng, tầng trên cùng (nhà hát)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a fool's paradise",
+              "list_im": [
+                {
+                  "im_full_vn": "như fool"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378277_8fefde2857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378277_7e956b8b74_o.png",
+      "id_image": "paradise_4359804"
+    }
+  ]
+}

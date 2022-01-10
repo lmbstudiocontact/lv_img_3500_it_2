@@ -1,0 +1,67 @@
+{
+  "english": "research",
+  "phat_am": "[ri'sə:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( research on / into something ; research on somebody ) sự nghiên cứu cẩn thận để khám phá sự thật hoặc tìm ra thông tin mới",
+          "list_en_vn": [
+            {
+              "full_en": "to be engaged in /carry out /do research",
+              "full_vn": "tham gia/tiến hành nghiên cứu"
+            },
+            {
+              "full_en": "scientific research",
+              "full_vn": "nghiên cứu khoa học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to research on / into something ; to research on somebody ) nghiên cứu; tiến hành nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "to research into the causes of cancer",
+              "full_vn": "nghiên cứu nguyên nhân của bệnh ung thư"
+            },
+            {
+              "full_en": "to research into /on the spread of AIDS",
+              "full_vn": "nghiên cứu về sự lan truyền của bệnh AIDS"
+            },
+            {
+              "full_en": "a well-researched book",
+              "full_vn": "một quyển sách dày công nghiên cứu"
+            },
+            {
+              "full_en": "that leading article has been carefully researched",
+              "full_vn": "bài xã luận đó đã được nghiên cứu kỹ lưỡng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058965_bc6ab21ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058965_9fb76804c6_o.png",
+      "id_image": "research_1032124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437383_8914f3fe7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437383_3fa00531a8_o.png",
+      "id_image": "research_1671644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058970_202ee9321f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058970_3cd90b83a7_o.png",
+      "id_image": "research_901046"
+    }
+  ]
+}

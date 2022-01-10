@@ -1,0 +1,120 @@
+{
+  "english": "polish",
+  "phat_am": "['pouli∫]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Polish ) (thuộc) nước Ba lan, người Ba lan"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Polish ) tiếng Ba lan",
+          "list_en_vn": [
+            {
+              "full_en": "written in Polish",
+              "full_vn": "viết bằng tiếng Ba lan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước bóng, nước láng; việc đánh bóng, hành động đánh bóng; dầu đánh bóng, nước đánh bóng, xi",
+          "list_en_vn": [
+            {
+              "full_en": "a table-top with a good polish",
+              "full_vn": "mặt bàn có nước bóng đẹp"
+            },
+            {
+              "full_en": "give the floor a thorough polish",
+              "full_vn": "đánh bóng toàn bộ mặt sàn"
+            },
+            {
+              "full_en": "shoe polish",
+              "full_vn": "xi đánh giày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vẻ lịch sự, vẻ tao nhã, vẻ tế nhị; sự tinh tế",
+          "list_one_mean": [
+            {
+              "id_full_en": "spit and polish",
+              "list_im": [
+                {
+                  "im_full_vn": "như spit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bóng, làm cho láng (cái gì)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho lịch sự, làm cho tao nhã; làm cho tinh tế"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bóng lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to polish off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm xong gấp (công việc...); ăn gấp (bữa cơm)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) trừ khử (địch)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to polish up",
+              "list_im": [
+                {
+                  "im_full_vn": "chuốt bóng, làm cho bóng bẩy, đẹp đẽ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452453_1ebbaf5d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452453_4ab39b3a92_o.png",
+      "id_image": "polish_2052443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452373_49380096c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452373_322d91816d_o.png",
+      "id_image": "polish_2107193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692814_ec691f9c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692814_db904bef79_o.png",
+      "id_image": "polish_2670694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337506_7ac38f9cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337506_9de43c511e_o.png",
+      "id_image": "polish_2670828"
+    }
+  ]
+}

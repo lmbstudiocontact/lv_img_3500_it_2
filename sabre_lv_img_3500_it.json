@@ -1,0 +1,67 @@
+{
+  "english": "sabre",
+  "phat_am": "['seibə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiếm lưỡi cong (của kỵ binh)",
+          "list_en_vn": [
+            {
+              "full_en": "a sabre cut",
+              "full_vn": "nhát kiếm; sẹo vết kiếm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiếm nhẹ (dùng trong đấu kiếm)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (sử học) kỵ binh; đơn vị kỵ binh"
+        },
+        {
+          "m_full_vn": "cái gạn thuỷ tinh (nóng chảy)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the sabre",
+              "list_im": [
+                {
+                  "im_full_vn": "lực lượng quân sự, sự thống trị quân sự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sabre rattling",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đe doạ (bằng cách tấn công hoặc trừng phạt)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm bằng kiếm, chém bằng kiếm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338306_557c09248e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338306_b54dea0cce_o.png",
+      "id_image": "sabre_1069617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693499_b8252eeb4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693499_d81983666b_o.png",
+      "id_image": "sabre_3557366"
+    }
+  ]
+}

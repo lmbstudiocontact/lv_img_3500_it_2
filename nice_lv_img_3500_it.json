@@ -1,0 +1,144 @@
+{
+  "english": "nice",
+  "phat_am": "[nais]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) thú vị, dễ chịu; tốt, hấp dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "a nice day",
+              "full_vn": "một ngày đẹp"
+            },
+            {
+              "full_en": "nice weather",
+              "full_vn": "tiết trời đẹp"
+            },
+            {
+              "full_en": "a nice walk",
+              "full_vn": "một cuộc đi chơi thú vị"
+            },
+            {
+              "full_en": "the room was nice and warm",
+              "full_vn": "căn phòng ấm áp dễ chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xinh đẹp"
+        },
+        {
+          "m_full_vn": "ngoan; tốt, tử tế, chu đáo",
+          "list_en_vn": [
+            {
+              "full_en": "how nice of you to help me in my work !",
+              "full_vn": "anh giúp đỡ tôi trong công việc, thật là tử tế quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỉ mỉ, câu nệ; khó tính, khảnh, cầu kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "don't be too nice about it",
+              "full_vn": "không nên quá câu nệ về cái đó"
+            },
+            {
+              "full_en": "to be too nice about one's food",
+              "full_vn": "khảnh ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sành sỏi, tế nhị, tinh vi, kỹ",
+          "list_en_vn": [
+            {
+              "full_en": "a nice audience",
+              "full_vn": "những người xem sành sõi"
+            },
+            {
+              "full_en": "to have a nice ear for music",
+              "full_vn": "sành nhạc"
+            },
+            {
+              "full_en": "a nice question",
+              "full_vn": "một vấn đề tế nhị"
+            },
+            {
+              "full_en": "a nice shade of meaning",
+              "full_vn": "một ý tế nhịi"
+            },
+            {
+              "full_en": "a nice investigation",
+              "full_vn": "một cuộc điều tra kỹ lưỡng"
+            },
+            {
+              "full_en": "a nice observer",
+              "full_vn": "người quan sát tinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(mỉa mai) hay ho",
+          "list_en_vn": [
+            {
+              "full_en": "you've got us into a nice mess !",
+              "full_vn": "thật anh đã đẩy chúng tôi vào một hoàn cảnh hay ho gớm!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính xác (cân)",
+          "list_one_mean": [
+            {
+              "id_full_en": "nice and (dùng với tính từ)",
+              "list_im": [
+                {
+                  "im_full_vn": "và dễ chịu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nice and warm by the fire",
+                      "full_vn": "ngồi gần lò sưởi ấm và dễ chịu"
+                    },
+                    {
+                      "full_en": "nice and cool in the woods",
+                      "full_vn": "trong rừng mát rất dễ chịu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "nice work if you can get it !",
+              "list_im": [
+                {
+                  "im_full_vn": "trúng mánh nhé! vớ bở nhé!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "weighed in the nicest scales",
+              "full_vn": "được cân ở cái cân chính xác nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322956_9357d30a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322956_64f1bac896_o.png",
+      "id_image": "nice_3159075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438063_4a9d841acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438063_f3f1b22dfa_o.png",
+      "id_image": "nice_3770792"
+    }
+  ]
+}

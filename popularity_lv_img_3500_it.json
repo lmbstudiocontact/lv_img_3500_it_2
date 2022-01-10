@@ -1,0 +1,49 @@
+{
+  "english": "popularity",
+  "phat_am": "[,pɔpju'lærəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính đại chúng; tính phổ biến",
+          "list_en_vn": [
+            {
+              "full_en": "The popularity of football",
+              "full_vn": "Tính phổ biến của môn bóng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính chất hoặc tình trạng được nhiều người yêu mến hoặc khâm phục",
+          "list_en_vn": [
+            {
+              "full_en": "To win /gain /enjoy the popularity of the voters",
+              "full_vn": "Được cử tri mến mộ; được lòng cử tri"
+            },
+            {
+              "full_en": "His popularity among working people remains as trong as ever",
+              "full_vn": "Lòng yêu mến của nhân dân lao động đối với ông ấy vẫn mạnh mẽ như ngày nào"
+            },
+            {
+              "full_en": "Their books grow in popularity",
+              "full_vn": "Sách của họ ngày càng được công chúng yêu thích hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380632_f415b51e38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380632_6400b7274f_o.png",
+      "id_image": "popularity_3899227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072460_451a54613c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072460_dfa6b6cfff_o.png",
+      "id_image": "popularity_4149860"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "english": "period",
+  "phat_am": "['piəriəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kỳ, thời kỳ, thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "periods of a disease",
+              "full_vn": "các thời kỳ của bệnh"
+            },
+            {
+              "full_en": "a period of rest",
+              "full_vn": "một thời gian nghỉ"
+            },
+            {
+              "full_en": "a period of three years",
+              "full_vn": "một thời gian ba năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời kỳ, giai đoạn, thời đại (của lịch sử, đời người, nền văn minh..)",
+          "list_en_vn": [
+            {
+              "full_en": "the periods of history",
+              "full_vn": "những giai đoạn lịch sử"
+            },
+            {
+              "full_en": "the post-war period",
+              "full_vn": "thời kỳ hậu chiến"
+            },
+            {
+              "full_en": "the girl of the period",
+              "full_vn": "cô gái thời nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa chất) kỷ, thời kỳ (quãng thời gian trong quá trình phát triển của bề mặt trái đất)",
+          "list_en_vn": [
+            {
+              "full_en": "the Jurassis period",
+              "full_vn": "kỷ Jura"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiết (học)",
+          "list_en_vn": [
+            {
+              "full_en": "a teaching period of 45 minutes",
+              "full_vn": "một tiết học 45 phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huyết từ tử cung của phụ nữ chảy ra hàng tháng; kinh nguyệt; kỳ hành kinh",
+          "list_en_vn": [
+            {
+              "full_en": "to have a period",
+              "full_vn": "thấy kinh; có kinh"
+            },
+            {
+              "full_en": "period pains",
+              "full_vn": "đau bụng hành kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học); (vật lý); (thiên văn học) chu kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "period of a circulating decimal",
+              "full_vn": "chu kỳ của một số thập phân tuần hoàn"
+            },
+            {
+              "full_en": "period of oscillation",
+              "full_vn": "chu kỳ dao động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) câu nhiều đoạn"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chấm câu; dấu chấm câu",
+          "list_en_vn": [
+            {
+              "full_en": "to put a period",
+              "full_vn": "đặt dấu chấm câu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thời kỳ đã qua; mang tính chất thời đại, mang màu sắc thời đại (đã qua)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365462_7befbcc5d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365462_35189b1220_o.png",
+      "id_image": "period_4277930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320491_4ce173a9f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320491_f40f3c2820_o.png",
+      "id_image": "period_5746612"
+    }
+  ]
+}

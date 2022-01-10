@@ -1,0 +1,37 @@
+{
+  "english": "parsnip",
+  "phat_am": "['pɑ:snip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây củ cải vàng; củ cải vàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "the words butter no parsnips",
+              "list_im": [
+                {
+                  "im_full_vn": "như word"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "parsnip soup",
+              "full_vn": "món xúp củ cải"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446423_1c329b6ff7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446423_ed886614f8_o.png",
+      "id_image": "parsnip_6108568"
+    }
+  ]
+}

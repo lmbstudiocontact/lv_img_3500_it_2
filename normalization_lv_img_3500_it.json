@@ -1,0 +1,40 @@
+{
+  "english": "normalization",
+  "phat_am": "[,nɔ:məlai'zei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thông thường hoá, sự bình thường hoá",
+          "list_en_vn": [
+            {
+              "full_en": "normalization of US-Vietnam relations",
+              "full_vn": "sự bình thường hoá quan hệ Mỹ-Việt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiêu chuẩn hoá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676534_47f8cacdc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676534_7e93e390a1_o.png",
+      "id_image": "normalization_2620585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321426_3b83d2e790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321426_d81d3e82f2_o.png",
+      "id_image": "normalization_3663447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058145_d57f8787cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058145_218c334ce9_o.png",
+      "id_image": "normalization_6213759"
+    }
+  ]
+}

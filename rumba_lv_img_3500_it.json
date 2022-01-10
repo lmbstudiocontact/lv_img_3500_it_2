@@ -1,0 +1,37 @@
+{
+  "english": "rumba",
+  "phat_am": "['rʌmbə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điệu nhảy rum-ba (có nguồn gốc từ Cuba)",
+          "list_en_vn": [
+            {
+              "full_en": "To dance /do the rumba",
+              "full_vn": "Nhảy điệu rum-ba"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384202_0a10a1eef6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384202_0507fbcc66_o.png",
+      "id_image": "rumba_1425384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694379_8135f7147c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694379_cc0ac2d0a9_o.png",
+      "id_image": "rumba_2566241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339196_21e5b317a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339196_32491312d9_o.png",
+      "id_image": "rumba_2566245"
+    }
+  ]
+}

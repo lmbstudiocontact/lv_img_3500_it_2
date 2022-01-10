@@ -1,0 +1,111 @@
+{
+  "english": "review",
+  "phat_am": "[ri'vju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) sự xem lại, sự xét lại, sự cân nhắc, sự suy tính lại (một bản án..)",
+          "list_en_vn": [
+            {
+              "full_en": "court of review",
+              "full_vn": "toà phá án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc duyệt binh, cuộc thao diễn",
+          "list_en_vn": [
+            {
+              "full_en": "in review order",
+              "full_vn": "mặc trang phục duyệt binh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xem xét lại, sự duyệt binh lại; sự hồi tưởng (những việc đã qua)",
+          "list_en_vn": [
+            {
+              "full_en": "to pass one's life in review",
+              "full_vn": "nghĩ đến từng việc đã qua trong đời mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phê bình, bài phê bình (một cuốn sách...)",
+          "list_en_vn": [
+            {
+              "full_en": "to write reviews for a magazine",
+              "full_vn": "viết bài phê bình cho một tạp chí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạp chí, bài điểm sách, báo; mục điểm sách, báo",
+          "list_one_mean": [
+            {
+              "id_full_en": "keep something under review",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét lại cái gì liên tục"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) xem lại, xét lại (một bản án)"
+        },
+        {
+          "m_full_vn": "(quân sự) duyệt (binh)"
+        },
+        {
+          "m_full_vn": "xem xét lại, duyệt lại; hồi tưởng (những việc đã qua)",
+          "list_en_vn": [
+            {
+              "full_en": "to review the past",
+              "full_vn": "hồi tưởng quá khứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phê bình (một cuốn sách...)"
+        },
+        {
+          "m_full_vn": "ôn tập (bài đã học)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết bài phê bình (văn học)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085720_299fe0a873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085720_faabd8e016_o.png",
+      "id_image": "review_3168643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348426_5c18605632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348426_96f3e258a9_o.png",
+      "id_image": "review_3827297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393357_675ce448dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393357_7417bcd198_o.png",
+      "id_image": "review_448720"
+    }
+  ]
+}

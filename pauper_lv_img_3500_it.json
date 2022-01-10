@@ -1,0 +1,40 @@
+{
+  "english": "pauper",
+  "phat_am": "['pe:pə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nghèo túng, người cùng khổ",
+          "list_en_vn": [
+            {
+              "full_en": "he died a pauper",
+              "full_vn": "ông ta đã chết trong nghèo túng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nghèo được hưởng cứu tế; (sử học) người được hưởng cứu tế theo luật định",
+          "list_en_vn": [
+            {
+              "full_en": "indoor pauper",
+              "full_vn": "người nghèo được bệnh viện nhận chữa nội trú"
+            },
+            {
+              "full_en": "outdoor pauper",
+              "full_vn": "người nghèo được bệnh viện nhận chữa ngoại trú"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682124_c299cfb50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682124_3061d0b44c_o.png",
+      "id_image": "pauper_1396219"
+    }
+  ]
+}

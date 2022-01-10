@@ -1,0 +1,96 @@
+{
+  "english": "railroad",
+  "phat_am": "['reilroud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đường xe lửa; đường sắt",
+          "list_en_vn": [
+            {
+              "full_en": "a railroad company",
+              "full_vn": "công ty đường sắt, công ty hoả xa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi (hàng hoá) bằng xe lửa; chuyên chở (hàng hoá) bằng xe lửa"
+        },
+        {
+          "m_full_vn": "xây dựng đường sắt (cho một khu vực nào đó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to railroad somebody into (doing ) something",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt buộc ai phải làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I won't be railroaded into buying a car I don't want",
+                      "full_vn": "chẳng ai bắt buộc được tôi phải mua cái xe hơi mà tôi không thích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to railroad something through (something )",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc ép thông qua (dự luật...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to railroad a bill through Congress",
+                      "full_vn": "ép Quốc hội thông qua một dự luật"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm việc cho một công ty đường sắt; làm nhân viên đường sắt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695749_4aa265a141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695749_e7b6f5359a_o.png",
+      "id_image": "railroad_1558400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455308_63472baa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455308_b245481573_o.png",
+      "id_image": "railroad_2430094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077670_ba38f47c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077670_ac873f777b_o.png",
+      "id_image": "railroad_3267464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077755_0db9772aa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077755_d634da95b9_o.png",
+      "id_image": "railroad_360017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385292_60e059e019_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385292_c97db2ebce_o.png",
+      "id_image": "railroad_4325842"
+    }
+  ]
+}

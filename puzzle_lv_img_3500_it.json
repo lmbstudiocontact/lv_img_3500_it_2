@@ -1,0 +1,111 @@
+{
+  "english": "puzzle",
+  "phat_am": "['pʌzl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu hỏi khó hiểu, câu hỏi khó trả lời",
+          "list_en_vn": [
+            {
+              "full_en": "their reason for doing it is still a puzzle to me",
+              "full_vn": "đối với tôi, nguyên nhân khiến họ làm như vậy vẫn còn là điều bí ẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câu đố, trò chơi (nhằm thử kiến thức, tài khéo léo..)",
+          "list_en_vn": [
+            {
+              "full_en": "crossword puzzles",
+              "full_vn": "trò chơi ô chữ"
+            },
+            {
+              "full_en": "jigsaw puzzle",
+              "full_vn": "trò chơi lắp hình"
+            },
+            {
+              "full_en": "to find the answer to /solve a puzzle",
+              "full_vn": "tìm ra câu trả lời/giải được một câu đố"
+            },
+            {
+              "full_en": "to set a puzzle for somebody /set somebody a puzzle",
+              "full_vn": "đặt câu đố cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vấn đề khó xử, vấn đề khó giải quyết, vấn đề nan giải",
+          "list_en_vn": [
+            {
+              "full_en": "a Chinese puzzle",
+              "full_vn": "câu đố rắc rối; vấn đề rắc rối khó giải quyết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bối rối, làm khó xử, làm lúng túng",
+          "list_en_vn": [
+            {
+              "full_en": "her reply puzzled me",
+              "full_vn": "câu trả lời của cô ta khiến tôi bối rối"
+            },
+            {
+              "full_en": "I'm puzzled by his failure to reply /that he hasn't replied to my letter",
+              "full_vn": "tôi rất khó xử về việc nó không trả lời thư của tôi"
+            },
+            {
+              "full_en": "he puzzled his brain to find the answer",
+              "full_vn": "nó suy nghĩ rất lung để tìm câu trả lời"
+            },
+            {
+              "full_en": "they are puzzled (about ) what to do next /how to react",
+              "full_vn": "họ lúng túng về việc phải làm gì tiếp theo/phải phản ứng như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to puzzle over something ) bối rối, khó xử (suy nghĩ sâu sắc về cái gì để hiểu)",
+          "list_en_vn": [
+            {
+              "full_en": "she's puzzling over his strange letter for weeks",
+              "full_vn": "cô ta bối rối suốt mấy tuần về bức thư lạ lùng của anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to puzzle something out ) suy nghĩ để tìm ra lời giải đáp cho cái gì; giải đáp được",
+          "list_en_vn": [
+            {
+              "full_en": "the teacher left the children to puzzle out the answer to the problem themselves",
+              "full_vn": "thầy giáo để cho các em tự suy nghĩ tìm ra câu trả lời cho bài toán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391337_2058601417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391337_7e7eeca983_o.png",
+      "id_image": "puzzle_296931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461138_2e6b424fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461138_f44d5c95ab_o.png",
+      "id_image": "puzzle_515784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461093_654b5361f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461093_d886dcd6ea_o.png",
+      "id_image": "puzzle_868648"
+    }
+  ]
+}

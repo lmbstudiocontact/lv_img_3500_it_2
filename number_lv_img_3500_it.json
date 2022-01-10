@@ -1,0 +1,313 @@
+{
+  "english": "number",
+  "phat_am": "['nʌmbə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữ số; con số",
+          "list_en_vn": [
+            {
+              "full_en": "3, 13, 33 and 103 are numbers",
+              "full_vn": "3, 13, 33 và 103 là những con số"
+            },
+            {
+              "full_en": "even number",
+              "full_vn": "số chẵn"
+            },
+            {
+              "full_en": "odd number",
+              "full_vn": "số lẻ"
+            },
+            {
+              "full_en": "my telephone number is 8423333",
+              "full_vn": "số điện thoại của tôi là 8423333"
+            },
+            {
+              "full_en": "what's the number of your car ?",
+              "full_vn": "số xe của anh là bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khi chủ ngữ có một tính từ đi trước thì bao giờ động từ theo sau cũng ở số nhiều) số lượng, tổng số",
+          "list_en_vn": [
+            {
+              "full_en": "a large number of people have applied",
+              "full_vn": "rất nhiều người đã nộp đơn xin"
+            },
+            {
+              "full_en": "considerable numbers of animals have died",
+              "full_vn": "khá nhiều súc vật đã bị chết"
+            },
+            {
+              "full_en": "the enemy won by force of numbers",
+              "full_vn": "kẻ địch đã thắng nhờ quân số đông"
+            },
+            {
+              "full_en": "the number of books stolen from the library is large",
+              "full_vn": "số sách bị lấy cắp ở thư viện rất lớn"
+            },
+            {
+              "full_en": "we were fifteen in number",
+              "full_vn": "chúng tôi cả thảy có mười lăm người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đám, bọn, nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "he is not of our number",
+              "full_vn": "nó không ở trong bọn chúng tôi"
+            },
+            {
+              "full_en": "one of our number",
+              "full_vn": "một người trong bọn chúng tôi"
+            },
+            {
+              "full_en": "among their number",
+              "full_vn": "trong bọn họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) là No , no (ký hiệu là #) (dùng trước một con số để chỉ vị trí của cái gì trong một dãy) số",
+          "list_en_vn": [
+            {
+              "full_en": "Room number 145 is on the third floor of the hotel",
+              "full_vn": "Phòng số 145 nằm ở lầu 3 của khách sạn"
+            },
+            {
+              "full_en": "He's living at No 4",
+              "full_vn": "anh ấy sống ở nhà số 4"
+            },
+            {
+              "full_en": "No 10 (Downing Street) is the official residence of the British Prime Minister",
+              "full_vn": "Nhà số 10 là chỗ ở chính thức của Thủ tướng Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số phát hành của tạp chí, báo...",
+          "list_en_vn": [
+            {
+              "full_en": "the current number of 'Punch'",
+              "full_vn": "số (tạp chí) Punch kỳ này"
+            },
+            {
+              "full_en": "back numbers of 'Nature'",
+              "full_vn": "những số trước đây của tờ Nature"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài hát, điệu múa trong một buổi trình diễn trên sân khấu; tiết mục; bài",
+          "list_en_vn": [
+            {
+              "full_en": "to sing a slow /romantic number",
+              "full_vn": "hát một bài chậm/lãng mạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) sự thay đổi về dạng của danh từ và động từ để một hay nhiều hơn một vật hoặc người đã được nói đến; số",
+          "list_en_vn": [
+            {
+              "full_en": "'Men' is plural in number",
+              "full_vn": "'Men' là số nhiều"
+            },
+            {
+              "full_en": "the subject of a sentence and its verb must agree in number",
+              "full_vn": "chủ từ của một câu và động từ của nó phải hoà hợp nhau về số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(có một hoặc nhiều tính từ đứng trước) thứ, loại được thán phục (bộ quần áo, xe ô tô...)",
+          "list_en_vn": [
+            {
+              "full_en": "she was wearing a snappy little red number",
+              "full_vn": "cô ta mặc một chiếc áo dài đỏ xinh xắn hợp thời trang"
+            },
+            {
+              "full_en": "that new Fiat is a fast little number",
+              "full_vn": "chiếc Fiat mới đó là loại xe nhỏ nhắn nhưng chạy nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( numbers ) số học",
+          "list_one_mean": [
+            {
+              "id_full_en": "by numbers",
+              "list_im": [
+                {
+                  "im_full_vn": "tuần tự theo số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "drill movement by numbers",
+                      "full_vn": "làm động tác theo trình tự"
+                    },
+                    {
+                      "full_en": "painting by numbers",
+                      "full_vn": "sơn tuần tự theo số"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cushy number",
+              "list_im": [
+                {
+                  "im_full_vn": "xem cushy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have got somebody's number",
+              "list_im": [
+                {
+                  "im_full_vn": "biết rất rõ ý định của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "somebody's number is up",
+              "list_im": [
+                {
+                  "im_full_vn": "đã đến lúc ai đó sẽ chết, bị suy sụp; đến lúc tận số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "when the wheel came off the car , I thought my number was up",
+                      "full_vn": "khi chiếc bánh xe long ra, tôi cứ nghĩ là mình tận số rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's safety in numbers",
+              "list_im": [
+                {
+                  "im_full_vn": "đông người thì không sợ gì cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "times without number",
+              "list_im": [
+                {
+                  "im_full_vn": "không tính xuể bao nhiêu lần, chẳng biết bao nhiêu lần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "somebody's opposite number",
+              "list_im": [
+                {
+                  "im_full_vn": "người có địa vị hoặc chức vụ tương tự như ai; người tương nhiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "talks with her opposite number in the White House",
+                      "full_vn": "nói chuyện với thành viên trong Nhà Trắng có chức vụ tương đương với bà ta"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he's not good at numbers",
+              "full_vn": "nó không giỏi môn số học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh số vào cái gì; ghi số đếm",
+          "list_en_vn": [
+            {
+              "full_en": "the doors were numbered 2, 4, 6 and 8",
+              "full_vn": "các cửa được đánh số 2, 4, 6 và 8"
+            },
+            {
+              "full_en": "we'll number them from one to ten",
+              "full_vn": "chúng tôi sẽ đánh số những cái đó từ 1 đến 10"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên tới (cái gì); thêm vào tới; gồm có",
+          "list_one_mean": [
+            {
+              "id_full_en": "somebody's days are numbered",
+              "list_im": [
+                {
+                  "im_full_vn": "xem day"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to number somebody /something among something",
+              "list_im": [
+                {
+                  "im_full_vn": "gộp ai/cái gì vào một nhóm riêng; kể vào; liệt vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I numbered her among my closest friends",
+                      "full_vn": "tôi liệt cô ta vào số bạn thân nhất của tôi"
+                    },
+                    {
+                      "full_en": "I number that crash among the most frightening experiences of my life",
+                      "full_vn": "tôi tính vụ đâm ô tô ấy vào số những điều trải quả đáng sợ nhất trong đời tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to number off",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) nói to số của mình trong một hàng; điểm số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the soldiers numbered off , starting from the right-hand man",
+                      "full_vn": "những người lính điểm số bắt đầu từ người đứng bên tay phải"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we numbered 20 in all",
+              "full_vn": "chúng tôi cả thảy gồm hai mươi người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674574_7e1b68d975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674574_c05c0c77b6_o.png",
+      "id_image": "number_1770951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319671_1921267177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319671_ca96572a74_o.png",
+      "id_image": "number_2248043"
+    }
+  ]
+}

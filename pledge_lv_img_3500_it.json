@@ -1,0 +1,128 @@
+{
+  "english": "pledge",
+  "phat_am": "[pledʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật làm tin, vật thế chấp, vật cầm cố; sự cầm cố, sự thế chấp",
+          "list_en_vn": [
+            {
+              "full_en": "deposited as a pledge",
+              "full_vn": "được giao nộp để làm tin"
+            },
+            {
+              "full_en": "to put /hold something in pledge",
+              "full_vn": "đem cầm cố cái gì"
+            },
+            {
+              "full_en": "to take something out of pledge",
+              "full_vn": "chuộc cái gì ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật bảo đảm, việc bảo đảm, bằng chứng (tình yêu, tình bạn..); (nghĩa bóng) đứa con (vật bảo đảm cho tình yêu của đôi vợ chồng)",
+          "list_en_vn": [
+            {
+              "full_en": "a pledge of love",
+              "full_vn": "điều đảm bảo cho tình yêu"
+            },
+            {
+              "full_en": "gifts exchanged as a pledge of friendship",
+              "full_vn": "trao đổi tặng phẩm để biểu thị tình bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nâng cốc mừng sức khoẻ, uống rượu mừng"
+        },
+        {
+          "m_full_vn": "lời hứa trịnh trọng, lời cam kết; lời thề",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sign /take the pledge",
+              "list_im": [
+                {
+                  "im_full_vn": "thề không bao giờ uống rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under pledge of something",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng đã đồng ý, hứa cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you are under pledge of secrecy",
+                      "full_vn": "anh đã hứa giữ bí mật"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give a pledge never to reveal the secret",
+              "full_vn": "thề không bao giờ tiết lộ bí mật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để lại (cái gì) làm tin; cầm cố",
+          "list_en_vn": [
+            {
+              "full_en": "he's pledged his mother's wedding-ring",
+              "full_vn": "anh ta đem cầm nhẫn cưới của mẹ mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to pledge something to somebody / something ) hứa một cách trịnh trọng sẽ (ủng hộ...); đưa ra (lời nói danh dự..) như một lời thề",
+          "list_en_vn": [
+            {
+              "full_en": "to pledge allegiance to the king",
+              "full_vn": "nguyện trung thành với nhà vua"
+            },
+            {
+              "full_en": "to pledge a donation (to a charity )",
+              "full_vn": "cam kết sẽ có một khoản tặng (cho hội từ thiện)"
+            },
+            {
+              "full_en": "to be pledged to secrecy /to keeping a secret",
+              "full_vn": "cam kết giữ bí mật"
+            },
+            {
+              "full_en": "to pledge to remain all one's life faithful to ...",
+              "full_vn": "nguyện suốt đời trung thành với..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uống chúc sức khoẻ, nâng cốc chúc mừng (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to pledge the bride and bridegroom",
+              "full_vn": "nâng cốc chúc hạnh phúc cô dâu chú rể"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455368_dce8143807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455368_7ba8662ea7_o.png",
+      "id_image": "pledge_1279711"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "panic",
+  "phat_am": "['pænik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây tắc"
+        },
+        {
+          "m_full_vn": "sự hoảng loạn, sự kinh hoàng; sự hoang mang, hốt hoảng",
+          "list_one_mean": [
+            {
+              "id_full_en": "panic stations",
+              "list_im": [
+                {
+                  "im_full_vn": "tình trạng hoảng hốt, sợ hãi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was panic stations when the police arrived to search the building",
+                      "full_vn": "đã xảy ra tình trạng hoảng hốt khi cảnh sát đến khám xét toà nhà"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in a (state of ) panic about something",
+              "full_vn": "hoảng sợ vì chuyện gì"
+            },
+            {
+              "full_en": "I got into a panic when I found the door was locked",
+              "full_vn": "thấy cửa khoá, tôi đâm ra hoang mang"
+            },
+            {
+              "full_en": "there was (an ) immediate panic when the alarm sounded",
+              "full_vn": "sự hoang mang lập tưc trỗi dậy khi chuộng báo động vang lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho một người hoặc một con vật) hoảng sợ; (làm cho một người hoặc một con vật) hoang mang sợ hãi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380327_0163988b30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380327_4d65dd3c15_o.png",
+      "id_image": "panic_1316897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690454_e38e30fda8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690454_1a83e30ee7_o.png",
+      "id_image": "panic_213324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072160_578cce5dae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072160_7ae9407212_o.png",
+      "id_image": "panic_4897063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450228_94b3a61dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450228_8de7302547_o.png",
+      "id_image": "panic_5266102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690359_9dacc29781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690359_2da7eb8b4e_o.png",
+      "id_image": "panic_5705051"
+    }
+  ]
+}

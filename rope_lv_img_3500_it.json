@@ -1,0 +1,191 @@
+{
+  "english": "rope",
+  "phat_am": "[roup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây cáp, dây thừng, dây chão"
+        },
+        {
+          "m_full_vn": "( số nhiều) dây thừng bao quanh vũ đài"
+        },
+        {
+          "m_full_vn": "xâu, chuỗi",
+          "list_en_vn": [
+            {
+              "full_en": "a rope of onions",
+              "full_vn": "một xâu hành"
+            },
+            {
+              "full_en": "a rope of pearls",
+              "full_vn": "chuỗi hạt trai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the rope ) chết bằng cách treo cổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the rope",
+              "list_im": [
+                {
+                  "im_full_vn": "được buộc lại với nhau (những người leo núi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the high ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "lên mặt quan trọng, làm ra vẻ ta đây; khinh khỉnh"
+                },
+                {
+                  "im_full_vn": "phát khùng, nổi cơn thịnh nộ"
+                },
+                {
+                  "im_full_vn": "phấn khởi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight back to the ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến đấu đến cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flight with a rope round one's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "dù biết là cuối cùng sẽ chết cũng vẫn cứ chiến đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody plenty of rope",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho ai hoàn toàn tự do muốn làm gì thì làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "give somebody enough rope (and he'll hang himself )",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) thả lỏng cho ai để nó tự giết nó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know (learn ) the ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm vững tình hình điều kiện (để làm một công việc gì...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show somebody the ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ cho ai biết rõ tình hình điều kiện (để giải quyết vấn đề gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a rope of sand",
+              "list_im": [
+                {
+                  "im_full_vn": "sự vững chắc giả tạo; ảo giác, ảo tưởng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw a rope to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ ai (trong hoàn cảnh gay go)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "bring back the rope",
+              "full_vn": "phục hồi án tử hình (bằng treo cổ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trói (cột, buộc) bằng dây thừng; nối lại bằng dây thừng"
+        },
+        {
+          "m_full_vn": "cột chung lại (những người leo núi) để đảm bảo an toàn"
+        },
+        {
+          "m_full_vn": "vây quanh lại bằng dây thừng, tách riêng ra bằng dây thừng"
+        },
+        {
+          "m_full_vn": "kìm (ngựa lại không cho thắng trong cuộc đua ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặc quánh lại thành những sợi dây lầy nhầy (bia, rượu vang)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) kìm lại không chạy hết tốc lực (vận động viên chạy đua)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rop in",
+              "list_im": [
+                {
+                  "im_full_vn": "rào quanh bằng dây thừng, chăng dây thừng để giới hạn (khu vực...)"
+                },
+                {
+                  "im_full_vn": "lôi kéo (ai) vào (công việc gì)"
+                },
+                {
+                  "im_full_vn": "dụ dỗ, nhử đến, dụ đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rope off",
+              "list_im": [
+                {
+                  "im_full_vn": "chăng dây thừng để giới hạn (khu vực nào)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387312_679808dac1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387312_5ce076afbc_o.png",
+      "id_image": "rope_3531806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342301_b72b17720f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342301_8953950102_o.png",
+      "id_image": "rope_4020425"
+    }
+  ]
+}

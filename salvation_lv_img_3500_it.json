@@ -1,0 +1,30 @@
+{
+  "english": "salvation",
+  "phat_am": "[sæl'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tôn giáo) sự cứu rỗi linh hồn"
+        },
+        {
+          "m_full_vn": "sự bảo vệ; sự cứu tế, sự cứu giúp (tránh tổn thất, thiên tai..)",
+          "list_en_vn": [
+            {
+              "full_en": "national salvation",
+              "full_vn": "sự bảo vệ đất nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335751_ae4f95fee8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335751_9926e24e4b_o.png",
+      "id_image": "salvation_252068"
+    }
+  ]
+}

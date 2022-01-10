@@ -1,0 +1,45 @@
+{
+  "english": "prestige",
+  "phat_am": "[pre'sti:ʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "uy tín",
+          "list_en_vn": [
+            {
+              "full_en": "lose prestige",
+              "full_vn": "mất uy tín"
+            },
+            {
+              "full_en": "regain prestige",
+              "full_vn": "lấy lại uy tín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh thế, uy thế (khả năng gây ấn tượng với người khác..)",
+          "list_en_vn": [
+            {
+              "full_en": "have prestige in the community",
+              "full_vn": "có ưu thế trong cộng đồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682229_0ca719a4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682229_ba6618151e_o.png",
+      "id_image": "prestige_3053779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327016_0384ea638e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327016_7f80d887cd_o.png",
+      "id_image": "prestige_4062145"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "quiver",
+  "phat_am": "['kwivə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao đựng tên, ống tên (của các cung thủ)"
+        },
+        {
+          "m_full_vn": "sự rung, sự run"
+        },
+        {
+          "m_full_vn": "tiếng rung, tiếng run",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have an arrow left in one's quiver",
+              "list_im": [
+                {
+                  "im_full_vn": "như arrow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's quiver full",
+              "list_im": [
+                {
+                  "im_full_vn": "đông con"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rung, run",
+          "list_en_vn": [
+            {
+              "full_en": "voice quivers",
+              "full_vn": "giọng nói run run"
+            },
+            {
+              "full_en": "a quiver leaf",
+              "full_vn": "một chiếc lá rung rinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỗ nhẹ, đập nhẹ (cánh)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387857_351148348a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387857_a2283fd8a1_o.png",
+      "id_image": "quiver_2128815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457653_89cdb1a557_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457653_a977e6c975_o.png",
+      "id_image": "quiver_2384723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342826_73d31f6fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342826_839e239c70_o.png",
+      "id_image": "quiver_3416894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387792_4c45b19200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387792_b4b1c6108f_o.png",
+      "id_image": "quiver_3904197"
+    }
+  ]
+}

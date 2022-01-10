@@ -1,0 +1,145 @@
+{
+  "english": "positive",
+  "phat_am": "['pɔzətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xác thực, rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "a positive proof",
+              "full_vn": "một chứng cớ rõ ràng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả quyết, khẳng định, chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be positive about something",
+              "full_vn": "quả quyết về một cái gì"
+            },
+            {
+              "full_en": "a positive answer",
+              "full_vn": "một câu trả lời chắc chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tích cực; tỏ ra tin cậy, lạc quan",
+          "list_en_vn": [
+            {
+              "full_en": "a positive factor",
+              "full_vn": "một nhân tố tích cực"
+            },
+            {
+              "full_en": "a positive attitude",
+              "full_vn": "thái độ tin cậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tuyệt đối, hoàn toàn, hết sức",
+          "list_en_vn": [
+            {
+              "full_en": "he is a positive nuisance",
+              "full_vn": "thằng cha hết sức khó chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) dương; (nhiếp ảnh) dương bản; (vật lý) dương tính",
+          "list_en_vn": [
+            {
+              "full_en": "positive pole",
+              "full_vn": "cự dương"
+            },
+            {
+              "full_en": "a positive number",
+              "full_vn": "số dương"
+            },
+            {
+              "full_en": "a positive image",
+              "full_vn": "hình ảnh dương bản"
+            },
+            {
+              "full_en": "a positive reaction",
+              "full_vn": "phản ứng dương tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả quan tích cực; có xu hướng tăng lên, có xu hướng tốt hơn"
+        },
+        {
+          "m_full_vn": "có điện tích, chứa điện tích (bằng cách cọ sát thủy tinh với lụa)",
+          "list_en_vn": [
+            {
+              "full_en": "a positive charge",
+              "full_vn": "điện tích dương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) chứng",
+          "list_en_vn": [
+            {
+              "full_en": "positive philosophy",
+              "full_vn": "triết học thực chứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) ở dạng nguyên (dạng đơn giản, chưa so sánh.. (như) tính từ, phó từ)"
+        },
+        {
+          "m_full_vn": "đặt ra, do người đặt ra",
+          "list_en_vn": [
+            {
+              "full_en": "positive laws",
+              "full_vn": "luật do người đặt ra (đối lại với luật tự nhiên)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính chất xác thực, số lượng xác thực; điều có thực"
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) ảnh thực"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) tính từ ở dạng nguyên, phó từ ở cấp nguyên (chưa so sánh)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378782_858f446b33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378782_0a5a5e6780_o.png",
+      "id_image": "positive_1397175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688944_53824703d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688944_da51fb4db1_o.png",
+      "id_image": "positive_1484946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688889_6556ecf6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688889_c5b73d74e5_o.png",
+      "id_image": "positive_1900269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378807_47c63eef27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378807_84e2cfe047_o.png",
+      "id_image": "positive_552431"
+    }
+  ]
+}

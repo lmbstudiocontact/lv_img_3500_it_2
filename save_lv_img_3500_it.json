@@ -1,0 +1,181 @@
+{
+  "english": "save",
+  "phat_am": "[seiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) sự phá bóng cứu nguy (chặn không cho đối phương ghi bàn trong bóng đá)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cứu nguy, cứu vãn",
+          "list_en_vn": [
+            {
+              "full_en": "to save somebody from drowning",
+              "full_vn": "cứu ai khỏi chết đuối"
+            },
+            {
+              "full_en": "to save the situation",
+              "full_vn": "cứu vãn tình thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) phá bóng cứu nguy"
+        },
+        {
+          "m_full_vn": "cứu vớt",
+          "list_en_vn": [
+            {
+              "full_en": "to save someone's soul",
+              "full_vn": "cứu vớt linh hồn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dành dụm, tiết kiệm (tiền); giữ lại, để dành",
+          "list_en_vn": [
+            {
+              "full_en": "to save one's strength",
+              "full_vn": "giữ sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tránh, bớt (cho ai) đỡ (cho ai) khỏi phải (tiêu tiền, mất sức...)",
+          "list_en_vn": [
+            {
+              "full_en": "his secretary saved him much time",
+              "full_vn": "người thư ký đỡ cho ông ta được nhiều thời gian"
+            },
+            {
+              "full_en": "soap saves rubbing",
+              "full_vn": "có xà phòng thì đỡ phải vò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kịp, đuổi kịp",
+          "list_en_vn": [
+            {
+              "full_en": "he wrote hurriedly to save the post",
+              "full_vn": "anh ấy viết vội để kịp gởi bưu điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cứu rỗi"
+        },
+        {
+          "m_full_vn": "ngăn cản đối phương (trong bóng đá)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tằn tiện, tiết kiệm",
+          "list_en_vn": [
+            {
+              "full_en": "a saving housekeeper",
+              "full_vn": "một người nội trợ tằn tiện"
+            },
+            {
+              "full_en": "he has never saved",
+              "full_vn": "hắn chả bao giờ tiết kiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảo lưu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to save one's bacon",
+              "list_im": [
+                {
+                  "im_full_vn": "cứu lấy cái thần xác mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to save one's breath",
+              "list_im": [
+                {
+                  "im_full_vn": "làm thinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "saving your respect",
+              "list_im": [
+                {
+                  "im_full_vn": "xin mạn phép ông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you may save your pains (trouble )",
+              "list_im": [
+                {
+                  "im_full_vn": "anh chẳng cần phải bận bịu vào việc ấy; anh có chịu khó thì cũng chẳng ăn thua gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a stitch in time saves nine",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) làm ngay cho khỏi rách việc ra"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "saving clause",
+              "full_vn": "điều khoản bảo lưu, điều khoản trong có nói đến sự miễn giảm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ & liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "trừ ra, ngoài ra",
+          "list_en_vn": [
+            {
+              "full_en": "all save the reactionary , are for social progress",
+              "full_vn": "trừ bọn phản động ra, ai cũng ủng hộ mọi tiến bộ xã hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378467_aa56ef73fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378467_d5e5048314_o.png",
+      "id_image": "save_2997223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378552_360636c83f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378552_be68768f8b_o.png",
+      "id_image": "save_333777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378507_be36b7dc84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378507_cde0ece95c_o.png",
+      "id_image": "save_364146"
+    }
+  ]
+}

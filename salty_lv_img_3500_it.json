@@ -1,0 +1,33 @@
+{
+  "english": "salty",
+  "phat_am": "['sɔ:lti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứa vị muối, có vị muối; có muối, mặn"
+        },
+        {
+          "m_full_vn": "có hương vị của biển cả"
+        },
+        {
+          "m_full_vn": "sắc sảo; chua chát; sinh động, mạnh mẽ (về trí tuệ, lời nói..)",
+          "list_en_vn": [
+            {
+              "full_en": "her salty humour",
+              "full_vn": "tính hài hước sắc sảo của chị ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380947_3588fbcc24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380947_84d68124e3_o.png",
+      "id_image": "salt_4276022"
+    }
+  ]
+}

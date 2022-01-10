@@ -1,0 +1,44 @@
+{
+  "english": "micro",
+  "phat_am": "",
+  "list_type": [
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "rất nhỏ; cực nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "microchip",
+              "full_vn": "vi mạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một phần triệu",
+          "list_en_vn": [
+            {
+              "full_en": "microgram",
+              "full_vn": "một phần triệu gam; micrôgam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy vi tính ( microcomputer )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082210_0d56862e38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082210_45570257de_o.png",
+      "id_image": "micro_2424648"
+    }
+  ]
+}

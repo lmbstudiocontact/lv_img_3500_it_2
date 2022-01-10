@@ -1,0 +1,48 @@
+{
+  "english": "salmon",
+  "phat_am": "['sæmən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá hồi; thịt cá hồi",
+          "list_en_vn": [
+            {
+              "full_en": "smoked salmon",
+              "full_vn": "thịt cá hồi hun khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu thịt cá hồi; màu hồng da cam"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu thịt cá hồi, có màu hồng da cam (như) salmon-coloured"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336281_2d98b91494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336281_256e5ec19f_o.png",
+      "id_image": "salmon_2268978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451243_4ca29047d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451243_3840091c98_o.png",
+      "id_image": "salmon_311596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691639_0dbbc47567_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691639_ff511ce85e_o.png",
+      "id_image": "salmon_385165"
+    }
+  ]
+}

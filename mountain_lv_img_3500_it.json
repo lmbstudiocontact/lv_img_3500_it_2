@@ -1,0 +1,62 @@
+{
+  "english": "mountain",
+  "phat_am": "['mauntin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "núi"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) núi, đống to",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make mountains of molehills",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) molehill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the mountain has brought forth a mouse",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu voi đuôi chuột"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "mountains of gold",
+              "full_vn": "hàng đống vàng"
+            },
+            {
+              "full_en": "mountains of debts",
+              "full_vn": "hàng đống nợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689424_ed8b52424c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689424_334df6faa4_o.png",
+      "id_image": "mountain_183977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071315_30e487f666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071315_c8e0a653cb_o.png",
+      "id_image": "mountain_661299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334261_f37a4b897e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334261_9ef4c01013_o.png",
+      "id_image": "mountain_661933"
+    }
+  ]
+}

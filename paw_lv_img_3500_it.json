@@ -1,0 +1,57 @@
+{
+  "english": "paw",
+  "phat_am": "[pɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chân (có móng, vuốt của mèo, hổ...)",
+          "list_en_vn": [
+            {
+              "full_en": "a dog's paw",
+              "full_vn": "chân chó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bàn tay người; nét chữ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cào, tát (bằng chân có móng sắc)"
+        },
+        {
+          "m_full_vn": "lấy chân xuống đất (ngựa, bò)"
+        },
+        {
+          "m_full_vn": "(thông tục) cầm lóng ngóng vụng về; mân mê, sờ soạng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gõ chân xuống đất (ngựa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371337_2e856b47c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371337_5c150acee0_o.png",
+      "id_image": "paw_4966345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326556_cc0f1202da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326556_39a987bc49_o.png",
+      "id_image": "paw_5584155"
+    }
+  ]
+}

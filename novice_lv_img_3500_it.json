@@ -1,0 +1,34 @@
+{
+  "english": "novice",
+  "phat_am": "['nɔvis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tập việc; người mới học; người chưa có kinh nghiệm; người mới vào nghề",
+          "list_en_vn": [
+            {
+              "full_en": "she's a complete novice as a reporter",
+              "full_vn": "cô ấy là một phóng viên hoàn toàn mới vào nghề"
+            },
+            {
+              "full_en": "a novice reporter /cook",
+              "full_vn": "phóng viên/đầu bếp mới vào nghề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) người sẽ trở thành tu sĩ nhưng chưa làm lễ tuyên thệ sau cùng; người mới tu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364807_a7f95675e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364807_a4e50b28f1_o.png",
+      "id_image": "novice_2720627"
+    }
+  ]
+}

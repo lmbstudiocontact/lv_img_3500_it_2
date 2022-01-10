@@ -1,0 +1,134 @@
+{
+  "english": "safe",
+  "phat_am": "[seif]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạn (đựng đồ ăn)"
+        },
+        {
+          "m_full_vn": "tủ sắt, két sắt"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "an toàn, chắc chắn (được che chở khỏi nguy hiểm, thiệt hại)",
+          "list_en_vn": [
+            {
+              "full_en": "to feel safe",
+              "full_vn": "cảm thấy an toàn"
+            },
+            {
+              "full_en": "to see somebody safe home",
+              "full_vn": "đưa người nào về nhà an toàn"
+            },
+            {
+              "full_en": "to be safe from the enemy",
+              "full_vn": "chắc chắn không bị địch tấn công"
+            },
+            {
+              "full_en": "to put something in a safe place",
+              "full_vn": "để vật gì vào một nơi chắc chắn"
+            },
+            {
+              "full_en": "it is safe to say that",
+              "full_vn": "có thể nói một cách chắc rằng"
+            },
+            {
+              "full_en": "the safe period",
+              "full_vn": "thời kỳ an toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể tin cậy, chắc chắn"
+        },
+        {
+          "m_full_vn": "thận trọng, dè dặt; tỏ ra thận trọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "safe and sound",
+              "list_im": [
+                {
+                  "im_full_vn": "bình an vô sự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in (somebody's ) safe keeping",
+              "list_im": [
+                {
+                  "im_full_vn": "được che chở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the safe side",
+              "list_im": [
+                {
+                  "im_full_vn": "cho chắc chắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "play (it ) safe",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi chắc ăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as safe as houses",
+              "list_im": [
+                {
+                  "im_full_vn": "rất an toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a safe bet",
+              "list_im": [
+                {
+                  "im_full_vn": "điều chắc chắn thành công"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a safe critic",
+              "full_vn": "một nhà phê bình thận trọng"
+            },
+            {
+              "full_en": "a safe choice",
+              "full_vn": "một sự lựa chọn thận trọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452508_7237089d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452508_d6edf9a8ec_o.png",
+      "id_image": "safe_2867912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692869_647cb286b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692869_e79a38aeb3_o.png",
+      "id_image": "safe_3064162"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337566_6a879e5e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337566_d4bf03167a_o.png",
+      "id_image": "safe_5448593"
+    }
+  ]
+}

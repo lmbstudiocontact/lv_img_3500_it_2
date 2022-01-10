@@ -1,0 +1,65 @@
+{
+  "english": "opener",
+  "phat_am": "['oupnə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người để mở, vật để mở; cái mở (hộp, nút chai...)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc đấu mở màn",
+          "list_one_mean": [
+            {
+              "id_full_en": "for openers",
+              "list_im": [
+                {
+                  "im_full_vn": "trước hết, trước tiên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "For openers we'll get rid of this old furniture",
+                      "full_vn": "trước hết chúng ta sẽ loại bỏ chỗ đồ đạc cũ này"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a tin-opener",
+              "full_vn": "cái mở hộp"
+            },
+            {
+              "full_en": "a bottle-opener",
+              "full_vn": "cái mở nút chai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461313_f4cef08250_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461313_9655bc9818_o.png",
+      "id_image": "opener_1378204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391432_ea07c1f383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391432_7f302c9697_o.png",
+      "id_image": "opener_1748058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701474_9575c8032a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701474_23f920c9ec_o.png",
+      "id_image": "opener_447252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391497_2885061050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391497_bfb5a99d93_o.png",
+      "id_image": "opener_823229"
+    }
+  ]
+}

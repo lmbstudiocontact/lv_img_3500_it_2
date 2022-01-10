@@ -1,0 +1,48 @@
+{
+  "english": "pew",
+  "phat_am": "[pju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế dài có tựa trong nhà thờ"
+        },
+        {
+          "m_full_vn": "chỗ ngồi dành riêng trong nhà thờ (cho một gia đình, một nhân vật quan trọng...)"
+        },
+        {
+          "m_full_vn": "(thông tục) chỗ ngồi",
+          "list_en_vn": [
+            {
+              "full_en": "to find a pew",
+              "full_vn": "tìm chỗ ngồi"
+            },
+            {
+              "full_en": "to take a pew",
+              "full_vn": "ngồi xuống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ghế ngồi (trong nhà thờ)"
+        },
+        {
+          "m_full_vn": "dành chỗ ngồi riêng cho; để ngồi vào chỗ ngồi riêng (trong nhà thờ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465028_8c82b8f6d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465028_41f1fa1079_o.png",
+      "id_image": "pew_443597"
+    }
+  ]
+}

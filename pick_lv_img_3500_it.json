@@ -1,0 +1,313 @@
+{
+  "english": "pick",
+  "phat_am": "[pik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chọn lọc, sự lựa chọn; quyền lựa chọn"
+        },
+        {
+          "m_full_vn": "người được chọn, cái được chọn (tốt nhất, mẫu mực nhất)"
+        },
+        {
+          "m_full_vn": "phần chọn lọc, phần tinh hoa, phần tốt nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the pick of the army",
+              "full_vn": "phần tinh nhuệ trong quân đội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ (như) pickaxe , pickax",
+      "list_m": [
+        {
+          "m_full_vn": "cuốc chim"
+        },
+        {
+          "m_full_vn": "dụng cụ nhọn (để đâm, xoi, xỉa, đục, giùi)",
+          "list_en_vn": [
+            {
+              "full_en": "a toothpick",
+              "full_vn": "cái tăm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuốc (đất...); đào, khoét (lỗ...)"
+        },
+        {
+          "m_full_vn": "xỉa (răng...)"
+        },
+        {
+          "m_full_vn": "hái (hoa, quả)"
+        },
+        {
+          "m_full_vn": "mổ, nhặt (thóc...)"
+        },
+        {
+          "m_full_vn": "lóc thịt, gỡ thịt (một khúc xương)"
+        },
+        {
+          "m_full_vn": "nhổ (lông gà, vịt...)"
+        },
+        {
+          "m_full_vn": "ăn nhỏ nhẻ, ăn một tí; (thông tục) ăn"
+        },
+        {
+          "m_full_vn": "mở, cạy (khoá), móc (túi), ngoáy (mũi)",
+          "list_en_vn": [
+            {
+              "full_en": "to pick someone's pocket",
+              "full_vn": "móc túi của ai, ăn cắp của ai"
+            },
+            {
+              "full_en": "to pick a lock",
+              "full_vn": "mở khoá bằng móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xé tơi ra, xé đôi, bẻ đôi, bẻ rời ra, tước ra",
+          "list_en_vn": [
+            {
+              "full_en": "to pick oakum",
+              "full_vn": "tước dây thừng lấy xơ gai"
+            },
+            {
+              "full_en": "to pick something to pieces",
+              "full_vn": "xé tơi cái gì ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "búng (đàn ghita...)"
+        },
+        {
+          "m_full_vn": "chọn, chon lựa kỹ càng",
+          "list_en_vn": [
+            {
+              "full_en": "to pick one's words",
+              "full_vn": "nói năng cẩn thận, chọn từng lời"
+            },
+            {
+              "full_en": "to pick one's way (steps )",
+              "full_vn": "đi rón rén từng bước, đi thận trọng từng bước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây, kiếm (chuyện...)",
+          "list_en_vn": [
+            {
+              "full_en": "to pick a quarred with somebody",
+              "full_vn": "gây chuyện cãi nhau với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mổ (gà, vịt...); ăn nhỏ nhẻ, ăn tí một (người); (thông tục) ăn"
+        },
+        {
+          "m_full_vn": "móc túi, ăn cắp",
+          "list_en_vn": [
+            {
+              "full_en": "to pick and steal",
+              "full_vn": "ăn cắp vặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chọn lựa kỹ lưỡng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pick at",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) la rầy, rầy rà (ai)"
+                },
+                {
+                  "im_full_vn": "chế nhạo, chế giễu (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick off",
+              "list_im": [
+                {
+                  "im_full_vn": "tước đi, vặt đi, nhổ đi"
+                },
+                {
+                  "im_full_vn": "lần lượt bắn gục (từng người...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick out",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ ra"
+                },
+                {
+                  "im_full_vn": "chọn cử, chọn ra, phân biệt ra"
+                },
+                {
+                  "im_full_vn": "làm nổi bật ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pick out a ground-colour with another",
+                      "full_vn": "làm nổi bật màu nền bằng một màu khác"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hiểu ra (ý nghĩa một đoạn văn)"
+                },
+                {
+                  "im_full_vn": "gõ pianô (một khúc nhạc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick up",
+              "list_im": [
+                {
+                  "im_full_vn": "cuốc, vỡ (đất)"
+                },
+                {
+                  "im_full_vn": "nhặt lên; nhặt được, vớ được, kiếm được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pick up a stone",
+                      "full_vn": "nhặt một hòn đá"
+                    },
+                    {
+                      "full_en": "to pick up information",
+                      "full_vn": "vớ được tin, nhặt được tin"
+                    },
+                    {
+                      "full_en": "to pick up livelihood",
+                      "full_vn": "kiếm sống lần hồi"
+                    },
+                    {
+                      "full_en": "to pick up profit",
+                      "full_vn": "vớ được món lãi"
+                    },
+                    {
+                      "full_en": "to pick up passengers",
+                      "full_vn": "nhặt khách, lấy khách (xe buýt...)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tình cờ làm quen (ai); làm quen với (ai)"
+                },
+                {
+                  "im_full_vn": "vớt (những người bị đắm tàu...); nhổ (neo...)"
+                },
+                {
+                  "im_full_vn": "lấy lại (tinh thần, sức khoẻ...); hồi phục sức khoẻ, bình phục, tìm lại được (con đường bị lạc)"
+                },
+                {
+                  "im_full_vn": "rọi thấy (máy bay...) (đèn pha)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pick up an airplane",
+                      "full_vn": "rọi thấy một máy bay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bắt được (một tin..) (đài thu)"
+                },
+                {
+                  "im_full_vn": "tăng tốc độ (động cơ)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) chọn bên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick oneself up",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng dây, ngồi dậy (sau khi ngã)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a bone to pick with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "như bone"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick somebody's brains",
+              "list_im": [
+                {
+                  "im_full_vn": "như brain"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick holes in",
+              "list_im": [
+                {
+                  "im_full_vn": "như hole"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick somebody to pieces",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) đả kích ai, chỉ trích ai kịch kiệt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to pick and choose",
+              "full_vn": "kén cá chọn canh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085870_d5536675d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085870_5ca2ea5127_o.png",
+      "id_image": "pick_1403900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085840_4e67ba2f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085840_446c29dccb_o.png",
+      "id_image": "pick_1660019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463378_5fdb919286_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463378_eb9c5650b0_o.png",
+      "id_image": "pick_499251"
+    }
+  ]
+}

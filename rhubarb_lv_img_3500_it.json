@@ -1,0 +1,40 @@
+{
+  "english": "rhubarb",
+  "phat_am": "['ru:bɑ:b]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây đại hoàng (cây cí cuống lá màu đỏ nhạt, dày, nấu lên ăn (như) trái cây)",
+          "list_en_vn": [
+            {
+              "full_en": "rhubarb pie",
+              "full_vn": "(thuộc ngữ) bánh nướng nhân đại hoàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) (lời mà các diễn viên đóng đám đông nhắc lại để giả làm những tiếng nói rì rầm trên (sân khấu))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462543_41b2fa3c71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462543_31382cd377_o.png",
+      "id_image": "rhubarb_1135529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702449_03312d1cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702449_88bc49b876_o.png",
+      "id_image": "rhubarb_5779674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462478_131760b68a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462478_5b32fabe3d_o.png",
+      "id_image": "rhubarb_6108757"
+    }
+  ]
+}

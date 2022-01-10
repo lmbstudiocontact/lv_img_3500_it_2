@@ -1,0 +1,372 @@
+{
+  "english": "press",
+  "phat_am": "[pres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ép, sự nén, sự bóp, sự ấn",
+          "list_en_vn": [
+            {
+              "full_en": "a press of the hand",
+              "full_vn": "cái bóp tay"
+            },
+            {
+              "full_en": "to give something a slight press",
+              "full_vn": "bóp nhẹ cái gì, ấn nhẹ cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đám đông, sự đông đúc; sự hối hả, sự khẩn trương, sức ép (của công việc)",
+          "list_en_vn": [
+            {
+              "full_en": "to be lost in the press",
+              "full_vn": "bị lạc trong đám đông chen chúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "doanh nghiệp in (và sản xuất) sách, báo chí định kỳ"
+        },
+        {
+          "m_full_vn": "sự thúc ép, sự hối hả, sự tất bật",
+          "list_en_vn": [
+            {
+              "full_en": "there is a great press of business",
+              "full_vn": "công việc hết sức hối hả tất bật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc hỗn chiến, cuộc loạn đả (trong một trận đánh nhau)"
+        },
+        {
+          "m_full_vn": "máy ép, máy nén",
+          "list_en_vn": [
+            {
+              "full_en": "a cider-press",
+              "full_vn": "máy ép táo"
+            },
+            {
+              "full_en": "hydraulic press",
+              "full_vn": "máy ép dùng sức nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy in (như) printing press ; nhà máy in; thuật in; sự in",
+          "list_en_vn": [
+            {
+              "full_en": "in the press",
+              "full_vn": "đang in (sách...)"
+            },
+            {
+              "full_en": "to send (go , come ) to the press",
+              "full_vn": "đưa in, đem in"
+            },
+            {
+              "full_en": "to correct the press",
+              "full_vn": "chữa những lỗi in"
+            },
+            {
+              "full_en": "to sign for press",
+              "full_vn": "ký cho in"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Press ) báo chí",
+          "list_en_vn": [
+            {
+              "full_en": "freedom of the press",
+              "full_vn": "quyền tự do báo chí"
+            },
+            {
+              "full_en": "to be favourably noticed by the press ; to have a good press",
+              "full_vn": "được báo chí ca ngợi"
+            },
+            {
+              "full_en": "the Press Association (PA )",
+              "full_vn": "hãng Thông tấn Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tủ đóng vào tường; tủ đứng nhiều ngăn (để quần áo, sách vở...)"
+        },
+        {
+          "m_full_vn": "(hàng hải) sự căng hết",
+          "list_en_vn": [
+            {
+              "full_en": "press of salt (canvas )",
+              "full_vn": "sự căng hết buồm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, nén, bóp, ấn",
+          "list_en_vn": [
+            {
+              "full_en": "to press grapes",
+              "full_vn": "ép nho"
+            },
+            {
+              "full_en": "to press juice from (out of ) orange",
+              "full_vn": "ép (vắt) cam lấy nước"
+            },
+            {
+              "full_en": "to press the trigger of a gun",
+              "full_vn": "bóp cò súng"
+            },
+            {
+              "full_en": "to press the button",
+              "full_vn": "ấn nút, bấm nút (cho máy chạy, bấm chuông điện...); (nghĩa bóng) khởi đầu, quyết định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là, ủi",
+          "list_en_vn": [
+            {
+              "full_en": "to press clothes",
+              "full_vn": "là quần áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ép chặt, ghì chặt, siết chặt, ôm chặt, bóp chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to press someone's hand",
+              "full_vn": "siết chặt tay ai"
+            },
+            {
+              "full_en": "to press someone to one's heart",
+              "full_vn": "ôm chặt ai vào lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thúc ép, thúc bách, dồn ép",
+          "list_en_vn": [
+            {
+              "full_en": "to press an attack",
+              "full_vn": "dồn dập tấn công"
+            },
+            {
+              "full_en": "to press the enemy hard",
+              "full_vn": "dồn ép kẻ địch"
+            },
+            {
+              "full_en": "to be hard pressed",
+              "full_vn": "bị thúc ép; bị lâm vào cảnh khó khăn"
+            },
+            {
+              "full_en": "to be pressed with questions",
+              "full_vn": "bị hỏi dồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thúc giục, giục giã, khẩn hoản, nài ép (ai làm gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to press someone for something",
+              "full_vn": "nài ép ai lấy cái gì"
+            },
+            {
+              "full_en": "to press someone to do something",
+              "full_vn": "thúc giục ai làm cái gì"
+            },
+            {
+              "full_en": "to press a gift upon someone",
+              "full_vn": "nài ép ai phải nhận món quà tặng"
+            },
+            {
+              "full_en": "to press an opinion upon someone",
+              "full_vn": "ép ai phải theo ý kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhấn mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to press the question",
+              "full_vn": "nhấn mạnh vào vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đè nặng",
+          "list_en_vn": [
+            {
+              "full_en": "to press the mind",
+              "full_vn": "đè nặng lên tâm trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ép buộc ai phục vụ trong quân đội hoặc hải quân; bắt lính",
+          "list_en_vn": [
+            {
+              "full_en": "to press somebody /something into service",
+              "full_vn": "dùng ai/cái gì vì cấp bách cần đến; trưng dụng"
+            },
+            {
+              "full_en": "her whole family were pressed into service when the shop was busy",
+              "full_vn": "toàn thể gia đình bà ta được huy động vào công việc khi cửa hàng đông khách"
+            },
+            {
+              "full_en": "old buses were pressed into service as emergency housing for the refugees",
+              "full_vn": "các xe búyt cũ được trưng dụng làm chỗ tạm trú cho những người tị nạn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, bóp, ấn",
+          "list_en_vn": [
+            {
+              "full_en": "to press on a button",
+              "full_vn": "ấn nút (điện...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xúm xít, túm tụm, chen lấn, quây chặt lấy",
+          "list_en_vn": [
+            {
+              "full_en": "to press round someone",
+              "full_vn": "xúm xít quanh ai, quây chặt lấy ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thúc giục, thúc ép, thúc bách",
+          "list_en_vn": [
+            {
+              "full_en": "time presses",
+              "full_vn": "thì giờ thúc bách"
+            },
+            {
+              "full_en": "nothing remains that presses",
+              "full_vn": "không còn có gì thúc bách, không còn lại việc gì phải làm gấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hối hả, vội vã, tất bật",
+          "list_en_vn": [
+            {
+              "full_en": "to press through a crowd",
+              "full_vn": "hối hả chen lấn qua đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on , upon ) đè nặng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to press down",
+              "list_im": [
+                {
+                  "im_full_vn": "ấn xuống, ép xuống, đè xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press for",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc giục, thúc bách, đòi hỏi thúc bách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be pressed for money",
+                      "full_vn": "túng quẫn"
+                    },
+                    {
+                      "full_en": "to be pressed for time",
+                      "full_vn": "thiếu thì giờ, thì giờ eo hẹp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press fowrad",
+              "list_im": [
+                {
+                  "im_full_vn": "hối hả, vội vã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press foward",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc giục, giục giã, thúc gấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press out",
+              "list_im": [
+                {
+                  "im_full_vn": "ép ra, vắt ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press up",
+              "list_im": [
+                {
+                  "im_full_vn": "xúm xít lại, túm tụm lại, quây chặt lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to press upon one's mind",
+              "full_vn": "đè nặng lên tâm trí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327551_17ff1661f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327551_d9243c91e6_o.png",
+      "id_image": "press_1484385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682624_cfe82c4b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682624_369ab22483_o.png",
+      "id_image": "press_3966817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372157_73ab73f9fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372157_16cb022908_o.png",
+      "id_image": "press_4151844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372122_34638f603e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372122_2e1a251a8a_o.png",
+      "id_image": "press_4542471"
+    }
+  ]
+}

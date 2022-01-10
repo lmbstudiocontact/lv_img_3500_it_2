@@ -1,0 +1,104 @@
+{
+  "english": "popular",
+  "phat_am": "['pɔpjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được nhiều người ưa chuộng, được nhiều người ngưỡng mộ, được nhiều người ưa thích; phổ biến, nổi tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "a popular song",
+              "full_vn": "bài hát phổ biến"
+            },
+            {
+              "full_en": "a popular book",
+              "full_vn": "một quyển sách được mọi người ưa thích"
+            },
+            {
+              "full_en": "a popular writer",
+              "full_vn": "nhà văn nổi tiếng, nhà văn được mọi người yêu mến"
+            },
+            {
+              "full_en": "a popular politician",
+              "full_vn": "một nhà chính trị được ái mộ"
+            },
+            {
+              "full_en": "Jeans are popular among the young",
+              "full_vn": "quần jean được thanh niên ưa chuộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( popular with somebody ) được ai ưa chuộng, ngưỡng mộ",
+          "list_en_vn": [
+            {
+              "full_en": "measures popular with the electorate",
+              "full_vn": "những biện pháp được toàn bộ cử tri ưa thích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) nhân dân, của nhân dân, do nhân dân",
+          "list_en_vn": [
+            {
+              "full_en": "the popular vote",
+              "full_vn": "buộc bầu cử nhân dân"
+            },
+            {
+              "full_en": "issues of popular concern",
+              "full_vn": "những vấn đề dân chúng quan tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình dân",
+          "list_en_vn": [
+            {
+              "full_en": "popular music",
+              "full_vn": "nhạc đại chúng"
+            },
+            {
+              "full_en": "the popular press",
+              "full_vn": "báo chí bình dân"
+            },
+            {
+              "full_en": "popular prices",
+              "full_vn": "giá bình dân (tức là hạ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tính chất đại chúng, phổ cập, hợp với nhân dân",
+          "list_en_vn": [
+            {
+              "full_en": "popular language",
+              "full_vn": "ngôn ngữ đại chúng"
+            },
+            {
+              "full_en": "popular science",
+              "full_vn": "khoa học phổ cập"
+            },
+            {
+              "full_en": "a popular myth",
+              "full_vn": "chuyện thần thoại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690879_2797b77632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690879_4d99af67ea_o.png",
+      "id_image": "popular_1879447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690839_b3366a583a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690839_421ce4a96f_o.png",
+      "id_image": "popular_4334789"
+    }
+  ]
+}

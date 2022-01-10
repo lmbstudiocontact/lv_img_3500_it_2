@@ -1,0 +1,45 @@
+{
+  "english": "panther",
+  "phat_am": "['pænθə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) loài báo (đặc biệt có lông đen)",
+          "list_en_vn": [
+            {
+              "full_en": "a black panther",
+              "full_vn": "một con báo đen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) báo sư tử, con puma"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449728_7d27a74dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449728_6afabebb31_o.png",
+      "id_image": "panther_1660450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379677_8f5692e9c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379677_13a397d753_o.png",
+      "id_image": "panther_292668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071630_aa8d720cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071630_e458f745f2_o.png",
+      "id_image": "panther_3195984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689734_5998f331c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689734_b2cc5c1a77_o.png",
+      "id_image": "panther_4215260"
+    }
+  ]
+}

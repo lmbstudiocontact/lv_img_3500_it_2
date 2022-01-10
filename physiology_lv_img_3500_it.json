@@ -1,0 +1,41 @@
+{
+  "english": "physiology",
+  "phat_am": "[,fizi'ɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sinh lý học; chức năng sinh lý (các hoạt động của cơ thể một sinh vật riêng biệt)",
+          "list_en_vn": [
+            {
+              "full_en": "reproductive physiology",
+              "full_vn": "sinh lý học sinh sản"
+            },
+            {
+              "full_en": "the physiology of the snake",
+              "full_vn": "chức năng sinh lý của rắn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348776_d76700f18b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348776_a20ed6354b_o.png",
+      "id_image": "physiology_2721196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703509_e5f67fef07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703509_a20ed6354b_o.png",
+      "id_image": "physiology_4072381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703454_cab60063b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703454_f24bb534fc_o.png",
+      "id_image": "physiology_4178727"
+    }
+  ]
+}

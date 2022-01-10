@@ -1,0 +1,144 @@
+{
+  "english": "private",
+  "phat_am": "['praivit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "riêng, tư, cá nhân",
+          "list_en_vn": [
+            {
+              "full_en": "private life",
+              "full_vn": "đời tư"
+            },
+            {
+              "full_en": "private property",
+              "full_vn": "tài sản riêng"
+            },
+            {
+              "full_en": "private letter",
+              "full_vn": "thư riêng"
+            },
+            {
+              "full_en": "private house",
+              "full_vn": "nhà riêng"
+            },
+            {
+              "full_en": "private teacher",
+              "full_vn": "thầy giáo dạy tư"
+            },
+            {
+              "full_en": "private visit",
+              "full_vn": "cuộc đi thăm với tư cách cá nhân"
+            },
+            {
+              "full_en": "private bill",
+              "full_vn": "dự luật do cá nhân nghị sĩ đề nghị"
+            },
+            {
+              "full_en": "private secretary",
+              "full_vn": "thư ký riêng"
+            },
+            {
+              "full_en": "private eye",
+              "full_vn": "thám tử riêng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tư nhân",
+          "list_en_vn": [
+            {
+              "full_en": "private school",
+              "full_vn": "trường tư"
+            },
+            {
+              "full_en": "private industry",
+              "full_vn": "công nghiệp tư nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "riêng, mật, kín (về một cuộc họp, cuộc trò chuyện..)",
+          "list_en_vn": [
+            {
+              "full_en": "for one's private ear",
+              "full_vn": "nghe riêng thôi, phải giữ kín"
+            },
+            {
+              "full_en": "to keep a matter private",
+              "full_vn": "giữ kín một vấn đề"
+            },
+            {
+              "full_en": "private talk",
+              "full_vn": "cuộc nói chuyện riêng, cuộc hội đàm riêng; cuộc hội đàm kín"
+            },
+            {
+              "full_en": "private view",
+              "full_vn": "đợt xem riêng (một cuộc triển lãm tranh... trước khi mở công khai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "riêng, kín, bí mật; kín đáo (không thích chia sẻ tình cảm, ý nghĩ của mình)",
+          "list_en_vn": [
+            {
+              "full_en": "that's my private opinion",
+              "full_vn": "đấy là ý kiến của riêng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi kín đáo (yên tĩnh, không có người); riêng với nhau, không bị người khác quấy rầy (về người)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) thích ẩn dật, thích sống cách biệt (người)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lính trơn, binh nhì ( viềt tắt là PVT hoặc Pvt )"
+        },
+        {
+          "m_full_vn": "( privates ) (thông tục) như private parts",
+          "list_one_mean": [
+            {
+              "id_full_en": "in private",
+              "list_im": [
+                {
+                  "im_full_vn": "riêng tư, kín đáo, bí mật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323861_93525fa7d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323861_48a6038f0c_o.png",
+      "id_image": "private_1163402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679029_f30dfe655c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679029_b9453e113f_o.png",
+      "id_image": "private_3231365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438843_cd5deae1f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438843_cb018243b9_o.png",
+      "id_image": "private_4428006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323716_9708790fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323716_e356381a18_o.png",
+      "id_image": "private_5352157"
+    }
+  ]
+}

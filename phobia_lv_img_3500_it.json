@@ -1,0 +1,44 @@
+{
+  "english": "phobia",
+  "phat_am": "['foubiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) sự ám ảnh, nỗi sợ hãi",
+          "list_en_vn": [
+            {
+              "full_en": "dislike of snakes and spiders is a common phobia",
+              "full_vn": "sự ghét rắn hay nhện là một mối ác cảm thông thường"
+            },
+            {
+              "full_en": "learning to control one's phobia about flying",
+              "full_vn": "tập kiềm chế nỗi sợ đi máy bay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464558_fee5d72357_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464558_a793aaf304_o.png",
+      "id_image": "phobia_4525546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087185_3bd797f154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087185_439beab91b_o.png",
+      "id_image": "phobia_555687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349861_8509e0eb9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349861_f25b9d9ed1_o.png",
+      "id_image": "phobia_6366045"
+    }
+  ]
+}

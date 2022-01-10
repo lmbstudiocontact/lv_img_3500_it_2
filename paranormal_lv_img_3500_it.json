@@ -1,0 +1,32 @@
+{
+  "english": "paranormal",
+  "phat_am": "[,pærə'nɔ:ml]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "huyền bí, siêu linh, dị thường (ngoài phạm vi khoa học giải thích)",
+          "list_en_vn": [
+            {
+              "full_en": "paranormal phenomena",
+              "full_vn": "những hiện tượng huyền bí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377912_a569837371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377912_b234bc2d23_o.png",
+      "id_image": "paranormal_2472464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377857_f83d756484_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377857_7500ab34ee_o.png",
+      "id_image": "paranormal_2472929"
+    }
+  ]
+}

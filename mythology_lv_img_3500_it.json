@@ -1,0 +1,35 @@
+{
+  "english": "mythology",
+  "phat_am": "[mi'θɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thần thoại",
+          "list_en_vn": [
+            {
+              "full_en": "Greek mythology",
+              "full_vn": "thần thoại Hy-lạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thần thoại học, khoa thần thoại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684389_ecf817055d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684389_b9845f7047_o.png",
+      "id_image": "mythology_5018232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374062_aa7edb688d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374062_8d3e906ec8_o.png",
+      "id_image": "mythology_5234425"
+    }
+  ]
+}

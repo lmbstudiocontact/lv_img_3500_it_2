@@ -1,0 +1,69 @@
+{
+  "english": "rebound",
+  "phat_am": "['ri:'baund]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của rebind"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bật lại, sự nẩy lên (của quả bóng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to hit a ball on the rebound",
+              "full_vn": "đánh một quả bóng đang lúc nảy lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự phản ứng (khi bị thất bại, bị va chạm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a person on (at ) the rebound",
+              "full_vn": "lợi dụng sự phản ứng của một người nào để xúi làm ngược lại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bật lại, bật lên nẩy lại, nẩy lên (của quả bóng...)"
+        },
+        {
+          "m_full_vn": "có ảnh hưởng ngược trở lại đối với",
+          "list_en_vn": [
+            {
+              "full_en": "their evil example will rebound upon themselves",
+              "full_vn": "gương xấu của chúng sẽ có ảnh hưởng ngược trở lại đối với chính chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hồi phục (sức khoẻ); phấn khởi lại (tính thần)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451438_90bbf68f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451438_31caa9af44_o.png",
+      "id_image": "rebound_4647371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691769_ceb8837b04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691769_f4e6b3d738_o.png",
+      "id_image": "rebound_4647377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691759_cb138147a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691759_63e8cf9353_o.png",
+      "id_image": "rebound_5526405"
+    }
+  ]
+}

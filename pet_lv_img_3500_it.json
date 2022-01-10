@@ -1,0 +1,115 @@
+{
+  "english": "pet",
+  "phat_am": "[pet]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật nuôi kiểng; vật cưng",
+          "list_en_vn": [
+            {
+              "full_en": "they have many pets , including three cats",
+              "full_vn": "họ nuôi nhiều súc vật cưng, kể cả ba con mèo"
+            },
+            {
+              "full_en": "a pet dog /cat",
+              "full_vn": "một con chó cưng/một con mèo cưng"
+            },
+            {
+              "full_en": "pet food",
+              "full_vn": "thức ăn cho thú kiểng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được yêu thích; con cưng; điều thích nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the teacher's pet",
+              "full_vn": "học trò cưng của thầy giáo"
+            },
+            {
+              "full_en": "their daughter is a perfect pet",
+              "full_vn": "con gái họ hoàn toàn là một đứa con cưng"
+            },
+            {
+              "full_en": "to make a pet of somebody",
+              "full_vn": "coi ai là người mà mình thương nhất; cưng"
+            },
+            {
+              "full_en": "be a pet and post this letter for me",
+              "full_vn": "hãy vui lòng bỏ giùm tôi bức thư này"
+            },
+            {
+              "full_en": "a pet project /theory",
+              "full_vn": "một đề án/lý thuyết được chú ý nhất"
+            },
+            {
+              "full_en": "one's pet hate /aversion",
+              "full_vn": "cái mà mình căm ghét/ác cảm nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưng (lời nói trìu mến với phụ nữ, trẻ con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a pet",
+              "list_im": [
+                {
+                  "im_full_vn": "giận dỗi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that's kind of you , pet",
+              "full_vn": "em thật tốt bụng, cưng ạ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đối xử (với con vật) một cách trìu mến; cưng; nựng; nuông chiều"
+        },
+        {
+          "m_full_vn": "hôn hít và vuốt ve nhau; âu yếm (người đàn ông đối với người phụ nữ)",
+          "list_en_vn": [
+            {
+              "full_en": "heavy petting",
+              "full_vn": "âu yếm say sưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705454_9e027c8eca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705454_e8b867c96b_o.png",
+      "id_image": "pet_2377405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350901_14af4b83cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350901_4fddbc46ee_o.png",
+      "id_image": "pet_2590819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705494_6edb4a275f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705494_797fcdf7fc_o.png",
+      "id_image": "pet_437494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705404_78f0cdddd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705404_d9df593244_o.png",
+      "id_image": "pet_5798376"
+    }
+  ]
+}

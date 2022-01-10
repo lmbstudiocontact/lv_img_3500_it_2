@@ -1,0 +1,104 @@
+{
+  "english": "neutral",
+  "phat_am": "['nju:trəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung lập",
+          "list_en_vn": [
+            {
+              "full_en": "neutral zone",
+              "full_vn": "khu vực trung lập"
+            },
+            {
+              "full_en": "neutral nation",
+              "full_vn": "nước trung lập"
+            },
+            {
+              "full_en": "to be (remain ) neutral",
+              "full_vn": "đứng trung lập, giữ thái độ trung lập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) trung tính"
+        },
+        {
+          "m_full_vn": "(thực vật học), (động vật học) vô tính"
+        },
+        {
+          "m_full_vn": "không có tính chất rõ rệt",
+          "list_en_vn": [
+            {
+              "full_en": "a neutral colour (tint )",
+              "full_vn": "màu không rõ rệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ở vị trí số không",
+          "list_en_vn": [
+            {
+              "full_en": "To leave a motorcycle in neutral gear",
+              "full_vn": "Để xe về số không"
+            },
+            {
+              "full_en": "To put the gear lever in the neutral position",
+              "full_vn": "Kéo cần số về số không"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước trung lập; người trung lập"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) số không (máy)",
+          "list_en_vn": [
+            {
+              "full_en": "To slip (the gears ) into neutral",
+              "full_vn": "Thả (cần số) về số không"
+            },
+            {
+              "full_en": "The car's in neutral",
+              "full_vn": "Xe đang để số không"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438558_d099db83c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438558_288055c6b2_o.png",
+      "id_image": "neutral_1864581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678654_1ca1f6480e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678654_0736311d6a_o.png",
+      "id_image": "neutral_2164188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368307_d900cba233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368307_9180f03a7b_o.png",
+      "id_image": "neutral_2978093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678574_5dacc6315b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678574_23e552c6ab_o.png",
+      "id_image": "neutral_4658054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060340_a0ba651680_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060340_b2be079b28_o.png",
+      "id_image": "neutral_520438"
+    }
+  ]
+}

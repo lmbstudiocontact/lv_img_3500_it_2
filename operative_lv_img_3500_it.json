@@ -1,0 +1,64 @@
+{
+  "english": "operative",
+  "phat_am": "['ɔpərətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đang hoạt động; có tác dụng; đang sử dụng",
+          "list_one_mean": [
+            {
+              "id_full_en": "the operative word",
+              "list_im": [
+                {
+                  "im_full_vn": "từ có ý nghĩa nhất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this law becomes operative on 12 May",
+              "full_vn": "luật này có hiệu lực từ ngày 12 / 5"
+            },
+            {
+              "full_en": "the station will be operative again next week",
+              "full_vn": "tuần tới ga này sẽ hoạt động lại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công nhân (nhất là lao động chân tay)",
+          "list_en_vn": [
+            {
+              "full_en": "factory operatives",
+              "full_vn": "các công nhân nhà máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc vụ; gián điệp; mật vụ",
+          "list_en_vn": [
+            {
+              "full_en": "undercover operatives",
+              "full_vn": "những gián điệp bí mật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700964_0a1d4d079d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700964_e29b3097c0_o.png",
+      "id_image": "operative_1622617"
+    }
+  ]
+}

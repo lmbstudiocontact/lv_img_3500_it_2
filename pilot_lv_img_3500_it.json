@@ -1,0 +1,111 @@
+{
+  "english": "pilot",
+  "phat_am": "['pailət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) hoa tiêu",
+          "list_en_vn": [
+            {
+              "full_en": "deep-sea pilot",
+              "full_vn": "hoa tiêu ngoài biển khơi"
+            },
+            {
+              "full_en": "coast pilot ; inshore pilot",
+              "full_vn": "hoa tiêu ven biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) người lái (máy bay), phi công"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người dẫn đường, vật dẫn đường (đi săn...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drop the pilot",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ rơi một cố vấn đáng tin cậy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) dẫn, điều khiển (tàu)"
+        },
+        {
+          "m_full_vn": "(hàng không) lái, điều khiển (máy bay)",
+          "list_en_vn": [
+            {
+              "full_en": "pilot a plane",
+              "full_vn": "lái một chiếc máy bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẫn dắt ( ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "pilot somebody through a crowd",
+              "full_vn": "dẫn ai qua một đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ở Quốc hội) đảm bảo (cái gì) thành công",
+          "list_en_vn": [
+            {
+              "full_en": "pilot a bill through the House",
+              "full_vn": "lái được một dự luật thông qua Quốc hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thử (cái gì) bằng kế hoạch thí điểm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) dìu dắt (ai) qua những khó khăn"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thí điểm; thí nghiệm quy mô nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a pilot project",
+              "full_vn": "dự án thí điểm"
+            },
+            {
+              "full_en": "a pilot study",
+              "full_vn": "nghiên cứu thí điểm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084060_3f652cf9e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084060_345972713a_o.png",
+      "id_image": "pilot_1983300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084045_f4f973691e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084045_841205b3ed_o.png",
+      "id_image": "pilot_4251422"
+    }
+  ]
+}

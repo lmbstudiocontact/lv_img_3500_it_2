@@ -1,0 +1,408 @@
+{
+  "english": "ride",
+  "phat_am": "[raid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi (trên xe cộ; xe khách)"
+        },
+        {
+          "m_full_vn": "(trong các từ ghép) cuộc đi (trên loại xe được nói rõ..)",
+          "list_en_vn": [
+            {
+              "full_en": "go for a donkey-ride on the beach",
+              "full_vn": "cưỡi lừa đi chơi trên bãi biển"
+            },
+            {
+              "full_en": "to go for ride",
+              "full_vn": "đi chơi bằng ngựa..."
+            },
+            {
+              "full_en": "a ride on one's bicycle",
+              "full_vn": "đi chơi bằng xe đạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường đi ( (thường) bằng ngựa, nhất là qua rừng)"
+        },
+        {
+          "m_full_vn": "(quân sự) lớp kỵ binh mới tuyển",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take somebody for a ride",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lừa, lừa đảo ai"
+                },
+                {
+                  "im_full_vn": "đưa ai đi chơi bằng ngựa (bằng ô tô...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đem ai đi bằng ô tô để giết; khử ai đi"
+                },
+                {
+                  "im_full_vn": "(thông tục) rầy la (mắng mỏ, quở mắng) ai"
+                },
+                {
+                  "im_full_vn": "(thông tục) chế nhạo ai; giễu cợt ai, đem ai ra làm trò cười"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ rode ; ridden",
+      "list_m": [
+        {
+          "m_full_vn": "đi, cưỡi (ngựa..)",
+          "list_en_vn": [
+            {
+              "full_en": "to ride across the highlands",
+              "full_vn": "đi ngựa qua vùng cao nguyên"
+            },
+            {
+              "full_en": "to ride full speed",
+              "full_vn": "phi ngựa nước đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưỡi lên",
+          "list_en_vn": [
+            {
+              "full_en": "to ride on an elephant",
+              "full_vn": "cưỡi voi"
+            },
+            {
+              "full_en": "to ride on someone's back",
+              "full_vn": "cưỡi lên lưng ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi xe (xe buýt, xe lửa, xe điện...); đi xe đạp",
+          "list_en_vn": [
+            {
+              "full_en": "to ride to school",
+              "full_vn": "đi xe đạp đến trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt đi; trôi nổi bập bềnh, lênh đênh",
+          "list_en_vn": [
+            {
+              "full_en": "to ride on the winds",
+              "full_vn": "lướt đi theo chiều gió"
+            },
+            {
+              "full_en": "the moon was riding high",
+              "full_vn": "mặt trăng dường như đang trôi nổi lênh đênh trên trời cao"
+            },
+            {
+              "full_en": "to ride on the waves",
+              "full_vn": "lướt sóng mà đi, cưỡi sóng mà đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thả neo (tàu thuỷ)",
+          "list_en_vn": [
+            {
+              "full_en": "the ship rides (at anchor )",
+              "full_vn": "tàu thả neo"
+            },
+            {
+              "full_en": "to ride easy",
+              "full_vn": "không bị tròng trành lúc thả neo"
+            },
+            {
+              "full_en": "to ride hard",
+              "full_vn": "bị tròng trành lúc thả neo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gối lên nhau",
+          "list_en_vn": [
+            {
+              "full_en": "bone ride s",
+              "full_vn": "xương bị gãy mảnh nọ gối lên mảnh kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc cả quần áo đi ngựa mà cân (người đi ngựa)"
+        },
+        {
+          "m_full_vn": "thuộc vào loại (tốt, xấu, êm, xóc...) cho ngựa chạy (khoảng đất)",
+          "list_en_vn": [
+            {
+              "full_en": "the ground rides soft",
+              "full_vn": "bãi đất đó ngựa chạy rất êm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cưỡi ngựa, đi ngựa (qua một vùng)",
+          "list_en_vn": [
+            {
+              "full_en": "to ride the desert",
+              "full_vn": "đi ngựa qua vùng sa mạc"
+            },
+            {
+              "full_en": "to ride a race",
+              "full_vn": "dự một cuộc đua ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưỡi",
+          "list_en_vn": [
+            {
+              "full_en": "to ride a horse",
+              "full_vn": "cưỡi ngựa"
+            },
+            {
+              "full_en": "to ride an elephant",
+              "full_vn": "cưỡi voi"
+            },
+            {
+              "full_en": "to ride a bicycle",
+              "full_vn": "đi xe đạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho cưỡi lên",
+          "list_en_vn": [
+            {
+              "full_en": "to ride a child on one's back",
+              "full_vn": "cho đứa bé cưỡi lên lưng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đè nặng, giày vò, day dứt; áp chế",
+          "list_en_vn": [
+            {
+              "full_en": "ridden by remorse",
+              "full_vn": "bị hối hận giày vò"
+            },
+            {
+              "full_en": "ridden by prejudice",
+              "full_vn": "lòng nặng thành kiến (định kiến)"
+            },
+            {
+              "full_en": "the nightmare rides the sleeper",
+              "full_vn": "cơn ác mộng đè nặng lên tâm trí người ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt trên (sóng gió)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ride away",
+              "list_im": [
+                {
+                  "im_full_vn": "đi xa bằng ngựa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride back",
+              "list_im": [
+                {
+                  "im_full_vn": "trở về bằng ngựa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride behind",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngựa theo sau"
+                },
+                {
+                  "im_full_vn": "cưỡi ngựa ngồi sau lưng người khác"
+                },
+                {
+                  "im_full_vn": "ngồi phía sau (trên ô tô)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride down",
+              "list_im": [
+                {
+                  "im_full_vn": "phi ngựa đuổi kịp và vượt được (ai)"
+                },
+                {
+                  "im_full_vn": "giẫm đạp lên (dưới chân ngựa), đè chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride of",
+              "list_im": [
+                {
+                  "im_full_vn": "đi xa bằng ngựa"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) chèn, xô đẩy (chơi pôlô)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride out",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt qua được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ride out the storm",
+                      "full_vn": "vượt qua được bão tố (tàu thuỷ); (nghĩa bóng) vượt qua được lúc khó khăn gay go"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride over",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng dễ dàng (trong một cuộc đua ngựa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride up",
+              "list_im": [
+                {
+                  "im_full_vn": "đến bằng ngựa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride and ite",
+              "list_im": [
+                {
+                  "im_full_vn": "thay nhau đi ngựa từng quãng (hai, ba người cùng đi mà chỉ có một con ngựa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride for a fall",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy như điên, chạy bạt mạng; phi ngựa bạt mạng"
+                },
+                {
+                  "im_full_vn": "có những hành động liều mạng; chuốc lấy sự thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride hell for leather",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy hết tốc độ; phi nước đại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride to hounds",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hound"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride a joke a death",
+              "list_im": [
+                {
+                  "im_full_vn": "đùa quá, đùa nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride like a tailor",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tailor"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride off on a side issue",
+              "list_im": [
+                {
+                  "im_full_vn": "nói loanh quanh những điểm thứ yếu để lảng tránh vấn đề chính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride sandwich (bodkin )",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ô tô hàng (xe lửa...) bị ngồi ép chặt vào giữa hai người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride the whirlwind",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm lấy trong tay và chỉ huy (cuộc bạo động...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let it ride !",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện vớ vẩn!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to ride the waves",
+              "full_vn": "lướt trên sóng, cưỡi sóng mà đi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391952_34cc6aab63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391952_2a613732f8_o.png",
+      "id_image": "ride_4559843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392017_8fa85e452c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392017_3529fbd9ba_o.png",
+      "id_image": "ride_540156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084380_ae4b0d784b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084380_27832532dd_o.png",
+      "id_image": "ride_950748"
+    }
+  ]
+}

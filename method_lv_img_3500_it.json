@@ -1,0 +1,55 @@
+{
+  "english": "method",
+  "phat_am": "['meθəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phương pháp, cách thức"
+        },
+        {
+          "m_full_vn": "thứ tự; sự ngăn nắp",
+          "list_one_mean": [
+            {
+              "id_full_en": "there is method in his madness",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) cứ bán cái điên của nó đi mà ăn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a man of method",
+              "full_vn": "một người làm việc có phương pháp; một người làm việc có ngăn nắp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390012_61ac495627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390012_5e36ea0a8e_o.png",
+      "id_image": "method_1605552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082530_f5bbb43a32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082530_4635d5464e_o.png",
+      "id_image": "method_4215258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700164_d8b674521e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700164_4b7f908399_o.png",
+      "id_image": "method_6040674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389937_8a3bf8b894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389937_971ba10622_o.png",
+      "id_image": "method_6326801"
+    }
+  ]
+}

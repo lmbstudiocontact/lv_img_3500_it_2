@@ -1,0 +1,118 @@
+{
+  "english": "moral",
+  "phat_am": "['mɔrəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) đạo đức; (thuộc) luân lý; (thuộc) phẩm hạnh",
+          "list_en_vn": [
+            {
+              "full_en": "the decline of moral standards",
+              "full_vn": "sự xuống cấp của các chuẩn mực đạo đức"
+            },
+            {
+              "full_en": "a moral question , judgement , dilemma",
+              "full_vn": "một vấn đề, sự đánh giá, thế khó xử về đạo đức"
+            },
+            {
+              "full_en": "moral philosophy",
+              "full_vn": "luân lý"
+            },
+            {
+              "full_en": "moral principles",
+              "full_vn": "nguyên lý đạo đức; đạo lý; đạo nghĩa"
+            },
+            {
+              "full_en": "a strong moral fibre",
+              "full_vn": "dũng khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theolương tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to live a moral life",
+              "full_vn": "sống một cuộc sống đạo đức"
+            },
+            {
+              "full_en": "a moral law , duty , obligation",
+              "full_vn": "luật lệ, bổn phận, nghĩa vụ của lương tâm"
+            },
+            {
+              "full_en": "a very moral person",
+              "full_vn": "một con người rất đạo đức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "moral support",
+              "full_vn": "sự ủng hộ tinh thần"
+            },
+            {
+              "full_en": "moral victory",
+              "full_vn": "thắng lợi về tinh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biết phân biệt phải trái",
+          "list_en_vn": [
+            {
+              "full_en": "a moral story , tale , poem",
+              "full_vn": "câu chuyện, truyện ngắn, bài thơ răn dạy đạo đức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài học; lời răn dạy",
+          "list_en_vn": [
+            {
+              "full_en": "the moral of the fable",
+              "full_vn": "lời răn dạy của truyện ngụ ngôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đạo đức; đức hạnh; phẩm hạnh",
+          "list_en_vn": [
+            {
+              "full_en": "his morals are excellent",
+              "full_vn": "đạo đức của anh ta rất tốt"
+            },
+            {
+              "full_en": "a person of loose morals",
+              "full_vn": "kẻ buông thả về đạo đức"
+            },
+            {
+              "full_en": "to question somebody's morals",
+              "full_vn": "nghi ngờ phẩm hạnh của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381532_63f4ee2940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381532_e0de6813f8_o.png",
+      "id_image": "moral_2464149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451408_e1e3662a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451408_c5cec87daa_o.png",
+      "id_image": "moral_6352978"
+    }
+  ]
+}

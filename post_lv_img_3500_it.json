@@ -1,0 +1,213 @@
+{
+  "english": "post",
+  "phat_am": "[poust]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cột trụ"
+        },
+        {
+          "m_full_vn": "vỉa cát kết dày"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) cột than chống"
+        },
+        {
+          "m_full_vn": "thư, bưu kiện..; bưu điện (như) mail",
+          "list_en_vn": [
+            {
+              "full_en": "to send by post",
+              "full_vn": "gửi qua bưu điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sở bưu điện, phòng bưu điện; hòm thư, thùng thư",
+          "list_en_vn": [
+            {
+              "full_en": "to take a letter to the post",
+              "full_vn": "đem thư ra phòng bưu điện, đem thư bỏ vào hòm thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyến thư",
+          "list_en_vn": [
+            {
+              "full_en": "the post has come",
+              "full_vn": "chuyến thư vừa về"
+            },
+            {
+              "full_en": "by return of post",
+              "full_vn": "gửi theo chuyến thư về"
+            },
+            {
+              "full_en": "the general post",
+              "full_vn": "chuyến thư phát đầu tiên buổi sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) trạm thư; người bưu trạm, người đưa thư, xe thư"
+        },
+        {
+          "m_full_vn": "khổ giấy 50 x 40 cm; giấy viết thư khổ 50 x 40 cm"
+        },
+        {
+          "m_full_vn": "(quân sự) vị trí đứng gác; vị trí đóng quân, đồn, bốt; quân đóng ở đồn (bốt)",
+          "list_en_vn": [
+            {
+              "full_en": "to be on post",
+              "full_vn": "đang đứng gác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí công tác; chức vụ; nhiệm vụ",
+          "list_en_vn": [
+            {
+              "full_en": "to die at one's post",
+              "full_vn": "chết trong khi đang làm nhiệm vụ"
+            },
+            {
+              "full_en": "to be given a post abroad",
+              "full_vn": "được giao một chức vụ ở nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạm thông thương buôn bán (ở những nước chậm tiến) (như) trading post"
+        },
+        {
+          "m_full_vn": "(hàng hải), (sử học) chức vị chỉ huy một thuyền chiến (có từ 20 khẩu đại bác trở lên)",
+          "list_one_mean": [
+            {
+              "id_full_en": "first post",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) lệnh kêu thu quân (về đêm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "last post",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) như first post"
+                },
+                {
+                  "im_full_vn": "kèn đưa đám"
+                }
+              ]
+            },
+            {
+              "id_full_en": "deaf as a post",
+              "list_im": [
+                {
+                  "im_full_vn": "như deaf"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from pillar to post",
+              "list_im": [
+                {
+                  "im_full_vn": "như pillar"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(be ) first past the post",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng với đa số tương đối"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi du lịch bằng ngựa trạm"
+        },
+        {
+          "m_full_vn": "đi du lịch vội vã"
+        },
+        {
+          "m_full_vn": "vội vàng, vội vã"
+        },
+        {
+          "m_full_vn": "( + up ) dán (yết thị, thông báo...); thông báo (việc gì, cho ai...) bằng thông cáo, yết công khai"
+        },
+        {
+          "m_full_vn": "dán yết thị lên, dán thông cáo lên (tường)"
+        },
+        {
+          "m_full_vn": "yết tên (học sinh thi hỏng...)"
+        },
+        {
+          "m_full_vn": "công bố tên (tàu bị mất tích, tàu về chậm...)"
+        },
+        {
+          "m_full_vn": "gửi (thư...) qua bưu điện; bỏ (thư...) ở trạm bưu điện, bỏ (thư) vào hòm thư"
+        },
+        {
+          "m_full_vn": "(kế toán) vào sổ cái"
+        },
+        {
+          "m_full_vn": "thông báo đầy đủ tin tức cho (ai), cung cấp đầy đủ tin tức cho (ai) (như) to post up ;",
+          "list_en_vn": [
+            {
+              "full_en": "to be well posted up in a question",
+              "full_vn": "được thông báo đầy đủ về một vấn đề gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt, bố trí (lính gác)"
+        },
+        {
+          "m_full_vn": "(hàng hải), (sử học) bổ nhiệm (ai) làm chỉ huy (thuyền chiến..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "keep somebody posted",
+              "list_im": [
+                {
+                  "im_full_vn": "thông báo kịp thời"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333741_a14b581cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333741_4e069eac34_o.png",
+      "id_image": "post_1041990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688804_63213a24e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688804_ba66fe45f3_o.png",
+      "id_image": "post_5354158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333701_8d81213080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333701_68106f9f95_o.png",
+      "id_image": "post_5853785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688874_d6e1bd34b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688874_3c2974e10a_o.png",
+      "id_image": "post_951444"
+    }
+  ]
+}

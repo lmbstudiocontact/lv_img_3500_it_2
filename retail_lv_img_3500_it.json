@@ -1,0 +1,84 @@
+{
+  "english": "retail",
+  "phat_am": "['ri:teil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bán lẻ; việc bán lẻ",
+          "list_en_vn": [
+            {
+              "full_en": "outlets for the retail of leather goods",
+              "full_vn": "các cửa hàng bán lẻ đồ da thuộc"
+            },
+            {
+              "full_en": "the retail price index",
+              "full_vn": "chỉ số giá bán lẻ"
+            },
+            {
+              "full_en": "retail businesses /traders",
+              "full_vn": "các doanh nghiệp/thương nhân bán lẻ"
+            },
+            {
+              "full_en": "retail dealer",
+              "full_vn": "người bán lẻ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán lẻ; mua lẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to sell both wholesale and retail",
+              "full_vn": "vừa bán sỉ vừa bán lẻ"
+            },
+            {
+              "full_en": "do you buy wholesale or retail ?",
+              "full_vn": "anh mua sỉ hay mua lẻ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to retail something at / for something ) bán lẻ; được bán lẻ",
+          "list_en_vn": [
+            {
+              "full_en": "these hats retail at /for 50 francs",
+              "full_vn": "những mũ này bán lẻ 50 frăng một chiếc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuật lại (chi tiết lời đồn, vụ bê bối...) cho người khác, thường là nhiều lần lặp đi lặp lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349616_e6a08cf707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349616_69df9c29b0_o.png",
+      "id_image": "retail_1353752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704269_090367bc2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704269_f7e3d3e370_o.png",
+      "id_image": "retail_2037284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464268_cfeb84805b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464268_2075c8af6c_o.png",
+      "id_image": "retail_6206766"
+    }
+  ]
+}

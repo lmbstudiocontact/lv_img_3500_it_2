@@ -1,0 +1,118 @@
+{
+  "english": "pump",
+  "phat_am": "[pʌmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giày mềm nhẹ (để khiêu vũ..)"
+        },
+        {
+          "m_full_vn": "giày gót thấp không có dây buộc, không có khoá cài; giày đế cao su (của phụ nữ)"
+        },
+        {
+          "m_full_vn": "cái bơm, máy bơm",
+          "list_en_vn": [
+            {
+              "full_en": "hydraulic pump",
+              "full_vn": "bơm thuỷ lực"
+            },
+            {
+              "full_en": "a petrol pump",
+              "full_vn": "máy bơm xăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bơm; hành động bơm"
+        },
+        {
+          "m_full_vn": "mưu toan dò hỏi bí mật (của ai...), mưu toan moi tin tức (của ai); người có tài dò hỏi bí mật, người có tài moi tin tức"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bơm",
+          "list_en_vn": [
+            {
+              "full_en": "to pump water out of a ship",
+              "full_vn": "bơm nước ra khỏi con tàu"
+            },
+            {
+              "full_en": "to pump up a tyre",
+              "full_vn": "bơm lốp xe"
+            },
+            {
+              "full_en": "to pump a well dry",
+              "full_vn": "bơm cạn giếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập (về tim, máu)"
+        },
+        {
+          "m_full_vn": "(thông tục) lắc (bàn tay ai) lên xuống"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tuôn ra hàng tràng (những lời chửi rủa...)",
+          "list_en_vn": [
+            {
+              "full_en": "to pump abuses upon somebody",
+              "full_vn": "chửi rủa như tát nước vào mặt ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) dò hỏi, moi (tin tức, bí mật..); moi tin tức ở (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to pump a secret out of someone",
+              "full_vn": "moi bí mật ở ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hết hơi, làm thở đứt hơi",
+          "list_en_vn": [
+            {
+              "full_en": "to be completely pumped by the climb",
+              "full_vn": "trèo mệt đứt hơi"
+            },
+            {
+              "full_en": "pump something in ;pump something into",
+              "full_vn": "đổ tiền của vào; (thông tục) nhồi nhét"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bơm, điều khiển máy bơm"
+        },
+        {
+          "m_full_vn": "lên lên xuống xuống mau (phong vũ biểu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462633_bbf9af311a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462633_224afdc993_o.png",
+      "id_image": "pump_1055052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347846_2381f9166f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347846_7500713067_o.png",
+      "id_image": "pump_923843"
+    }
+  ]
+}

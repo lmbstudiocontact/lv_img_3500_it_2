@@ -1,0 +1,35 @@
+{
+  "english": "roadside",
+  "phat_am": "['roudsaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bờ đường, lề đường"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bên đường",
+          "list_en_vn": [
+            {
+              "full_en": "roadside inn",
+              "full_vn": "quán bên đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344851_e45de4c9a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344851_5d40ba35e6_o.png",
+      "id_image": "roadside_6253992"
+    }
+  ]
+}

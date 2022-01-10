@@ -1,0 +1,55 @@
+{
+  "english": "scar",
+  "phat_am": "[skɑ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) scaur"
+        },
+        {
+          "m_full_vn": "sẹo, vết sẹo, thẹo (của vết thương để lại trên da)"
+        },
+        {
+          "m_full_vn": "vết thương lòng, nỗi đau khổ (về tinh thần)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vết nhơ",
+          "list_en_vn": [
+            {
+              "full_en": "scars upon one's reputation",
+              "full_vn": "những vết nhơ cho thanh danh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vách núi lởm chởm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm sẹo; để lại vết sẹo (vết thương)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + over ) lành bằng cách đóng sẹo; tạo thành sẹo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332246_8f4bacc7ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332246_99542d1227_o.png",
+      "id_image": "scar_5154849"
+    }
+  ]
+}

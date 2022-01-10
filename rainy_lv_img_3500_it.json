@@ -1,0 +1,47 @@
+{
+  "english": "rainy",
+  "phat_am": "['reini]",
+  "list_type": [
+    {
+      "type": "tính từ (so sánh)",
+      "list_m": [
+        {
+          "m_full_vn": "có mưa; mưa nhiều; hay mưa (thời tiết, ngày, vùng..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put away (save ) for a rainy day ; to provide against a rainy day",
+              "list_im": [
+                {
+                  "im_full_vn": "dành dụm phòng khi túng thiếu, tích cốc phòng cơ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a rainy day",
+              "full_vn": "ngày mưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384567_cd6cc0a10c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384567_64ceda1bcc_o.png",
+      "id_image": "rainy_1624390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384532_76494ab26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384532_e81e47ff06_o.png",
+      "id_image": "rainy_4647955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076745_d924ffda3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076745_b78aca6b60_o.png",
+      "id_image": "rainy_5903651"
+    }
+  ]
+}

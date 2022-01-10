@@ -1,0 +1,131 @@
+{
+  "english": "prick",
+  "phat_am": "[prik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự châm, sự chích, sự chọc; vết châm, vết chích, vết chọc"
+        },
+        {
+          "m_full_vn": "mũi nhọn, cái giùi, cái gai",
+          "list_en_vn": [
+            {
+              "full_en": "to have got a prick in one's finger",
+              "full_vn": "bị một cái gai đâm vào ngón tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đau nhói, sự cắn rứt, sự day dứt",
+          "list_en_vn": [
+            {
+              "full_en": "the pricks of conscience",
+              "full_vn": "sự cắn rứt của lương tâm"
+            },
+            {
+              "full_en": "to feel the prick",
+              "full_vn": "cảm thấy đau nhói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) gậy thúc (gậy nhọn để thúc bò)"
+        },
+        {
+          "m_full_vn": "(thông tục) dương vật; người (ngu ngốc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to kick against the pricks",
+              "list_im": [
+                {
+                  "im_full_vn": "tự làm khổ mình (do kháng cự, chống đối vô ích)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "châm, chích, chọc",
+          "list_en_vn": [
+            {
+              "full_en": "to prick holes in the ground",
+              "full_vn": "chọc lỗ trên mặt đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắn rứt, ray rứt",
+          "list_en_vn": [
+            {
+              "full_en": "his conscience pricked him",
+              "full_vn": "lương tâm cắn rứt hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh dấu (tên ai trên danh sách), chấm dấu trên giấy (nghĩa rộng), chọn, chỉ định",
+          "list_en_vn": [
+            {
+              "full_en": "to be pricked off for duty",
+              "full_vn": "được chọn (được chỉ định) làm nhiệm vụ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "châm, chích, chọc"
+        },
+        {
+          "m_full_vn": "phi ngựa"
+        },
+        {
+          "m_full_vn": "( + up ) vểnh lên (tai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to prick in",
+              "list_im": [
+                {
+                  "im_full_vn": "trồng lại, cấy (cây nhỏ, lúa...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prick out",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh dấu chấm (hình gì); châm kim vẽ (hình gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prick in to prick a (the ) bladder (bubble )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm xẹp cái vẻ ta đây quan trọng, làm lộ tính chất rỗng tuếch (của ai), làm lộ rõ tính chất vô giá trị (của cái gì)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681199_3253620d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681199_b5b3dfb50c_o.png",
+      "id_image": "prick_5154883"
+    }
+  ]
+}

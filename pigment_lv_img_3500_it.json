@@ -1,0 +1,48 @@
+{
+  "english": "pigment",
+  "phat_am": "['pigmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất màu, chất nhuộm",
+          "list_en_vn": [
+            {
+              "full_en": "pigment in powder form",
+              "full_vn": "chất màu dưới dạng bột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) chất sắc, sắc tố (của tế bào)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tô màu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702154_320dab467c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702154_ec80e19466_o.png",
+      "id_image": "pigment_1686280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392302_288086e3c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392302_9426400a13_o.png",
+      "id_image": "pigment_2332622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392247_1aeecfe7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392247_0939213a60_o.png",
+      "id_image": "pigment_2534785"
+    }
+  ]
+}

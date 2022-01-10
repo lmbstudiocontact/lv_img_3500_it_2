@@ -1,0 +1,46 @@
+{
+  "english": "overdue",
+  "phat_am": "['ouvə'dju:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá chậm",
+          "list_en_vn": [
+            {
+              "full_en": "the train was overdue",
+              "full_vn": "xe lửa đến quá chậm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá hạn",
+          "list_en_vn": [
+            {
+              "full_en": "these bills are overdue",
+              "full_vn": "những hoá đơn này đã quá hạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455343_2f1d543cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455343_a96bfe7b91_o.png",
+      "id_image": "overdue_4334537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695724_300ac96c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695724_921695a14c_o.png",
+      "id_image": "overdue_5359748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455288_77e28b58c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455288_a4a572e7a5_o.png",
+      "id_image": "overdue_6381386"
+    }
+  ]
+}

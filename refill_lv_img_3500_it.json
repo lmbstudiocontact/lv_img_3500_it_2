@@ -1,0 +1,46 @@
+{
+  "english": "refill",
+  "phat_am": "[ri:'fil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái dự trữ (để làm đầy lại); cái để thay thế (cho cái gì hỏng hoặc dùng hết)",
+          "list_en_vn": [
+            {
+              "full_en": "a silver pencil and six refills",
+              "full_vn": "một cái bút chì vỏ bạc và sáu cái lõi chì dự trữ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho đầy lại",
+          "list_en_vn": [
+            {
+              "full_en": "refill a glass",
+              "full_vn": "rót đầy cốc lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376882_48e1105667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376882_46e7ba82be_o.png",
+      "id_image": "refill_2621876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068755_0ae9b95f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068755_e653342242_o.png",
+      "id_image": "refill_4413666"
+    }
+  ]
+}

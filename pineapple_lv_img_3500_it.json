@@ -1,0 +1,34 @@
+{
+  "english": "pineapple",
+  "phat_am": "['painæpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả dứa; cây dứa (như) pine",
+          "list_en_vn": [
+            {
+              "full_en": "fresh /tinned pineapple",
+              "full_vn": "dứa tươi/dứa đóng hộp"
+            },
+            {
+              "full_en": "pineapple juice",
+              "full_vn": "(thuộc ngữ) nước dứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) lựu đạn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460803_95356ac7af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460803_b6b424453e_o.png",
+      "id_image": "pineapple_433690"
+    }
+  ]
+}

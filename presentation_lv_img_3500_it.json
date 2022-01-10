@@ -1,0 +1,52 @@
+{
+  "english": "presentation",
+  "phat_am": "[,prezen'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bày ra, sự phô ra"
+        },
+        {
+          "m_full_vn": "sự trình diện, sự trình diễn, sự trưng bày; cách trình bày, cách trình diễn. cách trưng bày",
+          "list_en_vn": [
+            {
+              "full_en": "the presentation of a new play",
+              "full_vn": "sự trình diễn một vở kịch mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật trưng bày, điều được trình bày"
+        },
+        {
+          "m_full_vn": "sự giới thiệu; sự đưa vào yết kiến, sự đưa vào bệ kiến"
+        },
+        {
+          "m_full_vn": "sự biếu, sự tặng; quà biếu, đồ tặng (đặc biệt thứ được trao trong buổi lễ chính thức)"
+        },
+        {
+          "m_full_vn": "vị trí đứa bé trong bụng mẹ lúc trước sinh ra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328231_b3aa01af1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328231_cc9a91f848_o.png",
+      "id_image": "presentation_287514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064975_b77a76342c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064975_f202d38995_o.png",
+      "id_image": "presentation_439299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328166_88fa768f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328166_573f7e031b_o.png",
+      "id_image": "presentation_562522"
+    }
+  ]
+}

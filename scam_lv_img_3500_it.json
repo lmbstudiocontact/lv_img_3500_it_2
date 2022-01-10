@@ -1,0 +1,37 @@
+{
+  "english": "scam",
+  "phat_am": "[skæm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) mưu đồ bất lương",
+          "list_en_vn": [
+            {
+              "full_en": "a betting scam",
+              "full_vn": "một cuộc đánh cá gian lận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447678_f32d8cf796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447678_a1517592ab_o.png",
+      "id_image": "scam_2297656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332586_ce82fdb705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332586_03eecac181_o.png",
+      "id_image": "scam_5511782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332551_34f5866f6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332551_60ec4d9c2c_o.png",
+      "id_image": "scam_5966499"
+    }
+  ]
+}

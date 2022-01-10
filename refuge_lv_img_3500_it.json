@@ -1,0 +1,75 @@
+{
+  "english": "refuge",
+  "phat_am": "['refju:dʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi trốn tránh; nơi ẩn náu; nơi trú ẩn",
+          "list_en_vn": [
+            {
+              "full_en": "a place of refuge",
+              "full_vn": "nơi ẩn náu; chốn nương thân"
+            },
+            {
+              "full_en": "to take refuge",
+              "full_vn": "trốn tránh, ẩn náu"
+            },
+            {
+              "full_en": "to seek refuge",
+              "full_vn": "tìm nơi ẩn náu"
+            },
+            {
+              "full_en": "to take refuge in lying",
+              "full_vn": "phải dùng đến cách nói dối để mà lẩn tránh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi nương náu, nơi nương tựa",
+          "list_en_vn": [
+            {
+              "full_en": "he is the refuge of the distressed",
+              "full_vn": "anh ấy là nơi nương tựa của những người đau khổ khốn cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ đứng tránh (cho những người đi bộ ở giữa ngã tư đường)"
+        },
+        {
+          "m_full_vn": "khu vực nhô lên ở giữa đường, chia giao thông đi lại thành hai dòng, nhất là để dùng cho người đi bộ khi đi qua đường (như) traffic island"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) cho ẩn náu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) tìm nơi ẩn náu, trốn tránh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685439_716a4ef471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685439_cfe623dd2e_o.png",
+      "id_image": "refuge_3122418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330351_2310b5db97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330351_93460cdf40_o.png",
+      "id_image": "refuge_354510"
+    }
+  ]
+}

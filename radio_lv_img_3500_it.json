@@ -1,0 +1,118 @@
+{
+  "english": "radio",
+  "phat_am": "['reidiou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều radios",
+      "list_m": [
+        {
+          "m_full_vn": "sóng vô tuyến; ra-đi-ô",
+          "list_en_vn": [
+            {
+              "full_en": "to contact a ship at sea by radio",
+              "full_vn": "bắt liên lạc với tàu ở ngoài biển bằng ra-đi-ô"
+            },
+            {
+              "full_en": "radio waves",
+              "full_vn": "sóng vô tuyến"
+            },
+            {
+              "full_en": "radio communications",
+              "full_vn": "liên lạc bằng ra-đi-ô"
+            },
+            {
+              "full_en": "radio telephone",
+              "full_vn": "vô tuyến điện thoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy rađiô (như) radio set",
+          "list_en_vn": [
+            {
+              "full_en": "to hear a gale warning on /over a ship's radio",
+              "full_vn": "nghe tin báo bão trên/qua máy ra-đi-ô của tàu"
+            },
+            {
+              "full_en": "a radio receiver , transmitter",
+              "full_vn": "máy thu rađiô, máy phát ra-đi-ô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy thu thanh (như) wireless",
+          "list_en_vn": [
+            {
+              "full_en": "a portable radio",
+              "full_vn": "máy thu thanh xách tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the radio ) sự phát thanh bằng ra-đi-ô",
+          "list_en_vn": [
+            {
+              "full_en": "to listen to the radio",
+              "full_vn": "nghe ra-đi-ô; nghe đài"
+            },
+            {
+              "full_en": "a comedy specially written for radio",
+              "full_vn": "hài kịch soạn riêng cho đài phát thanh"
+            },
+            {
+              "full_en": "I prefer television to radio",
+              "full_vn": "Tôi thích xem ti vi hơn là nghe ra-đi-ô"
+            },
+            {
+              "full_en": "radio program , announcer , station",
+              "full_vn": "chương trình phát thanh, phát thanh viên, đài phát thanh"
+            },
+            {
+              "full_en": "I heard it on the radio",
+              "full_vn": "tôi nghe điều đó trên ra-đi-ô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi tin đi bằng ra-đi-ô; thông tin bằng ra-đi-ô; phát thanh bằng ra-đi-ô; đánh điện bằng ra-đi-ô (cho ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to radio (to somebody ) for help",
+              "full_vn": "đánh điện bằng ra-đi-ô (cho ai) để kêu cứu"
+            },
+            {
+              "full_en": "to radio somebody the position of one's fishing-boat",
+              "full_vn": "đánh điện (bằng ( ra-đi-ô)) cho ai biết thuyền đánh cá của mình đang ở đâu"
+            },
+            {
+              "full_en": "Radio to them to come to our help right now",
+              "full_vn": "Hãy đánh điện cho họ đến cứu chúng ta ngay bây giờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696464_70f19452a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696464_0289e56c7c_o.png",
+      "id_image": "radio_125135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078570_1f2845d505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078570_ca603781d4_o.png",
+      "id_image": "radio_387384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341176_d6f4c0b7f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341176_43b71bebf2_o.png",
+      "id_image": "radio_387416"
+    }
+  ]
+}

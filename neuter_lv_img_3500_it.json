@@ -1,0 +1,76 @@
+{
+  "english": "neuter",
+  "phat_am": "['nju:tə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) trung, (thuộc) giống trung",
+          "list_en_vn": [
+            {
+              "full_en": "neuter gender",
+              "full_vn": "giống trung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) nội ( động từ)"
+        },
+        {
+          "m_full_vn": "(sinh vật học) vô tính"
+        },
+        {
+          "m_full_vn": "(thú y học) bị thiến, bị hoạn"
+        },
+        {
+          "m_full_vn": "trung lập",
+          "list_en_vn": [
+            {
+              "full_en": "to stand neuter",
+              "full_vn": "đứng trung lập, giữ thái độ trung lập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) từ trung tính ( danh từ, đại từ...)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) nội động từ"
+        },
+        {
+          "m_full_vn": "(thực vật học) hoa vô tính"
+        },
+        {
+          "m_full_vn": "(động vật học) sâu bọ vô tính; ong thợ, kiến thợ"
+        },
+        {
+          "m_full_vn": "(thú y học) súc vật bị thiến, súc vật bị hoạn"
+        },
+        {
+          "m_full_vn": "người trung lập; nước trung lập"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiến, hoạn (súc vật)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678789_5bafc5041d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678789_8975392c7f_o.png",
+      "id_image": "neuter_2935070"
+    }
+  ]
+}

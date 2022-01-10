@@ -1,0 +1,85 @@
+{
+  "english": "minority",
+  "phat_am": "[mai'nɔriti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần ít; thiểu số",
+          "list_en_vn": [
+            {
+              "full_en": "only a minority of British households do /does not have a car",
+              "full_vn": "chỉ có một số ít hộ gia đình người Anh là không có xe hơi"
+            },
+            {
+              "full_en": "a small minority voted against the motion",
+              "full_vn": "một thiểu số nhỏ bỏ phiếu chống bản kiến nghị"
+            },
+            {
+              "full_en": "a minority vote /opinion /point of view",
+              "full_vn": "lá phiếu/dư luận/quan điểm của thiểu số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tộc người thiểu số",
+          "list_en_vn": [
+            {
+              "full_en": "struggle of ethnic minorities",
+              "full_vn": "cuộc đấu tranh của các tộc người thiểu số"
+            },
+            {
+              "full_en": "to belong to a minority group",
+              "full_vn": "thuộc một tộc người thiểu số"
+            },
+            {
+              "full_en": "minority rights",
+              "full_vn": "quyền của dân tộc thiểu số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuổi vị thành niên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in a /the minority",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong phe thiểu số; chiếm thiểu số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm in a minority of one",
+                      "full_vn": "tôi ở vào thế thiểu số một người (không ai đồng tình với tôi cả)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "minority government",
+              "list_im": [
+                {
+                  "im_full_vn": "chính phủ chiếm ít ghế trong quốc hội lập pháp so với toàn bộ số ghế của các phe đối lập; chính phủ thiểu số"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in one's minority",
+              "full_vn": "đang tuổi vị thành niên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341731_fe9a4ce26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341731_24a8ebc520_o.png",
+      "id_image": "minority_6334000"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "particle",
+  "phat_am": "['pɑ:tikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một mẩu, mảnh nhỏ (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "particles of dust ; dust particles",
+              "full_vn": "những hạt bụi"
+            },
+            {
+              "full_en": "he choked on a particle of food",
+              "full_vn": "cậu ấy nghẹn vì một mẩu thức ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) hạt, phần tử"
+        },
+        {
+          "m_full_vn": "mảy may; lượng nhỏ nhất có thể có, chút ít",
+          "list_en_vn": [
+            {
+              "full_en": "he has not a particle of sense",
+              "full_vn": "nó không có một tí ý thức nào cả"
+            },
+            {
+              "full_en": "there's not a particle of truth in her story",
+              "full_vn": "câu chuyện của cô ta không có một chút nào là thật cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) tiểu từ ( mạo từ, phó từ, giới từ); tiếp đầu ngữ, tiếp vĩ ngữ có ý nghĩa rõ ràng (tiền tố, hậu tố)",
+          "list_en_vn": [
+            {
+              "full_en": "a , an , the are particles",
+              "full_vn": "a, an, the là những mạo từ"
+            },
+            {
+              "full_en": "non- , un- are particles",
+              "full_vn": "non-, un- là những tiền tố"
+            },
+            {
+              "full_en": "-ness is a particle",
+              "full_vn": "-ness là hậu tố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067950_6f855a16fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067950_45f5fc5cc1_o.png",
+      "id_image": "particle_1280969"
+    }
+  ]
+}

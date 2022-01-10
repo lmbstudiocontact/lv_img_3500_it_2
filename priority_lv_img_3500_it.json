@@ -1,0 +1,89 @@
+{
+  "english": "priority",
+  "phat_am": "[prai'ɔrəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( priority over somebody / something ) sự ưu thế (về cấp bậc); quyền ưu tiên (quyền có hoặc làm cái gì trước người khác)",
+          "list_en_vn": [
+            {
+              "full_en": "Japan's priority (over other countries ) in the field of microelectronics",
+              "full_vn": "Ưu thế của Nhật Bản (so với các nước khác) trong lĩnh vực vi điện tử"
+            },
+            {
+              "full_en": "I have priority over you in the claim for damages",
+              "full_vn": "Tôi ưu tiên hơn anh trong việc đòi bồi thường thiệt hại"
+            },
+            {
+              "full_en": "priority is given to developing heavy industry",
+              "full_vn": "ưu tiên phát triển công nghiệp nặng"
+            },
+            {
+              "full_en": "you must decide what your priorities are",
+              "full_vn": "anh cần phải xác định những điều ưu tiên của anh là gì"
+            },
+            {
+              "full_en": "rebuilding our head office is a (top ) priority",
+              "full_vn": "xây lại trụ sở chính của chúng tôi là điều ưu tiên (hàng đầu)"
+            },
+            {
+              "full_en": "the Government gave (top ) priority to reforming the legal system",
+              "full_vn": "chính phủ dành ưu tiên (hàng đầu) cho việc cải cách hệ thống pháp luật"
+            },
+            {
+              "full_en": "the search for a new vaccine took priority over all other medical research",
+              "full_vn": "việc tìm kiếm một vắc xin mới chiếm vị trí ưu tiên trên mọi cuộc nghiên cứu về y học khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giao thông) quyền ưu tiên (quyền được đi trước các phương tiện (giao thông) khác)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get one's priorities right , wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "biết/không biết cái gì là quan trọng nhất và hành động theo đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your trouble is you've got your priorities back to front",
+                      "full_vn": "điều bối rối đối với anh là anh đã đảo ngược các ưu tiên của anh!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "vehicles coming from the right have priority",
+              "full_vn": "xe cộ từ bên phải tới được quyền ưu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439423_4bc0ed72ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439423_5b4a511181_o.png",
+      "id_image": "priority_5216828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439383_6f5a654cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439383_630611ac4d_o.png",
+      "id_image": "priority_5230603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324286_9d4f087959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324286_10cf6e9f5c_o.png",
+      "id_image": "priority_5361629"
+    }
+  ]
+}

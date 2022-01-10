@@ -1,0 +1,97 @@
+{
+  "english": "parcel",
+  "phat_am": "['pɑ:s(ə)l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gói; bưu kiện (như) postal parcel , package"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) chuyển hàng (số hàng trong một lần giao dịch)"
+        },
+        {
+          "m_full_vn": "lô, mảnh đất, khoảnh đất"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) phần"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lũ, bọn, bầy",
+          "list_one_mean": [
+            {
+              "id_full_en": "part and parcel of something",
+              "list_im": [
+                {
+                  "im_full_vn": "như part"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a parcel of fools",
+              "full_vn": "một lũ ngốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gói, bọc; chia (ra) thành từng phần ( (thường) to parcel out )"
+        },
+        {
+          "m_full_vn": "(hàng hải) che (đường xảm tàu) bằng dải vải bạt có nhựa đường; bọc (dây chão...) bằng dải vải bạt có nhựa đường"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) phần nào",
+          "list_en_vn": [
+            {
+              "full_en": "parcel gilt",
+              "full_vn": "mạ vàng một phần"
+            },
+            {
+              "full_en": "a parcel gilt cup",
+              "full_vn": "cái cốc mạ vàng bên trong"
+            },
+            {
+              "full_en": "parcel blind",
+              "full_vn": "nửa mù; mù ít"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447953_ce2a0a8261_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447953_a227489279_o.png",
+      "id_image": "parcel_1988279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069640_9df4d539d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069640_cb89025c81_o.png",
+      "id_image": "parcel_4586107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377602_8feb6f7ee8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377602_3fa1f6c789_o.png",
+      "id_image": "parcel_4586128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687779_8289f49ce2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687779_c476c2bf81_o.png",
+      "id_image": "parcel_4649818"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "rasp",
+  "phat_am": "[rɑ:sp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái giũa gỗ"
+        },
+        {
+          "m_full_vn": "tiếng xoạt xoạt khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "the rasp of a saw on wood",
+              "full_vn": "tiếng soàn soạt của lưỡi cưa đang xẻ gỗ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giũa (gỗ...); cạo, nạo",
+          "list_en_vn": [
+            {
+              "full_en": "rasp the surface (smooth )",
+              "full_vn": "giũa bề mặt (cho trơn tru)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm sướt (da); làm khé (cổ)",
+          "list_en_vn": [
+            {
+              "full_en": "wine that rasps the throat",
+              "full_vn": "loại rượu nho làm khé cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm phật lòng, gây cảm giác khó chịu; làm bực tức",
+          "list_en_vn": [
+            {
+              "full_en": "to rasp someone's feelings",
+              "full_vn": "làm phật lòng ai"
+            },
+            {
+              "full_en": "to rasp someone's nevers",
+              "full_vn": "làm ai bực tức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giũa, cạo, nạo"
+        },
+        {
+          "m_full_vn": "nói giọng the thé khó chịu; phát tiếng kêu ken két khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "a rasping voice",
+              "full_vn": "giọng the thé"
+            },
+            {
+              "full_en": "rasp (out ) orders",
+              "full_vn": "the thé ra lệnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383292_c4eaba841a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383292_ea18ff3957_o.png",
+      "id_image": "rasp_1845996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338391_401baa83d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338391_787ae97031_o.png",
+      "id_image": "rasp_387740"
+    }
+  ]
+}

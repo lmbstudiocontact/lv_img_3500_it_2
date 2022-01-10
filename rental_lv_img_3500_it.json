@@ -1,0 +1,41 @@
+{
+  "english": "rental",
+  "phat_am": "['rentl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số tiền thuê hoặc cho thuê",
+          "list_en_vn": [
+            {
+              "full_en": "to pay a telephone rental of 200 dollars a quarter",
+              "full_vn": "trả tiền thuê điện thoại 200 đô la một quý"
+            },
+            {
+              "full_en": "rental charges",
+              "full_vn": "tiền thuê nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679739_e459e91eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679739_3a67e3b886_o.png",
+      "id_image": "rental_2329899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679719_94ae47315d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679719_3354525fba_o.png",
+      "id_image": "rental_2421787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679669_9d05e6c812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679669_e33759d173_o.png",
+      "id_image": "rental_4677778"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "rifle",
+  "phat_am": "['raifl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường rãnh xoắn (ở nòng súng)"
+        },
+        {
+          "m_full_vn": "súng có nòng xẻ rãnh xoắn; súng trường"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cướp, lấy, vơ vét (đồ đạc của người nào); lục lọi và cuỗm hết (tiền bạc của người nào)",
+          "list_en_vn": [
+            {
+              "full_en": "to rifle a cupboard of its contents",
+              "full_vn": "vơ vét hết đồ đạc trong tủ"
+            },
+            {
+              "full_en": "to rifle someone's pocket",
+              "full_vn": "lục lọi và cuỗm hết các thứ ở trong túi ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xẻ rãnh xoắn ở nòng súng trường để cho viên đạn xoáy tròn khi bắn ra"
+        },
+        {
+          "m_full_vn": "bắn vào (bằng súng trường)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346811_0ca6b12a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346811_91fb40d52a_o.png",
+      "id_image": "rifle_2495769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461583_5279835bbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461583_aed977eb66_o.png",
+      "id_image": "rifle_5322294"
+    }
+  ]
+}

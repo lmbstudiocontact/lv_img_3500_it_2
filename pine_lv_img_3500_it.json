@@ -1,0 +1,71 @@
+{
+  "english": "pine",
+  "phat_am": "[pain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây thông (như) pine-tree ; gỗ thông",
+          "list_en_vn": [
+            {
+              "full_en": "pine-scented",
+              "full_vn": "(thuộc ngữ) có hương thơm nhựa thông (nhất là trong chất khử mùi, tẩy uế..)"
+            },
+            {
+              "full_en": "a pine dresser",
+              "full_vn": "(thuộc ngữ) bàn trang điểm bằng gỗ thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(như) pineapple"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mòn mỏi, khao khát,"
+        },
+        {
+          "m_full_vn": "tiều tuỵ, héo hon (vì đau ốm, buồn bã...); rất bất hạnh (vì ai đã chết, đi xa..)"
+        },
+        {
+          "m_full_vn": "( + for , after ) mong muốn thiết tha; mòn mỏi mong chờ, mong mỏi, héo hon"
+        },
+        {
+          "m_full_vn": "( + away ) đau ốm, gầy mòn (và chết vì buồn bã)",
+          "list_one_mean": [
+            {
+              "id_full_en": "peak and pine",
+              "list_im": [
+                {
+                  "im_full_vn": "như peak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346121_800514e778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346121_cdf88b050b_o.png",
+      "id_image": "pine_2033510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391107_5bbd21a7ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391107_00731e7e0b_o.png",
+      "id_image": "pine_4781777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346066_7f3893438c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346066_908aa4985d_o.png",
+      "id_image": "pine_6262934"
+    }
+  ]
+}

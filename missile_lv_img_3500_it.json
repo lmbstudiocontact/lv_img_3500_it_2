@@ -1,0 +1,58 @@
+{
+  "english": "missile",
+  "phat_am": "['misail]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể phóng ra",
+          "list_en_vn": [
+            {
+              "full_en": "a missile weapon",
+              "full_vn": "vũ khí có thể phóng ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật phóng ra (đá, tên, mác...)"
+        },
+        {
+          "m_full_vn": "tên lửa",
+          "list_en_vn": [
+            {
+              "full_en": "an air-to-air missile",
+              "full_vn": "tên lửa không đối không"
+            },
+            {
+              "full_en": "to conduct guided missile nuclear weapon test",
+              "full_vn": "tiến hành thử vũ khí tên lửa hạt nhân điều khiển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696474_7139a688ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696474_ee71cbae60_o.png",
+      "id_image": "missile_1033022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696439_34d8b61127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696439_a63080fee3_o.png",
+      "id_image": "missile_1280964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455988_11fd0e140f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455988_7250f07ca7_o.png",
+      "id_image": "missile_4469603"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "protect",
+  "phat_am": "[prə'tekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to protect somebody / something against / from something ) bảo vệ, bảo hộ, che chở",
+          "list_en_vn": [
+            {
+              "full_en": "to protect someone from /against danger",
+              "full_vn": "che chở ai khỏi bị nguy hiểm"
+            },
+            {
+              "full_en": "you need warm clothes to protect yourself against /from the cold",
+              "full_vn": "anh phải mặc quần áo ấm để khỏi bị lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảo vệ, bảo hộ (nền (công nghiệp) trong nước chống lại sự cạnh tranh của hàng nước ngoài)",
+          "list_en_vn": [
+            {
+              "full_en": "The country's car industry is so strongly protected that foreign cars are rarely seen there",
+              "full_vn": "Công nghiệp xe ô tô trong nước được bảo hộ mạnh mẽ đến nỗi hiếm thấy xe nước ngoài ở đó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087420_328f867b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087420_a0aea6797b_o.png",
+      "id_image": "protect_2927178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464773_57d205e248_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464773_ce3b347154_o.png",
+      "id_image": "protect_3027914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350146_e2469864d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350146_f059f4a642_o.png",
+      "id_image": "protect_5760166"
+    }
+  ]
+}

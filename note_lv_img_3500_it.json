@@ -1,0 +1,191 @@
+{
+  "english": "note",
+  "phat_am": "[nout]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời ghi, lời ghi chép",
+          "list_en_vn": [
+            {
+              "full_en": "to make (take ) notes",
+              "full_vn": "ghi chép"
+            },
+            {
+              "full_en": "I must look up my notes",
+              "full_vn": "tôi phải xem lại lời ghi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời ghi chú, lời chú giải"
+        },
+        {
+          "m_full_vn": "sự lưu ý, sự chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "worthy of note",
+              "full_vn": "đáng chú ý"
+            },
+            {
+              "full_en": "to take note of",
+              "full_vn": "lưu ý đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bức thư ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "to drop someone a note",
+              "full_vn": "gửi cho ai một bức thư ngắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngoại giao) công hàm",
+          "list_en_vn": [
+            {
+              "full_en": "diplomatic note",
+              "full_vn": "công hàm ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như bank-note",
+          "list_en_vn": [
+            {
+              "full_en": "do you want money in notes or coins ?",
+              "full_vn": "anh muốn nhận tiền giấy hay tiền đồng?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phiếu, giấy",
+          "list_en_vn": [
+            {
+              "full_en": "promissory note",
+              "full_vn": "giấy hẹn trả tiền, lệnh phiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu, dấu hiệu, vết",
+          "list_en_vn": [
+            {
+              "full_en": "a note of infamy",
+              "full_vn": "vết nhục"
+            },
+            {
+              "full_en": "note of interrogation",
+              "full_vn": "dấu hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng tăm, danh tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of note",
+              "full_vn": "người có tiếng tăm, người tai mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nốt; phím ( pianô)"
+        },
+        {
+          "m_full_vn": "điệu, vẻ, giọng, mùi",
+          "list_en_vn": [
+            {
+              "full_en": "there is a note of anger in his voice",
+              "full_vn": "giọng anh ta có vẻ giận dữ"
+            },
+            {
+              "full_en": "his speech sounds the note of war",
+              "full_vn": "bài nói của hắn sặc mùi chiến tranh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi nhớ, chú ý, lưu ý, , nhận thấy",
+          "list_en_vn": [
+            {
+              "full_en": "note my words",
+              "full_vn": "hãy ghi nhớ những lời nói của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi, ghi chép"
+        },
+        {
+          "m_full_vn": "chú giải, chú thích",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make a mental note of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi nhớ điều gì thật kỹ lưỡng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to compare notes with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "trao đổi ý kiến với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike a note of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "cho thấy, biểu lộ, bộc lộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he struck a note of pessimism in his annual report",
+                      "full_vn": "bản báo cáo hàng năm của anh ta bộc lộ tư tưởng bi quan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike a false note",
+              "list_im": [
+                {
+                  "im_full_vn": "nói hoặc làm điều sai trái"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365962_cc65312649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365962_e05fcdfda5_o.png",
+      "id_image": "note_1370360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321111_172d282a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321111_9d7499f127_o.png",
+      "id_image": "note_311007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676164_e87544078a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676164_4bc35df666_o.png",
+      "id_image": "note_342710"
+    }
+  ]
+}

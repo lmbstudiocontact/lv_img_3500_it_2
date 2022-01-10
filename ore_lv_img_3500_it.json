@@ -1,0 +1,27 @@
+{
+  "english": "ore",
+  "phat_am": "[ɔ:(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quặng",
+          "list_en_vn": [
+            {
+              "full_en": "iron ore",
+              "full_vn": "quặng sắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458783_e8b638440f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458783_3ef8027ded_o.png",
+      "id_image": "ore_4148466"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "outlaw",
+  "phat_am": "['autlɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sống ngoài vòng pháp luật, người không được luật pháp che chở"
+        },
+        {
+          "m_full_vn": "kẻ cướp, kẻ thường xuyên phạm tội"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) con ngựa bất kham, con ngựa hung dữ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt ra ngoài vòng pháp luật"
+        },
+        {
+          "m_full_vn": "cấm",
+          "list_en_vn": [
+            {
+              "full_en": "outlaw certain addictive drugs",
+              "full_vn": "cấm một số thuốc gây nghụiên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386402_1bf88cd210_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386402_d3f02f31ae_o.png",
+      "id_image": "outlaw_2208976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696574_03d074da88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696574_732fb5dcd8_o.png",
+      "id_image": "outlaw_3819458"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "poison",
+  "phat_am": "['pɔizn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất độc, thuốc độc (diệt động vật, thực vật)",
+          "list_en_vn": [
+            {
+              "full_en": "slow poison",
+              "full_vn": "chất dùng nhiều có hại"
+            },
+            {
+              "full_en": "poison for killing weeds",
+              "full_vn": "chất độc diệt cỏ"
+            },
+            {
+              "full_en": "poison gas",
+              "full_vn": "(thuộc ngữ) hơi độc (trong chiến tranh)"
+            },
+            {
+              "full_en": "rat poison",
+              "full_vn": "thuốc diệt chuột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thuyết độc hại, thuyết đầu độc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hate each other like poison",
+              "list_im": [
+                {
+                  "im_full_vn": "ghét nhau như đào đất đổ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what's your poison ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) anh uống cái gì nào?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh thuốc độc ( ai/cái gì); bỏ thuốc độc, tẩm thuốc độc vào (cái gì)"
+        },
+        {
+          "m_full_vn": "làm hư bằng chất độc hại"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm tổn thương (niềm vui, hạnh phúc của ai...); đầu độc, làm đồi bại, làm hư hỏng, hủy hoại (về mặt tinh thần)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to poison A's mind against B",
+              "list_im": [
+                {
+                  "im_full_vn": "nói xấu B cho A nghe để A ghét B"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075285_e710e187ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075285_73264105bc_o.png",
+      "id_image": "poison_1033004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383222_416c17b8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383222_a0246c55b0_o.png",
+      "id_image": "poison_921807"
+    }
+  ]
+}

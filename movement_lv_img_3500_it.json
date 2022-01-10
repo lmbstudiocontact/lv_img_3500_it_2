@@ -1,0 +1,143 @@
+{
+  "english": "movement",
+  "phat_am": "['mu:vmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vận động; sự cử động",
+          "list_en_vn": [
+            {
+              "full_en": "the movement of his chest as he breathes",
+              "full_vn": "sự chuyển động của bộ ngực khi nó thở"
+            },
+            {
+              "full_en": "to lie still without (making ) any movement",
+              "full_vn": "nằm im bất động"
+            },
+            {
+              "full_en": "loose clothing gives you greater freedom of movement",
+              "full_vn": "quần áo rộng cho phép anh cử động thoải mái hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "động tác",
+          "list_en_vn": [
+            {
+              "full_en": "a graceful movement",
+              "full_vn": "một động tác duyên dáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoạt động; hành động",
+          "list_en_vn": [
+            {
+              "full_en": "a play , novel that lacks movement",
+              "full_vn": "vở kịch, tiểu thuyết thiếu hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) sự di chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "troop movements can be observed from space by a satellite",
+              "full_vn": "những sự di chuyển của quân lính có thể quan sát được từ trên không bằng vệ tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những hành động, chuyến đi... trong một khoảng thời gian nhất định (đặc biệt là do một người khác theo dõi và ghi lại); các động thái",
+          "list_en_vn": [
+            {
+              "full_en": "the police have been keeping a close watch on the suspects' movement",
+              "full_vn": "cảnh sát đã theo dõi nghiêm ngặt di biến động của những kẻ bị tình nghi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( movement away from / towards something ) xu hướng (trong xã hội)",
+          "list_en_vn": [
+            {
+              "full_en": "the movement towards greater freedom in fashion styles",
+              "full_vn": "xu hướng tiến tới sự thoải mái nhiều hơn trong các kiểu thời trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( movement in something ) sự thay đổi về số lượng (nhất là sự lên xuống trong thị trường chứng khoán); sự biến động",
+          "list_en_vn": [
+            {
+              "full_en": "not much movement in oil shares",
+              "full_vn": "không có nhiều biến động trong các cổ phần dầu lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( movement to do something ) (một nhóm người có) một số mục đích hoặc nguyên tắc chung; phong trào",
+          "list_en_vn": [
+            {
+              "full_en": "the national liberation movement",
+              "full_vn": "phong trào giải phóng dân tộc"
+            },
+            {
+              "full_en": "founding a movement to promote women's rights",
+              "full_vn": "thành lập một phong trào nhằm xúc tiến các quyền của phụ nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những bộ phận hoạt động trong một cỗ máy (nhất là trong đồng hồ); bộ phận chuyển động",
+          "list_en_vn": [
+            {
+              "full_en": "the movement of a clock",
+              "full_vn": "bộ phận hoạt động của đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) phần",
+          "list_en_vn": [
+            {
+              "full_en": "the first movement of a symphony",
+              "full_vn": "phần thứ nhất của bản giao hưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bài tiết làm cho ruột trống rỗng; sự đi ngoài, sự đi ỉa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070670_490151db7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070670_1693768071_o.png",
+      "id_image": "movement_2621644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378592_de3c0806d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378592_fde543c625_o.png",
+      "id_image": "movement_3813963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448743_45272d4fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448743_4039490724_o.png",
+      "id_image": "movement_5775804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333651_d1d30c4cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333651_12895460d3_o.png",
+      "id_image": "movement_5775946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378477_039d5c4f28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378477_4ac80f19e9_o.png",
+      "id_image": "movement_5978857"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "mini",
+  "phat_am": "",
+  "list_type": [
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "thu nhỏ; nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "minibus",
+              "full_vn": "xe búyt nhỏ"
+            },
+            {
+              "full_en": "miniskirt",
+              "full_vn": "váy ngắn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "váy ngắn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697529_74f2aafaa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697529_d128c736fe_o.png",
+      "id_image": "mini_1600948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457138_a7ee8686c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457138_40642090b5_o.png",
+      "id_image": "mini_2364436"
+    }
+  ]
+}

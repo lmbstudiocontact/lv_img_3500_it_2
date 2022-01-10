@@ -1,0 +1,87 @@
+{
+  "english": "saw",
+  "phat_am": "[sɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tục ngữ; cách ngôn"
+        },
+        {
+          "m_full_vn": "cái cưa",
+          "list_en_vn": [
+            {
+              "full_en": "cross-cut saw",
+              "full_vn": "cưa ngang"
+            },
+            {
+              "full_en": "circular saw",
+              "full_vn": "cưa tròn, cưa đĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) bộ phận hình răng cưa"
+        }
+      ]
+    },
+    {
+      "type": "động từ sawed , sawn ; ( Mỹ) sawed",
+      "list_m": [
+        {
+          "m_full_vn": "cưa (gỗ), xẻ (gỗ)"
+        },
+        {
+          "m_full_vn": "đưa đi đưa lại (như) kéo cưa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to saw the air",
+              "list_im": [
+                {
+                  "im_full_vn": "khoa tay múa chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to saw the wood",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm việc riêng của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sawn-off shotgun",
+              "list_im": [
+                {
+                  "im_full_vn": "súng cưa nòng (súng mà nòng bị cưa gần hết, đặc biệt bọn tội phạm hay dùng vì dễ mang và dễ giấu)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ của see"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333326_d479aaf323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333326_ab57b38be3_o.png",
+      "id_image": "saw_928774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688334_9632f5b671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688334_4af981c001_o.png",
+      "id_image": "saw_972741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688294_738dc1c614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688294_2cf14030a2_o.png",
+      "id_image": "saw_972744"
+    }
+  ]
+}

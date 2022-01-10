@@ -1,0 +1,99 @@
+{
+  "english": "roast",
+  "phat_am": "[roust]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thịt quay, thịt nướng; sự quay thịt, sự nướng thịt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự chỉ trích gây gắt; lời phê bình nghiêm khắc"
+        },
+        {
+          "m_full_vn": "sự chế nhạo; lời giễu cợt cay độc"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự nung"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay, nướng trong lò..",
+          "list_en_vn": [
+            {
+              "full_en": "roast pig",
+              "full_vn": "thịt lợn quay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay, nướng; được nướng, được quay (thịt..)"
+        },
+        {
+          "m_full_vn": "rang (cà phê..)",
+          "list_en_vn": [
+            {
+              "full_en": "to roast coffee-beans",
+              "full_vn": "rang cà phê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơ; sưởi ấm (lửa, mặt trời..)",
+          "list_en_vn": [
+            {
+              "full_en": "to roast oneself at the fire",
+              "full_vn": "sưởi ấm bên bếp lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nung"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phê bình nghiêm khắc, chỉ trích ai một cách gây gắt"
+        },
+        {
+          "m_full_vn": "chế nhạo, giễu cợt, chế giễu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344711_eafcab6204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344711_6db39b7527_o.png",
+      "id_image": "roast_3005202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699799_59e288145a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699799_629e2286bd_o.png",
+      "id_image": "roast_5158601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699759_9a98bf851e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699759_a0d252c22b_o.png",
+      "id_image": "roast_5181408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344781_b5f09b799c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344781_b310e33540_o.png",
+      "id_image": "roast_532368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699854_9b2e18a280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699854_54c81ae51f_o.png",
+      "id_image": "roast_782265"
+    }
+  ]
+}

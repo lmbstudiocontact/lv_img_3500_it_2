@@ -1,0 +1,110 @@
+{
+  "english": "professional",
+  "phat_am": "[prə'fe∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc nói về một nghề",
+          "list_en_vn": [
+            {
+              "full_en": "professional associations , code of practice , conduct",
+              "full_vn": "các hội nghề nghiệp, các quy tắc hành nghề, tư cách nghề nghiệp"
+            },
+            {
+              "full_en": "professional misconduct",
+              "full_vn": "sự thiếu đạo đức nghề nghiệp"
+            },
+            {
+              "full_en": "a professional man /woman",
+              "full_vn": "một người đàn ông/đàn bà có nghề nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyên nghiệp; nhà nghề",
+          "list_en_vn": [
+            {
+              "full_en": "professional politician",
+              "full_vn": "nhà chính trị chuyên nghiệp"
+            },
+            {
+              "full_en": "you should seek professional advice about your claim for compensation",
+              "full_vn": "anh nên tìm lời khuyên nhủ của người chuyên nghiệp về việc anh đòi bồi thường"
+            },
+            {
+              "full_en": "professional boxer /cook /dressmaker",
+              "full_vn": "võ sĩ quyền anh/đầu bếp/thợ may chuyên nghiệp"
+            },
+            {
+              "full_en": "after he won the amateur championship , he turned professional",
+              "full_vn": "sau khi đoạt chức vô địch nghiệp dư, anh ta đã chuyển sang chuyên nghiệp (bắt đầu kiếm tiền bằng môn thể thao của mình)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hoặc tỏ ra có kỹ năng hoặc phẩm chất của một người trong nghề; có tay nghề",
+          "list_en_vn": [
+            {
+              "full_en": "many of the performers were of professional standard",
+              "full_vn": "nhiều người trong số những người trình diễn đã đạt được trình độ chuyên môn chuẩn mực"
+            },
+            {
+              "full_en": "she is extremely professional in her approach to her job",
+              "full_vn": "cô ta tỏ ra có tay nghề cao trong cách thực hiện công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm đi làm lại một điều chướng tai gai mắt; chuyên",
+          "list_en_vn": [
+            {
+              "full_en": "a professional complainer /gossip",
+              "full_vn": "một kẻ chuyên kêu ca/ngồi lê đôi mách"
+            },
+            {
+              "full_en": "a professional trouble-maker",
+              "full_vn": "một kẻ chuyên gây rối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như pro"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436763_fd85ba4da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436763_fb0614f78a_o.png",
+      "id_image": "professional_1425426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321531_669ee2a0db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321531_80a7b499c9_o.png",
+      "id_image": "professional_1900272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436678_2c6250a148_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436678_81d3bd09e2_o.png",
+      "id_image": "professional_2767735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676514_55304829fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676514_35df329cbe_o.png",
+      "id_image": "professional_3098048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676504_2e8246e8ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676504_784e6e958e_o.png",
+      "id_image": "professional_4832775"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "reflection",
+  "phat_am": "[ri'fek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phản chiếu, sự phản xạ, sự dội lại",
+          "list_en_vn": [
+            {
+              "full_en": "the reflection of light",
+              "full_vn": "sự phản xạ của ánh sáng"
+            },
+            {
+              "full_en": "the reflection of sound",
+              "full_vn": "sự dội lại của âm thanh"
+            },
+            {
+              "full_en": "angle of reflection",
+              "full_vn": "(toán học) góc phản xạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ánh phản chiếu; ánh phản xạ"
+        },
+        {
+          "m_full_vn": "sự suy nghĩ, sự ngẫm nghĩ; ( số nhiều) những ý nghĩ",
+          "list_en_vn": [
+            {
+              "full_en": "lost in reflection",
+              "full_vn": "trầm ngâm suy nghĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phản ánh"
+        },
+        {
+          "m_full_vn": "sự nhận xét, sự phê phán"
+        },
+        {
+          "m_full_vn": "sự chỉ trích, sự chê trách, sự khiển trách",
+          "list_en_vn": [
+            {
+              "full_en": "to cast reflections on someone",
+              "full_vn": "chỉ trích ai, khiển trách ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều làm xấu lây, điều làm mang tiếng, điều làm mất uy tín",
+          "list_en_vn": [
+            {
+              "full_en": "this is a reflection on your honour",
+              "full_vn": "cái đó làm cho anh ta mang tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câu châm ngôn",
+          "list_one_mean": [
+            {
+              "id_full_en": "on reflection",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ kỹ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446653_4689e908bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446653_6321bf24d4_o.png",
+      "id_image": "reflection_1466572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068340_233f8f294e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068340_722e5e402a_o.png",
+      "id_image": "reflection_2210689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068305_952a7b7741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068305_f8a4273d72_o.png",
+      "id_image": "reflection_4542655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376472_2a167347f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376472_cb01e24351_o.png",
+      "id_image": "reflection_473675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331711_7feeabb865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331711_987e102d9f_o.png",
+      "id_image": "reflection_593472"
+    }
+  ]
+}

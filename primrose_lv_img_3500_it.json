@@ -1,0 +1,48 @@
+{
+  "english": "primrose",
+  "phat_am": "['primrouz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây anh thảo; hoa anh thảo"
+        },
+        {
+          "m_full_vn": "màu vàng nhạt, màu hoa anh thảo",
+          "list_one_mean": [
+            {
+              "id_full_en": "the primrose path (way )",
+              "list_im": [
+                {
+                  "im_full_vn": "con đường truy hoan hưởng lạc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the primprose path to ruin",
+                      "full_vn": "con đường hoan lạc dẫn đến phá sản"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu vàng nhạt, có màu hoa anh thảo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680574_6d7aa74878_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680574_8f7f88b399_o.png",
+      "id_image": "primrose_6080656"
+    }
+  ]
+}

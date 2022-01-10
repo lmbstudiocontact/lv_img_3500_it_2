@@ -1,0 +1,72 @@
+{
+  "english": "objective",
+  "phat_am": "[ɔb'dʒektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khách quan",
+          "list_en_vn": [
+            {
+              "full_en": "objective opinion",
+              "full_vn": "ý kiến khách quan"
+            },
+            {
+              "full_en": "objective existence",
+              "full_vn": "sự tồn tại khách quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) mục tiêu",
+          "list_en_vn": [
+            {
+              "full_en": "objective point",
+              "full_vn": "(quân sự) điểm mục tiêu, điểm tiến quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) cách mục tiêu"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mục tiêu, mục đích"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) cách mục đích"
+        },
+        {
+          "m_full_vn": "như object glass"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349781_d139e5667b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349781_159b67ceed_o.png",
+      "id_image": "objective_2620445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464398_4557a1b71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464398_8d3fd789dc_o.png",
+      "id_image": "objective_4371295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464358_7cd0c13140_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464358_5c785b2d5d_o.png",
+      "id_image": "objective_4865954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382031_8f84436d43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382031_3d7c518a17_o.png",
+      "id_image": "objective_5138138"
+    }
+  ]
+}

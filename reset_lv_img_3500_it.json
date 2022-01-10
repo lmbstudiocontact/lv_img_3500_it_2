@@ -1,0 +1,63 @@
+{
+  "english": "reset",
+  "phat_am": "[,ri:'set]",
+  "list_type": [
+    {
+      "type": "ngoại động từ ( reset )",
+      "list_m": [
+        {
+          "m_full_vn": "đặt lại, lắp lại (một bộ phận của máy...) vào vị trí cũ",
+          "list_en_vn": [
+            {
+              "full_en": "to reset a diamond in a ring",
+              "full_vn": "lắp lại viên kim cương vào nhẫn"
+            },
+            {
+              "full_en": "reset type",
+              "full_vn": "trả lại chữ in về ô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vặn, điều chỉnh (chiếc kim trong một thiết bị (đo lường)) vào một vị trí mới",
+          "list_en_vn": [
+            {
+              "full_en": "to reset one's watch to local time",
+              "full_vn": "điều chỉnh lại (lấy lại giờ) đồng hồ của mình theo giờ địa phương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bó lại (xương gãy)",
+          "list_en_vn": [
+            {
+              "full_en": "to reset a broken",
+              "full_vn": "bó lại cái xương gãy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mài lại (một dụng cụ); căng lại (lò xo...)"
+        },
+        {
+          "m_full_vn": "soạn lại (đề thi)"
+        },
+        {
+          "m_full_vn": "oa trữ (đồ ăn trộm)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437128_6af7e72e25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437128_634b9fb41f_o.png",
+      "id_image": "reset_5359842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321901_919f3d587a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321901_fbdfb9ed49_o.png",
+      "id_image": "reset_5650756"
+    }
+  ]
+}

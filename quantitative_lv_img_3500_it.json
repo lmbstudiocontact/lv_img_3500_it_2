@@ -1,0 +1,46 @@
+{
+  "english": "quantitative",
+  "phat_am": "['kwɔntitətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) số lượng",
+          "list_en_vn": [
+            {
+              "full_en": "quantitative change",
+              "full_vn": "biến đổi về lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định lượng",
+          "list_en_vn": [
+            {
+              "full_en": "quantitative analysis",
+              "full_vn": "(hoá học) phân tích định lượng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390147_8195cd4f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390147_9dba3586bb_o.png",
+      "id_image": "quantitative_1465900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082625_c4f15d5025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082625_fd9cf1e391_o.png",
+      "id_image": "quantitative_2503749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459953_25fe950d33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459953_66ae29def8_o.png",
+      "id_image": "quantitative_2620512"
+    }
+  ]
+}

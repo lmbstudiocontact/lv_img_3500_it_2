@@ -1,0 +1,96 @@
+{
+  "english": "profit",
+  "phat_am": "['prɔfit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuận lợi; lợi ích, bổ ích",
+          "list_en_vn": [
+            {
+              "full_en": "to do something to one's profit",
+              "full_vn": "làm gì vì có lợi, làm gì vì thấy bổ ích cho mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi nhuận, lời lãi; tiền lãi, tiền lời",
+          "list_en_vn": [
+            {
+              "full_en": "do something for profit",
+              "full_vn": "làm cái gì vì lợi nhuận"
+            },
+            {
+              "full_en": "to make a good profit on",
+              "full_vn": "kiếm được nhiều lãi trong (việc gì)"
+            },
+            {
+              "full_en": "a profit and loss account",
+              "full_vn": "bản tính toán lỗ lãi"
+            },
+            {
+              "full_en": "sell at a profit",
+              "full_vn": "bán có lãi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm lợi cho, có lợi, thu lợi",
+          "list_en_vn": [
+            {
+              "full_en": "it profited him nothing",
+              "full_vn": "cái đó không có lợi gì cho nó cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi dụng (cái gì)"
+        },
+        {
+          "m_full_vn": "( + from something ) có lời từ, được giúp đỡ bởi cái gì"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + by ) kiếm lời, lợi dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to profit by (from ) something",
+              "full_vn": "lợi dụng cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có lợi, có ích, có điều kiện tốt",
+          "list_en_vn": [
+            {
+              "full_en": "it profits little to advise him",
+              "full_vn": "khuyên răn nó cũng chẳng ích gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436573_b64c456500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436573_77d875b78a_o.png",
+      "id_image": "profit_2112449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676349_86b9017098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676349_b42c7ac3f5_o.png",
+      "id_image": "profit_2615113"
+    }
+  ]
+}

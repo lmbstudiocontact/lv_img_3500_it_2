@@ -1,0 +1,125 @@
+{
+  "english": "prospect",
+  "phat_am": "[prə'spekt]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều prospects",
+      "list_m": [
+        {
+          "m_full_vn": "cái nhìn rộng về một phong cảnh; cảnh; toàn cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a magnificent prospect of mountain peaks and lakes",
+              "full_vn": "toàn cảnh tuyệt đẹp các đỉnh núi và hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình ảnh trong tâm trí hoặc sự tưởng tượng, nhất là về một sự kiện tương lai; viễn cảnh; viễn tượng",
+          "list_en_vn": [
+            {
+              "full_en": "this opened a new prospect to his mind",
+              "full_vn": "cái đó mở ra một viễn tượng mới trong trí nó"
+            },
+            {
+              "full_en": "she viewed the prospect of a week alone in the house without much enthusiasm",
+              "full_vn": "cô ta nghĩ về viễn cảnh sống một tuần một mình ở nhà chẳng phấn khởi tí nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) khả năng thành công; triển vọng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of no prospects",
+              "full_vn": "người không có tiền đồ"
+            },
+            {
+              "full_en": "the job has no prospects",
+              "full_vn": "công việc này không có triển vọng (ít có khả năng thăng tiến)"
+            },
+            {
+              "full_en": "the prospects for this year's wine harvest are poor",
+              "full_vn": "triển vọng thu hoạch vụ nho năm nay là kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( prospect of something / doing something ) hy vọng có lý rằng cái gì sẽ xảy ra; sự mong chờ; triển vọng",
+          "list_en_vn": [
+            {
+              "full_en": "I see little prospect of an improvement in his condition",
+              "full_vn": "tôi thấy có ít triển vọng cải thiện hoàn cảnh của nó"
+            },
+            {
+              "full_en": "there is no prospect of a settlement of the dispute",
+              "full_vn": "không có triển vọng giải quyết được cuộc tranh chấp"
+            },
+            {
+              "full_en": "to have little prospect of succeeding",
+              "full_vn": "có ít hy vọng thành công"
+            },
+            {
+              "full_en": "he's unemployed and has nothing in prospect at the moment",
+              "full_vn": "nó thất nghiệp và lúc này chẳng có hy vọng gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ứng cử viên hoặc người dự thi có khả năng thắng lợi; người có triển vọng",
+          "list_en_vn": [
+            {
+              "full_en": "she's a good prospect for the British team",
+              "full_vn": "cô ta là người có nhiều triển vọng của đội Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người có thể sẽ là khách hàng; khách hàng tương lai"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) nơi hy vọng có quặng; mẫu quặng chưa rõ giá trị"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prospect for something ) tìm kiếm khoáng sản (vàng, dầu lửa...); thăm dò (để tìm quặng...); khai thác thử (mỏ)",
+          "list_en_vn": [
+            {
+              "full_en": "the company is prospecting for gold in that area",
+              "full_vn": "công ty đang thăm dò vàng ở khu vực đó"
+            },
+            {
+              "full_en": "to prospect a region",
+              "full_vn": "thăm dò một vùng (để tìm quặng vàng...)"
+            },
+            {
+              "full_en": "a licence to prospect in the northern territory",
+              "full_vn": "giấy phép thăm dò ở vùng đất phía Bắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350501_918d5d1ee4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350501_97681ed83f_o.png",
+      "id_image": "prospect_2464345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705039_6f89b4e2e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705039_47cc18ed9d_o.png",
+      "id_image": "prospect_2471430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395267_5bcefb7c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395267_555fdc518e_o.png",
+      "id_image": "prospect_4497223"
+    }
+  ]
+}

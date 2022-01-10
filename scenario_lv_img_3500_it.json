@@ -1,0 +1,45 @@
+{
+  "english": "scenario",
+  "phat_am": "[si'nɑ:riou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều scenarios",
+      "list_m": [
+        {
+          "m_full_vn": "kịch bản (phim, kịch)"
+        },
+        {
+          "m_full_vn": "viễn cảnh; viễn tưởng, chuỗi sự kiện tương lai (do tưởng tượng)",
+          "list_en_vn": [
+            {
+              "full_en": "a possible scenario for war",
+              "full_vn": "viễn tượng có thể xảy ra chiến tranh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331836_7ec3d6290b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331836_770dbcc2f2_o.png",
+      "id_image": "scenario_2620539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331806_e7efa55008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331806_894a822b95_o.png",
+      "id_image": "scenario_3063605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446748_57a7cdd016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446748_6b3cb2f884_o.png",
+      "id_image": "scenario_6348279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686729_843818df59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686729_480bc80208_o.png",
+      "id_image": "scenario_6348650"
+    }
+  ]
+}

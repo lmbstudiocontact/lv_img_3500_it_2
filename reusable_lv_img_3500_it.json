@@ -1,0 +1,37 @@
+{
+  "english": "reusable",
+  "phat_am": "[,ri:'ju:zəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể dùng lại được",
+          "list_en_vn": [
+            {
+              "full_en": "reusable envelopes",
+              "full_vn": "những phong bì có thể dùng lại được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703589_33a9d2a292_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703589_969d7318ff_o.png",
+      "id_image": "reusable_2911725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393617_54de361574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393617_4a1610545d_o.png",
+      "id_image": "reusable_2959596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703544_e0550cc0e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703544_bb7d36db72_o.png",
+      "id_image": "reusable_4660972"
+    }
+  ]
+}

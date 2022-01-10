@@ -1,0 +1,58 @@
+{
+  "english": "overtake",
+  "phat_am": "[,ouvə'teik]",
+  "list_type": [
+    {
+      "type": "ngoại động từ overtook ; overtaken",
+      "list_m": [
+        {
+          "m_full_vn": "bắt kịp, vượt"
+        },
+        {
+          "m_full_vn": "xảy đến bất thình lình cho (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vượt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be overtaken in drink",
+              "list_im": [
+                {
+                  "im_full_vn": "say rượu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "never overtake on a curve",
+              "full_vn": "không bao giờ được vượt ở chỗ ngoặc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695189_29a562af10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695189_42b6fec36c_o.png",
+      "id_image": "overtake_2481696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077180_7fc6fc1362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077180_419b53309b_o.png",
+      "id_image": "overtake_4351759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384787_c33a217d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384787_265a66ccf8_o.png",
+      "id_image": "overtake_4796161"
+    }
+  ]
+}

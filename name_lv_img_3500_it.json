@@ -1,0 +1,348 @@
+{
+  "english": "name",
+  "phat_am": "[neim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tên, danh tánh",
+          "list_en_vn": [
+            {
+              "full_en": "maiden name",
+              "full_vn": "tên thời con gái"
+            },
+            {
+              "full_en": "I know him only by name",
+              "full_vn": "tôi chỉ biết tên ông ta"
+            },
+            {
+              "full_en": "under the name of",
+              "full_vn": "mang tên, lấy tên"
+            },
+            {
+              "full_en": "in the name of",
+              "full_vn": "nhân danh; vì, vì quyền lợi của"
+            },
+            {
+              "full_en": "in the name of the law",
+              "full_vn": "nhân danh luật pháp"
+            },
+            {
+              "full_en": "in one's own name",
+              "full_vn": "nhân danh cá nhân; vì mình, vì quyền lợi bản thân"
+            },
+            {
+              "full_en": "to call someone names",
+              "full_vn": "lôi tên ai ra mà chửi rủa hoặc chế nhạo"
+            },
+            {
+              "full_en": "to take somebody's name in vain",
+              "full_vn": "dùng tên ai (nhất là tên của Chúa) một cách bất kính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "danh nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "a king in name",
+              "full_vn": "vua trên danh nghĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng tăm, danh tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "to make a name",
+              "full_vn": "nổi tiếng"
+            },
+            {
+              "full_en": "to have a good name",
+              "full_vn": "có tiếng tốt"
+            },
+            {
+              "full_en": "to have a name for courage",
+              "full_vn": "nổi tiếng là dũng cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "danh nhân",
+          "list_en_vn": [
+            {
+              "full_en": "the great names of history",
+              "full_vn": "những danh nhân trong lịch sử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng họ",
+          "list_one_mean": [
+            {
+              "id_full_en": "give it a name !",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn (uống rượu, được món quà...) gì thì nói ra!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have something to one's name",
+              "list_im": [
+                {
+                  "im_full_vn": "không có một cái gì (dù là một tí mà thôi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a penny to one's name",
+              "list_im": [
+                {
+                  "im_full_vn": "không có một đồng xu dính túi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the last of the Mac Donalds' name",
+              "full_vn": "người cuối cùng của dòng họ Mác-Đô-nan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt tên; gọi tên",
+          "list_en_vn": [
+            {
+              "full_en": "can you name all the flowers in this garden ?",
+              "full_vn": "anh có thể nói tên được tất cả các loại hoa trong vườn này không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định rõ; nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "to name the day",
+              "full_vn": "định rõ ngày; định rõ ngày cưới (người con gái)"
+            },
+            {
+              "full_en": "name a price",
+              "full_vn": "hãy nói giá đi, hãy cho giá đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ định, bổ nhiệm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to name but a few",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ mới kể một số mà thôi (chứ chưa kể hết)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to name after ; to name for (from )",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt theo tên (của người nào)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the town was named after Lenin",
+                      "full_vn": "thành phố được đặt tên là Lê-nin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to be named on (in ) the same day with",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể sánh với, không thể để ngang hàng với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is not to be named on the same day with his brother",
+                      "full_vn": "nó không thể nào sánh với anh nó được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to answer to the name of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "mang tên, có tên là"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sb's middle name",
+              "list_im": [
+                {
+                  "im_full_vn": "là nét đặc trưng của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drag sb's name through the mud",
+              "list_im": [
+                {
+                  "im_full_vn": "bôi nhọ ai, hạ nhục ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's name is mud",
+              "list_im": [
+                {
+                  "im_full_vn": "tên tuổi bị vấy bùn, tiếng tăm bị bôi bác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to enter one's name for sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi tên vào, ghi danh vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a dog a bad name",
+              "list_im": [
+                {
+                  "im_full_vn": "trăm năm bia đá thì mòn, nghìn năm bia miệng vẫn còn trơ trơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a household name",
+              "list_im": [
+                {
+                  "im_full_vn": "từ ngữ cửa miệng (tức trở nên quen thuộc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to name names ; to mention names",
+              "list_im": [
+                {
+                  "im_full_vn": "kể tên ra cho biết, nêu tên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you think someone is irresponsible , please name names",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu anh cho rằng có người vô trách nhiệm thì xin nêu tên ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend one's name to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "gắn bó với, liên kết với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in name only",
+              "list_im": [
+                {
+                  "im_full_vn": "trên danh nghĩa mà thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He is leader in name only : His deputy has effectively taken over",
+                      "full_vn": "Ông ta là người lãnh đạo trên danh nghĩa mà thôi : Người phó của ông ta đã thực sự nắm quyền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's name",
+              "list_im": [
+                {
+                  "im_full_vn": "tự gầy dựng tiếng tăm cho mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the name of the game",
+              "list_im": [
+                {
+                  "im_full_vn": "mục đích trọng yếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a name to conjure with",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng tăm đáng nể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have sth to one's name",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có dù là chút xíu chăng nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take sb's name in vain",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi tên ai ra gọi một cách khiếm nhã"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be named for",
+              "full_vn": "được bổ nhiệm làm (chức vụ gì...)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373842_73d83642c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373842_67004ef369_o.png",
+      "id_image": "name_1655593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065940_cc35096411_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065940_0a274a47ba_o.png",
+      "id_image": "name_1828413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373792_163be229b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373792_7c30a2fe93_o.png",
+      "id_image": "name_4060911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329021_753f531158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329021_b439543242_o.png",
+      "id_image": "name_6135265"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "nursery",
+  "phat_am": "['nə:sri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng dành riêng cho trẻ nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "we've turned the smallest bedroom into a nursery for our new baby",
+              "full_vn": "chúng tôi biến phòng ngủ nhỏ nhất thành phòng dành riêng cho cháu bé mới sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi trẻ em được chăm sóc trong lúc cha mẹ chúng đi làm; nhà trẻ"
+        },
+        {
+          "m_full_vn": "nơi ươm các loại cây non để sau này đem trồng chỗ khác; vườn ươm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi đào tạo, nơi nuôi dưỡng (nghệ sĩ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364277_9331fc9634_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364277_9cdec69b85_o.png",
+      "id_image": "nursery_3650763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364272_61e84181f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364272_a733980c17_o.png",
+      "id_image": "nursery_4172280"
+    }
+  ]
+}

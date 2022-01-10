@@ -1,0 +1,30 @@
+{
+  "english": "outcome",
+  "phat_am": "['autkʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hậu quả; kết quả, tác động"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kết luận lôgic (sau khi suy nghĩ)",
+          "list_en_vn": [
+            {
+              "full_en": "what was the outcome of your meeting ?",
+              "full_vn": "kết quả cuộc họp của các anh như thế nào?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341926_a8ef27f0e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341926_aabc5b54af_o.png",
+      "id_image": "outcome_1547383"
+    }
+  ]
+}

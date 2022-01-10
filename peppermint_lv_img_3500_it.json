@@ -1,0 +1,42 @@
+{
+  "english": "peppermint",
+  "phat_am": "['pepəmint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây bạc hà cay"
+        },
+        {
+          "m_full_vn": "dầu bạc hà cay"
+        },
+        {
+          "m_full_vn": "kẹo bạc hà cay (như) mint",
+          "list_en_vn": [
+            {
+              "full_en": "suck a peppermint",
+              "full_vn": "ngậm kẹo bạc hà cay"
+            },
+            {
+              "full_en": "peppermint creams",
+              "full_vn": "kem bạc hà cay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436698_83eb2cf71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436698_eab72c8995_o.png",
+      "id_image": "peppermint_1087459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676544_8c166272ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676544_33349d7bc1_o.png",
+      "id_image": "peppermint_5304689"
+    }
+  ]
+}

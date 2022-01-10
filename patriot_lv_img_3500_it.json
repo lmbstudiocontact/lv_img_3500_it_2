@@ -1,0 +1,37 @@
+{
+  "english": "patriot",
+  "phat_am": "['pætriət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người yêu nước; nhà ái quốc",
+          "list_en_vn": [
+            {
+              "full_en": "a true patriot",
+              "full_vn": "một nhà yêu nước chân chính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682699_cf041d24fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682699_fcc2037dfa_o.png",
+      "id_image": "patriot_1887207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682674_9d07cba9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682674_5de356b7ea_o.png",
+      "id_image": "patriot_4935016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682619_4cdd21995b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682619_4538452ed8_o.png",
+      "id_image": "patriot_5291820"
+    }
+  ]
+}

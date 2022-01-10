@@ -1,0 +1,67 @@
+{
+  "english": "parachute",
+  "phat_am": "['pærə∫u:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật làm cho người hoặc vật rơi chầm chậm khi thả từ máy bay xuống; cái dù",
+          "list_en_vn": [
+            {
+              "full_en": "to land by parachute",
+              "full_vn": "đổ bộ bằng dù"
+            },
+            {
+              "full_en": "a parachute jump",
+              "full_vn": "một cuộc nhảy dù"
+            },
+            {
+              "full_en": "a parachute drop",
+              "full_vn": "một cuộc thả dù"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho ai/cái gì) rơi từ máy bay xuống bằng dù",
+          "list_en_vn": [
+            {
+              "full_en": "she enjoys parachuting",
+              "full_vn": "cô ta thích nhảy dù"
+            },
+            {
+              "full_en": "we parachuted into enemy territory",
+              "full_vn": "chúng tôi nhảy dù xuống vùng đất của địch"
+            },
+            {
+              "full_en": "supplies were parachuted into the earthquake zone",
+              "full_vn": "hàng tiếp tế được thả dù xuống khu vực động đất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070615_9f51a97e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070615_f1d651ccec_o.png",
+      "id_image": "parachute_1485078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333676_25265dd984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333676_a4b093b162_o.png",
+      "id_image": "parachute_1487559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333661_6413800999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333661_1a017976af_o.png",
+      "id_image": "parachute_4146379"
+    }
+  ]
+}

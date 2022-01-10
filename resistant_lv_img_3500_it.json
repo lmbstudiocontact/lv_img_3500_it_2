@@ -1,0 +1,53 @@
+{
+  "english": "resistant",
+  "phat_am": "[ri'zistənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( resistant to something ) có sức kháng cự; có sức chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "a resistant strain of virus",
+              "full_vn": "giống vi rut có sức đề kháng"
+            },
+            {
+              "full_en": "to be resistant to change",
+              "full_vn": "chịu đựng được thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) chịu được (nhiệt..)",
+          "list_en_vn": [
+            {
+              "full_en": "water-resistant",
+              "full_vn": "chịu nước"
+            },
+            {
+              "full_en": "heat-resistant",
+              "full_vn": "chịu nhiệt"
+            },
+            {
+              "full_en": "rust-resistant",
+              "full_vn": "không gỉ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351756_9bdcc83957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351756_d08f0ae4ab_o.png",
+      "id_image": "resistant_4176816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396357_0ff2099d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396357_fc0eb62cab_o.png",
+      "id_image": "resistant_5830766"
+    }
+  ]
+}

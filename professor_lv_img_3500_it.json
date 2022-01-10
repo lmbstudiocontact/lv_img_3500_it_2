@@ -1,0 +1,46 @@
+{
+  "english": "professor",
+  "phat_am": "[prə'fesə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giáo sư (đại học)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) giảng viên (đại học, cao đẳng)"
+        },
+        {
+          "m_full_vn": "(đùa cợt) giáo sư",
+          "list_en_vn": [
+            {
+              "full_en": "the famous phrenologist",
+              "full_vn": "nhà não tướng học trứ danh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) giáo đồ, tín đồ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321366_93302894b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321366_d21f1765ba_o.png",
+      "id_image": "professor_4061233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436623_e9d555aa18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436623_4ac565417c_o.png",
+      "id_image": "professor_4135781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366272_48a2bef2c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366272_9ed6e89722_o.png",
+      "id_image": "professor_6032237"
+    }
+  ]
+}

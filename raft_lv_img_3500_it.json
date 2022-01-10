@@ -1,0 +1,72 @@
+{
+  "english": "raft",
+  "phat_am": "[rɑ:ft]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hàng đống; số lớn, số lượng lớn"
+        },
+        {
+          "m_full_vn": "đám đông"
+        },
+        {
+          "m_full_vn": "(từ lóng) tình trạng có nhiều vợ"
+        },
+        {
+          "m_full_vn": "cái bè, cái mảng (bằng gỗ, nứa.. thay thế cho thuyền bè); bè gỗ"
+        },
+        {
+          "m_full_vn": "đám gỗ củi trôi trên sông; đám băng trôi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thả bè (gỗ, nứa...)",
+          "list_en_vn": [
+            {
+              "full_en": "to raft timber",
+              "full_vn": "thả bè gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chở (người, hàng hoá) trên bè, trên mảng"
+        },
+        {
+          "m_full_vn": "sang (sông) bằng bè, bằng mảng"
+        },
+        {
+          "m_full_vn": "kết thành bè (mảng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi bè, đi mảng"
+        },
+        {
+          "m_full_vn": "lái bè; lái mảng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696024_4a18ffa67b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696024_02098bcdb6_o.png",
+      "id_image": "raft_1403939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385717_43bb185d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385717_c365263845_o.png",
+      "id_image": "raft_440138"
+    }
+  ]
+}

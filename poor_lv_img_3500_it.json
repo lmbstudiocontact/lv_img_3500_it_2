@@ -1,0 +1,125 @@
+{
+  "english": "poor",
+  "phat_am": "[pɔ:(r)]",
+  "list_type": [
+    {
+      "type": "tính từ so sánh",
+      "list_m": [
+        {
+          "m_full_vn": "nghèo, túng, bần cùng",
+          "list_en_vn": [
+            {
+              "full_en": "a poor family",
+              "full_vn": "một gia đình nghèo"
+            },
+            {
+              "full_en": "the poorer countries of the world",
+              "full_vn": "những nước nghèo trên thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) ít có, nghèo",
+          "list_en_vn": [
+            {
+              "full_en": "soil poor in nutrients",
+              "full_vn": "đất nghèo màu mỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xấu, kém; phẩm chất kém, không đầy đủ (thức ăn..); kém hơn, không đáng kể; tồi",
+          "list_en_vn": [
+            {
+              "full_en": "poor soil",
+              "full_vn": "đất xấu"
+            },
+            {
+              "full_en": "to be poor at mathematics",
+              "full_vn": "kém toán"
+            },
+            {
+              "full_en": "poor light",
+              "full_vn": "không đủ ánh sáng"
+            },
+            {
+              "full_en": "a poor diet",
+              "full_vn": "một chế độ ăn kém dinh dưỡng"
+            },
+            {
+              "full_en": "a poor sailor",
+              "full_vn": "một thủy thủ tồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng thương, tội nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "the poor little puppy had been abandoned",
+              "full_vn": "con chó con tội nghiệp đã bị bỏ rơi"
+            },
+            {
+              "full_en": "poor chap , his wife has just died",
+              "full_vn": "tội nghiệp lão ấy, vợ lão vừa mới qua đời"
+            },
+            {
+              "full_en": "'I've been feeling ill for two weeks' - 'Poor you !'",
+              "full_vn": "'Tôi bị mệt suốt hai tuần nay' - 'Tội nghiệp anh thật! '"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng khinh bỉ; nhún nhường, khiêm tốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "the poor man's somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "hạng nhì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a poor relation",
+              "list_im": [
+                {
+                  "im_full_vn": "người, vật ít quyền lực, uy tín, ít được kính nể"
+                },
+                {
+                  "im_full_vn": "( the poor ) người nghèo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "grind the faces of the poor",
+              "list_im": [
+                {
+                  "im_full_vn": "như grind"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in my poor opinion",
+              "full_vn": "theo thiển ý của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450813_a985b5bc2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450813_e62868f555_o.png",
+      "id_image": "poor_3053775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335816_41589fd325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335816_e2ea579a89_o.png",
+      "id_image": "poor_6349625"
+    }
+  ]
+}

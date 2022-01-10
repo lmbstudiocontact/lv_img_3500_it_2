@@ -1,0 +1,64 @@
+{
+  "english": "rotten",
+  "phat_am": "['rɔtn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mục nát; thối rữa; đã hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "rotten eggs",
+              "full_vn": "trứng thối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồi bại; sa đoạ; suy sụp về đạo đức",
+          "list_en_vn": [
+            {
+              "full_en": "rotten ideas",
+              "full_vn": "những ý nghĩ (tư tưởng) đồi bại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) rất tồi; rất khó chịu; rất đáng ghét; vô giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "rotten weather",
+              "full_vn": "thời tiết khó chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mắc bệnh sán gan",
+          "list_en_vn": [
+            {
+              "full_en": "a rotten sheep",
+              "full_vn": "con cừu mắc bệnh sán gan"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078905_ee1f1d151b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078905_f2e42d3d24_o.png",
+      "id_image": "rotten_4172831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386512_3c8143c99f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386512_1ca6227528_o.png",
+      "id_image": "rotten_5256354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386487_81d6115958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386487_34c7076fd6_o.png",
+      "id_image": "rotten_5671101"
+    }
+  ]
+}

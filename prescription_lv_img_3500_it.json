@@ -1,0 +1,46 @@
+{
+  "english": "prescription",
+  "phat_am": "[pris'krip∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mệnh lệnh, sắc lệnh, điều quy định, luật; sự quy định, sự ra lệnh, sự bắt buộc"
+        },
+        {
+          "m_full_vn": "(y học) đơn thuốc, toa; thuốc được kê (trong đơn); việc cho đơn",
+          "list_en_vn": [
+            {
+              "full_en": "prescription charges",
+              "full_vn": "(thuộc ngữ) tiền thuốc (ở nước Anh, tiền do bệnh nhân phải trả về thuốc do bộ y tế cấp)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) thời hiệu (thời hạn mà pháp luật quy định là sau thời hạn ấy, một người sẽ được hưởng một quyền/tài sản hoặc khỏi phải thực hiện một nghĩa vụ, khỏi phải trả một món nợ)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phong tục tập quán lâu đời được viện ra (để biện minh cho cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443478_e890dd9f8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443478_d922c372dc_o.png",
+      "id_image": "prescription_3595957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065270_be8f934434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065270_49ecc9efa6_o.png",
+      "id_image": "prescription_4435570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443423_c115ed2d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443423_7661760fd9_o.png",
+      "id_image": "prescription_5570871"
+    }
+  ]
+}

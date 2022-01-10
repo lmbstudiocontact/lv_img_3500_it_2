@@ -1,0 +1,36 @@
+{
+  "english": "rename",
+  "phat_am": "[ri:'neim]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt tên mới, đổi tên, thay tên (người, đường phố...)",
+          "list_en_vn": [
+            {
+              "full_en": "rename a street",
+              "full_vn": "đặt tên mới cho một đường phố"
+            },
+            {
+              "full_en": "the ship was renamed ('Nimrod' )",
+              "full_vn": "con tàu được đặt tên lại (là 'Nimrod')"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062045_8ffb7876ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062045_76eef988e3_o.png",
+      "id_image": "rename_5115551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325196_40f4d4c977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325196_9578812acb_o.png",
+      "id_image": "rename_5200029"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "mother",
+  "phat_am": "['mʌðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẹ (của một đứa trẻ hoặc một con vật)",
+          "list_en_vn": [
+            {
+              "full_en": "how are you , Mother ?",
+              "full_vn": "mẹ có khoẻ không"
+            },
+            {
+              "full_en": "look how the mother chimpanzee cares for her young",
+              "full_vn": "hãy nhìn xem con tinh tinh mẹ chăm sóc con nó như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(cách gọi) người phụ nữ đứng đầu một cộng đồng của đạo Thiên chúa; Mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "pray for me , Mother",
+              "full_vn": "xin Mẹ cầu nguyện cho con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(cách gọi một người đàn bà có tuổi); mẹ"
+        },
+        {
+          "m_full_vn": "nguồn gốc, nguyên nhân",
+          "list_one_mean": [
+            {
+              "id_full_en": "necessity is the mother of invention",
+              "list_im": [
+                {
+                  "im_full_vn": "xem necessity"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chăm sóc ( ai/cái gì) như một người mẹ; nuôi dạy",
+          "list_en_vn": [
+            {
+              "full_en": "piglets mothered by a sow",
+              "full_vn": "lũ lợn con được lợn nái nuôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối xử tốt/chu đáo với ai",
+          "list_en_vn": [
+            {
+              "full_en": "he likes being mothered by his landlady",
+              "full_vn": "anh ấy thích được bà chủ nhà trọ chăm sóc chu đáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây, tạo, gây ra, gây nên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450493_aae6f0b1d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450493_cf1cf1be79_o.png",
+      "id_image": "mother_325663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335491_ce5a56fb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335491_c87cb1c4a9_o.png",
+      "id_image": "mother_819074"
+    }
+  ]
+}

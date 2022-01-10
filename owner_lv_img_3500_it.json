@@ -1,0 +1,60 @@
+{
+  "english": "owner",
+  "phat_am": "['ounə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sở hữu cái gì; chủ nhân",
+          "list_one_mean": [
+            {
+              "id_full_en": "the owner",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thuyền trưởng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "owner of a black Mercedes",
+              "full_vn": "chủ nhân của chiếc Mercedes màu đen"
+            },
+            {
+              "full_en": "the dog's owner",
+              "full_vn": "người chủ của con chó"
+            },
+            {
+              "full_en": "who's the owner of this house ?",
+              "full_vn": "ai là chủ nhà này?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694549_cf359f739a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694549_15d7f92143_o.png",
+      "id_image": "owner_2329814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454303_c688838772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454303_92a6db6741_o.png",
+      "id_image": "owner_2577512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454273_52a082d82e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454273_eba712039b_o.png",
+      "id_image": "owner_2621036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076595_f2cf6262b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076595_6e6e5f1c25_o.png",
+      "id_image": "owner_646641"
+    }
+  ]
+}

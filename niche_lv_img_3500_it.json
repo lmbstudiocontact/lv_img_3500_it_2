@@ -1,0 +1,53 @@
+{
+  "english": "niche",
+  "phat_am": "[nit∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kiến trúc) hốc tường (thường) để đặt tượng..."
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chỗ thích hợp",
+          "list_one_mean": [
+            {
+              "id_full_en": "niche in the temple of fame",
+              "list_im": [
+                {
+                  "im_full_vn": "quyền được người ta tưởng nhớ đến công lao"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt (tượng) vào hốc tường",
+          "list_en_vn": [
+            {
+              "full_en": "to niche oneself",
+              "full_vn": "nép; náu; ngồi gọn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322861_b3052225c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322861_ef4056af0d_o.png",
+      "id_image": "niche_2457976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059560_ab85ea9ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059560_a8ebdbf869_o.png",
+      "id_image": "niche_5965893"
+    }
+  ]
+}

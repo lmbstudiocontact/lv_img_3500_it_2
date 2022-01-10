@@ -1,0 +1,313 @@
+{
+  "english": "more",
+  "phat_am": "[mɔ:]",
+  "list_type": [
+    {
+      "type": "tính từ ( cấp so sánh của many & much )",
+      "list_m": [
+        {
+          "m_full_vn": "nhiều hơn, lớn hơn, thêm",
+          "list_en_vn": [
+            {
+              "full_en": "more cars /money /imagination",
+              "full_vn": "nhiều xe hơi/tiền/trí tưởng tượng hơn"
+            },
+            {
+              "full_en": "more accuracy than originality",
+              "full_vn": "nhiều tính chính xác hơn là tính sáng tạo"
+            },
+            {
+              "full_en": "would you like some more coffee ?",
+              "full_vn": "anh dùng thêm chút cà phê nữa không?"
+            },
+            {
+              "full_en": "to need more time",
+              "full_vn": "cần có thêm thì giờ"
+            },
+            {
+              "full_en": "one more day",
+              "full_vn": "thêm một ngày nữa"
+            },
+            {
+              "full_en": "there are two more students here than yesterday",
+              "full_vn": "ở đây có nhiều hơn hôm qua hai sinh viên"
+            },
+            {
+              "full_en": "there are more people than usual",
+              "full_vn": "có nhiều người hơn thường lệ"
+            },
+            {
+              "full_en": "I know many more people who'd like to come",
+              "full_vn": "tôi biết là còn nhiều người nữa cũng muốn đến"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ (dùng để tạo nên thể so sánh của tính từ và phó từ có hai hay nhiều âm tiết)",
+      "list_m": [
+        {
+          "m_full_vn": "hơn, nhiều hơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "and what is more",
+              "list_im": [
+                {
+                  "im_full_vn": "thêm nữa, hơn nữa; quan trọng hơn, quan trọng hơn nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they're going to get married , and what's more , they are setting up in business together",
+                      "full_vn": "họ sắp cưới nhau, và quan trọng hơn nữa, họ đang cùng nhau gây dựng cơ sở kinh doanh"
+                    },
+                    {
+                      "full_en": "he's dirty , and what's more , he smells",
+                      "full_vn": "hắn ta dơ bẩn, thêm nữa lại có mùi hôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "more and more",
+              "list_im": [
+                {
+                  "im_full_vn": "càng ngày càng...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he speaks more and more openly about his problem",
+                      "full_vn": "càng ngày anh ta càng nói công khai hơn về vấn đề của mình"
+                    },
+                    {
+                      "full_en": "the story gets more and more exciting",
+                      "full_vn": "câu chuyện ngày càng hấp dẫn hơn"
+                    },
+                    {
+                      "full_en": "I become more and more irritated by his selfish behaviour",
+                      "full_vn": "càng ngày tôi càng bực bội vì cái cách xử sự ích kỷ của hắn"
+                    },
+                    {
+                      "full_en": "she spends more and more time alone in her room",
+                      "full_vn": "càng ngày cô ta càng dành nhiều thì giờ ở một mình trong phòng"
+                    },
+                    {
+                      "full_en": "he seems to want more and more to eat",
+                      "full_vn": "dường như càng ngày hắn càng muốn ăn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be no more",
+              "list_im": [
+                {
+                  "im_full_vn": "đã thành người thiên cổ; đã chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no more",
+              "list_im": [
+                {
+                  "im_full_vn": "cũng không; không hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he couldn't lift the table and no more could I",
+                      "full_vn": "ông ta chẳng nhấc nổi cái bàn, còn tôi cũng không hơn gì"
+                    },
+                    {
+                      "full_en": "you're no more capable of speaking Chinese than I am",
+                      "full_vn": "anh không có khả năng nói tiếng Trung Quốc hơn tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the more the merrier",
+              "list_im": [
+                {
+                  "im_full_vn": "càng đông càng vui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "more or less",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu như; không ít thì nhiều"
+                },
+                {
+                  "im_full_vn": "vào khoảng, khoảng chừng, ước độ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've more or less finished reading the book",
+                      "full_vn": "tôi hầu như đã đọc xong cuốn sách"
+                    },
+                    {
+                      "full_en": "one hundred more or less",
+                      "full_vn": "khoảng chừng một trăm, trên dưới một trăm"
+                    },
+                    {
+                      "full_en": "it took more or less a whole day to paint the ceiling",
+                      "full_vn": "sơn cái trần nhà mất khoảng một ngày tròn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the more ... the more",
+              "list_im": [
+                {
+                  "im_full_vn": "càng... càng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the more I know him , the more I like him",
+                      "full_vn": "càng biết nó tôi càng mến nó"
+                    },
+                    {
+                      "full_en": "the more she thought about it , the more depressed she became",
+                      "full_vn": "càng nghĩ đến chuyện đó, cô ta càng cảm thấy tuyệt vọng"
+                    },
+                    {
+                      "full_en": "the more beautiful the hat , the more expensive it usually is",
+                      "full_vn": "cái mũ càng đẹp thì thường là càng đắt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "more than ever",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ever"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once more",
+              "list_im": [
+                {
+                  "im_full_vn": "lại một lần nữa, thêm một lần nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I should like to go and see him once more",
+                      "full_vn": "tôi muốn đến thăm anh ta một lần nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "more than happy , glad , willing (to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "rất sung sướng, vui mừng (làm điều gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "more expensive /intelligent /generous",
+              "full_vn": "đắt tiền/thông minh/độ lượng hơn"
+            },
+            {
+              "full_en": "more quickly /slowly /courageously",
+              "full_vn": "nhanh hơn/chậm hơn/can đảm hơn"
+            },
+            {
+              "full_en": "to be more frightened than hurt",
+              "full_vn": "sợ nhiều hơn là đau"
+            },
+            {
+              "full_en": "to be more sinned against than sinning",
+              "full_vn": "đáng thương hơn là đáng trách"
+            },
+            {
+              "full_en": "she read the letter more carefully the second time",
+              "full_vn": "lần thứ hai cô ta đọc thư kỹ hơn"
+            },
+            {
+              "full_en": "I like her more than her husband",
+              "full_vn": "tôi ưa cô ấy hơn chồng cô ấy"
+            },
+            {
+              "full_en": "try and concentrate more on your work",
+              "full_vn": "hãy cố gắng tập trung vào công việc của anh hơn"
+            },
+            {
+              "full_en": "this costs more than that",
+              "full_vn": "cái này đắt giá hơn cái kia"
+            },
+            {
+              "full_en": "it had more the appearance of a deliberate crime than an accident",
+              "full_vn": "việc ấy có vẻ cố ý gây tội ác hơn là một tai nạn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "thêm nữa",
+          "list_en_vn": [
+            {
+              "full_en": "thank you , I couldn't possibly eat any more",
+              "full_vn": "cám ơn, tôi không thể ăn thêm chút nào nữa"
+            },
+            {
+              "full_en": "I can't wait any more",
+              "full_vn": "tôi không đợi được nữa"
+            },
+            {
+              "full_en": "what more can I say ?",
+              "full_vn": "tôi còn có thể nói thêm gì nữa?"
+            },
+            {
+              "full_en": "we need a few more",
+              "full_vn": "chúng tôi cần thêm một chút nữa"
+            },
+            {
+              "full_en": "I'll take three more",
+              "full_vn": "tôi sẽ lấy thêm ba cái nữa"
+            },
+            {
+              "full_en": "I hope we'll see more of you",
+              "full_vn": "tôi hy vọng sẽ được gặp anh nhiều hơn"
+            },
+            {
+              "full_en": "it's no more than a mile to the shops",
+              "full_vn": "không quá một dặm nữa thì đến các cửa hiệu"
+            },
+            {
+              "full_en": "no more than one hundred",
+              "full_vn": "không quá một trăm, chỉ một trăm thôi, đúng một trăm"
+            },
+            {
+              "full_en": "room for no more than three cars",
+              "full_vn": "chỗ đủ cho ba xe hơi đậu mà thôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451318_ab815318a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451318_f0f815ee0e_o.png",
+      "id_image": "more_324867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451288_0268033be3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451288_96d538ddcf_o.png",
+      "id_image": "more_455902"
+    }
+  ]
+}

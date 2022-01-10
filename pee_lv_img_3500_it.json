@@ -1,0 +1,40 @@
+{
+  "english": "pee",
+  "phat_am": "[pi:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự đi tiểu, sự đi giải; nước tiểu",
+          "list_en_vn": [
+            {
+              "full_en": "to go for /have a quick pee",
+              "full_vn": "đi tiểu vội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) đi giải, đi tiểu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368622_da4dc1a14b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368622_4d95d1e305_o.png",
+      "id_image": "pee_5906191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368582_2290170d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368582_e68d45647e_o.png",
+      "id_image": "pee_6314517"
+    }
+  ]
+}

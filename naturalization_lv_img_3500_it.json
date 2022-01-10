@@ -1,0 +1,35 @@
+{
+  "english": "naturalization",
+  "phat_am": "[,næt∫rəlai'zei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhập quốc tịch; sự nhập tịch (ngôn ngữ)",
+          "list_en_vn": [
+            {
+              "full_en": "Naturalization papers",
+              "full_vn": "Hồsơ nhập tịch (chứng thực một người đã được làm công dân của một nước)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự làm cho hợp với thuỷ thổ (cây, vật)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442658_f9cc2438be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442658_dac722187f_o.png",
+      "id_image": "naturalization_4697312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442618_5976a08975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442618_88de69a736_o.png",
+      "id_image": "naturalization_4819379"
+    }
+  ]
+}

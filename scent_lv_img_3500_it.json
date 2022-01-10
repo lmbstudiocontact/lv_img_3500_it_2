@@ -1,0 +1,124 @@
+{
+  "english": "scent",
+  "phat_am": "[sent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mùi, mùi thơm, hương thơm",
+          "list_en_vn": [
+            {
+              "full_en": "the scent of straw",
+              "full_vn": "mùi thơm của rơm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dầu thơm, nước hoa"
+        },
+        {
+          "m_full_vn": "mùi hơi (của thú vật)",
+          "list_en_vn": [
+            {
+              "full_en": "to get on the scent",
+              "full_vn": "đánh hơi"
+            },
+            {
+              "full_en": "to follow up the scent",
+              "full_vn": "theo hơi; (nghĩa bóng) bám riết"
+            },
+            {
+              "full_en": "to lose the scent",
+              "full_vn": "mất dấu"
+            },
+            {
+              "full_en": "on the scent",
+              "full_vn": "(nghĩa bóng) có đầu mối"
+            },
+            {
+              "full_en": "to put off the scent",
+              "full_vn": "làm mất dấu, đánh lạc hướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thính hơi, tài đánh hơi, khả năng phát hiện; tính nhạy cảm",
+          "list_en_vn": [
+            {
+              "full_en": "to have a wonderful scent for young talents",
+              "full_vn": "có biệt tài phát hiện những tài hoa non trẻ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh hơi, phát hiện",
+          "list_en_vn": [
+            {
+              "full_en": "to scent a treachery",
+              "full_vn": "phát hiện một sự phản bội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toả mùi thơm, toả hương"
+        },
+        {
+          "m_full_vn": "ngửi, hít hít",
+          "list_en_vn": [
+            {
+              "full_en": "the dog lifted its head and scented the ain",
+              "full_vn": "con chó ngửng đầu và hít hít không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ướp, thấm, xức (nước hoa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to scent out",
+              "list_im": [
+                {
+                  "im_full_vn": "biết, đánh hơi biết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to scent one's handkerchief",
+              "full_vn": "xức nước hoa vào khăn tay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446323_0ea916d69c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446323_74cbce30a6_o.png",
+      "id_image": "scent_1202552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068025_602e8cfd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068025_1425f76bcc_o.png",
+      "id_image": "scent_1858210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068005_f0e409f6da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068005_37dd0b779d_o.png",
+      "id_image": "scent_2928251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376092_b540c1ff3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376092_ff49a93fda_o.png",
+      "id_image": "scent_655886"
+    }
+  ]
+}

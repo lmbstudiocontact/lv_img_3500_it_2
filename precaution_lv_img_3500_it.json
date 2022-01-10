@@ -1,0 +1,45 @@
+{
+  "english": "precaution",
+  "phat_am": "[pri'kɔ:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phòng ngừa; sự đề phòng; sự lo trước",
+          "list_en_vn": [
+            {
+              "full_en": "to take an umbrella just as a precaution",
+              "full_vn": "cầm ô theo để phòng xa"
+            },
+            {
+              "full_en": "I took the precaution of locking everything in the safe",
+              "full_vn": "tôi cho tất cả vào két khoá lại để phòng xa"
+            },
+            {
+              "full_en": "fire precautions ; precautions against fire",
+              "full_vn": "sự đề phòng hoả hoạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067095_4d3a2d1fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067095_6581b10650_o.png",
+      "id_image": "precaution_6237665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330186_fe63120710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330186_cb9ee1ece3_o.png",
+      "id_image": "precaution_6237683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445143_8920d542e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445143_5c409da6da_o.png",
+      "id_image": "precaution_6237704"
+    }
+  ]
+}

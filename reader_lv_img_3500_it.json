@@ -1,0 +1,53 @@
+{
+  "english": "reader",
+  "phat_am": "['ri:də]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đọc, độc giả"
+        },
+        {
+          "m_full_vn": "người mê đọc sách",
+          "list_en_vn": [
+            {
+              "full_en": "to be a great reader",
+              "full_vn": "rất mê đọc sách; đọc sách rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phó giáo sư (trường đại học)"
+        },
+        {
+          "m_full_vn": "(ngành in) như proof-reader"
+        },
+        {
+          "m_full_vn": "(tôn giáo) như lay reader"
+        },
+        {
+          "m_full_vn": "như publisher's reader"
+        },
+        {
+          "m_full_vn": "tập văn tuyển"
+        },
+        {
+          "m_full_vn": "(từ lóng) sổ tay"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451773_ced84f860a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451773_2a041db382_o.png",
+      "id_image": "reader_1476624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692219_9dfa85452e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692219_884dc58a90_o.png",
+      "id_image": "reader_4021945"
+    }
+  ]
+}

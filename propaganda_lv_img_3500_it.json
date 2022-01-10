@@ -1,0 +1,52 @@
+{
+  "english": "propaganda",
+  "phat_am": "[,prɔpə'gændə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tuyên truyền",
+          "list_en_vn": [
+            {
+              "full_en": "There has been so much propaganda against smoking that many chain-smokers have given it up",
+              "full_vn": "Người ta kiên trì tuyên truyền chống hút thuốc đến nỗi không ít dân ghiền nặng đã bỏ hút"
+            },
+            {
+              "full_en": "The play was sheer political propaganda",
+              "full_vn": "Vở kịch toàn là tuyên truyền chính trị thôi"
+            },
+            {
+              "full_en": "Propaganda films , plays , posters",
+              "full_vn": "Phim, kịch, áp phích tuyên truyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ quan tuyên truyền; tổ chức tuyên truyền",
+          "list_en_vn": [
+            {
+              "full_en": "to set up a propaganda for ...",
+              "full_vn": "lập nên cơ quan tuyên truyền cho..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) ( the propaganda ) giáo đoàn truyền giáo (như) the Congregation of the Propaganda"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395672_e80422ffb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395672_3fed4acb81_o.png",
+      "id_image": "propaganda_1610500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705489_4293f50784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705489_2fd8393b63_o.png",
+      "id_image": "propaganda_4410276"
+    }
+  ]
+}

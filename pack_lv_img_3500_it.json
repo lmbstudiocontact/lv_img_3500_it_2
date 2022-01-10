@@ -1,0 +1,261 @@
+{
+  "english": "pack",
+  "phat_am": "[pæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bó, gói"
+        },
+        {
+          "m_full_vn": "túi đeo, ba lô"
+        },
+        {
+          "m_full_vn": "hộp"
+        },
+        {
+          "m_full_vn": "đàn, bầy (chó săn, chó sói...), đội",
+          "list_en_vn": [
+            {
+              "full_en": "pack of wolves",
+              "full_vn": "bầy chó sói"
+            },
+            {
+              "full_en": "pack of grouse",
+              "full_vn": "đàn gà gô trắng"
+            },
+            {
+              "full_en": "pack of U-boats",
+              "full_vn": "một đội tàu ngầm Đức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lũ, loạt, lô; nhiều người, vật",
+          "list_en_vn": [
+            {
+              "full_en": "a pack of fools",
+              "full_vn": "một lũ ngốc"
+            },
+            {
+              "full_en": "a pack of lies",
+              "full_vn": "một loạt những lời nói dối"
+            },
+            {
+              "full_en": "a pack of troubles",
+              "full_vn": "một lô rắc rối phiền hà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ, cỗ (bài)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) kiện (hàng); khối lượng hàng (cá, hoa quả...) đóng gói trong một vụ; phương pháp đóng gói hàng"
+        },
+        {
+          "m_full_vn": "hàng tiền đạo (trong môn bóng bầu dục)"
+        },
+        {
+          "m_full_vn": "đám băng nổi (như) pack ice"
+        },
+        {
+          "m_full_vn": "(y học) khăn ướt để đắp, mền ướt để cuốn (người); sự đắp khăn ướt, sự cuốn mền ướt (vào người)"
+        },
+        {
+          "m_full_vn": "lượt đắp (kem đắp vào mặt cho mịn da...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gói, bọc lại, buộc lại; đóng gói, đóng hộp, đóng kiện"
+        },
+        {
+          "m_full_vn": "tập hợp lại thành bầy (chó); sắp thành bộ, sắp thành cỗ (bài)"
+        },
+        {
+          "m_full_vn": "xếp chặt (vào hòm, hộp); ních người (vào phòng, xe)",
+          "list_en_vn": [
+            {
+              "full_en": "to pack a bag with old clothes",
+              "full_vn": "thu xếp quần áo cũ vào túi"
+            },
+            {
+              "full_en": "the car was packed with passengers",
+              "full_vn": "xe chật ních hành khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhét, hàn, gắn (khe hở)"
+        },
+        {
+          "m_full_vn": "(y học) đắp khăn ướt lên, cuốn mền ướt vào (người)"
+        },
+        {
+          "m_full_vn": "xếp người phe mình (vào hội đồng giám khảo...) để chiếm đa số khi quyết định"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao), (từ lóng) nện, giáng",
+          "list_en_vn": [
+            {
+              "full_en": "to pack a punch",
+              "full_vn": "nện một quả đấm (quyền Anh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thồ hàng lên (ngựa, súc vật...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "pack one's bags",
+              "list_im": [
+                {
+                  "im_full_vn": "thu xếp, khăn gói (chuẩn bị để đi)"
+                },
+                {
+                  "im_full_vn": "có tác dụng rất mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pack something away",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng gói cất đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pack somebody off (to ..)",
+              "list_im": [
+                {
+                  "im_full_vn": "tống khứ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pack something out",
+              "list_im": [
+                {
+                  "im_full_vn": "làm chật ních"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pack up",
+              "list_im": [
+                {
+                  "im_full_vn": "ngừng làm cái gì, từ bỏ cái gì"
+                },
+                {
+                  "im_full_vn": "hỏng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pack (something ) up",
+              "list_im": [
+                {
+                  "im_full_vn": "thu dọn đồ đạc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up ) sắp xếp hành lý"
+        },
+        {
+          "m_full_vn": "đóng gói, đóng kiện",
+          "list_en_vn": [
+            {
+              "full_en": "dry food packs easity",
+              "full_vn": "thực phẩm khô để đóng gói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tụ tập thành bầy, tụ tập thành đàn"
+        },
+        {
+          "m_full_vn": "khăn gói ra đi, cuốn gói",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pack off",
+              "list_im": [
+                {
+                  "im_full_vn": "tống tiền (ai), cho (ai) đi xa, tống cổ (ai) đi"
+                },
+                {
+                  "im_full_vn": "khăn gói ra đi, cuốn gói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pack it in",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) làm xong, hoàn thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pack it up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) thôi ngừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pack up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) không cháy, không nổ (máy...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to send somebody packing",
+              "full_vn": "đuổi ai đi, tống cổ ai đi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693849_6dd58cf9c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693849_985719d179_o.png",
+      "id_image": "pack_2421559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693814_c3795843be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693814_c1ce30783d_o.png",
+      "id_image": "pack_2435613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383522_9c5b0a6364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383522_e5ac265baa_o.png",
+      "id_image": "pack_4329019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383642_ef30086046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383642_82a436c4d7_o.png",
+      "id_image": "pack_618097"
+    }
+  ]
+}

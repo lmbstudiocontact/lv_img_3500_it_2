@@ -1,0 +1,80 @@
+{
+  "english": "relay",
+  "phat_am": "[ri'lei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kíp ngựa (tốp ngựa thay cho tốp trước đã mệt)"
+        },
+        {
+          "m_full_vn": "ca, kíp (thợ)",
+          "list_en_vn": [
+            {
+              "full_en": "to work in (by ) relays",
+              "full_vn": "làm việc theo ca kíp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng đồ vật để thay thế"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc chạy đua tiếp sức"
+        },
+        {
+          "m_full_vn": "(điện học) rơ-le",
+          "list_en_vn": [
+            {
+              "full_en": "frequency relay",
+              "full_vn": "rơ-le tần số"
+            },
+            {
+              "full_en": "electromagnetic type relay",
+              "full_vn": "rơ-le điện từ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) chương trình tiếp âm"
+        },
+        {
+          "m_full_vn": "( định ngữ) tiếp âm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm theo kíp; sắp đặt theo kíp"
+        },
+        {
+          "m_full_vn": "(rađiô) tiếp âm",
+          "list_en_vn": [
+            {
+              "full_en": "relay a broadcast",
+              "full_vn": "tiếp âm một buổi truyền thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) đặt rơ-le"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327321_09dcce797c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327321_0d19569c7d_o.png",
+      "id_image": "relay_5200827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682434_dda61698ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682434_f515d8dc8b_o.png",
+      "id_image": "relay_5542150"
+    }
+  ]
+}

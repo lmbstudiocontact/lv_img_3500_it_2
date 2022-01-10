@@ -1,0 +1,85 @@
+{
+  "english": "multiply",
+  "phat_am": "['mʌltiplai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to multiply A by B ; to multiply A and B together ) (toán học) cộng một số với chính số đó theo một số lần nhất định; nhân",
+          "list_en_vn": [
+            {
+              "full_en": "children learning to multiply and divide",
+              "full_vn": "trẻ em học nhân và chia"
+            },
+            {
+              "full_en": "2 and 5 multiply to make 10",
+              "full_vn": "2 nhân 3 thành 6"
+            },
+            {
+              "full_en": "2 multiplied by 5 makes 10",
+              "full_vn": "2 nhân 3 thành 6"
+            },
+            {
+              "full_en": "one can make 10 by multiplying 2 and 5 (together )",
+              "full_vn": "ta có thể có 10 bằng cách nhân 2 với 5"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm tăng lên nhiều lần; làm cho sinh sôi nẩy nở",
+          "list_en_vn": [
+            {
+              "full_en": "buy lots of raffle tickets and multiply your chances of success",
+              "full_vn": "hãy mua nhiều vé số để tăng thêm cơ may trúng giải"
+            },
+            {
+              "full_en": "it's possible to multiply bacteria and other living organisms in the laboratory",
+              "full_vn": "có thể làm cho vi khuẩn và các sinh vật khác sinh sôi nẩy nở trong phòng thí nghiệm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tăng lên nhiều lần; tăng gấp bội",
+          "list_en_vn": [
+            {
+              "full_en": "our problems have multiplied since last year",
+              "full_vn": "từ năm ngoái đến nay, những vấn đề của chúng ta đã nhân lên gấp bội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng lên nhiều lần; sinh sôi nảy nở",
+          "list_en_vn": [
+            {
+              "full_en": "rabbits multiply rapidly",
+              "full_vn": "giống thỏ sinh sôi nảy nở nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068710_d2e06484a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068710_c9674a5cf6_o.png",
+      "id_image": "multiply_2845023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376752_3cec0bd080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376752_00e349e6d0_o.png",
+      "id_image": "multiply_3058490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331966_88c8d36ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331966_bc58d1edac_o.png",
+      "id_image": "multiply_5558675"
+    }
+  ]
+}

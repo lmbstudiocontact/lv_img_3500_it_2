@@ -1,0 +1,31 @@
+{
+  "english": "petal",
+  "phat_am": "['petl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cánh hoa",
+          "list_en_vn": [
+            {
+              "full_en": "rose petals",
+              "full_vn": "những cánh hoa hồng"
+            },
+            {
+              "full_en": "pink petals with white markings",
+              "full_vn": "những cánh hoa màu hồng điểm chấm trắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674889_16cf6e6d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674889_961b936c09_o.png",
+      "id_image": "petal_4119832"
+    }
+  ]
+}

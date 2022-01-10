@@ -1,0 +1,61 @@
+{
+  "english": "original",
+  "phat_am": "[ə'ridʒənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) gốc, (thuộc) nguồn gốc, (thuộc) căn nguyên, đầu tiên"
+        },
+        {
+          "m_full_vn": "(thuộc) nguyên bản chính",
+          "list_en_vn": [
+            {
+              "full_en": "where is the original picture ?",
+              "full_vn": "bức ảnh chính ở đâu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "độc đáo",
+          "list_en_vn": [
+            {
+              "full_en": "original remark",
+              "full_vn": "lời nhận xét độc đáo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the origin ) nguyên bản",
+          "list_en_vn": [
+            {
+              "full_en": "to read Dickens in the original",
+              "full_vn": "đọc những nguyên bản của Đích-ken"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người độc đáo; người lập dị"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427357_929529c209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427357_21087b8d0e_o.png",
+      "id_image": "original_5110929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496678_d027c3625f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496678_1db216b626_o.png",
+      "id_image": "original_5278643"
+    }
+  ]
+}

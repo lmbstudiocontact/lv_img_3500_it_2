@@ -1,0 +1,76 @@
+{
+  "english": "package",
+  "phat_am": "['pækidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gói đồ, bưu kiện; hộp để đóng hàng, thùng hàng"
+        },
+        {
+          "m_full_vn": "sự đóng gói hàng"
+        },
+        {
+          "m_full_vn": "như packet"
+        },
+        {
+          "m_full_vn": "như package deal"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chương trình quảng cáo hoàn chỉnh (trên đài truyền thanh, đài truyền hình)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) món",
+          "list_en_vn": [
+            {
+              "full_en": "that girl is a pretty package",
+              "full_vn": "cô ả kia là một món xinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng gói, đóng kiện, xếp vào bao bì"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) trình bày và sản xuất bao bì cho (một thứ hàng)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kết hợp, gộp (các bộ phận) thành một đơn vị"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338606_3b9ae22890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338606_a79582bc58_o.png",
+      "id_image": "package_228389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453598_ab3a7bbca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453598_52eda38e60_o.png",
+      "id_image": "package_290925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693719_7e09b029ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693719_03c7e080bb_o.png",
+      "id_image": "package_316630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453458_c2ce3f4522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453458_e5b83c3298_o.png",
+      "id_image": "package_365243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075510_5bd28024a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075510_a47975590f_o.png",
+      "id_image": "package_365256"
+    }
+  ]
+}

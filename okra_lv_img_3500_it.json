@@ -1,0 +1,27 @@
+{
+  "english": "okra",
+  "phat_am": "['oukrə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây mướp tây",
+          "list_en_vn": [
+            {
+              "full_en": "there is an okra in this garden",
+              "full_vn": "có một cây mướp tây ở trong khu vườn này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347501_e8f99408db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347501_1cf2eacbe9_o.png",
+      "id_image": "okra_6108234"
+    }
+  ]
+}

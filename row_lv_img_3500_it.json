@@ -1,0 +1,263 @@
+{
+  "english": "row",
+  "phat_am": "[rau]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng, dãy",
+          "list_en_vn": [
+            {
+              "full_en": "a row of trees",
+              "full_vn": "một hàng cây"
+            },
+            {
+              "full_en": "a row of books /houses /desks",
+              "full_vn": "một hàng sách/dãy nhà/dãy bàn làm việc"
+            },
+            {
+              "full_en": "to sit in a row /in rows",
+              "full_vn": "ngồi thành hàng"
+            },
+            {
+              "full_en": "to plant a row of cabbages",
+              "full_vn": "trồng một luống bắp cải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng ghế (trong rạp hát...)",
+          "list_en_vn": [
+            {
+              "full_en": "in the front row",
+              "full_vn": "ở hàng ghế đầu"
+            },
+            {
+              "full_en": "the front two rows",
+              "full_vn": "hai hàng ghế đầu"
+            },
+            {
+              "full_en": "a front-row seat",
+              "full_vn": "một chỗ ngồi ở hàng ghế đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng cây, luống (trong vườn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a hard row to hoe",
+              "list_im": [
+                {
+                  "im_full_vn": "việc rất khó làm, (từ Mỹ,nghĩa Mỹ) một việc hóc búa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it does not amount to a row of beans (pins )",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng một trinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hoe a big row",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm một công việc lớn, làm một công việc quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hoe one's own row",
+              "list_im": [
+                {
+                  "im_full_vn": "tự cáng đáng lấy công việc của mình, làm việc không có sự giúp đỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a new row to hoe",
+              "list_im": [
+                {
+                  "im_full_vn": "một công việc mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a row",
+              "list_im": [
+                {
+                  "im_full_vn": "người nọ theo người kia; theo một chuỗi liền (không đứt đoạn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this is the third Sunday in a row that it's rained",
+                      "full_vn": "đây là ngày chủ nhật thứ ba trời mưa liên tục"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc đi chơi bằng thuyền; thời gian chèo thuyền",
+          "list_en_vn": [
+            {
+              "full_en": "to go for a row on the river",
+              "full_vn": "đi chơi thuyền trên sông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chèo (thuyền), chèo thuyền chở (hành khách qua sông...)",
+          "list_en_vn": [
+            {
+              "full_en": "to row (the boat ) across (the river )",
+              "full_vn": "chèo (thuyền) qua sông"
+            },
+            {
+              "full_en": "to row someone across the river",
+              "full_vn": "chèo thuyền chở ai sang sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chèo đua với (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "we're rowing Cambridge in the next race",
+              "full_vn": "trong cuộc thi tiếp theo, chúng tôi sẽ chèo thuyền đua với Cambridge"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là người chèo thuyền trong một đội chèo thuyền đua",
+          "list_one_mean": [
+            {
+              "id_full_en": "to row down",
+              "list_im": [
+                {
+                  "im_full_vn": "chèo vượt lên trên (ai, trong một cuộc bơi thuyền)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to row against the flood (wind )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc gì trong hoàn cảnh có nhiều trở ngại chống đối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to row dry",
+              "list_im": [
+                {
+                  "im_full_vn": "chèo khan, đưa đẩy mái chèo nhưng không chạm vào nước"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to row for Cambridge",
+              "full_vn": "ở trong đội chèo thuyền đua của Cambridge"
+            },
+            {
+              "full_en": "to row (at ) No 5 in the crew",
+              "full_vn": "ở vị trí thứ 5 trong đội chèo thuyền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự om sòm, sự huyên náo",
+          "list_en_vn": [
+            {
+              "full_en": "to kick up (make ) a row",
+              "full_vn": "làm om sòm lên"
+            },
+            {
+              "full_en": "what's the row ?",
+              "full_vn": "việc gì mà om lên thế?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tranh cãi ầm ĩ hoặc dữ dội; sự cãi nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to have a row with someone",
+              "full_vn": "cãi nhau với ai"
+            },
+            {
+              "full_en": "the continuing row over the Government's defence policy",
+              "full_vn": "cuộc tranh cãi liên tiếp về chính sách quốc phòng của chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khiển trách, sự quở trách, sự mắng mỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to get a row for being late",
+              "full_vn": "bị khiển trách vì đi trễ"
+            },
+            {
+              "full_en": "to give somebody a row for being late",
+              "full_vn": "khiển trách ai về việc đi trễ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to row with somebody ) cãi nhau om sòm",
+          "list_en_vn": [
+            {
+              "full_en": "they row with their boss over money",
+              "full_vn": "họ cãi nhau ầm ĩ với ông chủ về chuyện tiền nong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340606_53058f05be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340606_43bb642d28_o.png",
+      "id_image": "row_3603654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078015_21631db3e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078015_8b4311f248_o.png",
+      "id_image": "row_391242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340656_aa7245b1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340656_a0419cd7ba_o.png",
+      "id_image": "row_708627"
+    }
+  ]
+}

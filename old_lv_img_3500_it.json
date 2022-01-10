@@ -1,0 +1,156 @@
+{
+  "english": "old",
+  "phat_am": "[ould]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về một độ tuổi nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "he's forty years old",
+              "full_vn": "ông ta bốn mươi tuổi"
+            },
+            {
+              "full_en": "at fifteen years old , he left school",
+              "full_vn": "nó bỏ học lúc mười lăm tuổi"
+            },
+            {
+              "full_en": "how old are you ?",
+              "full_vn": "anh bao nhiêu tuổi?"
+            },
+            {
+              "full_en": "a seven-year-old should be able to read",
+              "full_vn": "một đứa trẻ bảy tuổi hẳn phải biết đọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không còn trẻ nữa; già",
+          "list_en_vn": [
+            {
+              "full_en": "old people cannot be so active as young people",
+              "full_vn": "người già không thể tích cực như người trẻ"
+            },
+            {
+              "full_en": "he's too old for you to marry",
+              "full_vn": "hắn già quá nên không lấy em được đâu (đối với em, hắn quá già để có thể cưới nhau)"
+            },
+            {
+              "full_en": "what will she do when she is /gets /grows old ?",
+              "full_vn": "bà ta sẽ làm gì khi về già?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cũ; cổ",
+          "list_en_vn": [
+            {
+              "full_en": "old customs /beliefs /habits",
+              "full_vn": "tập quán/tín ngưỡng/thói quen cũ"
+            },
+            {
+              "full_en": "old clothes /cars /houses",
+              "full_vn": "quần áo cũ/xe cũ/nhà cổ"
+            },
+            {
+              "full_en": "old religious practices",
+              "full_vn": "nghi thức tôn giáo cổ"
+            },
+            {
+              "full_en": "things were different in the old days",
+              "full_vn": "mọi việc đã khác ngày xưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã biết từ lâu, thân quen; cũ",
+          "list_en_vn": [
+            {
+              "full_en": "an old friend of mine",
+              "full_vn": "một người bạn cũ của tôi (đã biết nhau lâu, chứ không nhất thiết phải già)"
+            },
+            {
+              "full_en": "we're old rivals",
+              "full_vn": "chúng tôi là tình địch cũ của nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trước đây; về trước (không nhất thiết phải già)",
+          "list_en_vn": [
+            {
+              "full_en": "in my old job",
+              "full_vn": "trong công việc trước đây của tôi"
+            },
+            {
+              "full_en": "at my old school",
+              "full_vn": "ở trường cũ của tôi"
+            },
+            {
+              "full_en": "I prefer the chair in its old place",
+              "full_vn": "tôi thích đặt chiếc ghế này vào chỗ cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng (như) một từ âu yếm hoặc thân mật) thân mến",
+          "list_en_vn": [
+            {
+              "full_en": "Dear old John !",
+              "full_vn": "Ông bạn John thân mến ơi!"
+            },
+            {
+              "full_en": "Good old Angela !",
+              "full_vn": "Bạn Angela thân mến tốt bụng!"
+            },
+            {
+              "full_en": "You're a funny old thing !",
+              "full_vn": "anh quả là một người bạn thân thiết vui vẻ!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để nhấn mạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "any old thing will do",
+              "full_vn": "bất cứ cái gì cũng được cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "già giặn; lão luyện",
+          "list_en_vn": [
+            {
+              "full_en": "old in diplomacy",
+              "full_vn": "có kinh nghiệm già giặn trong ngành ngoại giao"
+            },
+            {
+              "full_en": "an old trooper",
+              "full_vn": "một lính kỵ binh lão luyện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392417_84feb6a88a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392417_e33a35e19c_o.png",
+      "id_image": "old_1141117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427502_4d5904bdcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427502_c6ac3c503b_o.png",
+      "id_image": "old_1588867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347366_47f45c4258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347366_a55fc7a3e7_o.png",
+      "id_image": "old_2446919"
+    }
+  ]
+}

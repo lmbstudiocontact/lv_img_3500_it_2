@@ -1,0 +1,55 @@
+{
+  "english": "parole",
+  "phat_am": "[pə'roul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời hứa của tù nhân nhận rằng anh ta sẽ không tìm cách chạy trốn (nếu được tha trong một thời gian có giới hạn) hoặc không phạm một tội khác (nếu được thả trước khi mãn hạn); bản cam kết của tù nhân, tù binh... để được tha",
+          "list_en_vn": [
+            {
+              "full_en": "to be on parole",
+              "full_vn": "được tha vì đã cam kết"
+            },
+            {
+              "full_en": "to let somebody out on parole ; to release somebody on parole",
+              "full_vn": "tha ai vì đã cam kết; tạm tha"
+            },
+            {
+              "full_en": "to break one's parole",
+              "full_vn": "nuốt lời cam kết của mình (nghĩa là lại phạm tội sau khi được tha hoặc không chịu trở lại nhà tù vào thời gian ấn định)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phóng thích tù nhân sau khi người đó cam kết giữ tư cách đạo đức tốt",
+          "list_en_vn": [
+            {
+              "full_en": "he's hoping to get parole",
+              "full_vn": "nó hy vọng được tha vì đã thực hiện lời cam kết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) khẩu lệnh"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tha (tù nhân) theo lời cam kết; tạm tha"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331776_794c26f147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331776_ecb6975f01_o.png",
+      "id_image": "parole_4458921"
+    }
+  ]
+}

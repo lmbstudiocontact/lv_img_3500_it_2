@@ -1,0 +1,46 @@
+{
+  "english": "recession",
+  "phat_am": "[ri'se∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lùi lại khỏi vị trí trước đây; sự rút đi",
+          "list_en_vn": [
+            {
+              "full_en": "the gradual recession of flood waters",
+              "full_vn": "nước lụt rút dần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh tế) tình trạng suy thoái",
+          "list_en_vn": [
+            {
+              "full_en": "industrial recession",
+              "full_vn": "tình trạng suy thoái về kỹ nghệ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335741_c5226f21de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335741_a32bbd61d4_o.png",
+      "id_image": "recession_2925730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335696_218bf70784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335696_fef1a1b94d_o.png",
+      "id_image": "recession_6159973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072610_0416ea2ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072610_99eedf7f13_o.png",
+      "id_image": "recession_6203060"
+    }
+  ]
+}

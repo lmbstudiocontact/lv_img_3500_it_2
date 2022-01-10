@@ -1,0 +1,98 @@
+{
+  "english": "partner",
+  "phat_am": "['pɑ:tnə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chung phần; cộng sự; đối tác"
+        },
+        {
+          "m_full_vn": "hội viên (của một công ty, một minh ước quốc tế)"
+        },
+        {
+          "m_full_vn": "bạn cùng nhảy (khiêu vũ); cùng phe (trong một trò chơi, môn thể thao)"
+        },
+        {
+          "m_full_vn": "vợ; chồng; đào, kép"
+        },
+        {
+          "m_full_vn": "( số nhiều) khung lỗ (ở sàn tàu để cột buồm và trục lái... đi qua)",
+          "list_one_mean": [
+            {
+              "id_full_en": "predominant partner",
+              "list_im": [
+                {
+                  "im_full_vn": "thành viên lớn nhất của nước Anh (tức Inh-len)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "silent partner",
+              "list_im": [
+                {
+                  "im_full_vn": "hội viên hùn vốn (không có tiếng nói trong công việc quản trị công ty)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleeping partner",
+              "list_im": [
+                {
+                  "im_full_vn": "hội viên hùn vốn kín (không tham gia công việc quản trị công ty và ít người biết đến) (như) secret partner ; dormant partner"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp tác, kết hợp, làm cộng sự"
+        },
+        {
+          "m_full_vn": "cho (ai) nhập hội; kết (ai với ai) thành một phe",
+          "list_en_vn": [
+            {
+              "full_en": "to partner someone with another",
+              "full_vn": "kết ai với ai thành một phe"
+            },
+            {
+              "full_en": "partner somebody at tennis",
+              "full_vn": "cùng phe với ai khi chơi quần vợt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cùng nhảy, cùng chơi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375802_df7e969952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375802_f35238a438_o.png",
+      "id_image": "partner_1322195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375752_7ae4d51b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375752_938ecccb2e_o.png",
+      "id_image": "partner_1806239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446003_6e99beb244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446003_a80ceeaa04_o.png",
+      "id_image": "partner_4214044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375842_3abeac09fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375842_60d1b6d2bf_o.png",
+      "id_image": "partner_860504"
+    }
+  ]
+}

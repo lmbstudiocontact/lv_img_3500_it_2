@@ -1,0 +1,103 @@
+{
+  "english": "sauce",
+  "phat_am": "[sɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước chấm, nước xốt",
+          "list_en_vn": [
+            {
+              "full_en": "tomato sauce",
+              "full_vn": "nước xốt cà chua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cái làm thêm thích thú; cái làm thêm thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "hunger is the best sauce",
+              "full_vn": "(tục ngữ) đói bụng thì ngon cơm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước muối, dung dịch muối"
+        },
+        {
+          "m_full_vn": "( the sauce ) (từ Mỹ, nghĩa Mỹ) (thông tục) thức uống có cồn",
+          "list_en_vn": [
+            {
+              "full_en": "keep off the sauce !",
+              "full_vn": "hãy tránh xa rượu ra!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự hỗn láo, sự vô lễ, sự láo xược",
+          "list_one_mean": [
+            {
+              "id_full_en": "what is sauce for the goose is sauce for the gander",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cái gì áp dụng cho một người cũng áp dụng được cho người khác trong trường hợp tương tự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the sauce",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) uống nhiều rượu, say"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "none of your sauce !",
+              "full_vn": "không được hỗn!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho nước xốt, thêm nước xốt"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) cho thêm gia vị"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm thích thú, làm thú vị; pha mắm pha muối"
+        },
+        {
+          "m_full_vn": "(thông tục) cư xử thô lỗ, cư xử thiếu lễ độ (với ai)",
+          "list_en_vn": [
+            {
+              "full_en": "Don't you dare sauce me !",
+              "full_vn": "Mày dám hỗn với tao à!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070925_924365b245_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070925_6e2e0296ee_o.png",
+      "id_image": "sauce_1785248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688979_ca8f6fd083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688979_cb0882954b_o.png",
+      "id_image": "sauce_3255731"
+    }
+  ]
+}

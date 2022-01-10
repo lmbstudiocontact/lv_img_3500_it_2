@@ -1,0 +1,223 @@
+{
+  "english": "scene",
+  "phat_am": "[si:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuỗi hoạt động liên tục trong một vở kịch, bộ phim...; cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "the scene in the hospital was very moving",
+              "full_vn": "cảnh trong bệnh viện rất là cảm động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một phần của màn kịch hoặc opêra; đoạn, hồi nằm trong phần đó; cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "Act 1, Scene 2 of Macbeth",
+              "full_vn": "Màn 1, Cảnh 2 của vở Macbeth"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa điểm được mô tả trên sân khấu của nhà hát; màn phông, đồ gỗ được tô vẽ để mô tả một địa điểm như thế; cảnh; phông (trên (sân khấu))",
+          "list_en_vn": [
+            {
+              "full_en": "the first scene of the play is the king's palace",
+              "full_vn": "cảnh thứ nhất trong vở kịch là lâu đài của nhà vua"
+            },
+            {
+              "full_en": "the scenes are changed during the interval",
+              "full_vn": "các phông cảnh được thay trong lúc nghỉ giải lao"
+            },
+            {
+              "full_en": "behind the scenes",
+              "full_vn": "phía sau sân khấu (nơi khán giả không thấy); hậu trường; (nghĩa bóng) bí mật, công chúng không biết"
+            },
+            {
+              "full_en": "political deals done behind the scenes",
+              "full_vn": "những sự thoả thuận về chính trị được tiến hành bí mật (ở hậu trường)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quang cảnh (cảnh một người quan sát nhìn thấy)",
+          "list_en_vn": [
+            {
+              "full_en": "a delightful rural scene",
+              "full_vn": "một quang cảnh nông thôn kỳ thú"
+            },
+            {
+              "full_en": "the boats in the harbour make a beautiful scene",
+              "full_vn": "những chiếc thuyền trong cảng tạo nên một cảnh đẹp"
+            },
+            {
+              "full_en": "they went abroad for a change of scene",
+              "full_vn": "họ đi ra nước ngoài để được thay đổi cảnh quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quang cảnh; hiện trường (nơi xảy ra sự kiện thực tế hoặc tưởng tượng)",
+          "list_en_vn": [
+            {
+              "full_en": "a scene of destruction",
+              "full_vn": "cảnh tàn phá"
+            },
+            {
+              "full_en": "the scene of the accident",
+              "full_vn": "nơi xảy ra tai nạn"
+            },
+            {
+              "full_en": "the scene of the crime",
+              "full_vn": "hiện trường nơi xảy ra tội ác"
+            },
+            {
+              "full_en": "a scene of strife",
+              "full_vn": "nơi xảy ra xung đột"
+            },
+            {
+              "full_en": "the scene is laid in India",
+              "full_vn": "câu chuyện xảy ra ở Ân độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh tượng (trong cuộc sống thật)",
+          "list_en_vn": [
+            {
+              "full_en": "the horrific scenes after the earthquake",
+              "full_vn": "cảnh tượng khủng khiếp sau trận động đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the scene ) (thông tục) tình hình hiện hành trong một một lĩnh vực hoạt động, tình hình hiện hành trong một cuộc sống riêng biệt",
+          "list_en_vn": [
+            {
+              "full_en": "the drug scene",
+              "full_vn": "cảnh nghiện ngập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) trận cãi lộn",
+          "list_en_vn": [
+            {
+              "full_en": "to make a scene",
+              "full_vn": "gây chuyện cãi lộn"
+            },
+            {
+              "full_en": "don't make a scene",
+              "full_vn": "đừng gây chuyện cãi nhau nữa"
+            },
+            {
+              "full_en": "there was quite a scene when she refused to pay",
+              "full_vn": "đã xảy ra một cuộc đấu khẩu khi cô ta không chịu trả tiền"
+            },
+            {
+              "full_en": "we had a big scene when I fired him",
+              "full_vn": "chúng tôi cãi nhau một trận dữ dội khi tôi đuổi anh ta đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh (chuỗi hoạt động liên tục trong một vở kịch, phim..); một phần của màn kịch",
+          "list_en_vn": [
+            {
+              "full_en": "Act 1, Scene 2 of 'Macbeth'",
+              "full_vn": "màn 1 cảnh 2 trong vở 'Macbeth'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sân khấu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to quit the scene",
+              "list_im": [
+                {
+                  "im_full_vn": "qua đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come on the scene",
+              "list_im": [
+                {
+                  "im_full_vn": "đến; xuất hiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the scene",
+              "list_im": [
+                {
+                  "im_full_vn": "có mặt; hiện diện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "reporters were soon on the scene after the accident",
+                      "full_vn": "các phóng viên có mặt tại hiện trường ngay sau khi xảy ra tai nạn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set the scene for something",
+              "list_im": [
+                {
+                  "im_full_vn": "mô tả địa điểm hoặc hoàn cảnh mà cái gì sắp xảy ra; giúp tạo ra cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "radio reporters were in the church to set the scene",
+                      "full_vn": "các phóng viên truyền thanh đã có mặt ở nhà thờ để tường thuật tại chỗ"
+                    },
+                    {
+                      "full_en": "his arrival set the scene for another argument",
+                      "full_vn": "việc ông ta đến lại gây thêm một cuộc tranh cãi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to steal the scene show",
+              "list_im": [
+                {
+                  "im_full_vn": "xem steal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686659_725e11921d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686659_f632c20f58_o.png",
+      "id_image": "scene_1460485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446693_dc638b7d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446693_5fd69cc97b_o.png",
+      "id_image": "scene_188980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376332_a0bca93d0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376332_3ff055ab89_o.png",
+      "id_image": "scene_2526737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446588_c441e39cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446588_f44f4f96d4_o.png",
+      "id_image": "scene_4133253"
+    }
+  ]
+}

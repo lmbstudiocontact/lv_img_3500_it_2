@@ -1,0 +1,65 @@
+{
+  "english": "noise",
+  "phat_am": "[nɔiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng; tiếng ồn ào, tiếng om sòm, tiếng huyên náo",
+          "list_one_mean": [
+            {
+              "id_full_en": "a big noise",
+              "list_im": [
+                {
+                  "im_full_vn": "nhân vật quan trọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make a noise",
+              "full_vn": "làm ồn"
+            },
+            {
+              "full_en": "to make a noise in the world",
+              "full_vn": "nổi tiếng trên thế giới, được thiên hạ nói đến nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "loan truyền, đồn",
+          "list_en_vn": [
+            {
+              "full_en": "it was noised abroad that",
+              "full_vn": "có tin đồn rằng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059060_2f439f7ec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059060_e5cb3e071d_o.png",
+      "id_image": "noise_1446142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367117_9920fdec2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367117_62f5b7ebef_o.png",
+      "id_image": "noise_3071632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677299_4262a9c79c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677299_5e20d7e784_o.png",
+      "id_image": "noise_4243465"
+    }
+  ]
+}

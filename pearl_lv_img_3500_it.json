@@ -1,0 +1,111 @@
+{
+  "english": "pearl",
+  "phat_am": "[pə:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường viền quanh dải đăng ten (ở áo gối...)"
+        },
+        {
+          "m_full_vn": "hạt trai, ngọc trai",
+          "list_en_vn": [
+            {
+              "full_en": "a string of pearls",
+              "full_vn": "một chuỗi ngọc trai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngọc trai nhân tạo",
+          "list_en_vn": [
+            {
+              "full_en": "cultivated pearls",
+              "full_vn": "những hạt ngọc trai nuôi"
+            },
+            {
+              "full_en": "imitation pearl",
+              "full_vn": "hạt trai giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật giống hạt ngọc trai (hình dáng, màu sắc)",
+          "list_en_vn": [
+            {
+              "full_en": "pearls of dew on the grass",
+              "full_vn": "những giọt sương long lanh như ngọc trai trên cỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngọc quý, tinh hoa (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "pearls of wisdom",
+              "full_vn": "những kiến thức quý báu"
+            },
+            {
+              "full_en": "a pearl among women",
+              "full_vn": "một viên ngọc quý trong đám phụ nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viên nhỏ, hạt nhỏ"
+        },
+        {
+          "m_full_vn": "(ngành in) chữ cỡ 5",
+          "list_one_mean": [
+            {
+              "id_full_en": "cast pearls before swine",
+              "list_im": [
+                {
+                  "im_full_vn": "đem đàn gảy tai trâu; đem hồng ngâm cho chuột vọc; đem hạt ngọc cho ngâu vầy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rắc thành những giọt long lanh như hạt trai"
+        },
+        {
+          "m_full_vn": "rê, xay, nghiền (lúa mạch...) thành những hạt nhỏ"
+        },
+        {
+          "m_full_vn": "làm cho có màu hạt trai; làm cho long lanh như hạt trai"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đọng lại thành giọt long lanh như hạt trai (sương...)"
+        },
+        {
+          "m_full_vn": "mò ngọc trai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679844_65292a6ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679844_004a594c6d_o.png",
+      "id_image": "pearl_2439448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061605_64c065cc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061605_8a93911452_o.png",
+      "id_image": "pearl_443916"
+    }
+  ]
+}

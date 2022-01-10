@@ -1,0 +1,69 @@
+{
+  "english": "panel",
+  "phat_am": "['pænl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ván ô (cửa, tường); Pa-nô; bảng, pa-nen"
+        },
+        {
+          "m_full_vn": "ô vải khác màu (trên quần áo đàn bà); mảnh da (cừu, dê... để viết)"
+        },
+        {
+          "m_full_vn": "(pháp lý) danh sách hội thẩm; ban hội thẩm"
+        },
+        {
+          "m_full_vn": "( Ê-cốt) danh sách báo cáo; danh sách bác sĩ bảo hiểm (đăng ký nhận chữa bệnh nhân theo chế độ bảo hiểm ở Anh)"
+        },
+        {
+          "m_full_vn": "nhóm người tham gia hội thảo, nhóm người tham gia tiết mục \"trả lời câu đố\" ... (ở đài phát thanh, đài truyền hình); cuộc hội thảo... (ở đài phát thanh, đài truyền hình...)"
+        },
+        {
+          "m_full_vn": "đệm yên ngựa; yên ngựa (không có cốt sắt)",
+          "list_en_vn": [
+            {
+              "full_en": "distribution panel",
+              "full_vn": "bảng phân phối"
+            },
+            {
+              "full_en": "control panel",
+              "full_vn": "bảng điều khiển"
+            },
+            {
+              "full_en": "signal panel",
+              "full_vn": "bảng tín hiệu!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng ván ô, đóng panô (cửa, tường)"
+        },
+        {
+          "m_full_vn": "may ô vải màu vào (quần áo)"
+        },
+        {
+          "m_full_vn": "đóng yên (ngựa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690569_1ca6fcfc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690569_d2542207f8_o.png",
+      "id_image": "panel_1719612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450383_b48d338810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450383_3f2954bc24_o.png",
+      "id_image": "panel_209203"
+    }
+  ]
+}

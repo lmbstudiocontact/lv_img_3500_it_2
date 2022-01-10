@@ -1,0 +1,59 @@
+{
+  "english": "retirement",
+  "phat_am": "[ri'taiəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(trường hợp) về hưu hoặc thôi làm việc; sự về hưu; sự nghỉ việc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go into /come out of retirement",
+              "list_im": [
+                {
+                  "im_full_vn": "rời bỏ/trở lại công việc thường xuyên của mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there have been several retirements in my office recently",
+              "full_vn": "mới đây tại cơ quan tôi có một số người về hưu"
+            },
+            {
+              "full_en": "to announce /give notice of one's retirement",
+              "full_vn": "báo ai cho biết họ sẽ về hưu"
+            },
+            {
+              "full_en": "to urge older staff to take early retirement",
+              "full_vn": "thúc các nhân viên lớn tuổi về hưu sớm"
+            },
+            {
+              "full_en": "he lives in retirement in Cornwall",
+              "full_vn": "ông ta về hưu sống ở Cornwall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349266_504b4293cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349266_52319aea38_o.png",
+      "id_image": "retirement_1691584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349241_e10c4f7358_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349241_5514896baf_o.png",
+      "id_image": "retirement_2329905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349221_dfa8fc7ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349221_1bd4980f6f_o.png",
+      "id_image": "retirement_4072872"
+    }
+  ]
+}

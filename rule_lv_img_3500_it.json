@@ -1,0 +1,268 @@
+{
+  "english": "rule",
+  "phat_am": "[ru:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phép tắc, quy tắc, nguyên tắc; quy luật; điều lệ, luật lệ",
+          "list_en_vn": [
+            {
+              "full_en": "the rule(s) of the road",
+              "full_vn": "luật đi đường"
+            },
+            {
+              "full_en": "standing rules",
+              "full_vn": "điều lệ hiện hành (của một hội, công ty...)"
+            },
+            {
+              "full_en": "the rules of English grammar",
+              "full_vn": "các quy tắc ngữ pháp tiếng Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thói quen, lệ thường",
+          "list_en_vn": [
+            {
+              "full_en": "as a (general ) rule",
+              "full_vn": "trong phần lớn các trường hợp; theo lệ thường"
+            },
+            {
+              "full_en": "As a rule , I get up at 6 am",
+              "full_vn": "Theo lệ thường thì tôi thức dậy lúc 6 giờ sáng"
+            },
+            {
+              "full_en": "a rule of thumb",
+              "full_vn": "theo kinh nghiệm"
+            },
+            {
+              "full_en": "to make it a rule to get up early",
+              "full_vn": "đặt thành cái lệ dậy sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền lực; sự thống trị, sự cai trị",
+          "list_en_vn": [
+            {
+              "full_en": "under the rule of ...",
+              "full_vn": "dưới sự thống trị của..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thước gấp (có chia độ của thợ mộc)"
+        },
+        {
+          "m_full_vn": "vạch, gạch, đường kẻ thẳng"
+        },
+        {
+          "m_full_vn": "(pháp lý) quyết định của toà án; lệnh của toà án"
+        },
+        {
+          "m_full_vn": "(ngành in) thước (để) ngăn dòng; filê, cái gạch đầu dòng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do things by rule",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc theo nguyên tắc, làm việc có phương pháp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by rule and line",
+              "list_im": [
+                {
+                  "im_full_vn": "rất đúng, rất chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "gag rule",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chính sách khoá miệng không cho tự do ngôn luận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the golden rule",
+              "list_im": [
+                {
+                  "im_full_vn": "nguyên lý rất quan trọng phải theo khi thực thi một nhiệm vụ nào đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hard and fast rule",
+              "list_im": [
+                {
+                  "im_full_vn": "nguyên tắc cứng rắn, nguyên tắc bất di bất dịch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of rule",
+              "list_im": [
+                {
+                  "im_full_vn": "trái quy tắc, sai nguyên tắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is no rule without an exception",
+              "list_im": [
+                {
+                  "im_full_vn": "không có nguyên tắc nào là không có ngoại lệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "work to rule",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ quy tắc mà làm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "em rule",
+              "full_vn": "gạch đầu dòng"
+            },
+            {
+              "full_en": "en rule",
+              "full_vn": "gạch ngắn, gạch nối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cai trị, trị vì, thống trị; chỉ huy, điều khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to rule a nation",
+              "full_vn": "thống trị một nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có ảnh hưởng, có quyền lực đối với (ai, tình cảm của ai..); chi phối"
+        },
+        {
+          "m_full_vn": "kiềm chế, chế ngự",
+          "list_en_vn": [
+            {
+              "full_en": "to rule one's passions",
+              "full_vn": "kiềm chế dục vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ dẫn, hướng dẫn, khuyên bảo",
+          "list_en_vn": [
+            {
+              "full_en": "to be ruled by someone",
+              "full_vn": "theo sự hướng dẫn của ai, theo lời khuyên của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) quyết định, ra lệnh, phán quyết"
+        },
+        {
+          "m_full_vn": "kẻ dòng; kẻ (giấy) bằng thước"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cai trị, trị vì, thống trị, cầm quyền",
+          "list_en_vn": [
+            {
+              "full_en": "to rule by love",
+              "full_vn": "lấy đức mà cai trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể hiện (ở một mức nào đó, ở một trạng thái nào đó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rule off",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng sổ, kết toán (trong kinh doanh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rule out",
+              "list_im": [
+                {
+                  "im_full_vn": "loại trừ, bác bỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rule the roots",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) làm bá chủ hoành hành, làm vương làng tướng"
+                },
+                {
+                  "im_full_vn": "làm trùm; đứng đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rule with a rod of iron",
+              "list_im": [
+                {
+                  "im_full_vn": "thống trị bằng bàn tay sắt, độc tài, độc đoán"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "prices rule high",
+              "full_vn": "giá cả lên cao"
+            },
+            {
+              "full_en": "crops rule good",
+              "full_vn": "mùa màng tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454563_7a8392353c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454563_d047eb29da_o.png",
+      "id_image": "rule_309109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454538_2a4e43ae0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454538_87a5fdd5e1_o.png",
+      "id_image": "rule_452711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076740_27e3f85e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076740_b2f6438352_o.png",
+      "id_image": "rule_645751"
+    }
+  ]
+}

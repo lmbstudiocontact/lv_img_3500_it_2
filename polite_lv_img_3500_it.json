@@ -1,0 +1,33 @@
+{
+  "english": "polite",
+  "phat_am": "[pə'lait]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lễ phép, có lễ độ; lịch sự, lịch thiệp",
+          "list_en_vn": [
+            {
+              "full_en": "a polite child",
+              "full_vn": "một em bé lễ phép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tao nhã (văn...)"
+        },
+        {
+          "m_full_vn": "(thuộc ngữ) có học thức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692639_52da457bfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692639_2f3485aa1b_o.png",
+      "id_image": "polite_708662"
+    }
+  ]
+}

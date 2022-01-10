@@ -1,0 +1,41 @@
+{
+  "english": "radioactive",
+  "phat_am": "['reidiou'æktiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phóng xạ",
+          "list_en_vn": [
+            {
+              "full_en": "radioactive waste",
+              "full_vn": "chất thải phóng xạ"
+            },
+            {
+              "full_en": "radioactive fall-out",
+              "full_vn": "bụi phóng xạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455898_a9ff3f8433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455898_8c7323ab92_o.png",
+      "id_image": "radioactive_2752166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696379_7290e83a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696379_504ecc56a5_o.png",
+      "id_image": "radioactive_439967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078465_81b6e43c13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078465_c12f0961a3_o.png",
+      "id_image": "radioactive_670858"
+    }
+  ]
+}

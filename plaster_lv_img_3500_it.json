@@ -1,0 +1,96 @@
+{
+  "english": "plaster",
+  "phat_am": "['plɑ:stə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trát vữa (tường...); trát thạch cao"
+        },
+        {
+          "m_full_vn": "phết đầy, dán đầy, bôi đầy, làm dính đầy",
+          "list_en_vn": [
+            {
+              "full_en": "a trunk plastered with labels",
+              "full_vn": "cái rương dán đầy nhãn"
+            },
+            {
+              "full_en": "to plaster someone with praise",
+              "full_vn": "(nghĩa bóng) khen ai quá mức, tân bốc ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bó bột (vết thương) bằng thuốc cao"
+        },
+        {
+          "m_full_vn": "( + down ) dán thuốc cao, đắp thuốc cao (một cái nhọt...); dán lên, đắp lên",
+          "list_en_vn": [
+            {
+              "full_en": "plaster one's hair down",
+              "full_vn": "ốp tóc xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bồi thường, đền (một vết thương...)"
+        },
+        {
+          "m_full_vn": "xử lý (rượu) bằng thạch cao (cho bớt chua)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to plaster up",
+              "list_im": [
+                {
+                  "im_full_vn": "trát kín (một kẽ hở...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vữa (hợp chất mềm gồm vôi, cát, nước.. trở thành cứng khi khô)"
+        },
+        {
+          "m_full_vn": "thạch cao"
+        },
+        {
+          "m_full_vn": "như sticking-plaster"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697379_7bd1bbfdb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697379_8f99599d1e_o.png",
+      "id_image": "plaster_194898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456988_275e5fb327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456988_f84879733a_o.png",
+      "id_image": "plaster_4850978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387127_e78908766a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387127_d66ce5dfc9_o.png",
+      "id_image": "plaster_5180490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697299_02aaeda67a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697299_5b27b3857d_o.png",
+      "id_image": "plaster_5767777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387092_c59ee1ccdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387092_9e88ec92c6_o.png",
+      "id_image": "plaster_6009235"
+    }
+  ]
+}

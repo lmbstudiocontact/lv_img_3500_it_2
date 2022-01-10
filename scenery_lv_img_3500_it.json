@@ -1,0 +1,39 @@
+{
+  "english": "scenery",
+  "phat_am": "['si:nəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn ghế, đồ gỗ, vải phông... dùng trên sân khấu rạp hát để thể hiện địa điểm diễn ra hành động; đồ dùng trang trí sân khấu"
+        },
+        {
+          "m_full_vn": "phong cảnh, cảnh vật",
+          "list_en_vn": [
+            {
+              "full_en": "the scenery is imposing",
+              "full_vn": "phong cảnh thật là hùng vĩ"
+            },
+            {
+              "full_en": "mountain scenery",
+              "full_vn": "phong cảnh núi non"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686549_ee7f866c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686549_94ff3719d1_o.png",
+      "id_image": "scenery_3873789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331506_c37a3189b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331506_600d447abf_o.png",
+      "id_image": "scenery_4215271"
+    }
+  ]
+}

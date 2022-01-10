@@ -1,0 +1,73 @@
+{
+  "english": "saddle",
+  "phat_am": "['sædl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "yên ngựa; yên xe"
+        },
+        {
+          "m_full_vn": "đèo yên ngựa, đường yên ngựa (giữa hai đỉnh núi)"
+        },
+        {
+          "m_full_vn": "khớp thịt lưng",
+          "list_en_vn": [
+            {
+              "full_en": "a saddle of lamb",
+              "full_vn": "súc thịt lưng cừu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình yên",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the saddle",
+              "list_im": [
+                {
+                  "im_full_vn": "cưỡi ngựa"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) tại chức, đang nắm quyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put saddle on the right (wrong ) horse",
+              "list_im": [
+                {
+                  "im_full_vn": "phê bình đúng (sai) người nào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắng yên (ngựa)"
+        },
+        {
+          "m_full_vn": "dồn việc, dồn trách nhiệm (cho ai); chất gánh nặng lên (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337781_505ed6d199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337781_9db249dbdd_o.png",
+      "id_image": "saddle_2464823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452688_26b7b917b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452688_04df462e46_o.png",
+      "id_image": "saddle_878991"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "english": "middle",
+  "phat_am": "['midl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữa",
+          "list_en_vn": [
+            {
+              "full_en": "the middle of the room",
+              "full_vn": "chỗ giữa phòng"
+            },
+            {
+              "full_en": "a wound in the middle of his back",
+              "full_vn": "vết thương ở giữa lưng nó"
+            },
+            {
+              "full_en": "right in the middle",
+              "full_vn": "ngay chính giữa"
+            },
+            {
+              "full_en": "in the very middle of the night",
+              "full_vn": "đúng vào lúc nửa đêm"
+            },
+            {
+              "full_en": "in the middle of our century",
+              "full_vn": "vào giữa thế kỷ của chúng ta"
+            },
+            {
+              "full_en": "they were in the middle of dinner when I called",
+              "full_vn": "họ đang dở bữa ăn (đang ăn) khi tôi gọi họ"
+            },
+            {
+              "full_en": "I was right in the middle of reading it when she phoned",
+              "full_vn": "đúng lúc tôi đang đọc cái đó thì cô ta gọi điện đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ thắt lưng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the middle of nowhere",
+              "list_im": [
+                {
+                  "im_full_vn": "ở một nơi rất xa xôi hẻo lánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pig in the middle",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pig"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be up to the middle in water",
+              "full_vn": "đứng nước ngập đến thắt lưng"
+            },
+            {
+              "full_en": "to seize somebody round his middle",
+              "full_vn": "ôm eo ai"
+            },
+            {
+              "full_en": "fifty inches round the middle",
+              "full_vn": "năm mươi insơ vòng eo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở giữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take /follow a middle course",
+              "list_im": [
+                {
+                  "im_full_vn": "theo đường lối dung hoà; trung dung"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the middle finger",
+              "full_vn": "ngón tay giữa"
+            },
+            {
+              "full_en": "the middle house of the three",
+              "full_vn": "ngôi nhà ở giữa ba ngôi nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đặt vào giữa"
+        },
+        {
+          "m_full_vn": "xếp đôi (lá buồm)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699279_b79fd4cc35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699279_9073dd32b2_o.png",
+      "id_image": "middle_3528030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344116_177dda3b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344116_9836f9d198_o.png",
+      "id_image": "middle_3603595"
+    }
+  ]
+}

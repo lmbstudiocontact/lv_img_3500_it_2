@@ -1,0 +1,53 @@
+{
+  "english": "overboard",
+  "phat_am": "['ouvəbɔ:d]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "qua mạn tàu; từ trên mạn tàu, thuyền xuống biển",
+          "list_one_mean": [
+            {
+              "id_full_en": "to throw overboard",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) vứt đi, bỏ đi, thải đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go overboard (about somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhiệt tình (về cái gì/với ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "throw something overboard",
+              "list_im": [
+                {
+                  "im_full_vn": "thải đi, gạt ra"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fail overboard",
+              "full_vn": "ngã xuống biển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455558_25c65a166e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455558_b8d5c19109_o.png",
+      "id_image": "overboard_168281"
+    }
+  ]
+}

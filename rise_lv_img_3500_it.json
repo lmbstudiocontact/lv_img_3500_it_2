@@ -1,0 +1,300 @@
+{
+  "english": "rise",
+  "phat_am": "[raiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vận động đi lên hoặc sự thăng tiến",
+          "list_en_vn": [
+            {
+              "full_en": "to shoot a bird on the rise",
+              "full_vn": "bắn một con chim lúc đang bay lên"
+            },
+            {
+              "full_en": "his rise to power was very rapid",
+              "full_vn": "ông ta lên nắm chính quyền rất nhanh"
+            },
+            {
+              "full_en": "the rise and fall of the British Empire",
+              "full_vn": "sự thăng trầm của đế quốc Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tăng lên về con số, số lượng hoặc cường độ",
+          "list_en_vn": [
+            {
+              "full_en": "prices are on the rise",
+              "full_vn": "giá cả đang tăng lên"
+            },
+            {
+              "full_en": "a rise in the price of meat , the value of the dollar , the average temperature",
+              "full_vn": "sự tăng giá thịt/giá trị đồng đô la/nhiệt độ trung bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tăng lương (cũng) raise",
+          "list_en_vn": [
+            {
+              "full_en": "to demand a rise (in wages ) from next October",
+              "full_vn": "đòi tăng lương từ tháng Mười sắp tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường dốc; đồi nhỏ; gò cao",
+          "list_en_vn": [
+            {
+              "full_en": "at the top of the rise , they paused for a rest",
+              "full_vn": "tới đỉnh dốc, họ dừng lại để nghỉ"
+            },
+            {
+              "full_en": "to look down from the rise",
+              "full_vn": "đứng trên gò cao nhìn xuống"
+            },
+            {
+              "full_en": "a church situated on a small rise",
+              "full_vn": "nhà thờ nằm trên một ngọn đồi nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn gốc, căn nguyên",
+          "list_en_vn": [
+            {
+              "full_en": "the rise of a river",
+              "full_vn": "nguồn gốc của một dòng sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the rise",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về cá) nổi lên để đớp mồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take /get a rise out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phát khùng lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "facts that give rise to doubts about her motives",
+              "full_vn": "những sự việc khiến người ta nghi ngờ lý do hành động của cô ấy"
+            },
+            {
+              "full_en": "her disappearance gave rise to the wildest rumours",
+              "full_vn": "sự mất tích cô ta đã gây ra những lời đồn đại lung tung nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ rose , risen",
+      "list_m": [
+        {
+          "m_full_vn": "dậy, trở dậy, đứng dậy, đứng lên",
+          "list_en_vn": [
+            {
+              "full_en": "to rise up early",
+              "full_vn": "dậy sớm"
+            },
+            {
+              "full_en": "to rise from table",
+              "full_vn": "đứng dậy"
+            },
+            {
+              "full_en": "to rise to one's feet",
+              "full_vn": "đứng nhỏm dậy"
+            },
+            {
+              "full_en": "to rise in applause",
+              "full_vn": "đứng dậy vỗ tay hoan nghênh"
+            },
+            {
+              "full_en": "the hair rose on one's head",
+              "full_vn": "tóc dựng ngược cả lên ở trên đầu"
+            },
+            {
+              "full_en": "to rise from the dead",
+              "full_vn": "sống lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mọc (mặt trời, mặt trăng...)",
+          "list_en_vn": [
+            {
+              "full_en": "the sun rises",
+              "full_vn": "mặt trời mọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên, lên cao, bốc lên, leo lên, trèo lên, dâng lên, nổi lên",
+          "list_en_vn": [
+            {
+              "full_en": "smoke rises up",
+              "full_vn": "khói bốc lên"
+            },
+            {
+              "full_en": "dough rises",
+              "full_vn": "bột dậy lên"
+            },
+            {
+              "full_en": "the image rises in one's mind",
+              "full_vn": "hình ảnh hiện lên trong trí"
+            },
+            {
+              "full_en": "anger is rising",
+              "full_vn": "cơn giận nổi lên"
+            },
+            {
+              "full_en": "the Red River is rising again",
+              "full_vn": "nước sông Hồng lại dâng lên"
+            },
+            {
+              "full_en": "spirits rise",
+              "full_vn": "tinh thần phấn khởi lên"
+            },
+            {
+              "full_en": "fishes rise to the bait",
+              "full_vn": "cá nổi lên đớp mồi"
+            },
+            {
+              "full_en": "her colour rose",
+              "full_vn": "mặt cô ta ửng đỏ lên"
+            },
+            {
+              "full_en": "the wind is rising",
+              "full_vn": "gió đang nổi lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiến lên, thành đạt",
+          "list_en_vn": [
+            {
+              "full_en": "to rise in the world",
+              "full_vn": "thành đạt"
+            },
+            {
+              "full_en": "a man likely to rise",
+              "full_vn": "một người có thể tiến lên (thành đạt)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt lên trên",
+          "list_en_vn": [
+            {
+              "full_en": "to rise above petty jealousies",
+              "full_vn": "vượt lên những thói ghen tị tầm thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi dậy",
+          "list_en_vn": [
+            {
+              "full_en": "to rise in arms against somebody",
+              "full_vn": "vũ trang nổi dậy chống lại ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phẫn nộ, phát tức; ghê tởm, lộn mửa",
+          "list_en_vn": [
+            {
+              "full_en": "gorge (stomach ) rises",
+              "full_vn": "phát tức lên; phẫn nộ, ghê tởm, lộn mửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt nguồn từ, do bởi",
+          "list_en_vn": [
+            {
+              "full_en": "the river rises from a spring",
+              "full_vn": "con sông bắt nguồn từ một dòng suối nhỏ"
+            },
+            {
+              "full_en": "the quarrel rose from a misunderstanding",
+              "full_vn": "sự bất hoà do hiểu lầm gây ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có khả năng đối phó, có thể đáp ứng với",
+          "list_en_vn": [
+            {
+              "full_en": "to rise to requirements",
+              "full_vn": "có thể đáp ứng những đòi hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bế mạc (hội nghị...)",
+          "list_en_vn": [
+            {
+              "full_en": "the Parliament will rise next week",
+              "full_vn": "tuần sau nghị viện sẽ bế mạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nổi lên, làm hiện lên"
+        },
+        {
+          "m_full_vn": "trông thấy nổi lên, trông thấy hiện lên",
+          "list_en_vn": [
+            {
+              "full_en": "not to rise a fish",
+              "full_vn": "không trông thấy một con cá nào nổi lên"
+            },
+            {
+              "full_en": "to rise a ship",
+              "full_vn": "trông thấy con tàu hiện lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390752_3d0a7bbd9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390752_2ae772fbfe_o.png",
+      "id_image": "rise_3805779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083160_2402741555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083160_f38937611e_o.png",
+      "id_image": "rise_4151600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700784_4a84fcc3e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700784_5d6692a7d8_o.png",
+      "id_image": "rise_5184252"
+    }
+  ]
+}

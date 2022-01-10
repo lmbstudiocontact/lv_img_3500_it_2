@@ -1,0 +1,50 @@
+{
+  "english": "pasty",
+  "phat_am": "['peisti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chả nướng bọc bột",
+          "list_en_vn": [
+            {
+              "full_en": "cornish pasty",
+              "full_vn": "bánh nướng nhồi thịt và khoai tây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sền sệt, nhão (như) bột nhão...",
+          "list_en_vn": [
+            {
+              "full_en": "mix to a pasty consistence",
+              "full_vn": "trộn cho đến độ sền sệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xanh xao, nhợt nhạt, ốm yếu (như) pasty-faced",
+          "list_en_vn": [
+            {
+              "full_en": "a pasty comlexion",
+              "full_vn": "nước da xanh xao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443703_a16fa5aed9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443703_d7b37348ed_o.png",
+      "id_image": "pasty_641890"
+    }
+  ]
+}

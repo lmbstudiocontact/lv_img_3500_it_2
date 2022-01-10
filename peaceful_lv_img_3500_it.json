@@ -1,0 +1,69 @@
+{
+  "english": "peaceful",
+  "phat_am": "['pi:sfl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoà bình",
+          "list_en_vn": [
+            {
+              "full_en": "a peaceful period of history",
+              "full_vn": "thời kỳ lịch sử hoà bình"
+            },
+            {
+              "full_en": "peaceful co-existence",
+              "full_vn": "sự chung sống hoà bình"
+            },
+            {
+              "full_en": "peaceful uses of atomic energy",
+              "full_vn": "sự sử dụng năng lượng nguyên tử vào mục đích hoà bình"
+            },
+            {
+              "full_en": "peaceful nations",
+              "full_vn": "những quốc gia yêu chuộng hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh thản, thái bình, yên tĩnh",
+          "list_en_vn": [
+            {
+              "full_en": "a peaceful evening",
+              "full_vn": "một buổi tối yên tĩnh"
+            },
+            {
+              "full_en": "a peaceful scene",
+              "full_vn": "một cảnh thanh bình"
+            },
+            {
+              "full_en": "a peaceful death",
+              "full_vn": "một cái chết thanh thản"
+            },
+            {
+              "full_en": "a peaceful sleep",
+              "full_vn": "một giấc ngủ yên tĩnh"
+            },
+            {
+              "full_en": "it's so peaceful out here in the country",
+              "full_vn": "ở vùng quê đây thật quá yên tĩnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062225_1bcfb978e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062225_cc069da561_o.png",
+      "id_image": "peaceful_2529696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062165_2f70a7790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062165_b8f536b4f4_o.png",
+      "id_image": "peaceful_4601210"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "previous",
+  "phat_am": "['pri:viəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước (thời gian, thứ tự); ưu tiên",
+          "list_en_vn": [
+            {
+              "full_en": "the previous day",
+              "full_vn": "ngày hôm trước"
+            },
+            {
+              "full_en": "without previous notice",
+              "full_vn": "không có thông báo trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) vội vàng, hấp tấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "Previous Examination",
+              "list_im": [
+                {
+                  "im_full_vn": "kỳ thi đầu tiên để lấy bằng tú tài văn chương (trường đại học Căm-brít)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "previous question",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đặt vấn đề có đem ra biểu quyết ngay một vấn đề trong chương trình nghị sự không (nghị viện Anh)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "( previous to ) trước khi",
+          "list_en_vn": [
+            {
+              "full_en": "previous to his marriage",
+              "full_vn": "trước khi anh ta lấy vợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063500_19f144cde1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063500_09d879acc6_o.png",
+      "id_image": "previous_5072322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441558_4b67bbae38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441558_649aafe3f9_o.png",
+      "id_image": "previous_5376901"
+    }
+  ]
+}

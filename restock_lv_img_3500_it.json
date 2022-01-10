@@ -1,0 +1,40 @@
+{
+  "english": "restock",
+  "phat_am": "[,ri:'stɔk]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứa đầy (bằng những thứ mới, thứ khác để thay thế những thứ đã bán, đã dùng..)",
+          "list_en_vn": [
+            {
+              "full_en": "restock the freezer for Christmas",
+              "full_vn": "chứa đầy (thức ăn trong) tủ đá (để dành) cho dịp nôen"
+            },
+            {
+              "full_en": "restock a lake /river with trout",
+              "full_vn": "thả thêm cá hồi vào hồ/sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bổ sung, cung cấp thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to restock the dictionary in its new edition",
+              "full_vn": "bổ sung cho từ điển trong lần xuất bản mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704874_ec42a546e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704874_9bf6c9cd21_o.png",
+      "id_image": "restock_6334813"
+    }
+  ]
+}

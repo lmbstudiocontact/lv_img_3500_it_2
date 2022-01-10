@@ -1,0 +1,125 @@
+{
+  "english": "pad",
+  "phat_am": "[pæd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) đường cái",
+          "list_en_vn": [
+            {
+              "full_en": "gentleman (knight , squire ) of the pad",
+              "full_vn": "kẻ cướp đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngựa dễ cưỡi (như) pad nag"
+        },
+        {
+          "m_full_vn": "miếng đệm lót, cái lót; yên ngựa có đệm"
+        },
+        {
+          "m_full_vn": "tập giấy thấm; tập giấy (viết, vẽ)"
+        },
+        {
+          "m_full_vn": "lõi hộp mực đóng dấu"
+        },
+        {
+          "m_full_vn": "cái đệm ống chân (chơi bóng gậy cong...)"
+        },
+        {
+          "m_full_vn": "như ink-pad"
+        },
+        {
+          "m_full_vn": "gan bàn chân (thỏ, cáo...)"
+        },
+        {
+          "m_full_vn": "bề mặt bằng phẳng dùng cho máy bay cất cánh, phóng tàu vũ trụ"
+        },
+        {
+          "m_full_vn": "nơi ai sống",
+          "list_en_vn": [
+            {
+              "full_en": "come back to my pad",
+              "full_vn": "quay về chỗ tôi ở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giỏ (dùng làm đơn vị (đo lường))"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ổ ăn chơi; tiệm hút"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi chân, cuốc bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to pad it ; to pad the hoof",
+              "full_vn": "(từ lóng) cuốc bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đệm, lót, độn thêm"
+        },
+        {
+          "m_full_vn": "bước nhẹ"
+        },
+        {
+          "m_full_vn": "( (thường) + out ) nhồi nhét những thứ thừa (đầy câu, đầy sách...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "padded cell",
+              "list_im": [
+                {
+                  "im_full_vn": "buồng có tường lót đệm (để nhốt người điên)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to pad a sentence out",
+              "full_vn": "nhồi nhét những thứ thừa đầy câu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382467_9a081e4527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382467_56982ff744_o.png",
+      "id_image": "pads_788074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074475_ca14bfe859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074475_ec59a68625_o.png",
+      "id_image": "pads_788076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382397_77b37075fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382397_e89dbd8e5a_o.png",
+      "id_image": "pads_788077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337736_be79d523ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337736_b47a2fd7a1_o.png",
+      "id_image": "pad_2071421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452608_aa1b482cf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452608_7b174e6a33_o.png",
+      "id_image": "pad_2123822"
+    }
+  ]
+}

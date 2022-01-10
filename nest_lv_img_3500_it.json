@@ -1,0 +1,142 @@
+{
+  "english": "nest",
+  "phat_am": "[nest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổ, ổ (chim, chuột...)",
+          "list_en_vn": [
+            {
+              "full_en": "birds' nest",
+              "full_vn": "tổ chim"
+            },
+            {
+              "full_en": "wasps' nest",
+              "full_vn": "tổ ong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi ẩn náu, sào huyệt (trộm cướp...)",
+          "list_en_vn": [
+            {
+              "full_en": "a nest of pirates",
+              "full_vn": "sào huyệt kẻ cướp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ đồ xếp lồng vào nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to feather one's nest",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) feather"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's an ill bird that fouls its own nest",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chẳng hay gì vạch áo cho người xem lưng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hornet's nest",
+              "list_im": [
+                {
+                  "im_full_vn": "sự phê phán gay gắt, sự phản đối kịch liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a mare's nest",
+              "list_im": [
+                {
+                  "im_full_vn": "điều phát hiện là hay ho, nhưng rốt cuộc lại chẳng ra gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a nest of tables",
+              "full_vn": "bộ bàn xếp lồng vào nhau"
+            },
+            {
+              "full_en": "a nest of boxes",
+              "full_vn": "bộ hộp xếp lồng vào nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tổ"
+        },
+        {
+          "m_full_vn": "tìm tổ chim, bắt tổ chim",
+          "list_en_vn": [
+            {
+              "full_en": "to go nesting",
+              "full_vn": "đi bắt tổ chim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ẩn núp, ẩn mình"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt vào ổ"
+        },
+        {
+          "m_full_vn": "( (thường) động tính từ quá khứ) xếp lồng vào nhau",
+          "list_en_vn": [
+            {
+              "full_en": "nested boxes",
+              "full_vn": "những hộp xếp lồng vào nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) lắp (mộng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439393_0483b6d649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439393_a6c53152d0_o.png",
+      "id_image": "nest_1809034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369292_85b592823c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369292_1be490eb59_o.png",
+      "id_image": "nest_183958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439358_80f1664592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439358_193d5b0cd3_o.png",
+      "id_image": "nest_2851878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324381_a87759d5b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324381_1b57405267_o.png",
+      "id_image": "nest_427432"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "projection",
+  "phat_am": "[prə'dʒek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phóng ra, sự bắn ra",
+          "list_en_vn": [
+            {
+              "full_en": "the projection of a torpedo",
+              "full_vn": "việc phóng một ngư lôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phép chiếu, sự chiếu, hình chiếu"
+        },
+        {
+          "m_full_vn": "sự chiếu, sự được chiếu; sự hiện hình, sự hình thành cụ thể (một ý nghĩ, một hình ảnh trong trí óc)",
+          "list_en_vn": [
+            {
+              "full_en": "film projection",
+              "full_vn": "việc chiếu phim"
+            },
+            {
+              "full_en": "the projection of one's feelings onto others",
+              "full_vn": "sự suy bụng ta ra bụng người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhô ra, sự lồi ra; chỗ nhô ra, chỗ lồi ra",
+          "list_en_vn": [
+            {
+              "full_en": "a projection on the surface of the globe",
+              "full_vn": "chỗ nhô ra trên mặt địa cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đặt kế hoạch, sự đặt đề án",
+          "list_en_vn": [
+            {
+              "full_en": "to undertake the projection of a new enterprise",
+              "full_vn": "đặt kế hoạch cho một tổ chức kinh doanh mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dự đoán (tương lai..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466273_6b607a799c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466273_d42d742956_o.png",
+      "id_image": "projection_352285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466253_86dd028585_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466253_9f607183c2_o.png",
+      "id_image": "projection_395736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088800_d185586d3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088800_235acfd2e2_o.png",
+      "id_image": "projection_901051"
+    }
+  ]
+}

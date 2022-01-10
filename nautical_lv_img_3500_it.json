@@ -1,0 +1,27 @@
+{
+  "english": "nautical",
+  "phat_am": "['nɔ:tikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) biển; (thuộc) hàng hải",
+          "list_en_vn": [
+            {
+              "full_en": "nautical almanac",
+              "full_vn": "lịch hàng hải"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371942_5364679154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371942_ea00a01eb2_o.png",
+      "id_image": "nautical_353324"
+    }
+  ]
+}

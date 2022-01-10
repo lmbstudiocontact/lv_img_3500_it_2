@@ -1,0 +1,92 @@
+{
+  "english": "performance",
+  "phat_am": "[pə'fɔ:məns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm; sự thực hiện; sự thi hành (lệnh...); sự cử hành (lễ...)",
+          "list_en_vn": [
+            {
+              "full_en": "the performance of a promise",
+              "full_vn": "sự thực hiện lời hứa"
+            },
+            {
+              "full_en": "faithful in the performance of one's duties",
+              "full_vn": "trung thực trong khi thi hành phận sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự biểu diễn, việc đóng (phim, kịch...); cuộc biểu diễn",
+          "list_en_vn": [
+            {
+              "full_en": "the evening performance",
+              "full_vn": "buổi biểu diễn tối"
+            },
+            {
+              "full_en": "to give a performance of 'Hamlet'",
+              "full_vn": "tổ chức biểu diễn vở Hamlet"
+            },
+            {
+              "full_en": "come and see her in performance with the new band",
+              "full_vn": "hãy đến xem cô ta biểu diễn với băng nhạc mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thành tích",
+          "list_en_vn": [
+            {
+              "full_en": "she won a gold medal for her fine performance in the contest",
+              "full_vn": "cô ta đạt huy chương vàng vì thành tích xuất sắc trong cuộc thi"
+            },
+            {
+              "full_en": "his performance in the test was not good enough",
+              "full_vn": "thành tích của nó trong cuộc sát hạch không được khả quan lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) hiệu suất (của máy móc)"
+        },
+        {
+          "m_full_vn": "hành vi lố bịch hoặc đáng hổ thẹn",
+          "list_en_vn": [
+            {
+              "full_en": "what a performance the child made !",
+              "full_vn": "đứa bé này đã làm một điều bậy bạ quá!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều gây phiền toái",
+          "list_en_vn": [
+            {
+              "full_en": "he goes through the whole performance of checking oil and water every time he drives the car",
+              "full_vn": "lần nào lái xe hơi nó cũng làm cái chuyện phiền toái vô ích là kiểm tra dầu và nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057610_600cb72a24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057610_3881b8f978_o.png",
+      "id_image": "performance_1624387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057590_b718a3c2c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057590_d795d697c9_o.png",
+      "id_image": "performance_1945765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435968_d59d6c9dba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435968_6ce337c212_o.png",
+      "id_image": "performance_2617907"
+    }
+  ]
+}

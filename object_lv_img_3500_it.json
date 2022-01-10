@@ -1,0 +1,129 @@
+{
+  "english": "object",
+  "phat_am": "['ɔbdʒikt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ vật, vật thể",
+          "list_en_vn": [
+            {
+              "full_en": "Glass , wooden and plastic objects",
+              "full_vn": "Những đồ vật bằng thủy tinh, bằng gỗ và bằng nhựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(triết học) khách thể"
+        },
+        {
+          "m_full_vn": "mục tiêu, mục đích",
+          "list_en_vn": [
+            {
+              "full_en": "With the object of attracting customers",
+              "full_vn": "Nhằm mục đích thu hút khách hàng"
+            },
+            {
+              "full_en": "To succeed /fail in one's object",
+              "full_vn": "Đạt/không đạt mục đích của mình"
+            },
+            {
+              "full_en": "His one object in life is to defeat everyone",
+              "full_vn": "Mục đích duy nhất của nó trên đời này là hạ hết mọi người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người lố lăng, vật lố lăng",
+          "list_en_vn": [
+            {
+              "full_en": "What an object you look in that tailcoat !",
+              "full_vn": "Ông mặc cái áo đuôi tôm này trông chẳng giống ai!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) bổ ngữ"
+        },
+        {
+          "m_full_vn": "( object of something ) người hoặc vật được cái gì đó tác động vào hoặc được tình cảm nào đó nhằm vào; đối tượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be no object",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng quan tâm, không thành vấn đề",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Expense is no object , because he wants to go abroad as soon as pọssible",
+                      "full_vn": "Chi phí không thành vấn đề, vì nó muốn ra nước ngoài càng sớm càng tốt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "An object of attention /pity /admiration",
+              "full_vn": "Một đối tượng gây chú ý/thương hại/thán phục"
+            },
+            {
+              "full_en": "This villa is the main object of her interest",
+              "full_vn": "Biệt thự này là đối tượng quan tâm chủ yếu của bà ấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to object to somebody / something ) phản đối; chống lại"
+        },
+        {
+          "m_full_vn": "đưa ra (cái gì) kèm để phản đối ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I objected : \"But he's too young \"",
+              "full_vn": "tôi phản đối \"nhưng mà nó quá trẻ\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghét, không thích, cảm thấy khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "I object to being treated like this",
+              "full_vn": "tôi không thích bị đối xử như vậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394662_d15c290ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394662_dec28bf558_o.png",
+      "id_image": "object_1690980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704469_80467fdba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704469_765203aaa5_o.png",
+      "id_image": "object_2181355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464468_41e54374fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464468_3d726d8f64_o.png",
+      "id_image": "object_4882941"
+    }
+  ]
+}

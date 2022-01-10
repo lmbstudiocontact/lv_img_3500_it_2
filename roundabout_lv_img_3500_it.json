@@ -1,0 +1,55 @@
+{
+  "english": "roundabout",
+  "phat_am": "['raundəbaut]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(không đi theo con đường ngắn nhất hoặc không nói thật ngắn gọn); theo đường vòng; quanh co",
+          "list_en_vn": [
+            {
+              "full_en": "to go by a roundabout route ; to take a roundabout route",
+              "full_vn": "đi bằng con đường vòng"
+            },
+            {
+              "full_en": "a roundabout way of saying something",
+              "full_vn": "lối nói quanh co về việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẫy đà; to béo; mập mạp"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ đường vòng (phải vòng qua bục công an... chứ không đi thẳng được); bùng binh (như) rotary , traffic-circle"
+        },
+        {
+          "m_full_vn": "sàn quay tròn có mô hình ngựa, xe... cho trẻ con chơi ở hội chợ; vòng ngựa gỗ (cũng) carousel , merry-go-round , whirligig"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341241_c3c51e3d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341241_c09b265296_o.png",
+      "id_image": "roundabout_1434832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456023_1359810021_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456023_d2ff70e6cc_o.png",
+      "id_image": "roundabout_1581880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696414_0aa1fe6159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696414_83c9b65d19_o.png",
+      "id_image": "roundabout_3752004"
+    }
+  ]
+}

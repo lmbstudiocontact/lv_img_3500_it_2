@@ -1,0 +1,37 @@
+{
+  "english": "renovation",
+  "phat_am": "[,renə'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nâng cấp, sự cải tiến, sự đổi mới; sự sửa chữa lại, sự hồi phục (toà nhà..)",
+          "list_en_vn": [
+            {
+              "full_en": "be under renovation",
+              "full_vn": "đang được hồi phục lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439928_a27485e93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439928_803723e14d_o.png",
+      "id_image": "renovation_1028012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680009_7291a82a5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680009_d243246e94_o.png",
+      "id_image": "renovation_2991448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439858_a3a8fa0cbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439858_264bebd275_o.png",
+      "id_image": "renovation_4820751"
+    }
+  ]
+}

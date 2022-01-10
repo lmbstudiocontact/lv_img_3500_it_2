@@ -1,0 +1,609 @@
+{
+  "english": "pass",
+  "phat_am": "[pɑ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành công trong một kỳ thi; sự thi đỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to get a pass in English",
+              "full_vn": "thi đạt môn Anh văn"
+            },
+            {
+              "full_en": "2 passes and 3 fails",
+              "full_vn": "đạt 2 môn, trượt 3 môn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấy phép ra vào (một nơi nào); vé xe buýt hoặc xe lửa cho phép ai đi thường xuyên trên một lộ trình nhất định trong một thời gian nhất định với giá hạ hoặc không mất tiền, vé tháng",
+          "list_en_vn": [
+            {
+              "full_en": "all visitors must show their passes before entering the building",
+              "full_vn": "tất cả các khách tham quan đều phải trình giấy phép trước khi vào toà nhà"
+            },
+            {
+              "full_en": "there is no admittance without a pass",
+              "full_vn": "không có giấy phép không được vào"
+            },
+            {
+              "full_en": "a monthly bus pass",
+              "full_vn": "vé tháng đi xe búyt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự chuyền bóng (bóng đá); cú đâm, cú tấn công, phóng (đấu kiếm)",
+          "list_en_vn": [
+            {
+              "full_en": "a long pass to the striker",
+              "full_vn": "một quả chuyền dài cho người đánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cho qua (đánh bài)"
+        },
+        {
+          "m_full_vn": "sự khuơ tay (ảo thuật)",
+          "list_en_vn": [
+            {
+              "full_en": "the conjurer made a few passes with his hand over the hat",
+              "full_vn": "nhà ảo thuật khuơ bàn tay vài lần trên cái mũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đường đi xuyên qua) khe hoặc chỗ thấp trong một rặng núi; đèo"
+        },
+        {
+          "m_full_vn": "(quân sự) con đường độc đạo, vị trí cửa ngõ (để tiến vào một nước)"
+        },
+        {
+          "m_full_vn": "(hàng hải) eo biển tàu bè qua lại được"
+        },
+        {
+          "m_full_vn": "cửa thông cho cá vào đăng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khuôn cán, rãnh cán",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sell the pass",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) phản bội một cuộc đấu tranh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring something to pass",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho cái gì xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to pass",
+              "list_im": [
+                {
+                  "im_full_vn": "xảy ra như dự định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a pass at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) tán tỉnh, gạ gẫm ai (về tình dục)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to such a pass /a pretty pass",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt tới một tình trạng đáng buồn hoặc nguy kịch"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lên hoặc đi sang bên cạnh ( ai/cái gì); đi qua",
+          "list_en_vn": [
+            {
+              "full_en": "the street was so crowded that cars were unable to pass",
+              "full_vn": "phố đông đến nỗi xe ô tô không thể vượt được"
+            },
+            {
+              "full_en": "to pass a barrier /sentry /checkpoint",
+              "full_vn": "đi qua rào chắn/lính gác/trạm kiểm soát"
+            },
+            {
+              "full_en": "not a word passed her lips",
+              "full_vn": "cô ta chẳng nói gì cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để ( ai/cái gì) lại một bên hoặc đằng sau khi ta tiến lên phía trước; đi ngang qua ( ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "turn right after passing the Post Office",
+              "full_vn": "rẽ phải sau khi đi qua bưu điện"
+            },
+            {
+              "full_en": "she passed me in the street without even saying hello",
+              "full_vn": "cô ta đi ngang qua tôi ngoài phố mà chẳng chào hỏi gì cả"
+            },
+            {
+              "full_en": "I pass the church on my way to work",
+              "full_vn": "trên đường đi làm, tôi đi ngang qua nhà thờ"
+            },
+            {
+              "full_en": "a car passed me at 90 mph on the motorway",
+              "full_vn": "một chiếc ô tô vượt qua tôi với tốc độ 90 dặm/giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi hoặc di chuyển theo một hướng được nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "the procession passed slowly down the hill",
+              "full_vn": "đám rước đi chầm chậm xuống chân đồi"
+            },
+            {
+              "full_en": "to pass down the street",
+              "full_vn": "đi xuống phố"
+            },
+            {
+              "full_en": "to pass along a wall",
+              "full_vn": "đi dọc theo bức tường"
+            },
+            {
+              "full_en": "to pass across a road",
+              "full_vn": "đi ngang qua đường"
+            },
+            {
+              "full_en": "to pass over a bridge",
+              "full_vn": "đi qua cầu"
+            },
+            {
+              "full_en": "pass along !",
+              "full_vn": "đi lên!, đi đi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trải qua; trôi đi, trôi qua (thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "time passes rapidly",
+              "full_vn": "thời gian trôi nhanh"
+            },
+            {
+              "full_en": "the holidays passed far too quickly",
+              "full_vn": "những ngày nghỉ trôi qua quá nhanh"
+            },
+            {
+              "full_en": "to pass through many hardships",
+              "full_vn": "trải qua nhiều khó khăn gian khổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luồn qua, xuyên qua",
+          "list_en_vn": [
+            {
+              "full_en": "to pass a thread through the eye of a needle",
+              "full_vn": "luồn sợi chỉ qua lỗ kim"
+            },
+            {
+              "full_en": "to pass a rope round a post",
+              "full_vn": "cuốn một sợi dây thừng quanh cái cọc"
+            },
+            {
+              "full_en": "she passed her hand across her forehead",
+              "full_vn": "cô ta đưa tay quệt trán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyền (bóng); chuyển; trao",
+          "list_en_vn": [
+            {
+              "full_en": "he passed (the ball ) to the winger",
+              "full_vn": "anh ta chuyền bóng cho tiền đạo cánh"
+            },
+            {
+              "full_en": "pass (me ) the salt , please",
+              "full_vn": "làm ơn chuyển cho tôi lọ muối"
+            },
+            {
+              "full_en": "they passed the photograph round",
+              "full_vn": "họ chuyển bức ảnh cho mọi người lần lượt xem"
+            },
+            {
+              "full_en": "she passed the letter to Mary",
+              "full_vn": "cô ta trao bức thư cho Mary"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển từ người này sang người khác",
+          "list_en_vn": [
+            {
+              "full_en": "to pass from mouth to mouth",
+              "full_vn": "truyền từ miệng người này sang miệng người khác"
+            },
+            {
+              "full_en": "on his death , the title passed to his eldest son",
+              "full_vn": "khi ông ta chết, tước hiệu của ông ta được truyền cho người con trai cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) chuyển qua, chuyển sang, biến thành, trở thành, đổi thành",
+          "list_en_vn": [
+            {
+              "full_en": "water passes from a liquid to a solid state when it freezes",
+              "full_vn": "nước chuyển từ thể lỏng sang thể rắn khi nó đông lạnh"
+            },
+            {
+              "full_en": "to pass from boyhood to manhood",
+              "full_vn": "chuyển từ tuổi thiếu niên sang tuổi trưởng thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng hoặc qua (thời giờ)",
+          "list_en_vn": [
+            {
+              "full_en": "what did she do to pass the time while she was convalescing ?",
+              "full_vn": "bà ta làm gì cho qua giờ trong lúc dưỡng bệnh?"
+            },
+            {
+              "full_en": "how did you pass the evening ?",
+              "full_vn": "tối hôm ấy anh làm gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi đến kết thúc; chấm dứt; qua đi",
+          "list_en_vn": [
+            {
+              "full_en": "they wait for the storm to pass",
+              "full_vn": "họ đợi cho cơn bão tan"
+            },
+            {
+              "full_en": "his fit of anger will soon pass",
+              "full_vn": "cơn giận của hắn rồi sẽ qua đi mau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông qua; chấp nhận; được thông qua; được chấp nhận",
+          "list_en_vn": [
+            {
+              "full_en": "Parliament passed the bill",
+              "full_vn": "Nghị viện đã thông qua dự luật"
+            },
+            {
+              "full_en": "the motion was passed by 12 votes to 10",
+              "full_vn": "bản kiến nghị được thông qua với 12 phiếu thuận, 10 phiếu chống"
+            },
+            {
+              "full_en": "the bill passed and became law",
+              "full_vn": "dự luật đã được thông qua và trở thành luật"
+            },
+            {
+              "full_en": "this film will never pass the censors",
+              "full_vn": "bộ phim này sẽ không bao giờ được kiểm duyệt thông qua"
+            },
+            {
+              "full_en": "the bill is sure to pass",
+              "full_vn": "bản dự luật chắc chắn sẽ được thông qua"
+            },
+            {
+              "full_en": "these theories will not pass now",
+              "full_vn": "những lý thuyết đó sẽ không được chấp nhận nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thi đỗ",
+          "list_en_vn": [
+            {
+              "full_en": "you'll have to work hard if you want to pass (the exam )",
+              "full_vn": "nếu anh muốn đỗ (kỳ thi) thì phải học chăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ qua; cho qua",
+          "list_en_vn": [
+            {
+              "full_en": "I don't like it , but I'll let it pass",
+              "full_vn": "tôi không ưa chuyện này, nhưng tôi sẽ bỏ qua"
+            },
+            {
+              "full_en": "his rudeness passed without comment",
+              "full_vn": "thái độ bất lịch sự của nó chẳng ai bình phẩm cả"
+            },
+            {
+              "full_en": "such behaviour may pass in some circles but it will not tolerated here",
+              "full_vn": "hành vi như thế có thể được cho qua ở vài giới nào đó, chứ ở đây thì nhất quyết không dung thứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyên bố hoặc nói ra cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to pass sentence (on somebody found guilty of a crime )",
+              "full_vn": "tuyên án (ai bị kết tội)"
+            },
+            {
+              "full_en": "the verdict passed for the plaintiff",
+              "full_vn": "bản án được tuyên bố cho bên nguyên thắng"
+            },
+            {
+              "full_en": "to pass judgement on a matter",
+              "full_vn": "đưa ra nhận xét về một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xảy ra, được làm, được nói đến",
+          "list_en_vn": [
+            {
+              "full_en": "I could not hear what was passing",
+              "full_vn": "tôi không nghe thấy những gì người ta nói đến"
+            },
+            {
+              "full_en": "after all that has passed between them",
+              "full_vn": "suy cho cùng, đó là chuyện xảy ra giữa họ với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt quá giới hạn",
+          "list_en_vn": [
+            {
+              "full_en": "to pass belief",
+              "full_vn": "vượt quá lòng tin (khó tin)"
+            },
+            {
+              "full_en": "to pass one's comprehension",
+              "full_vn": "vượt quá tầm hiểu biết của ai (không thể hiểu được)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) không đánh bài ra hoặc không tố khi đến lượt; cho qua"
+        },
+        {
+          "m_full_vn": "lưu hành, tiêu được (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "this coin will not pass",
+              "full_vn": "đồng tiền này không tiêu được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thải (vật gì đó) từ cơ thể người (phân, nước tiểu chẳng hạn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pass away",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, qua đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass something /somebody by",
+              "list_im": [
+                {
+                  "im_full_vn": "đi qua, đi ngang qua"
+                },
+                {
+                  "im_full_vn": "bỏ qua, lờ đi, nhắm mắt bỏ qua, làm ngơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass for something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "được coi là; có tiếng là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pass for a scholar",
+                      "full_vn": "được coi là một học giả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass in (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "thi đỗ vào (như) to pass one's checks"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass off",
+              "list_im": [
+                {
+                  "im_full_vn": "mất đi, biến mất (cảm giác...)"
+                },
+                {
+                  "im_full_vn": "đánh lạc, sự chú ý, làm cho không chú ý (cái gì)"
+                },
+                {
+                  "im_full_vn": "diễn ra, được thực hiện, được hoàn thành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the whole thing passed off without a hitch",
+                      "full_vn": "mọi việc diễn ra không có gì trắc trở"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đem tiêu trót lọt (tiền giả...); gian dối tống ấn (cho ai cái gì...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he passed it off upon her for a Rubens",
+                      "full_vn": "hắn gian dối tống ấn cho bà ta một bức tranh mạo là của Ru-ben"
+                    },
+                    {
+                      "full_en": "to pass oneself off",
+                      "full_vn": "mạo nhận là"
+                    },
+                    {
+                      "full_en": "he passes himself off as a doctor",
+                      "full_vn": "nó mạo nhận là một bác sĩ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass on",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tiếp"
+                },
+                {
+                  "im_full_vn": "như pass away"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thực vật học) chết, qua đời"
+                },
+                {
+                  "im_full_vn": "(thông tục) say không biết trời đất gì"
+                },
+                {
+                  "im_full_vn": "mê đi, bất tỉnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pass out (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "ra trường, mãn khoá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass over",
+              "list_im": [
+                {
+                  "im_full_vn": "băng qua"
+                },
+                {
+                  "im_full_vn": "chết"
+                },
+                {
+                  "im_full_vn": "làm lơ đi, bỏ qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pass it over in silence",
+                      "full_vn": "làm lơ đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass round",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyền tay, chuyền theo vòng"
+                },
+                {
+                  "im_full_vn": "đi vòng quanh"
+                },
+                {
+                  "im_full_vn": "cuộn tròn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to pass a rope round a cask",
+                      "full_vn": "cuộn cái dây thừng quanh thúng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass through",
+              "list_im": [
+                {
+                  "im_full_vn": "ghé qua"
+                },
+                {
+                  "im_full_vn": "trải qua (một thời gian)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) từ chối, từ bỏ, khước từ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass water",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngoài (tiểu)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "if you're passing blood , you ought to see a doctor",
+              "full_vn": "nếu anh đái ra máu thì phải đi khám bác sĩ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445408_7bd85eeed0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445408_6f01cbdf99_o.png",
+      "id_image": "pass_589871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375082_262733e5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375082_d698198852_o.png",
+      "id_image": "pass_6080089"
+    }
+  ]
+}

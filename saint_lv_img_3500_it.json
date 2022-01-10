@@ -1,0 +1,71 @@
+{
+  "english": "saint",
+  "phat_am": "[seint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) St thánh, vị thánh (trong đạo Cơ đốc)",
+          "list_en_vn": [
+            {
+              "full_en": "St-Paul , St-Vincent",
+              "full_vn": "thánh Paul, thánh Vincent"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (viết tắt) SS các Thánh"
+        },
+        {
+          "m_full_vn": "người trong sạch, người thánh thiện",
+          "list_en_vn": [
+            {
+              "full_en": "this would provoke a saint",
+              "full_vn": "điều ấy đến bụt cũng không chịu nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) thánh (người đã chết và đang ở trên thiên đường)"
+        },
+        {
+          "m_full_vn": "ông thánh (người không ích kỷ hoặc kiên nhẫn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be with the Saints",
+              "list_im": [
+                {
+                  "im_full_vn": "về chầu Diêm vương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "departed saint",
+              "list_im": [
+                {
+                  "im_full_vn": "người đã quá cố"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phong thánh; coi là thánh; gọi là thánh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074165_71d1d02be4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074165_8062fcc2f0_o.png",
+      "id_image": "saint_2333251"
+    }
+  ]
+}

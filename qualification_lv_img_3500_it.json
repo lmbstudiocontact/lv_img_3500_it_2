@@ -1,0 +1,64 @@
+{
+  "english": "qualification",
+  "phat_am": "[,kwɔlifi'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cho là; sự gọi là; sự định tính chất, sự định phẩm chất",
+          "list_en_vn": [
+            {
+              "full_en": "the qualification of his policy as opportunist is unfair",
+              "full_vn": "cho chính sách của ông ta là cơ hội thì không đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phẩm chất, năng lực, sự đủ tư cách, sự đủ khả năng (để đảm nhiệm một chức vụ...)",
+          "list_en_vn": [
+            {
+              "full_en": "the qualification for membership",
+              "full_vn": "sự đủ tư cách gia nhập (một đoàn thể)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng chuyên môn, trình độ chuyên môn, tiêu chuẩn chuyên môn; văn bằng, học vị, chứng chỉ..",
+          "list_en_vn": [
+            {
+              "full_en": "a doctor's qualifications",
+              "full_vn": "những văn bằng chứng nhận của một bác sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hạn chế; sự dè dặt",
+          "list_en_vn": [
+            {
+              "full_en": "He gave his approval to this audacious scheme but not without qualification",
+              "full_vn": "Ông ta tán thành kế hoạch táo bạo này, nhưng không phải là ông ta không dè dặt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460378_a0e9872d88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460378_75decb2ac8_o.png",
+      "id_image": "qualification_2292250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390602_edea7fb4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390602_0d43086024_o.png",
+      "id_image": "qualification_2727697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082975_e6e305a8c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082975_8bd9a4a85d_o.png",
+      "id_image": "qualification_2867425"
+    }
+  ]
+}

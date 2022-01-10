@@ -1,0 +1,35 @@
+{
+  "english": "nomination",
+  "phat_am": "[,nɔmi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chỉ định, bổ nhiệm hoặc được chỉ định, bổ nhiệm"
+        },
+        {
+          "m_full_vn": "trường hợp chỉ định, bổ nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "how many nominations have there been so far ?",
+              "full_vn": "đến nay đã có bao nhiêu trường hợp bổ nhiệm (bao nhiêu người được bổ nhiệm)?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677019_c409dab1d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677019_4999a0c53b_o.png",
+      "id_image": "nomination_2473119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437078_f9fe20ecb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437078_f88099f039_o.png",
+      "id_image": "nomination_4033790"
+    }
+  ]
+}

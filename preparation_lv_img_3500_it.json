@@ -1,0 +1,92 @@
+{
+  "english": "preparation",
+  "phat_am": "[,prepə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sửa soạn; sự chuẩn bị",
+          "list_en_vn": [
+            {
+              "full_en": "you can't pass an exam without preparation",
+              "full_vn": "anh chưa chuẩn bị thì không thể thi đỗ được"
+            },
+            {
+              "full_en": "food preparation areas must be kept clean",
+              "full_vn": "khu vực chuẩn bị thức ăn phải được giữ sạch sẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( preparation for something / to do something ) những thứ làm ra để chuẩn bị cho cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the city is making preparations for the imminent festivities",
+              "full_vn": "thành phố đang chuẩn bị cho những lễ hội sắp tới"
+            },
+            {
+              "full_en": "was your education a good preparation for your career ?",
+              "full_vn": "vốn kiến thức của anh có chuẩn bị tốt cho nghề của anh không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như prep"
+        },
+        {
+          "m_full_vn": "chất được chuẩn bị đặc biệt để làm mỹ phẩm, thuốc chữa bệnh...; chất pha chế",
+          "list_one_mean": [
+            {
+              "id_full_en": "in preparation for something",
+              "list_im": [
+                {
+                  "im_full_vn": "đang được chuẩn bị cho cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the advertising campaign is still in preparation",
+                      "full_vn": "chiến dịch quảng cáo vẫn đang trong vòng chuẩn bị"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a pharmaceutical preparation",
+              "full_vn": "dược liệu đã điều chế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328751_46d5065224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328751_b8203f8660_o.png",
+      "id_image": "preparation_329807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065545_fc00878081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065545_0c70c4acaf_o.png",
+      "id_image": "preparation_3380822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373442_1fe20ce64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373442_d3c1aaafb4_o.png",
+      "id_image": "preparation_4192905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065490_2ecff62872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065490_8bc7357218_o.png",
+      "id_image": "preparation_6159837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328611_32a80cb366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328611_8bfcca32ff_o.png",
+      "id_image": "preparation_6347410"
+    }
+  ]
+}

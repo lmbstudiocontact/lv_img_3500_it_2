@@ -1,0 +1,119 @@
+{
+  "english": "repeat",
+  "phat_am": "[ri'pi:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự nhắc lại, sự lặp lại; cái lặp lại"
+        },
+        {
+          "m_full_vn": "(sân khấu) tiết mục được biểu diễn lại (sau khi khản giả yêu cầu)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) phần chỉ lại; dấu chỉ phần trở lại"
+        },
+        {
+          "m_full_vn": "(rađiô) chương trình (phát thanh) lặp lại"
+        },
+        {
+          "m_full_vn": "giấy đặt hàng lặp lại (trong kinh doanh); chuyến hàng y như trước"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) học trò phải ở lại lớp (không được lên lớp)"
+        },
+        {
+          "m_full_vn": "hình mẫu trang trí lặp đi lặp lại (trên giấy, vải hoa...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhắc lại, lặp lại",
+          "list_en_vn": [
+            {
+              "full_en": "his language will not bear repeating",
+              "full_vn": "lời lẽ của hắn không thể nhắc lại được (vì quá thô tục)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm lại",
+          "list_en_vn": [
+            {
+              "full_en": "to repeat an action",
+              "full_vn": "làm lại một hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đọc thuộc lòng",
+          "list_en_vn": [
+            {
+              "full_en": "to repeat a poem",
+              "full_vn": "đọc thuộc lòng một bài thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kể lại; thuật lại",
+          "list_en_vn": [
+            {
+              "full_en": "to repeat a secret",
+              "full_vn": "kể lại một điều bí mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập duyệt (một vai, một vở kịch...)",
+          "list_en_vn": [
+            {
+              "full_en": "to repeat onself",
+              "full_vn": "nhắc đi nhắc lại, lặp đi lặp lại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tái diễn, lặp đi lặp lại, nhắc đi nhắc lại"
+        },
+        {
+          "m_full_vn": "ợ (thức ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "sour food sometimes repeats",
+              "full_vn": "ăn thức ăn chua đôi khi bị ợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bỏ phiếu gian lận nhiều lần (trong cuộc bầu cử)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323776_58c61e5679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323776_4c8bdfbc50_o.png",
+      "id_image": "repeat_1622705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323726_b2f6fdd0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323726_747f84834b_o.png",
+      "id_image": "repeat_3120741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438773_51cc1ef2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438773_f5d0ccbc9b_o.png",
+      "id_image": "repeat_5072368"
+    }
+  ]
+}

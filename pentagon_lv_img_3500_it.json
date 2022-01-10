@@ -1,0 +1,35 @@
+{
+  "english": "pentagon",
+  "phat_am": "['pentəgən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình ngũ giác, hình năm cạnh"
+        },
+        {
+          "m_full_vn": "( the Pentagon ) Lầu năm góc; Ngũ giác đài ( Bộ quốc phòng Mỹ); những người cầm đầu lực lượng vũ trang Mỹ",
+          "list_en_vn": [
+            {
+              "full_en": "a spokesman for the Pentagon",
+              "full_vn": "người phát ngôn của Lầu năm góc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676994_e2ee11ec9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676994_c57287ab68_o.png",
+      "id_image": "pentagon_2106641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366787_f38c10841d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366787_793da64df8_o.png",
+      "id_image": "pentagon_5854092"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "offside",
+  "phat_am": "['ɔfsaid]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "việt vị (bóng đá)",
+          "list_en_vn": [
+            {
+              "full_en": "the forwards are all offside",
+              "full_vn": "tất cả các tiền đạo đều bị việt vị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bên phải; phía tay phải",
+          "list_en_vn": [
+            {
+              "full_en": "the rear offside tyre",
+              "full_vn": "lốp sau bên phải"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462668_82ed1bd67b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462668_47466b8519_o.png",
+      "id_image": "offside_1540536"
+    }
+  ]
+}

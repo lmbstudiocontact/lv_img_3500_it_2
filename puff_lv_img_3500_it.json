@@ -1,0 +1,116 @@
+{
+  "english": "puff",
+  "phat_am": "[pʌf]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơi thở phù, luồng gió thổi phụt qua; luồng hơi phụt ra, luồng khói phụt ra... tiếng thổi phù; tiếng hơi phụt ra"
+        },
+        {
+          "m_full_vn": "(thông tục) hơi thuốc lá ngắn (hút thuốc)"
+        },
+        {
+          "m_full_vn": "chỗ phùng lên, chỗ bồng lên (ở tay áo); mớ tóc bồng"
+        },
+        {
+          "m_full_vn": "cái nùi bông thoa phấn (như) powder-puff"
+        },
+        {
+          "m_full_vn": "bánh kem, bánh xốp"
+        },
+        {
+          "m_full_vn": "như breath",
+          "list_en_vn": [
+            {
+              "full_en": "out of puff",
+              "full_vn": "hết hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời khen láo, lời tân bốc láo; lời quảng cáo láo, lời quảng cáo khuếch khoác (một cuốn sách, một thứ hàng trên báo)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thở phù phù, phụt phụt ra"
+        },
+        {
+          "m_full_vn": "hút bập bập, hút từng hơi ngắn (thuốc lá)",
+          "list_en_vn": [
+            {
+              "full_en": "ro puff away at one's cigar",
+              "full_vn": "hút bập bập điếu xì gà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + out , up ) phùng lên, phồng lên; (nghĩa bóng) vênh váo, dương dương tự đắc",
+          "list_en_vn": [
+            {
+              "full_en": "puff somebody out",
+              "full_vn": "làm đứt hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + along , in , out , up ..) (thông tục) phụt khói, thở hỗn hển",
+          "list_one_mean": [
+            {
+              "id_full_en": "to puff and blow , puff and pant",
+              "list_im": [
+                {
+                  "im_full_vn": "thở phì phò, thở hổn hển"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + out , up , away ) thổi phù, thổi phụt ra, phụt ra (khói, hơi...)"
+        },
+        {
+          "m_full_vn": "( + out ) nói hổn hển, làm mệt đứt hơi",
+          "list_en_vn": [
+            {
+              "full_en": "to be rather puffed",
+              "full_vn": "gần như mệt đứt hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hút bập bập, hút từng hơi ngắn (thuốc lá...)"
+        },
+        {
+          "m_full_vn": "( + out , up ) làm phùng lên, làm phồng lên; (nghĩa bóng) làm vênh váo, làm dương dương tự đắc",
+          "list_en_vn": [
+            {
+              "full_en": "to be puffed up with pride",
+              "full_vn": "dương dương tự đắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bồng lên; quảng cáo láo, quảng cáo khuếch khoác (sách, hàng... trên báo)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393222_d8a27d9203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393222_2ea2ec5999_o.png",
+      "id_image": "puff_4759114"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "oath",
+  "phat_am": "[ouθ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều oaths",
+      "list_m": [
+        {
+          "m_full_vn": "lời thề, lời tuyên thệ",
+          "list_en_vn": [
+            {
+              "full_en": "to take (make , swear ) an oath",
+              "full_vn": "tuyên thệ"
+            },
+            {
+              "full_en": "on my oath",
+              "full_vn": "tôi xin thề"
+            },
+            {
+              "full_en": "on (one's ) oath",
+              "full_vn": "đã thề, đã tuyên thệ"
+            },
+            {
+              "full_en": "to put /place sb on /under",
+              "full_vn": "bắt ai thề"
+            },
+            {
+              "full_en": "oath of allegiance",
+              "full_vn": "lời thề trung thành"
+            },
+            {
+              "full_en": "to swear /take an oath",
+              "full_vn": "tuyên thệ"
+            },
+            {
+              "full_en": "under oath",
+              "full_vn": "tuyên thề (trước toà)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời nguyền rủa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055870_97dc3b5364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055870_edc12a8072_o.png",
+      "id_image": "oath_2646684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055865_c2ae9f9110_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055865_1a636f46bd_o.png",
+      "id_image": "oath_372292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434383_0c2c1b5692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434383_a7d9c6cedf_o.png",
+      "id_image": "oath_4474008"
+    }
+  ]
+}

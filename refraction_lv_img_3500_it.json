@@ -1,0 +1,41 @@
+{
+  "english": "refraction",
+  "phat_am": "[ri'fræk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) sự khúc xạ, độ khúc xạ; sự bị khúc xạ",
+          "list_en_vn": [
+            {
+              "full_en": "atmospheric refraction",
+              "full_vn": "sự khúc xạ quyển khí"
+            },
+            {
+              "full_en": "atomic refraction",
+              "full_vn": "độ khúc xạ quyển khí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067795_5d24ebace9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067795_14d7ee3246_o.png",
+      "id_image": "refraction_1039027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685979_29bcd65ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685979_cfabd230a1_o.png",
+      "id_image": "refraction_2824956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330981_45ab23f7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330981_cef74758df_o.png",
+      "id_image": "refraction_4542865"
+    }
+  ]
+}

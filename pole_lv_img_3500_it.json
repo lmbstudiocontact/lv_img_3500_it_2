@@ -1,0 +1,138 @@
+{
+  "english": "pole",
+  "phat_am": "[poul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Pole ) người Ba lan"
+        },
+        {
+          "m_full_vn": "cực (của trái đất)",
+          "list_en_vn": [
+            {
+              "full_en": "north pole",
+              "full_vn": "bắc cực"
+            },
+            {
+              "full_en": "south pole",
+              "full_vn": "nam cực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) cực (nam châm, ắc quy)",
+          "list_en_vn": [
+            {
+              "full_en": "magmetic pole",
+              "full_vn": "cực từ"
+            },
+            {
+              "full_en": "negative pole",
+              "full_vn": "cực âm"
+            },
+            {
+              "full_en": "positive pole",
+              "full_vn": "cực dương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thái cực (quan điểm xung đột, đối lập nhau)"
+        },
+        {
+          "m_full_vn": "điểm cực (điểm tập trung sự chú ý...)"
+        },
+        {
+          "m_full_vn": "cái sào (để chống thuyền..), cọc (để căng lều..), cột (cờ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a tent pole",
+              "full_vn": "cái cọc lều"
+            },
+            {
+              "full_en": "a flag pole",
+              "full_vn": "cột cờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con sào (đơn vị đo chiều dài (đất) = 5, 5 yat tức 5, 03 mét) (như) rod , perch"
+        },
+        {
+          "m_full_vn": "cọc, gọng (để phía trước xe, để buộc dây nối với ách ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "under bare poles",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) không giương buồm"
+                },
+                {
+                  "im_full_vn": "xơ xác dạc dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up the pole",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) lâm vào thế bí, lâm vào cảnh bế tắc"
+                },
+                {
+                  "im_full_vn": "sai, sai lầm"
+                },
+                {
+                  "im_full_vn": "mất trí, kỳ cục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be as wide as the poles apart",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn đối lập nhau, hoàn toàn trái ngược nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be poles apart",
+              "list_im": [
+                {
+                  "im_full_vn": "cách biệt nhau nhiều, không có điểm gì chung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẩy bằng sào (thuyền..); cắm cột, chống bằng cột",
+          "list_en_vn": [
+            {
+              "full_en": "pole a punt up the river",
+              "full_vn": "dùng sào chống thuyền đi ngược sông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693109_4177e27e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693109_1c060d6ae7_o.png",
+      "id_image": "pole_1588834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452663_214215cc5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452663_0106a56c52_o.png",
+      "id_image": "pole_4276356"
+    }
+  ]
+}

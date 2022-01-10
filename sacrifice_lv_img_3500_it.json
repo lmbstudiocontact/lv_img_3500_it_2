@@ -1,0 +1,106 @@
+{
+  "english": "sacrifice",
+  "phat_am": "['sækrifais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( sacrifice to somebody ) sự cúng thần; sự tế lễ; vật hiến tế",
+          "list_en_vn": [
+            {
+              "full_en": "to kill a sheep as a sacrifice",
+              "full_vn": "giết một con cừu làm vật tế thần"
+            },
+            {
+              "full_en": "the sacrifice of an ox to Jupiter",
+              "full_vn": "sự hiến dâng một con bò đực lên thần Jupiter"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự từ bỏ cái gì để đổi lấy thứ quan trọng hoặc có giá trị hơn; sự hy sinh; vật hy sinh",
+          "list_en_vn": [
+            {
+              "full_en": "getting rich isn't worth the sacrifice of your principles",
+              "full_vn": "có giàu thì cũng chẳng xứng với việc từ bỏ các nguyên tắc của anh"
+            },
+            {
+              "full_en": "he became a top sportsman at some sacrifice to himself",
+              "full_vn": "anh ấy trở thành vận động viên hàng đầu nhờ sự hy sinh phần nào đối với bản thân (kiên trì luyện tập, từ bỏ các thú vui riêng chẳng hạn)"
+            },
+            {
+              "full_en": "her parents made many sacrifices so that she could go to university",
+              "full_vn": "bố mẹ cô ấy đã hy sinh nhiều để cho cô ấy được vào đại học"
+            },
+            {
+              "full_en": "to make sacrifices for the fatherland",
+              "full_vn": "hy sinh vì tổ quốc"
+            },
+            {
+              "full_en": "the last (great ) sacrifice",
+              "full_vn": "sự tử trận (hy sinh) vì nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bán lỗ; hàng bán lỗ; sự lỗ"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to sacrifice something to somebody ) ( to sacrifice to somebody ) cúng; cúng tế",
+          "list_en_vn": [
+            {
+              "full_en": "to sacrifice a lamb to the gods",
+              "full_vn": "hiến một con cừu non tế các thần"
+            },
+            {
+              "full_en": "to sacrifice to idols",
+              "full_vn": "làm lễ cúng các tượng thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "từ bỏ cái gì như một sự hy sinh; hy sinh",
+          "list_en_vn": [
+            {
+              "full_en": "she sacrificed her career to marry him",
+              "full_vn": "cô ấy hy sinh sự nghiệp của mình để lấy anh ta làm chồng"
+            },
+            {
+              "full_en": "the car's designers have sacrificed comfort to economy",
+              "full_vn": "các nhà thiết kế ô tô đã hy sinh sự tiện nghi để đổi lấy lợi ích kinh tế"
+            },
+            {
+              "full_en": "I'm not sacrificing my day off just to go shopping with Jane",
+              "full_vn": "tôi sẽ không bỏ ra một ngày của mình chỉ để đi mua sắm với Jane"
+            },
+            {
+              "full_en": "to sacrifice one's whole life for the happiness of the people",
+              "full_vn": "hy sinh tất cả cuộc đời mình cho hạnh phúc của nhân dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán lỗ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452813_1656d3aff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452813_a2ebcf8229_o.png",
+      "id_image": "sacrifice_5521210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382887_43be83897c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382887_1dcbe08394_o.png",
+      "id_image": "sacrifice_5521294"
+    }
+  ]
+}

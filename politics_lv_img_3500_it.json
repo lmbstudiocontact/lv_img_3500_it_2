@@ -1,0 +1,63 @@
+{
+  "english": "politics",
+  "phat_am": "['pɔlitiks]",
+  "list_type": [
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "hoạt động chính trị, công việc chính trị, đời sống chính trị",
+          "list_en_vn": [
+            {
+              "full_en": "to talk politics",
+              "full_vn": "nói chuyện chính trị"
+            },
+            {
+              "full_en": "to enter politics",
+              "full_vn": "tham gia hoạt động chính trị"
+            },
+            {
+              "full_en": "party politics",
+              "full_vn": "công việc chính trị của đảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng tin, chính kiến, quan điểm chính trị",
+          "list_en_vn": [
+            {
+              "full_en": "what are your politics ?",
+              "full_vn": "chính kiến của anh thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cạnh tranh giữa hai đảng chính trị"
+        },
+        {
+          "m_full_vn": "khoa học chính trị (như) political science"
+        },
+        {
+          "m_full_vn": "sự lèo lái (để nắm chính quyền, chiếm ưu thế trong một tổ chức)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074160_68bd843852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074160_dcf7dfc7fc_o.png",
+      "id_image": "politics_1651652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074120_136f892c3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074120_e018c8fcfc_o.png",
+      "id_image": "politics_2201605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451898_be42c3b364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451898_cd94c4747f_o.png",
+      "id_image": "politics_2234801"
+    }
+  ]
+}

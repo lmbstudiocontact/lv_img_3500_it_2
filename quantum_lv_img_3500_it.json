@@ -1,0 +1,67 @@
+{
+  "english": "quantum",
+  "phat_am": "['kwɔntəm]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều quanta",
+      "list_m": [
+        {
+          "m_full_vn": "phần, mức, ngạch; lượng, định lượng",
+          "list_en_vn": [
+            {
+              "full_en": "to fix the quantum of damages",
+              "full_vn": "định mức lượng thiệt hại"
+            },
+            {
+              "full_en": "to have one's quantum of",
+              "full_vn": "đã được dự phần, đã được hưởng phần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) lượng tử",
+          "list_en_vn": [
+            {
+              "full_en": "light quantum",
+              "full_vn": "lượng tử ánh sáng"
+            },
+            {
+              "full_en": "energy quantum",
+              "full_vn": "lượng tử năng lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) (vật lý) (thuộc) lượng tử",
+          "list_en_vn": [
+            {
+              "full_en": "quantum theory",
+              "full_vn": "thuyết lượng tử"
+            },
+            {
+              "full_en": "quantum effect",
+              "full_vn": "hiệu ứng lượng tử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700194_d2bbcf878c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700194_b13a59d441_o.png",
+      "id_image": "quantum_1534094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389977_d4925909e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389977_48e992c165_o.png",
+      "id_image": "quantum_6214167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459798_049ae708eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459798_7b0e12dfac_o.png",
+      "id_image": "quantum_6214172"
+    }
+  ]
+}

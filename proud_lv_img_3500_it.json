@@ -1,0 +1,134 @@
+{
+  "english": "proud",
+  "phat_am": "[praud]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + of ) kiêu ngạo, kiêu căng, kiêu hãnh, tự đắc",
+          "list_en_vn": [
+            {
+              "full_en": "with proud looks",
+              "full_vn": "vẻ kiêu hãnh, vẻ kiêu căng"
+            },
+            {
+              "full_en": "to be proud of one's rank",
+              "full_vn": "kiêu ngạo về địa vị của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự hào; hãnh diện; tự trọng; đáng tự hào",
+          "list_en_vn": [
+            {
+              "full_en": "to be proud of the victory",
+              "full_vn": "tự hào về chiến thắng"
+            },
+            {
+              "full_en": "the proudest day of my life",
+              "full_vn": "ngày tươi đẹp hãnh diện nhất đời tôi"
+            },
+            {
+              "full_en": "to be too proud to beg",
+              "full_vn": "quá tự trọng không thể hạ mình cầu xin được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lộng lẫy, huy hoàng, uy nghi, hùng vĩ",
+          "list_en_vn": [
+            {
+              "full_en": "the troops ranged in proud array",
+              "full_vn": "quân dội đứng thành hàng ngũ uy nghi"
+            },
+            {
+              "full_en": "proud Truongson range",
+              "full_vn": "dãy Trường-sơn hùng vĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tràn ngập, ngập lụt (sông, hồ...)"
+        },
+        {
+          "m_full_vn": "hãng (ngựa...)"
+        },
+        {
+          "m_full_vn": "( + of something ) nhô ra khỏi, kéo dài quá cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "proud flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "thịt mọc lồi lên ở vết thương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as proud as a peacock",
+              "list_im": [
+                {
+                  "im_full_vn": "cực kỳ kiêu hãnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiêu ngạo, kiêu căng, kiêu hãnh, tự đắc"
+        },
+        {
+          "m_full_vn": "tự hào; hãnh diện; tự trọng; đáng tự hào"
+        },
+        {
+          "m_full_vn": "lộng lẫy, huy hoàng, uy nghi, hùng vĩ"
+        },
+        {
+          "m_full_vn": "tràn ngập, ngập lụt (sông, hồ...)"
+        },
+        {
+          "m_full_vn": "hãng (ngựa...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do somebody proud",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trọng vọng, trọng đãi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you do me proud",
+                      "full_vn": "anh trọng vọng tôi quá, anh trọng đãi tôi quá"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464223_2d9ef4007d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464223_8be510c3ac_o.png",
+      "id_image": "proud_4138796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394267_0b4a3b2779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394267_feb1a07231_o.png",
+      "id_image": "proud_5020503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086670_2d551dddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086670_b882f10073_o.png",
+      "id_image": "proud_5970973"
+    }
+  ]
+}

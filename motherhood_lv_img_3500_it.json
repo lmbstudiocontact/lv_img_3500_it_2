@@ -1,0 +1,32 @@
+{
+  "english": "motherhood",
+  "phat_am": "['mʌðəhud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chức năng làm mẹ, bổn phận làm mẹ; cương vị người mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "she finds motherhood very rewarding",
+              "full_vn": "chị ấy thấy chức năng làm mẹ được đền đáp rất xứng đáng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072265_57aaa6438a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072265_8a32924963_o.png",
+      "id_image": "motherhood_388351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335321_3f754b39c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335321_211205542b_o.png",
+      "id_image": "motherhood_394438"
+    }
+  ]
+}

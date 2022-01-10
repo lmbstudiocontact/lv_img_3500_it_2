@@ -1,0 +1,52 @@
+{
+  "english": "passenger",
+  "phat_am": "['pæsindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành khách (đi tàu xe...)"
+        },
+        {
+          "m_full_vn": "(thông tục) thành viên không có khả năng làm được trò trống gì; thành viên kém kém hiệu quả (của tổ, đội...)"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) hành khách; để chở hành khách",
+          "list_en_vn": [
+            {
+              "full_en": "a passenger boat",
+              "full_vn": "tàu thuỷ chở hành khách"
+            },
+            {
+              "full_en": "a passenger train",
+              "full_vn": "xe lửa chở hành khách"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330326_6e8e3f74b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330326_42dcff1346_o.png",
+      "id_image": "passenger_1178842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067185_05f54b6f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067185_643f8b9a2e_o.png",
+      "id_image": "passenger_1178844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330256_2117457127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330256_37c4020bbf_o.png",
+      "id_image": "passenger_1523915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445208_0730d753c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445208_6cd4e9277c_o.png",
+      "id_image": "passenger_2248059"
+    }
+  ]
+}

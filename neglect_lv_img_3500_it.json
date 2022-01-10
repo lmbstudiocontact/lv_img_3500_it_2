@@ -1,0 +1,80 @@
+{
+  "english": "neglect",
+  "phat_am": "[ni'glekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sao lãng, sự cẩu thả, sự không chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "neglect of duty",
+              "full_vn": "sự sao lãng bổn phận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bỏ bê, sự bỏ mặc",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a state of neglect",
+              "full_vn": "ở trong tình trạng bị bỏ mặc không được trông nom đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thờ ơ, sự hờ hững",
+          "list_en_vn": [
+            {
+              "full_en": "to treat somebody with neglect",
+              "full_vn": "thờ ơ đối với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sao lãng, không chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "to neglect one's studies",
+              "full_vn": "sao lãng việc học hành"
+            },
+            {
+              "full_en": "to neglect one's duties",
+              "full_vn": "sao lãng bổn phận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ bê, bỏ mặc"
+        },
+        {
+          "m_full_vn": "thờ ơ, hờ hững",
+          "list_en_vn": [
+            {
+              "full_en": "to neglect one's friends",
+              "full_vn": "thờ ơ đối với bạn bè"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062115_a59e64bb3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062115_6538f7f194_o.png",
+      "id_image": "neglect_6306497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440413_f52f43ab04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440413_42fee9fa4a_o.png",
+      "id_image": "neglect_708679"
+    }
+  ]
+}

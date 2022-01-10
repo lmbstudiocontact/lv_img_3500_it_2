@@ -1,0 +1,45 @@
+{
+  "english": "prevent",
+  "phat_am": "[pri'vent]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to prevent somebody / something from doing something ) ngăn cản; ngăn chặn, ngăn ngừa",
+          "list_en_vn": [
+            {
+              "full_en": "your timely action prevented a serious accident",
+              "full_vn": "hành động kịp thời của anh đã ngăn chận được một tai nạn nghiêm trọng"
+            },
+            {
+              "full_en": "to prevent the spread of a disease /a disease from spreading",
+              "full_vn": "ngăn chận bệnh lan ra"
+            },
+            {
+              "full_en": "nobody can prevent us from getting married ; nobody can prevent our getting married",
+              "full_vn": "không ai có thể ngăn cản chúng tôi kết hôn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063840_471fe2f774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063840_910139622c_o.png",
+      "id_image": "prevent_4310578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063810_360e9e9d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063810_8e9e7f5e09_o.png",
+      "id_image": "prevent_4465725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371542_946168f4ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371542_cc8120a85d_o.png",
+      "id_image": "prevent_6281537"
+    }
+  ]
+}

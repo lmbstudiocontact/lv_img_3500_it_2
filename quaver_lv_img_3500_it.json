@@ -1,0 +1,70 @@
+{
+  "english": "quaver",
+  "phat_am": "['kweivə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rung tiếng"
+        },
+        {
+          "m_full_vn": "sự láy rền; tiếng nói rung (âm thanh, giọng nói)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) nốt móc đơn (như) eighth note",
+          "list_en_vn": [
+            {
+              "full_en": "quaver rest",
+              "full_vn": "lặng móc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rung rung, (nói, hát cái gì) bằng giọng run rẩy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to quaver out",
+              "list_im": [
+                {
+                  "im_full_vn": "nói rung tiếng, nói giọng rung rung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "láy rền, rung, run rẩy (về giọng nói, âm thanh nhạc)",
+          "list_en_vn": [
+            {
+              "full_en": "in a quavering voice",
+              "full_vn": "bằng một giọng run rẩy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699559_43495f31d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699559_9ed12d0209_o.png",
+      "id_image": "quaver_1864045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389417_8e457c6a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389417_3ef9dc11b7_o.png",
+      "id_image": "quaver_366494"
+    }
+  ]
+}

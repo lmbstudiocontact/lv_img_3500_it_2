@@ -1,0 +1,35 @@
+{
+  "english": "redo",
+  "phat_am": "[,ri:'du:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ ( redid , redone )",
+      "list_m": [
+        {
+          "m_full_vn": "làm lại (cái gì)"
+        },
+        {
+          "m_full_vn": "(thông tục) trang trí lại; tu sửa lại (căn nhà..)",
+          "list_en_vn": [
+            {
+              "full_en": "have the kitchen redone",
+              "full_vn": "cho trang trí lại nhà bếp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332986_9c30d8c3e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332986_912dbba0c4_o.png",
+      "id_image": "redo_2359089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377797_ab6a30d627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377797_a7c1342624_o.png",
+      "id_image": "redo_3646043"
+    }
+  ]
+}

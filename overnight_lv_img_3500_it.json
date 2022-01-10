@@ -1,0 +1,94 @@
+{
+  "english": "overnight",
+  "phat_am": "['ouvənait]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "qua đêm",
+          "list_en_vn": [
+            {
+              "full_en": "to stay overnight at a friend's house",
+              "full_vn": "ngủ nhờ đêm ở nhà một người bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đêm trước"
+        },
+        {
+          "m_full_vn": "trong đêm; ngày một ngày hai, một sớm một chiều; trong chốc lát",
+          "list_en_vn": [
+            {
+              "full_en": "this can't be done overnight",
+              "full_vn": "cái đó không thể một sớm một chiều mà làm xong được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ở lại) một đêm, có giá trị trong một đêm",
+          "list_en_vn": [
+            {
+              "full_en": "an overnight guest",
+              "full_vn": "người khách chỉ ở có một đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "an overnight success",
+              "full_vn": "một thành công bất ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) đêm hôm trước"
+        },
+        {
+          "m_full_vn": "làm trong đêm; làm ngày một ngày hai, làm một sớm một chiều",
+          "list_en_vn": [
+            {
+              "full_en": "an overnight journey",
+              "full_vn": "một chuyến đi suốt đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dành cho những cuộc đi ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "an overnight bag",
+              "full_vn": "một cái túi dùng cho những cuộc đi chơi ngắn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) phép vắng mặt một đêm (ở nơi ký túc)"
+        },
+        {
+          "m_full_vn": "tối hôm trước, đêm hôm trước"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385052_6eddbe2dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385052_c967e3637c_o.png",
+      "id_image": "overnight_5966266"
+    }
+  ]
+}

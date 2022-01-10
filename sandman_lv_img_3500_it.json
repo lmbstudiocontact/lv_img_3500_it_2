@@ -1,0 +1,35 @@
+{
+  "english": "sandman",
+  "phat_am": "['sændmæn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự buồn ngủ; cơn buồn ngủ"
+        },
+        {
+          "m_full_vn": "( the sandman ) ông ba bị (người tưởng tượng làm cho trẻ em ngủ)",
+          "list_en_vn": [
+            {
+              "full_en": "the sandman's coming !",
+              "full_vn": "ông ba bị đến đấy! (doạ để trẻ ngủ ngay)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380192_fdeafe7647_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380192_315d26c99d_o.png",
+      "id_image": "sandman_6348324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690294_244ec37a92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690294_cb100cfb87_o.png",
+      "id_image": "sandman_6348888"
+    }
+  ]
+}

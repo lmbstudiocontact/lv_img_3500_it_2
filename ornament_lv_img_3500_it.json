@@ -1,0 +1,71 @@
+{
+  "english": "ornament",
+  "phat_am": "['ɔ:nəment]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ trang hoàng, đồ trang trí, đồ trang sức; sự trang hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "a tower rich in ornament",
+              "full_vn": "cái tháp trang hoàng lộng lẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm vinh dự",
+          "list_en_vn": [
+            {
+              "full_en": "to be an ornament to one's country",
+              "full_vn": "là niềm vinh dự cho nước mình; làm vẻ vang cho đất nước mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (âm nhạc) nét hoa mỹ"
+        },
+        {
+          "m_full_vn": "( số nhiều) (tôn giáo) đồ thờ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang hoàng, trang trí",
+          "list_en_vn": [
+            {
+              "full_en": "a dress ornament with lace",
+              "full_vn": "một chiếc áo dài tô điểm đăng ten"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080310_0fecd2755c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080310_c60f995170_o.png",
+      "id_image": "ornament_1172850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080270_e098a3ca31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080270_73d31f6fac_o.png",
+      "id_image": "ornament_5493046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342791_3019842c87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342791_5e8a9bac22_o.png",
+      "id_image": "ornament_5830253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342746_77be6e64ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342746_3b5275013f_o.png",
+      "id_image": "ornament_6240758"
+    }
+  ]
+}

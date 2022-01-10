@@ -1,0 +1,70 @@
+{
+  "english": "quest",
+  "phat_am": "[kwest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự truy tìm, sự truy lùng, sự lục soát",
+          "list_en_vn": [
+            {
+              "full_en": "in quest of",
+              "full_vn": "tìm kiếm, truy lùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) vật tìm kiếm, vật truy lùng"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự điều tra; cuộc điều tra; ban điều tra",
+          "list_en_vn": [
+            {
+              "full_en": "crowner's quest",
+              "full_vn": "sự điều tra về một vụ chết bất thường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi tìm, lùng (chó săn)"
+        },
+        {
+          "m_full_vn": "(thơ ca) tìm kiếm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to quest about",
+              "list_im": [
+                {
+                  "im_full_vn": "đi lùng quanh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389152_51334c848b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389152_3bf9df5a7e_o.png",
+      "id_image": "quest_1469848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081580_f9625f2700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081580_241b53d2ff_o.png",
+      "id_image": "quest_2671454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344131_f97c5a2699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344131_575063b232_o.png",
+      "id_image": "quest_4176399"
+    }
+  ]
+}

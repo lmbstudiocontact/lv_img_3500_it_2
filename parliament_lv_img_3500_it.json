@@ -1,0 +1,72 @@
+{
+  "english": "parliament",
+  "phat_am": "['pɑ:ləmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghị viện; nghị trường; quốc hội",
+          "list_en_vn": [
+            {
+              "full_en": "the French , West German , Spanish parliament",
+              "full_vn": "Quốc hội Pháp, Tây Đức, Tây Ban Nha"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Parliament ) quốc hội Anh; nghị viện Anh; nhiệm kỳ của Quốc hội Anh",
+          "list_en_vn": [
+            {
+              "full_en": "the Houses of Parliament",
+              "full_vn": "Hai viện của Quốc hội Anh"
+            },
+            {
+              "full_en": "member of Parliament",
+              "full_vn": "nghị sĩ Anh"
+            },
+            {
+              "full_en": "the issue was debated in Parliament",
+              "full_vn": "vấn đề đã được bàn cãi tại Quốc hội"
+            },
+            {
+              "full_en": "to get into Parliament",
+              "full_vn": "được bầu vào Nghị viện Anh"
+            },
+            {
+              "full_en": "to adjourn , dissolve (a ) Parliament",
+              "full_vn": "hoãn, giải tán Quốc hội Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686974_e8f2972959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686974_8c56be39ff_o.png",
+      "id_image": "parliament_1410741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686949_0ff3e23236_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686949_f29fc21e96_o.png",
+      "id_image": "parliament_1927670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686914_2c5b308488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686914_d29103f2d6_o.png",
+      "id_image": "parliament_2424197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686894_8877ea244b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686894_1efd276263_o.png",
+      "id_image": "parliament_4457249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068495_518dbbc23e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068495_6a511f2a04_o.png",
+      "id_image": "parliament_4498495"
+    }
+  ]
+}

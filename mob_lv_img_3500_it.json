@@ -1,0 +1,48 @@
+{
+  "english": "mob",
+  "phat_am": "[mɔb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đám đông"
+        },
+        {
+          "m_full_vn": "dân chúng, quần chúng, thường dân",
+          "list_en_vn": [
+            {
+              "full_en": "mob psychology",
+              "full_vn": "tâm lý quần chúng"
+            },
+            {
+              "full_en": "mob law",
+              "full_vn": "pháp lý quần chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đám đông hỗn tạp"
+        },
+        {
+          "m_full_vn": "bọn du thủ du thực"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấn công, phá phách, kéo ồ vào (đám đông người, quần chúng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385047_13c0656660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385047_9f721842bc_o.png",
+      "id_image": "mob_3292647"
+    }
+  ]
+}

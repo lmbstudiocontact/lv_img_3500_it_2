@@ -1,0 +1,128 @@
+{
+  "english": "parade",
+  "phat_am": "[pə'reid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phô trương"
+        },
+        {
+          "m_full_vn": "cuộc diễu hành, cuộc diễu binh",
+          "list_en_vn": [
+            {
+              "full_en": "a fashion parade",
+              "full_vn": "cuộc biểu diễn thời trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc duyệt binh",
+          "list_en_vn": [
+            {
+              "full_en": "a drill parade",
+              "full_vn": "cuộc tập duyệt binh"
+            },
+            {
+              "full_en": "ceremonial parade",
+              "full_vn": "cuộc duyệt binh nghi thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi duyệt binh; thao trường (như) parade ground"
+        },
+        {
+          "m_full_vn": "công viên; phố có nhiều cửa hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "programme parade",
+              "list_im": [
+                {
+                  "im_full_vn": "chương trình các tiết mục (truyền thanh, truyền hình)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make a parade of something",
+              "list_im": [
+                {
+                  "im_full_vn": "phô trương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on parade",
+              "list_im": [
+                {
+                  "im_full_vn": "đang diễu binh, diễu hành"
+                },
+                {
+                  "im_full_vn": "đang phô bày"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp (quân đội) để duyệt binh, cho diễu hành, cho diễu binh",
+          "list_en_vn": [
+            {
+              "full_en": "to parade troops",
+              "full_vn": "cho diễu binh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phô trương",
+          "list_en_vn": [
+            {
+              "full_en": "to parade one's skill",
+              "full_vn": "phô tài khoe khéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễu hành qua, tuần hành qua",
+          "list_en_vn": [
+            {
+              "full_en": "to parade the streets",
+              "full_vn": "diễu hành qua phố"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễu hành, tuần hành"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688519_cfa5f90d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688519_771885cd00_o.png",
+      "id_image": "parade_1054481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070300_61c7bc4bd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070300_36077f241c_o.png",
+      "id_image": "parade_2507888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333531_13a70ff7c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333531_36c575f432_o.png",
+      "id_image": "parade_352505"
+    }
+  ]
+}

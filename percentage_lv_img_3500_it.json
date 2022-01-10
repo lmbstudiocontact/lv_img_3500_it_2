@@ -1,0 +1,57 @@
+{
+  "english": "percentage",
+  "phat_am": "[pə'sentidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tỷ lệ, số hoặc số lượng trong mỗi trăm; tỷ lệ phần trăm",
+          "list_en_vn": [
+            {
+              "full_en": "the figure is expressed as a percentage",
+              "full_vn": "con số được diễn đạt bằng tỷ lệ phần trăm"
+            },
+            {
+              "full_en": "the salesmen get a percentage on everything they sell",
+              "full_vn": "những người bán hàng được hưởng phần trăm (tiền hoa hồng) về tất cả những gì họ bán được?"
+            },
+            {
+              "full_en": "a percentage increase in ticket prices",
+              "full_vn": "một sự tăng phần trăm giá vé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỷ lệ; phần",
+          "list_en_vn": [
+            {
+              "full_en": "only a small percentage of his books are worth reading",
+              "full_vn": "chỉ một tỉ lệ nhỏ (phần nhỏ) sách của anh ta là đáng đọc"
+            },
+            {
+              "full_en": "what percentage of his income is taxable ?",
+              "full_vn": "tỷ lệ thu nhập của nó phải đóng thuế là bao nhiêu?"
+            },
+            {
+              "full_en": "an increasing percentage of the population own their own homes",
+              "full_vn": "tỷ lệ dân chúng có nhà riêng tăng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321236_5c37770c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321236_ac7fd63e9d_o.png",
+      "id_image": "percentage_3103219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436563_db502f85f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436563_571fa4713b_o.png",
+      "id_image": "percentage_563190"
+    }
+  ]
+}

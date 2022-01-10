@@ -1,0 +1,90 @@
+{
+  "english": "potential",
+  "phat_am": "[pə'ten∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiềm năng; tiềm tàng",
+          "list_en_vn": [
+            {
+              "full_en": "a potential leader",
+              "full_vn": "một lãnh tụ tiềm năng"
+            },
+            {
+              "full_en": "potential energy",
+              "full_vn": "năng lượng tiềm tàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) (thuộc) điện thế",
+          "list_en_vn": [
+            {
+              "full_en": "potential difference",
+              "full_vn": "hiệu số điện thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) có khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "potential mood",
+              "full_vn": "lối khả năng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) hùng mạnh"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng; tiềm lực"
+        },
+        {
+          "m_full_vn": "(vật lý) thế; điện thế",
+          "list_en_vn": [
+            {
+              "full_en": "nuclear potential",
+              "full_vn": "thế hạt nhân"
+            },
+            {
+              "full_en": "radiation potential",
+              "full_vn": "thế bức xạ"
+            },
+            {
+              "full_en": "a current of high potential",
+              "full_vn": "dòng điện cao thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) lối khả năng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332781_c5279ea7df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332781_c6da507c84_o.png",
+      "id_image": "potential_2753154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332751_d190d94302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332751_10a26bef37_o.png",
+      "id_image": "potential_4296540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687714_23cdc00087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687714_a36c687071_o.png",
+      "id_image": "potential_4833860"
+    }
+  ]
+}

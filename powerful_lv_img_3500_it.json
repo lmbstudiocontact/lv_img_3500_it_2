@@ -1,0 +1,62 @@
+{
+  "english": "powerful",
+  "phat_am": "['pauəfl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hùng mạnh, hùng cường, có sức mạnh lớn (động cơ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a powerful blow",
+              "full_vn": "cú đấm rất mạnh"
+            },
+            {
+              "full_en": "powerful engine",
+              "full_vn": "động cơ rất khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tác động mạnh (lời nói, hành động..)",
+          "list_en_vn": [
+            {
+              "full_en": "a powerful speech",
+              "full_vn": "lời nói rất có tác động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoẻ mạnh về thể chất",
+          "list_en_vn": [
+            {
+              "full_en": "powerful legs",
+              "full_vn": "đôi chân rất khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quyền thế lớn, có quyền lực lớn, có uy quyền lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a powerful enemy",
+              "full_vn": "kẻ thù hùng mạnh"
+            },
+            {
+              "full_en": "a powerful nation",
+              "full_vn": "quốc gia hùng cường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331061_90dbd7bea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331061_a1cb765d1f_o.png",
+      "id_image": "powerful_2767753"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "rapier",
+  "phat_am": "['reipiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thanh kiếm mỏng, thanh trường kiếm",
+          "list_en_vn": [
+            {
+              "full_en": "rapier wit",
+              "full_vn": "(thuộc ngữ) trí thông minh sắc sảo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338556_8d852a4cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338556_83f33519b5_o.png",
+      "id_image": "rapier_2146672"
+    }
+  ]
+}

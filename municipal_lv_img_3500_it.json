@@ -1,0 +1,45 @@
+{
+  "english": "municipal",
+  "phat_am": "[mju:'nisipəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thành phố; (thuộc) đô thị; (thuộc) thị xã",
+          "list_one_mean": [
+            {
+              "id_full_en": "municipal law",
+              "list_im": [
+                {
+                  "im_full_vn": "luật lệ riêng của một nước"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "municipal buildings",
+              "full_vn": "những công sở của thành phố"
+            },
+            {
+              "full_en": "municipal council",
+              "full_vn": "hội đồng thành phố"
+            },
+            {
+              "full_en": "the municipal transport /lighting system",
+              "full_vn": "hệ thống chiếu sáng/vận tải của thành phố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331816_6255c3cbac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331816_6ab83d73cb_o.png",
+      "id_image": "municipal_5763219"
+    }
+  ]
+}

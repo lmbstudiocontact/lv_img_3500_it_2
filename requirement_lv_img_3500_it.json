@@ -1,0 +1,54 @@
+{
+  "english": "requirement",
+  "phat_am": "[ri'kwaiəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "our immediate requirement is extra staff",
+              "full_vn": "nhu cầu tức thời của chúng tôi là bổ sung nhân sự"
+            },
+            {
+              "full_en": "stock surplus to requirements",
+              "full_vn": "hàng dự trữ vượt quá nhu cầu"
+            },
+            {
+              "full_en": "our latest model should meet your requirements exactly",
+              "full_vn": "kiểu mới nhất của chúng tôi chắc chắn sẽ đáp ứng đúng yêu cầu của ngài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thủ tục; luật lệ",
+          "list_en_vn": [
+            {
+              "full_en": "not all foreign visitors satisfy /fulfil legal entry requirements",
+              "full_vn": "không phải tất cả khách nước ngoài đều thoả mãn/làm đầy đủ các thủ tục nhập cảnh hợp pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059085_1e9dd6c1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059085_b677caabb4_o.png",
+      "id_image": "requirement_1508896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437493_353591ae58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437493_9e85c4a0dc_o.png",
+      "id_image": "requirement_4295914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322231_8dfb14161c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322231_0781a31462_o.png",
+      "id_image": "requirement_5692220"
+    }
+  ]
+}

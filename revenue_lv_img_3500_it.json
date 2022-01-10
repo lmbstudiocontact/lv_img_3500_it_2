@@ -1,0 +1,53 @@
+{
+  "english": "revenue",
+  "phat_am": "['revənju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu nhập (nhất là tổng số thu nhập hàng năm của Nha nước từ thuế)"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) lợi tức, hoa lợi (của cá nhân)"
+        },
+        {
+          "m_full_vn": "( số nhiều) tổng thu nhập"
+        },
+        {
+          "m_full_vn": "ngân khố quốc gia; sở thu thuế"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) hải quan",
+          "list_en_vn": [
+            {
+              "full_en": "revenue cutter",
+              "full_vn": "tàu hải quan (ở bờ biển chuyên bắt hàng lậu)"
+            },
+            {
+              "full_en": "revenue officer",
+              "full_vn": "nhân viên hải quan chuyên bắt hàng lậu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348656_a0216821e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348656_f9653977c2_o.png",
+      "id_image": "revenue_3798624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085900_be3523a639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085900_50302febfa_o.png",
+      "id_image": "revenue_4524098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703289_e5cbb8c1a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703289_7b01dc83cf_o.png",
+      "id_image": "revenue_4577278"
+    }
+  ]
+}

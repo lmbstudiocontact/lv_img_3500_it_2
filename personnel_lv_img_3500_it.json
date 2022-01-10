@@ -1,0 +1,57 @@
+{
+  "english": "personnel",
+  "phat_am": "[,pə:sə'nel]",
+  "list_type": [
+    {
+      "type": "danh từ (dùng với động từ số nhiều)",
+      "list_m": [
+        {
+          "m_full_vn": "người được tuyển dụng vào một trong các lực lượng vũ trang, một công ty hay một công sở; cán bộ nhân viên trong một biên chế, nhân viên, công chức",
+          "list_en_vn": [
+            {
+              "full_en": "trained personnel",
+              "full_vn": "nhân viên đã được đào tạo"
+            },
+            {
+              "full_en": "army personnel are not allowed to leave the base",
+              "full_vn": "binh sĩ không được phép rời căn cứ"
+            },
+            {
+              "full_en": "airline personnel can purchase flight tickets at reduced prices",
+              "full_vn": "cán bộ nhân viên hàng không có thể mua vé máy bay giảm giá"
+            },
+            {
+              "full_en": "a personnel carrier",
+              "full_vn": "tàu chuyên chở binh sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phòng tổ chức cán bộ, vụ tổ chức cán bộ (như) personnel department",
+          "list_en_vn": [
+            {
+              "full_en": "personnel is /are organizing the training of new members of staff",
+              "full_vn": "phòng tổ chức đang đào tạo những nhân viên mới của cơ quan"
+            },
+            {
+              "full_en": "personnel manager / officer",
+              "full_vn": "người quản lý tổ chức/viên chức nhân sự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435338_bf0bb09999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435338_fb8bb47504_o.png",
+      "id_image": "personnel_1643823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675179_e59c8ec583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675179_67904fd19f_o.png",
+      "id_image": "personnel_5102337"
+    }
+  ]
+}

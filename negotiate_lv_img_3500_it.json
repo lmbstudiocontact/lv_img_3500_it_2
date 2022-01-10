@@ -1,0 +1,62 @@
+{
+  "english": "negotiate",
+  "phat_am": "[ni'gou∫ieit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to negotiate with somebody ) ( to negotiate something with somebody ) điều đình; đàm phán; thương lượng; dàn xếp",
+          "list_en_vn": [
+            {
+              "full_en": "to negotiate a treaty",
+              "full_vn": "đàm phán để ký một hiệp ước"
+            },
+            {
+              "full_en": "to negotiate a sale /loan",
+              "full_vn": "dàn xếp việc bán hàng/món nợ"
+            },
+            {
+              "full_en": "to negotiate with the partners about the terms of payment",
+              "full_vn": "thương lượng với các đối tác về điều kiện thanh toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi thành tiền; chuyển nhượng cho người khác để lấy tiền (chứng khoán, hối phiếu, ngân phiếu)"
+        },
+        {
+          "m_full_vn": "vượt qua được (vật chướng ngại, khó khăn...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the negotiating table",
+              "list_im": [
+                {
+                  "im_full_vn": "bàn đàm phán; (nghĩa bóng) cuộc họp để thương lượng với nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "both sides still refuse to come to the negotiating table",
+                      "full_vn": "hai bên vẫn chưa chịu ngồi vào bàn đàm phán"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440283_9be326b1de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440283_475d5645c4_o.png",
+      "id_image": "negotiate_4133549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680349_b5ee95aa45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680349_69dd33ede5_o.png",
+      "id_image": "negotiate_5965826"
+    }
+  ]
+}

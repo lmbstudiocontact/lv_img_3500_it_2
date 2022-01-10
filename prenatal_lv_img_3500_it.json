@@ -1,0 +1,27 @@
+{
+  "english": "prenatal",
+  "phat_am": "[,pri:'neitl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước khi sinh đẻ",
+          "list_en_vn": [
+            {
+              "full_en": "prenatal check-ups /exercises",
+              "full_vn": "những lần khám thai/luyện tập trước khi sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373557_e9cd3e7e4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373557_6f34af5407_o.png",
+      "id_image": "prenatal_1555962"
+    }
+  ]
+}

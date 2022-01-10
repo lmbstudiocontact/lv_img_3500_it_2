@@ -1,0 +1,49 @@
+{
+  "english": "navigation",
+  "phat_am": "[,nævi'gei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động lái tàu; nghề hàng hải"
+        },
+        {
+          "m_full_vn": "nghệ thuật hoặc khoa học hàng hải; ngành hàng hải",
+          "list_en_vn": [
+            {
+              "full_en": "an expert in navigation",
+              "full_vn": "một chuyên gia trong ngành hàng hải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyển động của tàu thủy trên biển hoặc máy bay trên không",
+          "list_en_vn": [
+            {
+              "full_en": "There has been an increase in navigation on the Red River",
+              "full_vn": "Số tàu bè qua lại trên sông Hồng đã tăng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371742_4538e3762c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371742_f60c5cc3db_o.png",
+      "id_image": "navigation_280069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442063_88ee4b9275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442063_d17391d108_o.png",
+      "id_image": "navigation_2879024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063870_c3d1b3f875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063870_039b5c0414_o.png",
+      "id_image": "navigation_4735966"
+    }
+  ]
+}

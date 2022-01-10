@@ -1,0 +1,45 @@
+{
+  "english": "reproduction",
+  "phat_am": "[,ri:prə'dʌk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tái sản xuất, sự được tái sản xuất"
+        },
+        {
+          "m_full_vn": "sự sinh sôi nẩy nở; sự sinh sản; quá trình sinh sản (về người, động vật..)"
+        },
+        {
+          "m_full_vn": "sự sao chép, sự sao lại, sự mô phỏng; bản (bức tranh, bài văn...) sao chép; bản (bức tranh, bài văn...) mô phỏng, phiên bản"
+        },
+        {
+          "m_full_vn": "(vật lý) sự phát lại, sự lặp lại",
+          "list_en_vn": [
+            {
+              "full_en": "sound reproduction",
+              "full_vn": "sự phát lại âm"
+            },
+            {
+              "full_en": "reproduction of image",
+              "full_vn": "sự phát lại ảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437718_0026509705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437718_e6b367bb4e_o.png",
+      "id_image": "reproduction_1373948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677514_c602fe5479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677514_d13a325517_o.png",
+      "id_image": "reproduction_2597692"
+    }
+  ]
+}

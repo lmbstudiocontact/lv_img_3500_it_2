@@ -1,0 +1,57 @@
+{
+  "english": "occupation",
+  "phat_am": "[,ɒkjʊ'pei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chiếm giữ, sự chiếm đóng",
+          "list_en_vn": [
+            {
+              "full_en": "the occupation of the city",
+              "full_vn": "sự chiếm đóng thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cư ngụ, thời hạn cư ngụ",
+          "list_en_vn": [
+            {
+              "full_en": "the occupation of a house by a family",
+              "full_vn": "một gia đình cư ngụ trọng môt căn nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghề nghiệp; công việc, việc làm",
+          "list_en_vn": [
+            {
+              "full_en": "to look for an occupation",
+              "full_vn": "tìm việc làm"
+            },
+            {
+              "full_en": "what is your occupation ?",
+              "full_vn": "anh làm nghề gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như trade"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393957_fa606ee78e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393957_6bac7e0dbd_o.png",
+      "id_image": "occupation_4524947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393932_6d98086202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393932_9b3ebb72cc_o.png",
+      "id_image": "occupation_6213918"
+    }
+  ]
+}

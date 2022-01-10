@@ -1,0 +1,100 @@
+{
+  "english": "recommend",
+  "phat_am": "[,rekə'mend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to recommend somebody / something to somebody ) ( to recommend somebody / something for something / as something ) giới thiệu; tiến cử (người, vật...)",
+          "list_en_vn": [
+            {
+              "full_en": "Can you recommend me a good English dictionary ?",
+              "full_vn": "Anh có thể giới thiệu cho tôi một quyển từ điển Anh ngữ tốt không?"
+            },
+            {
+              "full_en": "To recommend a car , restaurant , mechanic",
+              "full_vn": "Giới thiệu một chiếc xe hơi, nhà hàng, người thợ máy"
+            },
+            {
+              "full_en": "What would you recommend for removing ink stains ?",
+              "full_vn": "Anh bảo phải làm gì để tẩy sạch các vết mực?"
+            },
+            {
+              "full_en": "I can recommend her as a reliable programmer",
+              "full_vn": "Tôi có thể tiến cử cô ta là một lập trình viên đáng tin cậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to recommend somebody / something to somebody ) làm cho người ta mến; làm cho có cảm tưởng tốt",
+          "list_en_vn": [
+            {
+              "full_en": "His sincerity recommends him to his colleagues",
+              "full_vn": "Tính thật thà của nó làm cho bạn đồng nghiệp của nó mến nó (bạn đồng nghiệp của nó mến nó là do nó thật thà)"
+            },
+            {
+              "full_en": "A plan with nothing to recommend it",
+              "full_vn": "Một kế hoạch không có tí nào sức hấp dẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khuyên bảo; dặn; đề nghị",
+          "list_en_vn": [
+            {
+              "full_en": "I recommend you to do what he says",
+              "full_vn": "Tôi khuyên anh nên làm những điều anh ấy nói"
+            },
+            {
+              "full_en": "I'd recommend extreme caution",
+              "full_vn": "Tôi đề nghị phải hết sức cẩn thận"
+            },
+            {
+              "full_en": "I recommend that you resign",
+              "full_vn": "Tôi khuyên ông nên từ chức"
+            },
+            {
+              "full_en": "I'm not the person to recommend how the job should be done",
+              "full_vn": "Tôi không phải hạng người có thể khuyên bảo nên thực hiện công việc như thế nào"
+            },
+            {
+              "full_en": "I recommended (your ) meeting him first",
+              "full_vn": "Tôi đề nghị (anh) nên gặp ông ấy trước"
+            },
+            {
+              "full_en": "I wouldn't recommend you to go there alone",
+              "full_vn": "Lẽ ra tôi không nên khuyên anh đến đó một mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi gắm; phó thác",
+          "list_en_vn": [
+            {
+              "full_en": "To recommend something to someone's care",
+              "full_vn": "Gửi gắm vật gì cho ai trông nom hộ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450073_8613aef5a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450073_7ab34aa15e_o.png",
+      "id_image": "recommend_1610446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690149_871daf9f1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690149_2b7d7074dc_o.png",
+      "id_image": "recommend_2037274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334931_68808cdb4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334931_1668dda689_o.png",
+      "id_image": "recommend_5889195"
+    }
+  ]
+}

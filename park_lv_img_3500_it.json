@@ -1,0 +1,88 @@
+{
+  "english": "park",
+  "phat_am": "[pɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vườn hoa, công viên"
+        },
+        {
+          "m_full_vn": "vườn lớn (bãi đất trồng cỏ có rào quanh, (thường) trồng cây và gắn liền với một trang thất lớn)"
+        },
+        {
+          "m_full_vn": "khu vườn (khu đất lớn để công chúng giải trí)",
+          "list_en_vn": [
+            {
+              "full_en": "a national park",
+              "full_vn": "khu vườn quốc gia"
+            },
+            {
+              "full_en": "a safari park",
+              "full_vn": "vườn thú ngoài trời"
+            },
+            {
+              "full_en": "an amusement park",
+              "full_vn": "khu công viên vui chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi (đậu xe, để pháo...)"
+        },
+        {
+          "m_full_vn": "sân thể thao"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoanh vùng thành công viên"
+        },
+        {
+          "m_full_vn": "(quân sự) bố trí (pháo...) vào bãi"
+        },
+        {
+          "m_full_vn": "đỗ (xe...) ở bãi"
+        },
+        {
+          "m_full_vn": "( + oneself ) ngồi xuống"
+        },
+        {
+          "m_full_vn": "để lại ( ai/cái gì) tại một nơi trong một thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "park your luggage here while you buy a ticket",
+              "full_vn": "hãy để hành lý ở đây, trong lúc anh đi mua vé"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068915_790de22a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068915_7e56880103_o.png",
+      "id_image": "park_1381963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376917_1f4642bc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376917_beb30b6fba_o.png",
+      "id_image": "park_1911298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068830_f427595c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068830_4df4ab3098_o.png",
+      "id_image": "park_5389811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068980_69c9de947c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068980_ed21a61f3b_o.png",
+      "id_image": "park_553941"
+    }
+  ]
+}

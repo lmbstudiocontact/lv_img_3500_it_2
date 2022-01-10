@@ -1,0 +1,68 @@
+{
+  "english": "probability",
+  "phat_am": "[,prɔbə'biləti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự có thể có; khả năng có thể xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "There is little probability of his succeeding /that he will succeed",
+              "full_vn": "Có ít khả năng nó thành công"
+            },
+            {
+              "full_en": "What is the probability of its success ?",
+              "full_vn": "Khả năng thành công là thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái rất có thể xảy ra; sự kiện hoặc kết quả có thể xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "What are the probabilities ?",
+              "full_vn": "Những cái gì có thể xảy ra?"
+            },
+            {
+              "full_en": "A fall in interest rates is a probability in the present economic climate",
+              "full_vn": "Lãi suất giảm xuống là điều rất có thể xảy ra trong tình hình kinh tế hiện nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) xác suất",
+          "list_one_mean": [
+            {
+              "id_full_en": "in all probability",
+              "list_im": [
+                {
+                  "im_full_vn": "rất có thể",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in all probability he's already left",
+                      "full_vn": "rất có thể nó đã đi rồi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368427_db727b99f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368427_7b877ffc1a_o.png",
+      "id_image": "probability_2103687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368357_caac54fa7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368357_592102d03c_o.png",
+      "id_image": "probability_5052209"
+    }
+  ]
+}

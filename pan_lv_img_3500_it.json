@@ -1,0 +1,134 @@
+{
+  "english": "pan",
+  "phat_am": "[pæn - pɑ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lá trầu không (để ăn trầu)"
+        },
+        {
+          "m_full_vn": "miếng trầu"
+        },
+        {
+          "m_full_vn": "xoong, chảo; luợng đựng trong xoang, chảo",
+          "list_en_vn": [
+            {
+              "full_en": "a frying-pan",
+              "full_vn": "chảo rán"
+            },
+            {
+              "full_en": "a pan hot fat",
+              "full_vn": "một chảo mỡ nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đĩa cân"
+        },
+        {
+          "m_full_vn": "cái giần (để đãi vàng)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nồi, bể (luyện kim...)"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) đất trũng lòng chảo"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) tầng đất cái (như) hard pan"
+        },
+        {
+          "m_full_vn": "ổ nạp thuốc súng (ở một số súng cổ)"
+        },
+        {
+          "m_full_vn": "sọ (như) brain pan"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đầu; mặt"
+        },
+        {
+          "m_full_vn": "hồ muối (như) salt-pan",
+          "list_one_mean": [
+            {
+              "id_full_en": "a flash in the pan",
+              "list_im": [
+                {
+                  "im_full_vn": "như flash"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ ( Pan )",
+      "list_m": [
+        {
+          "m_full_vn": "(thần thoại,thần học) thần Pan (thần đồng quê Hy lạp)"
+        },
+        {
+          "m_full_vn": "ông Tạo"
+        },
+        {
+          "m_full_vn": "đạo nhiều thần"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + off , out ) đãi (vàng ở trong cát, bằng cái giần)"
+        },
+        {
+          "m_full_vn": "(thông tục) chỉ trích gay gắt, phê bình nghiêm khắc"
+        },
+        {
+          "m_full_vn": "(điện ảnh) phát thanh quay quét (quay sang phải sang trái theo một đối tượng, một cảnh vật); quay theo kiểu đó",
+          "list_en_vn": [
+            {
+              "full_en": "the shot panned slowly across the room",
+              "full_vn": "phim quay từ từ lướt ngang cảnh gian phòng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( + out )",
+      "list_m": [
+        {
+          "m_full_vn": "đãi được vàng, có vàng (cát...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kết quả",
+          "list_en_vn": [
+            {
+              "full_en": "how did it pan out ?",
+              "full_vn": "việc ấy kết quả thế nào?"
+            },
+            {
+              "full_en": "it panned out well",
+              "full_vn": "cái đó kết quả khá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380697_54e1a6c093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380697_23e416046a_o.png",
+      "id_image": "pan_3822157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380662_45300ff7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380662_5933a88124_o.png",
+      "id_image": "pan_3843660"
+    }
+  ]
+}

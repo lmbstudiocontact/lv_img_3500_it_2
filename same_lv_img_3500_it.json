@@ -1,0 +1,347 @@
+{
+  "english": "same",
+  "phat_am": "[seim]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng như cái (hoặc những cái) đã được nói đến hoặc đề cập đến; cùng một cũng vậy",
+          "list_en_vn": [
+            {
+              "full_en": "they both said the same thing",
+              "full_vn": "cả hai người cùng nói một điều"
+            },
+            {
+              "full_en": "we have lived in the same house for twenty years",
+              "full_vn": "hai mươi năm trời chúng tôi cùng sống trong ngôi nhà ấy"
+            },
+            {
+              "full_en": "he took it off the top shelf and put it back in the same place",
+              "full_vn": "anh ấy lấy nó ra khỏi ngăn sách trên cùng, rồi để nó lại cũng vào chỗ đó"
+            },
+            {
+              "full_en": "he is the same age as I",
+              "full_vn": "anh ấy cùng tuổi với tôi"
+            },
+            {
+              "full_en": "the cinema is showing the same film as last week",
+              "full_vn": "rạp chiếu bóng vẫn đang chiếu bộ phim của tuần trước"
+            },
+            {
+              "full_en": "I resigned on Friday and left that same day",
+              "full_vn": "tôi từ chức hôm thứ sáu và ra đi cũng cùng hôm đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giống như; như nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to amount /come to /be the same thing",
+              "list_im": [
+                {
+                  "im_full_vn": "cũng vậy; cũng như thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You can pay by cash or cheque : It comes to the same thing",
+                      "full_vn": "anh có thể trả bằng tiền mặt hoặc séc : Thế nào cũng được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the same time",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng thời; cùng một lúc"
+                },
+                {
+                  "im_full_vn": "tuy nhiên; tuy thế mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't all speak at the same time",
+                      "full_vn": "đừng nói tất cả cùng một lúc"
+                    },
+                    {
+                      "full_en": "she was laughing and crying at the same time",
+                      "full_vn": "cô ta vừa cười lại vừa khóc"
+                    },
+                    {
+                      "full_en": "you've got to be firm , but at the same time you must be sympathetic",
+                      "full_vn": "anh cần phải kiên quyết, nhưng đồng thời/tuy nhiên cũng phải tỏ ra thông cảm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in the same boat",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng hội cùng thuyền; cùng chung cảnh ngộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be of the same mind (about something /somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "nhất trí, có cùng một ý kiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the same breath",
+              "list_im": [
+                {
+                  "im_full_vn": "một hơi; một mạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by the same token",
+              "list_im": [
+                {
+                  "im_full_vn": "vì lẽ đó; do vậy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "lightning never strikes in the same place twice",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lightning"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not in the same street (as somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "kém tài ai; không so sánh được với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the same old story",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện rất thường xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one and the same",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn là người hoặc vật đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it turns out that her aunt and my cousin are one and the same person",
+                      "full_vn": "hoá ra bà dì cô ta và bà chị họ tôi chỉ là một người mà thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the same wavelength (as somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ và có quyền lợi (như) ai và do vậy hiểu được người đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I find him difficult to talk to - we're on completely different wavelengths",
+                      "full_vn": "tôi thấy khó nói chuyện với nó quá - chúng tôi hoàn toàn khác nhau về cách suy nghĩ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak the same language",
+              "list_im": [
+                {
+                  "im_full_vn": "xem speak"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tarred with the same brush",
+              "list_im": [
+                {
+                  "im_full_vn": "xem tar"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I saw the same shoes in a shop last week",
+              "full_vn": "tuần trước tôi trông thấy đôi giày giống như vậy trong một cửa hàng"
+            },
+            {
+              "full_en": "to travel in the same direction",
+              "full_vn": "đi về cùng một hướng"
+            },
+            {
+              "full_en": "he gave the same answer as before",
+              "full_vn": "anh ta vẫn trả lời như trước đó"
+            },
+            {
+              "full_en": "men with moustaches all look the same to me",
+              "full_vn": "những người đàn ông có ria đối với tôi tất cả đều trông như nhau"
+            },
+            {
+              "full_en": "I bought the same car as yours /that you did",
+              "full_vn": "tôi mua một chiếc xe giống như của anh/như chiếc anh đã mua"
+            },
+            {
+              "full_en": "the two recipes are very much the same",
+              "full_vn": "hai công thức ấy chẳng khác gì nhau"
+            },
+            {
+              "full_en": "you men are all the same",
+              "full_vn": "đàn ông các anh tất cả đều cùng một giuộc; đàn ông các anh tất cả đều như nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẫn cái đó; cũng như thế",
+          "list_en_vn": [
+            {
+              "full_en": "he and I said the same",
+              "full_vn": "nó và tôi cùng nói như nhau"
+            },
+            {
+              "full_en": "their ages are the same",
+              "full_vn": "họ cùng một tuổi với nhau"
+            },
+            {
+              "full_en": "I think the same as you do about the matter",
+              "full_vn": "về vấn đề này, tôi cũng nghĩ như anh"
+            },
+            {
+              "full_en": "I would do the same again",
+              "full_vn": "tôi sẽ lại làm như thế"
+            },
+            {
+              "full_en": "'I'll have a coffee' - 'Same for me , please'",
+              "full_vn": "'Cho tôi một cà phê' - 'Tôi cũng thế'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẫn người đó",
+          "list_one_mean": [
+            {
+              "id_full_en": "all just the same",
+              "list_im": [
+                {
+                  "im_full_vn": "dầu sao đi nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(the ) same again",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn cư như vậy nhé!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "same here",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tôi cũng thế; tôi đồng ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(the ) same to you",
+              "list_im": [
+                {
+                  "im_full_vn": "mày cũng vậy; anh cũng thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "'Stupid ! ' - 'Same to you !",
+                      "full_vn": "'Đồ ngu! - Mày cũng vậy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "'Happy Christmas ! ' - 'And the same to you !",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúc Nô En vui vẻ - Chúc anh cũng thế"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "from the same",
+              "full_vn": "cũng lại do người ấy gửi (tặng...)"
+            },
+            {
+              "full_en": "Was it Georges who phoned ? - 'The same'",
+              "full_vn": "Có phải Georges gọi điện thoại hay không? - Vẫn ông ta"
+            },
+            {
+              "full_en": "we would do the same again",
+              "full_vn": "chúng ta sẽ lại làm việc như thế nữa"
+            },
+            {
+              "full_en": "more of the same",
+              "full_vn": "cứ cho thêm cùng một thứ như vậy, cứ cho uống thêm cùng một thứ thuốc..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ ( the same )",
+      "list_m": [
+        {
+          "m_full_vn": "như nhau; cũng như thế, vẫn như thế",
+          "list_en_vn": [
+            {
+              "full_en": "I think the same of him",
+              "full_vn": "tôi cũng nghĩ về anh ta như thế"
+            },
+            {
+              "full_en": "I still feel the same about it",
+              "full_vn": "về việc ấy, tôi vẫn cảm thấy như thế"
+            },
+            {
+              "full_en": "the two words are spelled differently , but pronounced the same",
+              "full_vn": "hai từ đó viết khác nhau, nhưng phát âm như nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335701_a23b37f33e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335701_a4a3999b83_o.png",
+      "id_image": "same_2248099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690894_b5dfe867ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690894_2903b2e73e_o.png",
+      "id_image": "same_4045022"
+    }
+  ]
+}

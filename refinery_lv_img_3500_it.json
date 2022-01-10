@@ -1,0 +1,37 @@
+{
+  "english": "refinery",
+  "phat_am": "[ri'fainəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà máy lọc; nhà máy tinh chế (dầu, đường...)",
+          "list_en_vn": [
+            {
+              "full_en": "a sugar refinery",
+              "full_vn": "nhà máy đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376792_32793f0ab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376792_0966d90fbd_o.png",
+      "id_image": "refinery_1486227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686984_82e8e236e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686984_a756008521_o.png",
+      "id_image": "refinery_1504107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331921_445f749374_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331921_911ec58593_o.png",
+      "id_image": "refinery_1987407"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "salute",
+  "phat_am": "[sə'lu:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc chào mừng, sự chào mừng; kiểu chào",
+          "list_one_mean": [
+            {
+              "id_full_en": "in salute",
+              "list_im": [
+                {
+                  "im_full_vn": "để chào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they raised their fists in salute to their leader",
+                      "full_vn": "họ giơ nắm tay lên chào lãnh tụ của họ"
+                    },
+                    {
+                      "full_en": "they took off their hats by the grave in silent salute",
+                      "full_vn": "họ đứng bên ngôi mộ bỏ mũ ra yên lặng cúi chào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fire a ten -gun salute",
+              "full_vn": "bắn mười phát súng chào"
+            },
+            {
+              "full_en": "to give somebody a salute",
+              "full_vn": "chào ai"
+            },
+            {
+              "full_en": "the officer returns the sergeant's salute",
+              "full_vn": "viên sĩ quan đáp lại cái chào của người trung sĩ"
+            },
+            {
+              "full_en": "to raise one's hat as a friendly salute",
+              "full_vn": "nhấc mũ lên chào thân mật"
+            },
+            {
+              "full_en": "to take the salute",
+              "full_vn": "chào lại; chào đáp lễ (khi những người lính đi diễu hành qua chào mình)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chào; chào hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to salute someone with a smile",
+              "full_vn": "chào ai bằng nụ cười"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to salute somebody / something as something ) chào mừng; chào đón",
+          "list_en_vn": [
+            {
+              "full_en": "today should be saluted as the beginning of a new era",
+              "full_vn": "ngày hôm nay sẽ được chào đón như bước đầu của một kỷ nguyên mới"
+            },
+            {
+              "full_en": "to salute with twenty-one guns",
+              "full_vn": "bắn hai mươi mốt phát chào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335776_725057b1f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335776_47ff3b8b80_o.png",
+      "id_image": "salute_1000394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072760_592bc489f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072760_3d9be53b5c_o.png",
+      "id_image": "salute_599540"
+    }
+  ]
+}

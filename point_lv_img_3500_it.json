@@ -1,0 +1,678 @@
+{
+  "english": "point",
+  "phat_am": "[pɔint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu nhọn hoặc tù của cái gì; đầu; mũi",
+          "list_en_vn": [
+            {
+              "full_en": "the point of a pin /knife /pencil",
+              "full_vn": "mũi ghim/dao/bút chì"
+            },
+            {
+              "full_en": "the stake had been sharpened to a vicious-looking point",
+              "full_vn": "cái cọc đã được vót thành một mũi nhọn ghê người"
+            },
+            {
+              "full_en": "the point of the jaw",
+              "full_vn": "đầu xương quai hàm (làm mục tiêu cho những cú đấm trong môn quyền Anh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thường) viết hoa làm thành một phần của tên gọi mảnh đất hẹp nhô ra ngoài biển; mũi hoặc mũi đất",
+          "list_en_vn": [
+            {
+              "full_en": "the ship rounded the point",
+              "full_vn": "chiếc tàu vòng qua mũi"
+            },
+            {
+              "full_en": "Pagoda Point",
+              "full_vn": "mũi Pagoda"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hình học) điểm",
+          "list_en_vn": [
+            {
+              "full_en": "AB and CD intersect at (the point ) P",
+              "full_vn": "AB và CD cắt nhau ở (điểm) P"
+            },
+            {
+              "full_en": "point of intersection",
+              "full_vn": "giao điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu chấm dùng khi viết hoặc in (dấu chấm cao, dấu thập phân...)",
+          "list_en_vn": [
+            {
+              "full_en": "two point six (2.6)",
+              "full_vn": "hai chấm sáu"
+            },
+            {
+              "full_en": "the first two figures after the decimal point indicate tens and hundredths respectively",
+              "full_vn": "hai số đầu tiên sau dấu thập phân lần lượt chỉ số phần mười và phần trăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm hoặc dấu rất nhỏ của ánh sáng hoặc màu sắc; chấm",
+          "list_en_vn": [
+            {
+              "full_en": "stars seen as points of lights in a dark sky",
+              "full_vn": "những ngôi sao trông giống như chấm sáng trên bầu trời tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi hoặc vị trí đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "guards had been posted at several points around the perimeter",
+              "full_vn": "lính bảo vệ đã được bố trí ở những vị trí quanh vòng ngoài"
+            },
+            {
+              "full_en": "an assembly /rallying /meeting point",
+              "full_vn": "nơi họp/tập hợp/mít tinh"
+            },
+            {
+              "full_en": "a steamer service calling at Port Said, Aden and all points east",
+              "full_vn": "dịch vụ tàu biển ghé lại Port Said, Aden và các nơi khác về phía đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian hoặc lúc đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "at one point I thought she was going to refuse , but in the end she agreed",
+              "full_vn": "có lúc tôi tưởng cô ấy sắp từ chối, nhưng rồi cuối cùng cô ấy đã đồng ý"
+            },
+            {
+              "full_en": "the film started to get very violent , at which point I left",
+              "full_vn": "bộ phim bắt đầu đến đoạn rất hung bạo, đúng lúc đó tôi bỏ ra ngoài"
+            },
+            {
+              "full_en": "at the point of death",
+              "full_vn": "lúc hấp hối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giai đoạn hoặc mức độ tiến bộ, tăng lên, nhiệt độ..",
+          "list_en_vn": [
+            {
+              "full_en": "to reach danger point",
+              "full_vn": "đạt tới mức nguy hiểm"
+            },
+            {
+              "full_en": "boiling point",
+              "full_vn": "điểm sôi"
+            },
+            {
+              "full_en": "freezing /melting point",
+              "full_vn": "điểm đóng băng/tan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một trong 32 chấm trên vòng tròn của la bàn",
+          "list_en_vn": [
+            {
+              "full_en": "search parties had been sent out to all points of the compass",
+              "full_vn": "các đội tìm kiếm đã được tung đi khắp bốn phương"
+            },
+            {
+              "full_en": "the cardinal points",
+              "full_vn": "bốn phương ( Đông - Tây - Nam - Bắc)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn vị đo lường, giá trị, ghi điểm (điểm thi đấu, điểm thi..)",
+          "list_en_vn": [
+            {
+              "full_en": "a point on a scale",
+              "full_vn": "một vạch trên cân"
+            },
+            {
+              "full_en": "the pound fell several points on the Stock Market today",
+              "full_vn": "đồng pao trên thị trường chứng khoán hôm nay tụt xuống mấy giá"
+            },
+            {
+              "full_en": "to score points",
+              "full_vn": "ghi điểm"
+            },
+            {
+              "full_en": "to give points to somebody",
+              "full_vn": "chấp điểm ai; (nghĩa bóng) giỏi hơn ai, cừ hơn ai"
+            },
+            {
+              "full_en": "we need one more point to win the game",
+              "full_vn": "chúng tôi cần ghi thêm một điểm nữa mới thắng cuộc"
+            },
+            {
+              "full_en": "a point system",
+              "full_vn": "hệ thống điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý kiến cá nhân về cái gì đã nói, thực hiện hoặc hoạch định; mục hoặc chi tiết",
+          "list_en_vn": [
+            {
+              "full_en": "the main points of a story /discussion /argument",
+              "full_vn": "những điểm chính của một câu chuyện/cuộc thảo luận/cuộc tranh luận"
+            },
+            {
+              "full_en": "points of difference /similarity /agreement /disagreement",
+              "full_vn": "những điểm khác nhau/tương đồng/tán đồng/bất đồng"
+            },
+            {
+              "full_en": "to explain a theory point by point",
+              "full_vn": "giải thích cặn kẽ một lý thuyết (từng điểm một)"
+            },
+            {
+              "full_en": "various committee members made interesting points",
+              "full_vn": "các ủy viên của ủy ban đã nêu nhiều vấn đề thú vị"
+            },
+            {
+              "full_en": "somebody's good /strong /bad /weak points",
+              "full_vn": "những điểm tốt/mạnh/xấu/yếu của ai"
+            },
+            {
+              "full_en": "the speaker kept wandering off away from the point",
+              "full_vn": "diễn giả vẫn đi miên man lạc đề"
+            },
+            {
+              "full_en": "to differ on many points",
+              "full_vn": "không đồng ý nhau về nhiều điểm"
+            },
+            {
+              "full_en": "a point of honour",
+              "full_vn": "điểm danh dự, vấn đề danh dự"
+            },
+            {
+              "full_en": "a point of conscience",
+              "full_vn": "vấn đề lương tâm"
+            },
+            {
+              "full_en": "point of view",
+              "full_vn": "thái độ; ý kiến; quan điểm"
+            },
+            {
+              "full_en": "this is unacceptable from my point of view",
+              "full_vn": "theo (quan điểm của) tôi, điều này không thể chấp nhận được"
+            },
+            {
+              "full_en": "what's your point of view on nuclear power ?",
+              "full_vn": "quan điểm của anh như thế nào đối với năng lượng hạt nhân?"
+            },
+            {
+              "full_en": "to make a point of something",
+              "full_vn": "coi cái gì là một vấn đề"
+            },
+            {
+              "full_en": "to come to the point",
+              "full_vn": "đi vào vấn đề, đi vào việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý nghĩa thiết yếu của câu chuyện, câu đùa, nhận xét...; lý do; mục đích; giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "to get /see /miss /understand the point of something",
+              "full_vn": "nắm được/thấy/bỏ qua/hiểu được gía trị của cái gì"
+            },
+            {
+              "full_en": "a story with a /some /no /little point",
+              "full_vn": "một truyện ngắn có một/vài/không có/ít ý nghĩa"
+            },
+            {
+              "full_en": "there's no much point in complaining ; they never take notice",
+              "full_vn": "kêu ca cũng chẳng ích gì; họ chẳng bao giờ quan tâm đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính hiệu quả, sự cấp bách",
+          "list_en_vn": [
+            {
+              "full_en": "speech , words , remarks that lack point",
+              "full_vn": "bài diễn văn, lời nói, nhận xét thiếu tính hiệu quả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) Poang (đơn vị đo cỡ chữ bằng 0, 0138 insơ)",
+          "list_en_vn": [
+            {
+              "full_en": "6 point is small and 18 point is large",
+              "full_vn": "6 poang thì nhỏ mà 18 poang thì lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) ổ cắm điện (để cắm phích vào)",
+          "list_en_vn": [
+            {
+              "full_en": "a lighting point",
+              "full_vn": "ổ cắm phích đèn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đầu ngón chân (trong balê)",
+          "list_en_vn": [
+            {
+              "full_en": "dancing on points",
+              "full_vn": "múa trên đầu ngón chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( points ) ghi xe lửa (như) switch",
+          "list_en_vn": [
+            {
+              "full_en": "to change the points",
+              "full_vn": "bẻ ghi tàu"
+            },
+            {
+              "full_en": "a points lever /mechanism",
+              "full_vn": "cần/cơ cấu của ghi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) người bắt bóng đứng gần người đánh (ở bên ngoài khu vực sân)",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to put too fine a point upon it",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng cần phải nói khéo; nói thẳng, nói toạc móng heo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's point",
+              "list_im": [
+                {
+                  "im_full_vn": "giải thích cặn kẽ điều mình đề xuất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to labour the point",
+              "list_im": [
+                {
+                  "im_full_vn": "xem labour"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in point of fact",
+              "list_im": [
+                {
+                  "im_full_vn": "trên thực tế, thực ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if /when it comes to the point",
+              "list_im": [
+                {
+                  "im_full_vn": "khi đã đến lúc quyết định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a point of departure",
+              "list_im": [
+                {
+                  "im_full_vn": "điểm khởi hành; (nghĩa bóng) điểm xuất phát; điểm đột phá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a moot point /question",
+              "list_im": [
+                {
+                  "im_full_vn": "xem moot"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the point of doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp sửa làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I was on the point of going to bed when you rang",
+                      "full_vn": "vừa lúc tôi sắp đi ngủ thì anh điện thoại đến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the point of no return",
+              "list_im": [
+                {
+                  "im_full_vn": "điểm (trong một chuyến đi, bay xa...) mà từ đó nguồn nhiên liệu không đủ để trở lại nơi xuất phát nên cứ phải đi tiếp để mà tồn tại; điểm bất khả vãn hồi"
+                },
+                {
+                  "im_full_vn": "điểm mà ở đó mình phải có một hành động hoặc một quyết định không thể đảo ngược được; thế bí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a point of order",
+              "list_im": [
+                {
+                  "im_full_vn": "vấn đề đúng theo thủ tục luật lệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "possession is nine points of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "xem possession"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to prove one's /the case /point",
+              "list_im": [
+                {
+                  "im_full_vn": "xem prove"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sore point",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sore"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stretch a point",
+              "list_im": [
+                {
+                  "im_full_vn": "xem stretch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's strong point /suit",
+              "list_im": [
+                {
+                  "im_full_vn": "xem strong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the point of something",
+              "list_im": [
+                {
+                  "im_full_vn": "đến mức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his manner was abrupt to the point of rudeness",
+                      "full_vn": "cử chỉ của anh ta cộc lốc đến mức thô bạo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "up to a certain point",
+              "list_im": [
+                {
+                  "im_full_vn": "đến mức độ nào đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the point of a sword /gun",
+              "list_im": [
+                {
+                  "im_full_vn": "dí gươm/súng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "captured at the point of a sword",
+                      "full_vn": "bị người ta dí gươm bắt sống"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "beside the point",
+              "list_im": [
+                {
+                  "im_full_vn": "không thích hợp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry /gain one's point",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyết phục người ta nghe theo mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the finer points",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fine"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's points",
+              "list_im": [
+                {
+                  "im_full_vn": "có một số phẩm chất tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on points",
+              "list_im": [
+                {
+                  "im_full_vn": "(quyền Anh) thắng cuộc bằng số điểm ghi được chứ không bằng cách hạ đo ván đối phương của mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vót nhọn (bút chì...)"
+        },
+        {
+          "m_full_vn": "lấp đầy những khoảng giữa các viên gạch (của cái gì) bằng vữa hoặc xi măng",
+          "list_en_vn": [
+            {
+              "full_en": "to point a wall /chimney",
+              "full_vn": "trát mạch tường/ống khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to point something at / towards somebody / something ) chĩa cái gì vào ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to point one's finger at somebody /something",
+              "full_vn": "chỉ tay của mình vào ai/cái gì"
+            },
+            {
+              "full_en": "to point a gun at somebody",
+              "full_vn": "chĩa súng vào ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm (câu...); đánh dấu chấm (bài thánh ca cho dễ hát)"
+        },
+        {
+          "m_full_vn": "đem lại sức mạnh (cho cái gì); làm cho (cái gì) đáng lưu ý hơn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to point the finger at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ tay vào mặt ai; công khai buộc tội ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to point the way to /towards something",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ ra khả năng phát triển trong tương lai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "large electronics companies developed television , but Baird pointed the way with his experiments",
+                      "full_vn": "các công ty điện tử lớn đã phát triển vô tuyến truyền hình, nhưng bằng thử nghiệm của mình, Baird đã vạch ra con đường phát triển"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to point something out to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "hướng sự chú ý về cái gì; lưu ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to point out a mistake",
+                      "full_vn": "vạch ra một sai lầm"
+                    },
+                    {
+                      "full_en": "to point out to somebody the stupidity of his /her behaviour",
+                      "full_vn": "lưu ý ai về sự ngu ngốc trong cách ứng xử của họ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to point something up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhấn mạnh (điều gì); vạch rõ (điều gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the recent disagreement points up the differences between the two sides",
+                      "full_vn": "sự bất đồng gần đây cho thấy rất rõ mâu thuẫn giữa hai bên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a story that points a moral",
+              "full_vn": "một câu chuyện củng cố lời răn dạy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to point at / to somebody / something ) chỉ trỏ",
+          "list_en_vn": [
+            {
+              "full_en": "it's rude to point",
+              "full_vn": "chỉ tay vào ai thì thật là khiếm nhã"
+            },
+            {
+              "full_en": "that's the man who did it , she said , pointing at me",
+              "full_vn": "chính người này đã làm điều ấy - cô ta nói, chỉ về phía tôi"
+            },
+            {
+              "full_en": "a compass needle points (to the ) north",
+              "full_vn": "mũi kim của la bàn chỉ (về) hướng bắc"
+            },
+            {
+              "full_en": "the clock hand points to twelve",
+              "full_vn": "kim đồng hồ chỉ đúng mười hai (đúng ngọ hoặc nửa đêm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to point to something ) chỉ rõ",
+          "list_en_vn": [
+            {
+              "full_en": "I can't point to any one particular reason for it",
+              "full_vn": "tôi không thể đưa ra bất cứ lý do đặc biệt nào cho việc đó"
+            },
+            {
+              "full_en": "all the evidence points to his guilt",
+              "full_vn": "tất cả các chứng cứ đã vạch rõ tội phạm của hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về chó săn) đứng ở tư thế thân không nhúc nhích, đầu hướng về phía chim bị săn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to point off",
+              "list_im": [
+                {
+                  "im_full_vn": "tách (số lẻ) bằng dấu phẩy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338631_f6f1a58550_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338631_a68354d769_o.png",
+      "id_image": "point_3295121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693749_e9c4911035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693749_a3bdb427ab_o.png",
+      "id_image": "point_3295236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453528_3238a348fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453528_c1e6525dca_o.png",
+      "id_image": "point_3295291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383542_a4fb593346_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383542_d07e297f40_o.png",
+      "id_image": "point_682533"
+    }
+  ]
+}

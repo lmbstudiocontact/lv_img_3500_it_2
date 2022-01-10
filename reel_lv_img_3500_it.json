@@ -1,0 +1,156 @@
+{
+  "english": "reel",
+  "phat_am": "[ri:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "guồng (quay tơ, đánh chỉ)"
+        },
+        {
+          "m_full_vn": "ống, cuộn (để cuốn chỉ, dây câu, phim...) (như) spool",
+          "list_en_vn": [
+            {
+              "full_en": "a reel of cotton thread",
+              "full_vn": "một ống (cuộn) chỉ sợi"
+            },
+            {
+              "full_en": "a picture in eight reels",
+              "full_vn": "một cuộn phim gồm có tám cuộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) tang (để cuộn dây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "off the reel",
+              "list_im": [
+                {
+                  "im_full_vn": "không ngừng, liên tiếp, liên tục, không gián đoạn; trơn tru"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quấn (chỉ, dây, phím) vào ống, quấn vào cuộn (như) reel in , reel up"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay (như) guồng quay tơ"
+        },
+        {
+          "m_full_vn": "kêu sè sè (như) guồng quay tơ (dế, cào cào...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to reel off",
+              "list_im": [
+                {
+                  "im_full_vn": "tháo (chỉ) ra khỏi ống, tháo ra khỏi cuộn"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) thuật lại lưu loát trơn tru, đọc lại lưu loát trơn tru"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điệu vũ quay (ở Ê-cốt)"
+        },
+        {
+          "m_full_vn": "nhạc cho điệu vũ quay (ở Ê-cốt)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy điệu vũ quay"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quay cuồng"
+        },
+        {
+          "m_full_vn": "sự lảo đảo, sự loạng choạng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay cuồng",
+          "list_en_vn": [
+            {
+              "full_en": "everything reels before his eyes",
+              "full_vn": "mọi vật quay cuồng trước mắt nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chóng mặt, lảo đảo, choáng váng",
+          "list_en_vn": [
+            {
+              "full_en": "my head reels",
+              "full_vn": "đầu tôi choáng váng; tôi chóng mặt lảo đảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi lảo đảo, loạng choạng",
+          "list_en_vn": [
+            {
+              "full_en": "to reel to like a drunken man",
+              "full_vn": "đi lảo đảo như người say rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069215_bbb7665f63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069215_726cf222ba_o.png",
+      "id_image": "reel_2570181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332406_392c1c1591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332406_a759c060a9_o.png",
+      "id_image": "reel_3109451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332391_1baca960ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332391_8c5321c0ed_o.png",
+      "id_image": "reel_3786166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332351_a802b813b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332351_aa1a898dae_o.png",
+      "id_image": "reel_3879894"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "peer",
+  "phat_am": "[piə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cùng địa vị, người ngang hàng, người tương đương; người đồng tuế (người cùng tuổi)",
+          "list_en_vn": [
+            {
+              "full_en": "you will not easily his peers",
+              "full_vn": "bạn sẽ khó tìm được người như anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khanh tướng ( Anh), nhà quý tộc (là nam giới)",
+          "list_en_vn": [
+            {
+              "full_en": "a life peer",
+              "full_vn": "một huân tước suốt đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thượng nghị sĩ ( Anh)",
+          "list_en_vn": [
+            {
+              "full_en": "House of Peers",
+              "full_vn": "thượng nghị viện Anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng (ai), ngang hàng với (ai)"
+        },
+        {
+          "m_full_vn": "phong chức khanh tướng cho (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + with ) ngang hàng (với ai)"
+        },
+        {
+          "m_full_vn": "nhìn săm soi, nhìn sát"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + at , into , through ...) nhìn chăm chú, nhìn kỹ, nhòm, ngó"
+        },
+        {
+          "m_full_vn": "hé ra, nhú ra, ló ra (mặt trời, hoa...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368152_930830f99d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368152_7bcc8868ca_o.png",
+      "id_image": "peer_4922543"
+    }
+  ]
+}

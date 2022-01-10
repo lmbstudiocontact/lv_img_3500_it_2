@@ -1,0 +1,61 @@
+{
+  "english": "patient",
+  "phat_am": "['pei∫nt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiên nhẫn, nhẫn nại, bền chí",
+          "list_one_mean": [
+            {
+              "id_full_en": "patient of",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu đựng một cách kiên nhẫn"
+                },
+                {
+                  "im_full_vn": "có thể nhận, phù hợp với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the facts are patient of two interpretations",
+                      "full_vn": "những sự việc đó có thể có hai cách giải thích"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bệnh nhân; người bệnh"
+        },
+        {
+          "m_full_vn": "bệnh nhân đăng ký chữa trị lâu dài với bác sĩ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064430_b63859716a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064430_1b294136de_o.png",
+      "id_image": "patient_2454801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442718_091eef64b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442718_fbfdfde391_o.png",
+      "id_image": "patient_5278459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372492_fe220b2452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372492_36ced291b8_o.png",
+      "id_image": "patient_706192"
+    }
+  ]
+}

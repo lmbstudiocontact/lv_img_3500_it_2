@@ -1,0 +1,75 @@
+{
+  "english": "proprietary",
+  "phat_am": "[prə'praiətri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về hàng hoá) do một hãng nhất định chế tạo và bán ra, thường là có đăng ký; giữ độc quyền",
+          "list_en_vn": [
+            {
+              "full_en": "proprietary medicines",
+              "full_vn": "thuốc có đăng ký độc quyền sản xuất"
+            },
+            {
+              "full_en": "proprietary brands",
+              "full_vn": "những nhãn hiệu đã đăng ký độc quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về tên nhãn hiệu) do một hãng độc quyền sở hữu và sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "a proprietary name",
+              "full_vn": "một cái tên độc quyền sở hữu (nhãn hiệu Kodak..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc chủ, thuộc quyền sở hữu",
+          "list_en_vn": [
+            {
+              "full_en": "proprietary rights",
+              "full_vn": "quyền của người chủ; quyền sở hữu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tài sản, có của",
+          "list_en_vn": [
+            {
+              "full_en": "the proprietary classes",
+              "full_vn": "giai cấp giàu có"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyền sở hữu"
+        },
+        {
+          "m_full_vn": "giới chủ; tầng lớp chủ",
+          "list_en_vn": [
+            {
+              "full_en": "the landed proprietary",
+              "full_vn": "tầng lớp địa chủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465143_0520bd0241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465143_7d37f32b43_o.png",
+      "id_image": "proprietary_2471425"
+    }
+  ]
+}

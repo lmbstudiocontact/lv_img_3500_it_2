@@ -1,0 +1,58 @@
+{
+  "english": "muscle",
+  "phat_am": "['mʌsl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắp thịt, cơ"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sức lực",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to move a muscle",
+              "list_im": [
+                {
+                  "im_full_vn": "không động đậy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a man of muscle",
+              "full_vn": "một người có sức lực, một người vạm vỡ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to muscle in (từ Mỹ,nghĩa Mỹ), (từ lóng) đột nhập, xâm nhập"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068175_5624664a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068175_12c8e8c8be_o.png",
+      "id_image": "muscle_425835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376162_e125263056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376162_66dd00c314_o.png",
+      "id_image": "muscle_5601299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376087_863d71e02a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376087_30a4babea3_o.png",
+      "id_image": "muscle_5730228"
+    }
+  ]
+}

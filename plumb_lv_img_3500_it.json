@@ -1,0 +1,114 @@
+{
+  "english": "plumb",
+  "phat_am": "[plʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả dọi, hòn chì"
+        },
+        {
+          "m_full_vn": "dây dọi; dây dò nước"
+        },
+        {
+          "m_full_vn": "thế thẳng đứng, độ ngay (của tường...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "out of plumb",
+              "list_im": [
+                {
+                  "im_full_vn": "không thẳng đứng, không ngay, xiên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẳng đứng, ngay",
+          "list_en_vn": [
+            {
+              "full_en": "a plumb wall",
+              "full_vn": "bức tường thẳng đứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hoàn toàn, đích thật",
+          "list_en_vn": [
+            {
+              "full_en": "plumb nonsense",
+              "full_vn": "điều hoàn toàn vô lý"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẳng đứng, ngay"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đúng, chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "plumb in the centre",
+              "full_vn": "ngay ở giữa, đúng ở giữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) hoàn toàn, tuyệt đối",
+          "list_en_vn": [
+            {
+              "full_en": "plumb crazy",
+              "full_vn": "hoàn toàn điên rồ, thật đúng là điên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dò độ sâu (biển, sông...) bằng dây dò; đo (độ sâu) bằng dây dò"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) dò, thăm dò, dò xét",
+          "list_en_vn": [
+            {
+              "full_en": "to plumb a mystery",
+              "full_vn": "dò xét một điều bí ẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thẳng đứng (bức tường...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nghề hàn chì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077050_19e2ee2c18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077050_c65a5d5379_o.png",
+      "id_image": "plumb_3556115"
+    }
+  ]
+}

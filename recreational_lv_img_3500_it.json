@@ -1,0 +1,34 @@
+{
+  "english": "recreational",
+  "phat_am": "[,rekri'ei∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sự giải trí, (thuộc) sự tiêu khiển; có tính chất giải trí, có tính chất tiêu khiển"
+        },
+        {
+          "m_full_vn": "làm giải trí, làm tiêu khiển",
+          "list_en_vn": [
+            {
+              "full_en": "to take part in recreational activities",
+              "full_vn": "tham gia vào các hoạt động giải trí"
+            },
+            {
+              "full_en": "recreational facilities",
+              "full_vn": "các phương tiện giải trí (bể bơi, sân thể thao..)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448878_e829d5ef63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448878_e2ff5b25b9_o.png",
+      "id_image": "recreational_1655720"
+    }
+  ]
+}

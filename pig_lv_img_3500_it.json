@@ -1,0 +1,124 @@
+{
+  "english": "pig",
+  "phat_am": "[pig]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con lợn, con heo (ở nhà, rừng); thịt lợn (như) pig-meat",
+          "list_en_vn": [
+            {
+              "full_en": "roast pig",
+              "full_vn": "thịt lợn quay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người bẩn thỉu, tham lam, thô lỗ; nhiệm vụ khó khăn, điều khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "don't be such a pig",
+              "full_vn": "đừng có ngu như lợn"
+            },
+            {
+              "full_en": "a pig of a job",
+              "full_vn": "một công việc tồi"
+            },
+            {
+              "full_en": "a pig of a day",
+              "full_vn": "một ngày khó chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như pig-iron"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) cảnh sát; mật thám, chỉ điểm, cốm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to buy a pig in a poke",
+              "list_im": [
+                {
+                  "im_full_vn": "mua vật gì mà không được trông thấy (biết) rõ, mua trâu vẽ bóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring one's pigs to a fine (a pretty the wrong ) market",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ăn thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make a pig of oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn tham, uống tham như lợn (ăn uống quá nhiều)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pigs might fly",
+              "list_im": [
+                {
+                  "im_full_vn": "những chuyện rất ít khi xảy ra (hiếm khi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "please the pigs",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) lạy trời!, lạy chúa tôi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pig /piggy in the middle",
+              "list_im": [
+                {
+                  "im_full_vn": "tai bay vạ gió"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẻ con (lợn)"
+        },
+        {
+          "m_full_vn": "ăn tham quá mức"
+        },
+        {
+          "m_full_vn": "sống, cư xử bừa bãi, bẩn thỉu, thô lỗ (như) lợn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pig it /pig together",
+              "list_im": [
+                {
+                  "im_full_vn": "sống bẩn thỉu, bừa bãi; cư xử thô lỗ, bẩn thỉu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702324_8caffcf033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702324_ff44db2cd7_o.png",
+      "id_image": "pig_194949"
+    }
+  ]
+}

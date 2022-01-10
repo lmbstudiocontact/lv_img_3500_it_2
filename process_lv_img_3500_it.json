@@ -1,0 +1,162 @@
+{
+  "english": "process",
+  "phat_am": "['prɒses ; 'prəʊses]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá trình; quy trình",
+          "list_en_vn": [
+            {
+              "full_en": "turn-round is a very time-consuming process",
+              "full_vn": "xếp dỡ hàng hoá là một quy trình rất tốn thời gian"
+            },
+            {
+              "full_en": "a manufacturing process",
+              "full_vn": "quy trình sản xuất"
+            },
+            {
+              "full_en": "the process of issuing an investment licence",
+              "full_vn": "quy trình cấp giấy phép đầu tư"
+            },
+            {
+              "full_en": "teaching him French is a very painful process",
+              "full_vn": "dạy tiếng Pháp cho nó là một quá trình rất vất vả"
+            },
+            {
+              "full_en": "the process of growing old",
+              "full_vn": "quá trình lão hoá"
+            },
+            {
+              "full_en": "the processe of digestion ; the digestive process",
+              "full_vn": "quá trình tiêu hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách thức; phương pháp (sản xuất, chế biến)",
+          "list_en_vn": [
+            {
+              "full_en": "the Bessemer process of making steel",
+              "full_vn": "phương pháp sản xuất thép bằng lò Be-xơ-me"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) thủ tục pháp lý, việc tố tụng; trát đòi, lệnh gọi của toà án"
+        },
+        {
+          "m_full_vn": "(sinh vật học) u, bướu (ở cây cối, thân động vật)"
+        },
+        {
+          "m_full_vn": "(ngành in) phép in simili (in ảnh), phép in ảnh chấm",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the process",
+              "list_im": [
+                {
+                  "im_full_vn": "trong khi đang làm cái gì vừa mới nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I started knocking at the door and saw his younger sister in the process",
+                      "full_vn": "Tôi bắt đầu gõ cửa và đang lúc đó thì thấy em gái anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the process of something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "đang thực hiện một nhiệm vụ nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're still in the process of bailing water",
+                      "full_vn": "chúng tôi vẫn đang tát nước ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xử lý; chế biến; gia công",
+          "list_en_vn": [
+            {
+              "full_en": "to process leather to make it softer",
+              "full_vn": "xử lý da làm cho nó mềm hơn"
+            },
+            {
+              "full_en": "to process photographic film",
+              "full_vn": "xử lý phim ảnh (rửa phim)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) xử lý (dữ liệu...)"
+        },
+        {
+          "m_full_vn": "giải quyết chính thức (một tài liệu..)",
+          "list_en_vn": [
+            {
+              "full_en": "it may take a few weeks for your request to be processed",
+              "full_vn": "có lẽ phải mất vài tuần thì đơn của anh mới được giải quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiện (ai); truy tố (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) đi trong một đám rước; diễu hành",
+          "list_en_vn": [
+            {
+              "full_en": "The bishops , priests and deacons processed into the cathedral",
+              "full_vn": "Các giám mục, linh mục và thầy trợ tế tiến vào thánh đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322966_3ba1ec8f83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322966_c25aa31cb2_o.png",
+      "id_image": "process_1605297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059660_d440454894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059660_3a2bb26719_o.png",
+      "id_image": "process_2733478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367937_99aeb397ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367937_1af682c5c3_o.png",
+      "id_image": "process_296930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059620_03ab6b0d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059620_4e82fde26f_o.png",
+      "id_image": "process_4391691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678124_615cb71425_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678124_ac92270bff_o.png",
+      "id_image": "process_860483"
+    }
+  ]
+}

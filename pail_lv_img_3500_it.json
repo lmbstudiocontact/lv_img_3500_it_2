@@ -1,0 +1,30 @@
+{
+  "english": "pail",
+  "phat_am": "[peil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái thùng, cái xô"
+        },
+        {
+          "m_full_vn": "lượng đựng trong xô đó",
+          "list_en_vn": [
+            {
+              "full_en": "a pail of water",
+              "full_vn": "một thùng nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692409_e64d2b4341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692409_5d2c0d0a90_o.png",
+      "id_image": "pail_1619258"
+    }
+  ]
+}

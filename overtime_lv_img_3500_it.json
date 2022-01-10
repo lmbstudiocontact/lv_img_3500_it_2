@@ -1,0 +1,65 @@
+{
+  "english": "overtime",
+  "phat_am": "[,ouvə'taim]",
+  "list_type": [
+    {
+      "type": "phó từ & tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá giờ, ngoài giờ (quy định)",
+          "list_en_vn": [
+            {
+              "full_en": "to work overtime",
+              "full_vn": "làm việc ngoài giờ; làm thêm giờ"
+            },
+            {
+              "full_en": "overtime pay",
+              "full_vn": "tiền làm ngoài giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giờ làm thêm"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) giờ đấu thêm (để quyết định thắng bại)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nhiếp ảnh) (như) overexpose"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384757_7d985d8ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384757_60f3ff093d_o.png",
+      "id_image": "overtime_410878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077040_31acecd712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077040_7f72897e45_o.png",
+      "id_image": "overtime_4593070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339761_fbfbf84c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339761_41d55a3fe1_o.png",
+      "id_image": "overtime_4593093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384672_a779052202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384672_f6f6b57323_o.png",
+      "id_image": "overtime_5260408"
+    }
+  ]
+}

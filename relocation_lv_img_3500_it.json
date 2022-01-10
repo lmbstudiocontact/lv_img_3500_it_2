@@ -1,0 +1,32 @@
+{
+  "english": "relocation",
+  "phat_am": "[,ri:lou'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự di chuyển tới; sự xây dựng lại",
+          "list_en_vn": [
+            {
+              "full_en": "the relocation of industry",
+              "full_vn": "việc bố trí lại ngành công nghiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370967_84cd30d065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370967_5a361385e6_o.png",
+      "id_image": "relocation_3203048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326191_59c0845aca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326191_679f3b363e_o.png",
+      "id_image": "relocation_6343040"
+    }
+  ]
+}

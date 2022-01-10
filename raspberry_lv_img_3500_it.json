@@ -1,0 +1,49 @@
+{
+  "english": "raspberry",
+  "phat_am": "['rɑ:zbri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây mâm xôi"
+        },
+        {
+          "m_full_vn": "quả mâm xôi",
+          "list_en_vn": [
+            {
+              "full_en": "raspberry canes",
+              "full_vn": "(thuộc ngữ) bụi cây mâm xôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tiếng búng lưỡi bĩu môi ê; cái bĩu môi; sự trề môi (để tỏ ý ghét bỏ, khinh miệt, chế nhạo..) (như) razz , Bronx cheer",
+          "list_en_vn": [
+            {
+              "full_en": "give /blow somebody a raspberry",
+              "full_vn": "búng lưỡi khinh bỉ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338281_7ee1cb16de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338281_c99f02c1d6_o.png",
+      "id_image": "raspberry_2358317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075330_1aba3de696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075330_b79c68be9b_o.png",
+      "id_image": "raspberry_5848581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338311_031b5bee92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338311_c6c1c235a5_o.png",
+      "id_image": "raspberry_952034"
+    }
+  ]
+}

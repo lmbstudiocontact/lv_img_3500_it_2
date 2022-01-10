@@ -1,0 +1,58 @@
+{
+  "english": "salon",
+  "phat_am": "['sælɔn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẩm mỹ viện",
+          "list_en_vn": [
+            {
+              "full_en": "a beauty salon",
+              "full_vn": "một mỹ viện"
+            },
+            {
+              "full_en": "a hairdressing salon",
+              "full_vn": "một phòng uốn tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc họp văn nghệ sĩ; phòng khách",
+          "list_en_vn": [
+            {
+              "full_en": "a literary salon",
+              "full_vn": "một cuộc họp văn học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the salon ) cuộc triển lãm tranh hằng năm (của các nghệ sĩ ở Pa-ri)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336171_a6136238e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336171_15b46e3478_o.png",
+      "id_image": "salon_1053051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381132_708fb5c156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381132_191973c35d_o.png",
+      "id_image": "salon_2286608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073040_01c6180ba3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073040_1b332b78e5_o.png",
+      "id_image": "salon_2377470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073130_dbce65895f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073130_3a825fb8e8_o.png",
+      "id_image": "salon_452705"
+    }
+  ]
+}

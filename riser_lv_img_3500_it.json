@@ -1,0 +1,34 @@
+{
+  "english": "riser",
+  "phat_am": "['raizə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thường dậy sớm hoặc muộn vào buổi sáng (như) được nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "an early riser",
+              "full_vn": "người (hay) dậy sớm"
+            },
+            {
+              "full_en": "a late riser",
+              "full_vn": "người (hay) dậy muộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) ván đứng (giữa hai bậc cầu thang)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083075_ca83ab1c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083075_3d70b89f3b_o.png",
+      "id_image": "riser_2240470"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "paper",
+  "phat_am": "['peipə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấy",
+          "list_en_vn": [
+            {
+              "full_en": "correspondence paper",
+              "full_vn": "giấy viết thượng hạng; giấy viết hạng sang"
+            },
+            {
+              "full_en": "tissue paper",
+              "full_vn": "giấy xốp mỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) giấy tờ, giấy má (giấy chứng minh, hồ sơ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to show one's papers",
+              "full_vn": "trình giấy tờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "báo",
+          "list_en_vn": [
+            {
+              "full_en": "daily paper",
+              "full_vn": "báo hằng ngày"
+            },
+            {
+              "full_en": "weekly paper",
+              "full_vn": "báo hằng tuần"
+            },
+            {
+              "full_en": "sporting paper",
+              "full_vn": "báo thể dục thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bạc giấy (như) paper money ; hối phiếu"
+        },
+        {
+          "m_full_vn": "gói giấy, túi giấy",
+          "list_en_vn": [
+            {
+              "full_en": "a paper of needles",
+              "full_vn": "gói kim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) giấy vào cửa không mất tiền, vé mời (rạp hát...)"
+        },
+        {
+          "m_full_vn": "đề bài thi"
+        },
+        {
+          "m_full_vn": "bài luận văn, bài thuyết trình",
+          "list_one_mean": [
+            {
+              "id_full_en": "to commit to paper",
+              "list_im": [
+                {
+                  "im_full_vn": "viết, ghi vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on paper",
+              "list_im": [
+                {
+                  "im_full_vn": "trên giấy tờ, trên lý thuyết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "on paper it looks quite safe",
+                      "full_vn": "trên giấy tờ vấn đề có vẻ rất ổn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "paper profits",
+              "list_im": [
+                {
+                  "im_full_vn": "lãi trên giấy tờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put pen to paper",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu viết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on paper",
+              "list_im": [
+                {
+                  "im_full_vn": "lên giấy (bằng cách viết)"
+                },
+                {
+                  "im_full_vn": "trên giấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a paper tiger",
+              "list_im": [
+                {
+                  "im_full_vn": "hổ giấy (người, vật có bề ngoài dữ tợn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put pen to paper",
+              "list_im": [
+                {
+                  "im_full_vn": "như pen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379207_620cf3c898_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379207_e3f29faa61_o.png",
+      "id_image": "paper_1032687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334281_1667e10365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334281_fa3f457fb5_o.png",
+      "id_image": "paper_1131437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449273_e32641108d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449273_67de35a036_o.png",
+      "id_image": "paper_1188520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379252_594c83cca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379252_94f1172f66_o.png",
+      "id_image": "paper_420285"
+    }
+  ]
+}

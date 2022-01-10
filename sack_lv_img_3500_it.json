@@ -1,0 +1,126 @@
+{
+  "english": "sack",
+  "phat_am": "[sæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao tải, bao bố (chứa xi măng, than, bột..)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) dung lượng đựng trong bao",
+          "list_en_vn": [
+            {
+              "full_en": "a sack of candies",
+              "full_vn": "một bao đường phèn"
+            },
+            {
+              "full_en": "a sack of flour",
+              "full_vn": "bao bột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "áo thụng (một loại áo choàng ngắn buông thỏng xuống của đàn bà)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (từ lóng) cái giường"
+        },
+        {
+          "m_full_vn": "( the sack ) sự thải hồi; sự sa thải",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get the sack",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đuổi, bị thải, bị cách chức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody the sack",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi, (thải, cách chức) người nào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "It's the sack for you !",
+              "full_vn": "anh sắp bị sa thải!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ vào bao; đóng bao"
+        },
+        {
+          "m_full_vn": "(thông tục) sa thải, cách chức, tống cổ, đuổi việc",
+          "list_en_vn": [
+            {
+              "full_en": "to be sacked for incompetence",
+              "full_vn": "bị sa thải vì thiếu năng lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đánh bại, thắng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cướp phá, sự cướp giật (một thị trấn..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cướp phá, cướp bóc, cướp giật"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sử học) rượu vang trắng (ở Tây ban nha hoặc đảo Canary)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075210_19a0b54666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075210_9cbf66c2ed_o.png",
+      "id_image": "sack_1152966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338106_034aa0ae3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338106_383275abe1_o.png",
+      "id_image": "sack_1352327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075100_11d082bec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075100_12c7a284e6_o.png",
+      "id_image": "sack_2954789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693304_9ae2c6d97a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693304_c204692434_o.png",
+      "id_image": "sack_6359685"
+    }
+  ]
+}

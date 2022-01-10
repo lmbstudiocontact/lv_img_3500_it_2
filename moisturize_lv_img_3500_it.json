@@ -1,0 +1,37 @@
+{
+  "english": "moisturize",
+  "phat_am": "['mɔist∫əraiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho (da) đỡ khô bằng cách dùng mỹ phẩm; xoa/bôi (kem)",
+          "list_en_vn": [
+            {
+              "full_en": "to moisturize cream for the face and hands",
+              "full_vn": "bôi kem lên mặt và bàn tay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338541_09ca1381b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338541_26ba052187_o.png",
+      "id_image": "moisturizing_1905835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075545_4f0a2bbc34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075545_b8818c6f99_o.png",
+      "id_image": "moisturizing_2446361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693639_2a0cfde7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693639_a54bc0c31f_o.png",
+      "id_image": "moisturizing_3791155"
+    }
+  ]
+}

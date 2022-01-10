@@ -1,0 +1,91 @@
+{
+  "english": "pepper",
+  "phat_am": "['pepə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạt tiêu, hồ tiêu",
+          "list_en_vn": [
+            {
+              "full_en": "white pepper",
+              "full_vn": "hạt tiêu trắng"
+            },
+            {
+              "full_en": "black pepper",
+              "full_vn": "hạt tiêu đen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây ớt, trái ớt; quả ớt ngọt (dùng làm rau ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "cayenne pepper",
+              "full_vn": "ớt cayen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điều chua cay"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rắc tiêu vào, cho ớt vào"
+        },
+        {
+          "m_full_vn": "rải lên, rắc lên, ném lên",
+          "list_en_vn": [
+            {
+              "full_en": "to pepper something with sand",
+              "full_vn": "rải cát lên vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn tới tấp, bắn như mưa; đánh túi bụi",
+          "list_en_vn": [
+            {
+              "full_en": "to peppern something with missiles",
+              "full_vn": "bắn tên lửa như mưa vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hỏi dồn",
+          "list_en_vn": [
+            {
+              "full_en": "to pepper someone with questions",
+              "full_vn": "hỏi dồn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trừng phạt nghiêm khắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321611_2abb690050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321611_147ccb1b14_o.png",
+      "id_image": "pepper_170315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058290_4cbd3f7fa7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058290_64d74bdd84_o.png",
+      "id_image": "pepper_3944326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676674_9c4cd54524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676674_51d05dc716_o.png",
+      "id_image": "pepper_877713"
+    }
+  ]
+}

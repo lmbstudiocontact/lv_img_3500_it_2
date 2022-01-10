@@ -1,0 +1,259 @@
+{
+  "english": "rest",
+  "phat_am": "[rest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghỉ ngơi; lúc nghỉ ngơi; giấc ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "a day of rest",
+              "full_vn": "ngày nghỉ"
+            },
+            {
+              "full_en": "to go (retire ) to rest",
+              "full_vn": "đi ngủ"
+            },
+            {
+              "full_en": "to take a rest",
+              "full_vn": "nghỉ ngơi, đi ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yên tâm, sự yên lòng, sự thanh thản, sự thư thái (trong tâm hồn)",
+          "list_en_vn": [
+            {
+              "full_en": "to be at rest",
+              "full_vn": "yên tâm, thư thái"
+            },
+            {
+              "full_en": "to set someone's mind at rest",
+              "full_vn": "làm cho ai yên lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yên nghỉ (người chết)",
+          "list_en_vn": [
+            {
+              "full_en": "to be at rest",
+              "full_vn": "yên nghỉ (người chết)"
+            },
+            {
+              "full_en": "to lay somebody to rest",
+              "full_vn": "đưa ai đến chỗ yên nghỉ cuối cùng, chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngừng lại",
+          "list_en_vn": [
+            {
+              "full_en": "to bring to rest",
+              "full_vn": "cho ngừng lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi trú tạm, chỗ nghỉ ngơi (cho những thuỷ thủ, người lái xe...)"
+        },
+        {
+          "m_full_vn": "cái giá đỡ, cái chống, cái tựa"
+        },
+        {
+          "m_full_vn": "(âm nhạc) lặng; dấu lặng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to set a question at rest",
+              "list_im": [
+                {
+                  "im_full_vn": "giải quyết một vấn đề"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghỉ, nghỉ ngơi; ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "to rest from one's labours",
+              "full_vn": "nghỉ làm việc"
+            },
+            {
+              "full_en": "never let the enemy rest",
+              "full_vn": "không để cho kẻ địch ngơi một lúc nào"
+            },
+            {
+              "full_en": "to rest on one's oars",
+              "full_vn": "tạm nghỉ tay chèo; (nghĩa bóng) nghỉ ngơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yên nghỉ, chết"
+        },
+        {
+          "m_full_vn": "ngừng lại",
+          "list_en_vn": [
+            {
+              "full_en": "the matter can't here",
+              "full_vn": "vấn đề không thể ngừng lại ở đây được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on , upon ) dựa trên, tựa trên, đặt trên, chống vào ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the arch rests on two big pillars",
+              "full_vn": "khung vòm đặt trên hai cột lớn"
+            },
+            {
+              "full_en": "a heavy responsibility rests upon them",
+              "full_vn": "một trách nhiệm nặng nề đè lên vai họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ỷ vào, dựa vào, tin vào",
+          "list_en_vn": [
+            {
+              "full_en": "to rest on somebody's promise",
+              "full_vn": "tin vào lời hứa của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on , upon ) ngưng lại, đọng lại, nhìn đăm đăm vào, mải nhìn (mắt...)",
+          "list_en_vn": [
+            {
+              "full_en": "the red glow rests on the top of the trees",
+              "full_vn": "ánh hồng ngưng lại trên những chòm cây"
+            },
+            {
+              "full_en": "his eyes rested in the crowd",
+              "full_vn": "mắt anh ta nhìn đăm đăm vào đám đông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho nghỉ ngơi",
+          "list_en_vn": [
+            {
+              "full_en": "to rest one's horse",
+              "full_vn": "cho ngựa nghỉ"
+            },
+            {
+              "full_en": "the green light rests the eyes",
+              "full_vn": "ánh sang màu lục làm dịu mắt"
+            },
+            {
+              "full_en": "to rest oneself",
+              "full_vn": "nghỉ ngơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt lên, dựa vào, chống",
+          "list_en_vn": [
+            {
+              "full_en": "to rest one's elbows on the table",
+              "full_vn": "chống khuỷ tay lên bàn"
+            },
+            {
+              "full_en": "to rest a ladder against the wall",
+              "full_vn": "dựa thang vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa trên cơ sở, đặt trên cơ sở, căn cứ vào",
+          "list_en_vn": [
+            {
+              "full_en": "he rests all his suspicious on that letter",
+              "full_vn": "hắn cứ dựa vào bức thư đó mà đặt tất cả sự nghi ngờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the rest ) vật còn lại, cái còn lại; những người khác, những cái khác",
+          "list_en_vn": [
+            {
+              "full_en": "and all the rest of it",
+              "full_vn": "và tất cả những cái còn lại; và tất cả những cái khác có thể kể ra và vân vân"
+            },
+            {
+              "full_en": "for the rest",
+              "full_vn": "về phần còn lại; vả lại; vả chăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tài chính) quỹ dự trữ"
+        },
+        {
+          "m_full_vn": "sổ quyết toán (trong kinh doanh)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "còn, vẫn còn, vẫn cứ, cứ",
+          "list_en_vn": [
+            {
+              "full_en": "you may rest assured that ...",
+              "full_vn": "anh có thể cứ tin chắc (yên trí) là..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with ) tuỳ thuộc vào, tuỳ ở (ai để giải quyết việc gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the final decision now rests with you",
+              "full_vn": "bây giờ quyết định cuối cùng là tuỳ ở anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087710_bb364d01fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087710_b61a1d65a7_o.png",
+      "id_image": "rest_2332059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350491_eb6cf8e979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350491_8bbd9216cb_o.png",
+      "id_image": "rest_2773120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705019_9e943f2a03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705019_1fbe3ea42c_o.png",
+      "id_image": "rest_5776062"
+    }
+  ]
+}

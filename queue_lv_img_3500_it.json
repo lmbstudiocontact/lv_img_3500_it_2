@@ -1,0 +1,64 @@
+{
+  "english": "queue",
+  "phat_am": "[kju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tóc thắt đuôi sam"
+        },
+        {
+          "m_full_vn": "hàng (người, xe ô tô...) xếp nối đuôi nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to stand in a queue",
+              "full_vn": "xếp hàng nối đuôi nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) xếp hàng nối đuôi nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to queue up for a tram",
+              "full_vn": "xếp hàng nối đuôi nhau để lên xe điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698844_89ed6656f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698844_e8fa3febec_o.png",
+      "id_image": "queue_1042110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698804_81a2fd2c67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698804_c0bb3f2469_o.png",
+      "id_image": "queue_2132503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388547_609c688613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388547_e23c239925_o.png",
+      "id_image": "queue_2949719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388487_526c003b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388487_5fa470c856_o.png",
+      "id_image": "queue_4223181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458413_0f5cb586ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458413_76a5fec704_o.png",
+      "id_image": "queue_659366"
+    }
+  ]
+}

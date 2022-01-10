@@ -1,0 +1,123 @@
+{
+  "english": "nerve",
+  "phat_am": "[nə:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) dây thần kinh"
+        },
+        {
+          "m_full_vn": "( số nhiều) thần kinh; trạng thái thần kinh kích động",
+          "list_en_vn": [
+            {
+              "full_en": "to get on someone's nerves ; to give someone the nerves",
+              "full_vn": "chọc tức ai; làm cho ai phát cáu"
+            },
+            {
+              "full_en": "to have a fit of nerves",
+              "full_vn": "bực dọc, nóng nảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khí lực, khí phách, dũng khí, can đảm, nghị lực",
+          "list_en_vn": [
+            {
+              "full_en": "a man with iron nerves ; a man with nerves of steel",
+              "full_vn": "con người có khí phách cương cường; con người không gì làm cho xúc động được"
+            },
+            {
+              "full_en": "to lose one's nerves",
+              "full_vn": "mất tinh thần, hoảng sợ"
+            },
+            {
+              "full_en": "to strain every nerve",
+              "full_vn": "ráng hết sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự táo gan, sự trơ tráo",
+          "list_en_vn": [
+            {
+              "full_en": "to have the nerve to do something",
+              "full_vn": "có gan làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) gân (lá cây)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bộ phận chủ yếu, khu vực trung tâm, bộ phận đầu não",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to know what nerves are",
+              "list_im": [
+                {
+                  "im_full_vn": "điềm tĩnh, điềm đạm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a war of nerves",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến tranh cân não, chiến tranh tâm lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit a raw nerve",
+              "list_im": [
+                {
+                  "im_full_vn": "gợi lại nỗi đau buồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bundle of nerves",
+              "list_im": [
+                {
+                  "im_full_vn": "trạng thái bồn chồn lo âu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyền sức mạnh (vật chất, tinh thần); truyền can đảm, truyền nhuệ khí",
+          "list_one_mean": [
+            {
+              "id_full_en": "to nerve oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "ráng sức, lấy hết can đảm, tập trung nghị lực"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369612_81bdff6a6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369612_c36863d631_o.png",
+      "id_image": "nerve_5730174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061655_8b19bf15cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061655_856c6f40e7_o.png",
+      "id_image": "nerve_5746696"
+    }
+  ]
+}

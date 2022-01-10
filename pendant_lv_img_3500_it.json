@@ -1,0 +1,78 @@
+{
+  "english": "pendant",
+  "phat_am": "['pendənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt dây chuyền"
+        },
+        {
+          "m_full_vn": "miếng thủy tinh (trang trí đèn treo nhiều ngọn)"
+        },
+        {
+          "m_full_vn": "(hàng hải) cờ hiệu (trên cột buồm) (như) pennant"
+        },
+        {
+          "m_full_vn": "(hàng hải) cờ đuôi nheo"
+        },
+        {
+          "m_full_vn": "vật giống, vật đối xứng",
+          "list_en_vn": [
+            {
+              "full_en": "to be a pendant to ...",
+              "full_vn": "là vật đối xứng của..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật được treo"
+        },
+        {
+          "m_full_vn": "trang sức đeo lòng thòng; vòng; hoa tai; đèn treo"
+        },
+        {
+          "m_full_vn": "giá treo"
+        },
+        {
+          "m_full_vn": "sự treo"
+        },
+        {
+          "m_full_vn": "dây móc thòng lọng"
+        },
+        {
+          "m_full_vn": "đèn điện treo (từ trần)"
+        },
+        {
+          "m_full_vn": "bộ phận phụ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xem pendent"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367607_f7d3e6a6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367607_eaa3543fa0_o.png",
+      "id_image": "pendant_4580912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367587_23f4efb1f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367587_b5ecb87b07_o.png",
+      "id_image": "pendant_4581024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367552_f8182b9774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367552_b84f790b18_o.png",
+      "id_image": "pendant_4637471"
+    }
+  ]
+}

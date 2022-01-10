@@ -1,0 +1,47 @@
+{
+  "english": "reflector",
+  "phat_am": "[ri'flektə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gương phản xạ, vật phản xạ nhiệt, vật phản xạ ánh sáng; cái phản hồi âm thanh",
+          "list_en_vn": [
+            {
+              "full_en": "parabolic reflector",
+              "full_vn": "gương phản xạ"
+            },
+            {
+              "full_en": "sound reflector",
+              "full_vn": "cái phản xạ âm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gương nhìn sau, kính hậu (ở ô tô)"
+        },
+        {
+          "m_full_vn": "đèn đỏ; vật phản quang (bánh xe đạp..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376197_465e36dffb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376197_16772ed15b_o.png",
+      "id_image": "reflector_1339240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446428_1bbb993f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446428_521d81ae6b_o.png",
+      "id_image": "reflector_1902053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331361_984b06a794_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331361_6c420f835f_o.png",
+      "id_image": "reflector_2005039"
+    }
+  ]
+}

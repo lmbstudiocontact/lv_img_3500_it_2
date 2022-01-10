@@ -1,0 +1,109 @@
+{
+  "english": "pipeline",
+  "phat_am": "['paiplain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường ống dẫn"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn hàng vận chuyển liên tục (từ nơi sản xuất đến các nhà buôn lẻ)"
+        },
+        {
+          "m_full_vn": "kênh cung cấp, kênh liên lạc (tin tức, thông tin..) có đặc quyền, riêng tư",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the pipeline",
+              "list_im": [
+                {
+                  "im_full_vn": "đang được giải quyết, đang trên đường vận chuyển (hàng hoá..)"
+                },
+                {
+                  "im_full_vn": "đang được chuẩn bị, đang được thảo luận; sắp xảy ra (luật pháp, đề nghị..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "diplomatic pipelines",
+              "full_vn": "đường tin ngoại giao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyền (điện, âm thanh..) bằng dây cáp điện, dây điện"
+        },
+        {
+          "m_full_vn": "vận chuyển, dẫn (nước, khí..) bằng ống dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "pipe water into the house",
+              "full_vn": "ống dẫn nước vào một ngôi nhà"
+            },
+            {
+              "full_en": "pipe oil across the desert",
+              "full_vn": "đặt ống dẫn dầu qua sa mạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổi sáo (một giai điệu); hót, ríu rít (chim); líu lo (về người, nhất là trẻ con)"
+        },
+        {
+          "m_full_vn": "(hàng hải) tập hợp ( thủy thủ..) bằng cách thổi còi; hướng dẫn, đón chào (ai) bằng tiếng còi của trạm trưởng trên tàu"
+        },
+        {
+          "m_full_vn": "trang trí (cái gì) bằng đường viền; trang trí trên (một chiếc bánh) bằng kem",
+          "list_en_vn": [
+            {
+              "full_en": "pipe 'Happy Birthday' on a cake",
+              "full_vn": "bắt bông chữ 'Chúc mừng sinh nhật' trên chiếc bánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + down) (thông tục) bớt ồn ào hơn, ngừng nói chuyện"
+        },
+        {
+          "m_full_vn": "( + up) (thông tục) xướng lên, cất giọng",
+          "list_en_vn": [
+            {
+              "full_en": "pipe a shirt with blue silk",
+              "full_vn": "viền chiếc váy bằng lụa xanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700654_0e96af5dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700654_05e59d6fe7_o.png",
+      "id_image": "pipeline_1280956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345451_7023ce8846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345451_14a08be550_o.png",
+      "id_image": "pipeline_1486201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700549_bfafb36cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700549_fcdf3b6221_o.png",
+      "id_image": "pipeline_2933945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082840_f2fec17473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082840_2aa22b5a49_o.png",
+      "id_image": "pipeline_3716766"
+    }
+  ]
+}

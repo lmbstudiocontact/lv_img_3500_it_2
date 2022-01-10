@@ -1,0 +1,62 @@
+{
+  "english": "pray",
+  "phat_am": "[prei]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to pray to somebody ) ( to pray for somebody / something ) cầu nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "the priest prayed for the dying man",
+              "full_vn": "linh mục cầu nguyện cho người hấp hối"
+            },
+            {
+              "full_en": "they prayed (to God ) for an end to their suffering /for the sufferings to end",
+              "full_vn": "họ cầu Chúa cho được chấm dứt nỗi khổ đau"
+            },
+            {
+              "full_en": "they prayed that he would soon recover",
+              "full_vn": "họ cầu nguyện cho ông ta sớm bình phục"
+            },
+            {
+              "full_en": "she prayed to be forgiven /(to ) God for forgiveness",
+              "full_vn": "bà ấy cầu Chúa tha tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to pray somebody for something ) khẩn cầu, cầu xin",
+          "list_en_vn": [
+            {
+              "full_en": "we pray you for mercy /to show mercy",
+              "full_vn": "chúng tôi xin ông rủ lòng từ bi"
+            },
+            {
+              "full_en": "we pray you to set the prisoner free",
+              "full_vn": "chúng tôi cầu xin ông tha cho người tù"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067340_9a9113053e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067340_676b224e4b_o.png",
+      "id_image": "pray_1396575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067405_5b167f0d69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067405_3a656d6373_o.png",
+      "id_image": "pray_509931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330521_bc0bca16fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330521_c86e598452_o.png",
+      "id_image": "pray_734889"
+    }
+  ]
+}

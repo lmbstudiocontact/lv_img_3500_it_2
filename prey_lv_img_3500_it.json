@@ -1,0 +1,83 @@
+{
+  "english": "prey",
+  "phat_am": "[prei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con mồi",
+          "list_en_vn": [
+            {
+              "full_en": "a beast of prey",
+              "full_vn": "thú săn mồi"
+            },
+            {
+              "full_en": "a bird of prey",
+              "full_vn": "chim săn mồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mồi, nạn nhân (của ai, của bệnh hoạn, của sự sợ hãi...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "be /fall prey to something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mồi cho..."
+                },
+                {
+                  "im_full_vn": "là nạn nhân của.."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to become a prey to fear",
+              "full_vn": "bị nỗi lo sợ luôn luôn giày vò"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + upon ) săn mồi, bắt mồi (mãnh thú)"
+        },
+        {
+          "m_full_vn": "làm hại, bóc lột (ai)"
+        },
+        {
+          "m_full_vn": "làm hao mòn (bệnh tật); giày vò, day dứt, ám ảnh (nỗi đau buồn...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "prey on /upon somebody's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "giày vò",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his failure preyed upon his mind",
+                      "full_vn": "sự thất bại cứ day dứt trong tâm trí anh ta"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326531_09f6b438f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326531_a8833fbc0a_o.png",
+      "id_image": "prey_2911130"
+    }
+  ]
+}

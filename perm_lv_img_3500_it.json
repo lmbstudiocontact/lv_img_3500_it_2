@@ -1,0 +1,41 @@
+{
+  "english": "perm",
+  "phat_am": "[pə:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) của permanent wave"
+        },
+        {
+          "m_full_vn": "(viết tắt) của permutation"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho (tóc ai) quăn làn sóng; uốn làn sóng",
+          "list_en_vn": [
+            {
+              "full_en": "Her hair has been permed",
+              "full_vn": "Tóc chị ấy đã được uốn quăn làn sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổi trật tự (của các số) trong việc cá độ bóng đá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320426_c9a49b8871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320426_c40cfccf46_o.png",
+      "id_image": "perm_3125044"
+    }
+  ]
+}

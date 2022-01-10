@@ -1,0 +1,153 @@
+{
+  "english": "prize",
+  "phat_am": "[praiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải, giải thưởng (tại một cuộc thi, cuộc đua ngựa..)",
+          "list_en_vn": [
+            {
+              "full_en": "the International Lenin Peace Prize",
+              "full_vn": "giải thưởng quốc tế hoà bình Lê-nin"
+            },
+            {
+              "full_en": "she won first prize in the 100 metres race",
+              "full_vn": "cô ta đoạt giải nhất trong môn chạy đua 100 mét"
+            },
+            {
+              "full_en": "her book gained several literary prizes",
+              "full_vn": "cuốn sách của bà ta đã giành nhiều giải thưởng văn học"
+            },
+            {
+              "full_en": "to carry off the prize",
+              "full_vn": "đoạt giải"
+            },
+            {
+              "full_en": "she had the prize-winning lottery ticket",
+              "full_vn": "cô ta có tấm vé số trúng giải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần thưởng (cái có giá trị đáng đấu tranh để giành lấy)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điều mong ước, ước vọng",
+          "list_en_vn": [
+            {
+              "full_en": "the prizes of life",
+              "full_vn": "những ước vọng của cuộc đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiến lợi phẩm (tàu bè, tài sản...)",
+          "list_en_vn": [
+            {
+              "full_en": "to make prize of ...",
+              "full_vn": "tịch thu (tàu bè, tài sản... ở biển) làm chiến lợi phẩm"
+            },
+            {
+              "full_en": "to become prize",
+              "full_vn": "bị bắt, bị tịch thu làm chiến lợi phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) của trời cho, của bắt được"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đoạt giải, xuất sắc, ưu tú nhất (trong loại của nó)",
+          "list_en_vn": [
+            {
+              "full_en": "prize cattle",
+              "full_vn": "gia súc đoạt giải"
+            },
+            {
+              "full_en": "a prize exhibit in the flower show",
+              "full_vn": "hoa đẹp nhất trong cuộc triển lãm hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn; cực kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "a prize ass , fool , idiot",
+              "full_vn": "một tên đại ngu, kẻ đại ngốc, đứa dốt đặc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nậy, sự bẩy (bằng đòn bẩy) (cũng) (như) prise"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đòn bẩy"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh giá cao, quý trọng (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to prize liberty more than life",
+              "full_vn": "quý tự do hơn sinh mệnh"
+            },
+            {
+              "full_en": "the portrait of her mother was her most prized possession",
+              "full_vn": "bức chân dung mẹ cô ấy là tài sản quý giá nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tịch thu (tàu bè, tài sản... ở biển) làm chiến lợi phẩm (như) pry"
+        },
+        {
+          "m_full_vn": "nậy, bẩy lên, cậy lên (như) prise",
+          "list_en_vn": [
+            {
+              "full_en": "to prize open a box",
+              "full_vn": "nậy tung cái hộp ra"
+            },
+            {
+              "full_en": "to prize up the cover",
+              "full_vn": "bẩy cái nắp lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323591_5e44a93b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323591_f0a6024e37_o.png",
+      "id_image": "prize_395735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368517_ab62a4ca13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368517_164fb5c3b9_o.png",
+      "id_image": "prize_4658184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323516_481b63c8a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323516_27f34e1a4a_o.png",
+      "id_image": "prize_5578252"
+    }
+  ]
+}

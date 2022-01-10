@@ -1,0 +1,104 @@
+{
+  "english": "personal",
+  "phat_am": "['pə:sənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cá nhân, riêng tư",
+          "list_en_vn": [
+            {
+              "full_en": "my personal opinion",
+              "full_vn": "ý kiến cá nhân tôi, ý kiến riêng tôi"
+            },
+            {
+              "full_en": "this is personal to myself",
+              "full_vn": "đây là việc riêng của tôi"
+            },
+            {
+              "full_en": "personal remarks",
+              "full_vn": "những nhận xét ám chỉ cá nhân; những lời chỉ trích cá nhân"
+            },
+            {
+              "full_en": "a personal account",
+              "full_vn": "một tài khoản riêng, tài khoản cá nhân"
+            },
+            {
+              "full_en": "personal cleanliness /freshness /hygiene",
+              "full_vn": "sự sạch sẽ/sảng khoái/vệ sinh cá nhân"
+            },
+            {
+              "full_en": "a letter marked 'Personal'",
+              "full_vn": "bức thư có đóng dấu 'Thư riêng'"
+            },
+            {
+              "full_en": "please leave us alone - we have something personal to discuss",
+              "full_vn": "làm ơn để chúng tôi ngồi riêng - chúng tôi có chuyện riêng cần bàn"
+            },
+            {
+              "full_en": "his personal life is a mystery to his colleagues",
+              "full_vn": "cuộc sống riêng của ông ta là điều bí ẩn đối với các bạn đồng nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dành cho cá nhân; dành riêng",
+          "list_en_vn": [
+            {
+              "full_en": "this car is for your personal use only",
+              "full_vn": "xe này dành riêng cho anh sử dụng mà thôi"
+            },
+            {
+              "full_en": "we offer a personal service to our customers",
+              "full_vn": "chúng tôi dành một dịch vụ riêng cho các khách hàng"
+            },
+            {
+              "full_en": "will you do it for me as a personal favour ?",
+              "full_vn": "ông làm việc đó như một đặc ân dành riêng cho tôi chứ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đích thân, trực tiếp làm",
+          "list_en_vn": [
+            {
+              "full_en": "the Prime Minister made a personal appearance at the prize-giving ceremony",
+              "full_vn": "đích thân Thủ tướng xuất hiện trong lễ phát thưởng"
+            },
+            {
+              "full_en": "I shall give the matter my personal attention",
+              "full_vn": "tôi sẽ trực tiếp chú ý đến vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) nhân xưng",
+          "list_en_vn": [
+            {
+              "full_en": "personal pronoun",
+              "full_vn": "đại từ chỉ ngôi; đại từ nhân xưng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057045_a653ef888a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057045_1ba4901ff6_o.png",
+      "id_image": "personal_1471063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365192_682fec68b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365192_28d432c362_o.png",
+      "id_image": "personal_2596477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365152_67b290612c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365152_cd9227ed91_o.png",
+      "id_image": "personal_3306801"
+    }
+  ]
+}

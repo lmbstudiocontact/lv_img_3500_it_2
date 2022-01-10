@@ -1,0 +1,50 @@
+{
+  "english": "raffle",
+  "phat_am": "['ræfl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rác rưởi, cặn bã, đồ bỏ đi"
+        },
+        {
+          "m_full_vn": "cuộc xổ số (để bán hàng, nhất là vì từ thiện)",
+          "list_en_vn": [
+            {
+              "full_en": "to win a video in a raffle",
+              "full_vn": "được tặng một đầu video trong cuộc xổ số"
+            },
+            {
+              "full_en": "a raffle ticket",
+              "full_vn": "(thuộc ngữ) một vé xổ số"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán hàng bằng cách xổ số"
+        },
+        {
+          "m_full_vn": "tặng (vật phẩm) làm giải thưởng trong cuộc xổ số"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078180_2f564e4662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078180_acd978faa7_o.png",
+      "id_image": "raffle_1901848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696094_64834e4a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696094_21092f4430_o.png",
+      "id_image": "raffle_5256650"
+    }
+  ]
+}

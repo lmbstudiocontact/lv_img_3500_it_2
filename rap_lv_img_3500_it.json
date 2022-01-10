@@ -1,0 +1,116 @@
+{
+  "english": "rap",
+  "phat_am": "[ræp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn (len, sợi...) 120 iat"
+        },
+        {
+          "m_full_vn": "một tí, mảy may, một tí xíu, tí tẹo",
+          "list_en_vn": [
+            {
+              "full_en": "I don't care a rap",
+              "full_vn": "(thông tục) tớ cóc cần một tí nào"
+            },
+            {
+              "full_en": "it's not worth a rap",
+              "full_vn": "không đáng một xu, không có giá trị gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) đồng xu Ai-len ( (thế kỷ) 18)"
+        },
+        {
+          "m_full_vn": "cú đánh nhẹ, cái gõ, cái cốp (vào đầu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone a rap on the knuckles",
+              "full_vn": "đánh vào đốt ngón tay ai; (nghĩa bóng) mắng mỏ ai, trách phạt ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng gõ nhanh, khẽ (cửa..)",
+          "list_en_vn": [
+            {
+              "full_en": "a rap at (on ) the door",
+              "full_vn": "tiếng gõ cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) sự buộc tội, sự kết tội"
+        },
+        {
+          "m_full_vn": "lời nói nhanh; sự nói luôn mồm",
+          "list_one_mean": [
+            {
+              "id_full_en": "not care /give a rap",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cóc cần, không chú ý tí nào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh nhẹ, gõ, cốp"
+        },
+        {
+          "m_full_vn": "( + out ) thốt ra một cách thô lỗ cộc cằn; văng (tục...)",
+          "list_en_vn": [
+            {
+              "full_en": "to rap out a reply",
+              "full_vn": "đáp lại một cách cộc cằn"
+            },
+            {
+              "full_en": "to rap out an oath",
+              "full_vn": "văng ra một lời rủa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gõ",
+          "list_en_vn": [
+            {
+              "full_en": "to rap at the door",
+              "full_vn": "gõ cửa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453688_e119213d7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453688_d221590d0d_o.png",
+      "id_image": "rap_122845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453668_bf0fe56e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453668_9077bcea44_o.png",
+      "id_image": "rap_1804741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075665_31aa6e51ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075665_60641432e4_o.png",
+      "id_image": "rap_5294840"
+    }
+  ]
+}

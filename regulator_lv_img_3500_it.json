@@ -1,0 +1,45 @@
+{
+  "english": "regulator",
+  "phat_am": "['regjuleitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người điều chỉnh"
+        },
+        {
+          "m_full_vn": "máy điều chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "a pressure temperature regulator",
+              "full_vn": "bộ điều hoà áp suất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329501_ef567d04e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329501_6e4e4dd51f_o.png",
+      "id_image": "regulator_5232931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444438_8e13923c0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444438_aa800d074f_o.png",
+      "id_image": "regulator_5330610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684404_0e32a7d3a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684404_93475b615d_o.png",
+      "id_image": "regulator_5823182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684349_fcf895e1bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684349_f1a90c3918_o.png",
+      "id_image": "regulator_6213741"
+    }
+  ]
+}

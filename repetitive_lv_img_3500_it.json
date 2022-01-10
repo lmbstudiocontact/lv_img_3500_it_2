@@ -1,0 +1,35 @@
+{
+  "english": "repetitive",
+  "phat_am": "[ri'petətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có đặc trưng lặp đi lặp lại",
+          "list_en_vn": [
+            {
+              "full_en": "a repetitive job",
+              "full_vn": "một công việc lặp đi lặp lại"
+            },
+            {
+              "full_en": "a repetitive tune",
+              "full_vn": "một giai điệu lặp đi lặp lại"
+            },
+            {
+              "full_en": "repetitive questions",
+              "full_vn": "những câu hỏi được nhắc đi nhắc lại nhiều lần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323511_edbd0633d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323511_2527d98ff3_o.png",
+      "id_image": "repetitive_4243493"
+    }
+  ]
+}

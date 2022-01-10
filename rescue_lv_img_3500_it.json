@@ -1,0 +1,73 @@
+{
+  "english": "rescue",
+  "phat_am": "['reskju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giải thoát; sự cứu nguy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come /go to somebody's rescue",
+              "list_im": [
+                {
+                  "im_full_vn": "đến cứu/giúp ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a rescue party , bid , operation",
+              "full_vn": "một toán, sự cố gắng, hoạt động cấp cứu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải thoát; cứu; cứu nguy",
+          "list_en_vn": [
+            {
+              "full_en": "to rescue someone from death",
+              "full_vn": "cứu ai thoát chết"
+            },
+            {
+              "full_en": "to rescue someone from drowning , attack , bankcrupty",
+              "full_vn": "cứu ai khỏi chết đuối, khỏi bị tấn công, khỏi bị phá sản"
+            },
+            {
+              "full_en": "police rescued the hostages",
+              "full_vn": "cảnh sát đã giải cứu các con tin"
+            },
+            {
+              "full_en": "to rescue somebody's name from oblivion",
+              "full_vn": "cứu tên tuổi ai khỏi bị quên lãng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677309_9920fdec2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677309_f163e13a43_o.png",
+      "id_image": "rescue_1558320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322146_449187b105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322146_d216d55416_o.png",
+      "id_image": "rescue_1973113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322196_a833efc7ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322196_13303fe773_o.png",
+      "id_image": "rescue_228382"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "momentum",
+  "phat_am": "[mou'mentə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều momentums hoặc momenta",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) động lượng, xung lượng",
+          "list_en_vn": [
+            {
+              "full_en": "the sledge gained momentum as it ran down the hill",
+              "full_vn": "xe trượt tuyết lấy được động lượng khi nó lao xuống chân đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức đẩy tới; đà",
+          "list_one_mean": [
+            {
+              "id_full_en": "the movement to change the union's constitution is slowly gathering momentum",
+              "list_im": [
+                {
+                  "im_full_vn": "phong trào đòi thay đổi điều lệ công đoàn đang dần dần có đà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453068_fb6b96b8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453068_fb5e708b82_o.png",
+      "id_image": "momentum_1284098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383097_dc1ff580d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383097_0a88b62e8a_o.png",
+      "id_image": "momentum_1474387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383077_9032d53603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383077_96893dea96_o.png",
+      "id_image": "momentum_2050282"
+    }
+  ]
+}

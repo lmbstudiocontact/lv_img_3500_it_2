@@ -1,0 +1,268 @@
+{
+  "english": "record",
+  "phat_am": "[ri'kɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sổ sách ghi chép; hồ sơ",
+          "list_en_vn": [
+            {
+              "full_en": "a record of school attendances /road accidents",
+              "full_vn": "hồ sơ về những người có mặt ở nhà trường/tai nạn giao thông"
+            },
+            {
+              "full_en": "records of births , marriages and deaths",
+              "full_vn": "hồ sơ sinh đẻ, cưới xin và tử vong"
+            },
+            {
+              "full_en": "public /parish /medical records",
+              "full_vn": "công báo/sổ đăng ký (lễ, hiếu, hỉ) của xứ đạo) /y bạ"
+            },
+            {
+              "full_en": "to make /keep a record of one's expenses",
+              "full_vn": "lập sổ ghi các khoản chi tiêu của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành tích; tiếng tăm; lý lịch (trong quá khứ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a clean record",
+              "full_vn": "có lý lịch trong sạch"
+            },
+            {
+              "full_en": "he had a good war record",
+              "full_vn": "ông ta có thành tích tốt trong chiến tranh"
+            },
+            {
+              "full_en": "to have a (previous ) criminal record",
+              "full_vn": "có tiền án (từng bị kết án vì đã phạm tội)"
+            },
+            {
+              "full_en": "the airline has a bad safety record",
+              "full_vn": "hãng hàng không này có tiếng là không an toàn"
+            },
+            {
+              "full_en": "the school has a poor record for examination passes",
+              "full_vn": "nhà trường có thành tích kém trong các kỳ thi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thành tích, kỷ lục",
+          "list_en_vn": [
+            {
+              "full_en": "to break /beat a record",
+              "full_vn": "phá kỷ lục"
+            },
+            {
+              "full_en": "to achieve a record",
+              "full_vn": "lập một kỷ lục mới"
+            },
+            {
+              "full_en": "an Olympic /world /all-time record",
+              "full_vn": "kỷ lục Ôlympic/thế giới/của mọi thời đại"
+            },
+            {
+              "full_en": "she holds the world record in /for the 100 metres",
+              "full_vn": "cô ta giữ kỷ lục thế giới về môn chạy 100 mét"
+            },
+            {
+              "full_en": "a record performance /score /time",
+              "full_vn": "buổi biểu diễn/số điểm/thời gian kỷ lục"
+            },
+            {
+              "full_en": "record profits /sales /crops",
+              "full_vn": "tiền lãi/doanh số/vụ thu hoạch kỷ lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) một bộ dữ liệu có liên quan tạo thành một đơn vị trong hồ sơ máy tính"
+        },
+        {
+          "m_full_vn": "đĩa hát, đĩa ghi âm (như) gramophone record , disc",
+          "list_one_mean": [
+            {
+              "id_full_en": "(just ) for the record",
+              "list_im": [
+                {
+                  "im_full_vn": "vì mục đích chính xác; cần phải ghi lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "just for the record , the minister's statement is wrong on two points",
+                      "full_vn": "để cho thật chính xác thì trong lới phát biểu của ông bộ trưởng có hai điểm sai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "off the record",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không được ghi; không chính thức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Prime Minister admitted , (strictly ) off the record , that the talks had failed",
+                      "full_vn": "Thủ tướng thú nhận, (tuyệt đối) không được ghi, cuộc thương lượng đã thất bại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on record",
+              "list_im": [
+                {
+                  "im_full_vn": "đã được ghi (nhất là một cách chính thức các sự kiện..)"
+                },
+                {
+                  "im_full_vn": "được biết công khai, được chính thức công nhận (về những quan điểm..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "last summer was the wettest on record for 50 years",
+                      "full_vn": "mùa hè năm ngoái được ghi nhận là ẩm ướt nhất trong 50 năm trở lại đây"
+                    },
+                    {
+                      "full_en": "to be /go on record as saying that the law should be changed",
+                      "full_vn": "đã được ghi như châm ngôn là luật pháp cần phải thay đổi"
+                    },
+                    {
+                      "full_en": "to put one's views /objections on record",
+                      "full_vn": "công khai hoá quan điểm/ý kiến phản bác của mình (bằng văn bản hoặc trên phương tiện truyền thanh)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear record to something",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng thực (xác nhận) việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to travel out of the record",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ra ngoài đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put /set the record straight",
+              "list_im": [
+                {
+                  "im_full_vn": "báo cáo chính xác các sự việc; đính chính một sự hiểu lầm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set the record straight , I must say now that I never supported the idea",
+                      "full_vn": "để nói lại cho đúng, hôm nay tôi xin tuyên bố rằng tôi không hề ủng hộ ý kiến đó"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a pop record",
+              "full_vn": "một đĩa nhạc pốp"
+            },
+            {
+              "full_en": "to put on /play some records",
+              "full_vn": "quay một vài đĩa hát"
+            },
+            {
+              "full_en": "a record sleeve /album /library",
+              "full_vn": "một hộp đựng/anbum/tủ đĩa hát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghi lại, ghi chép",
+          "list_en_vn": [
+            {
+              "full_en": "to record progress /developments",
+              "full_vn": "ghi lại sự tiến bộ/những sự việc diễn biến"
+            },
+            {
+              "full_en": "to record the minutes /proceedings of a meeting",
+              "full_vn": "ghi biên bản hội nghị"
+            },
+            {
+              "full_en": "the papers record that inflation has dropped",
+              "full_vn": "báo chí ghi rằng lạm phát đã giảm"
+            },
+            {
+              "full_en": "historians record how Rome fell",
+              "full_vn": "các nhà viết sử ghi lại Rôm đã sụp đổ như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ lại (âm thanh hoặc hình ảnh) trên đĩa hoặc băng từ để in lại về sau; thu",
+          "list_en_vn": [
+            {
+              "full_en": "to record , press both buttons",
+              "full_vn": "muốn thu thì ấn cả hai nút"
+            },
+            {
+              "full_en": "my voice records quite well",
+              "full_vn": "giọng của tôi thu khá rõ"
+            },
+            {
+              "full_en": "to record music from the radio",
+              "full_vn": "thu nhạc từ rađiô vào"
+            },
+            {
+              "full_en": "to record a speech /piece of music /TV programme (on tape /video )",
+              "full_vn": "thu bài nói/bản nhạc/chương trình TV (vào băng/viđêô)"
+            },
+            {
+              "full_en": "to record somebody playing the guitar",
+              "full_vn": "thu (thanh, hình) ai chơi ghita"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về dụng cụ đo) chỉ, ghi",
+          "list_en_vn": [
+            {
+              "full_en": "the thermometer recorded 32 o",
+              "full_vn": "nhiệt kế chỉ 32 độ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334616_fd0ed95bd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334616_86be4e913c_o.png",
+      "id_image": "record_2193029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449698_9fd6123b5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449698_1fbf677ca0_o.png",
+      "id_image": "record_326914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689754_900588e86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689754_3ae5d339e3_o.png",
+      "id_image": "record_473680"
+    }
+  ]
+}

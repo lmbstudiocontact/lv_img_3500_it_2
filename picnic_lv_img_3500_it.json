@@ -1,0 +1,59 @@
+{
+  "english": "picnic",
+  "phat_am": "['piknik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "pích-ních; cuộc đi chơi và ăn ngoài trời; bữa ăn ngoài trời",
+          "list_one_mean": [
+            {
+              "id_full_en": "be no picnic",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khó khăn, phiền nhiễu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a picnic table",
+              "full_vn": "(thuộc ngữ) bàn ăn ngoài trời"
+            },
+            {
+              "full_en": "a picnic lunch",
+              "full_vn": "(thuộc ngữ) bữa ăn trưa ngoài trời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi picnic; đi chơi và ăn ngoài trời; ăn ngoài trời"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702814_ed3dc00d7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702814_d121907899_o.png",
+      "id_image": "picnic_1142694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348166_77257c817c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348166_ae8b894304_o.png",
+      "id_image": "picnic_769632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702864_d0c49d7197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702864_d5847c3ccd_o.png",
+      "id_image": "picnic_978391"
+    }
+  ]
+}

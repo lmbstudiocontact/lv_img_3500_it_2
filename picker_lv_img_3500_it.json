@@ -1,0 +1,44 @@
+{
+  "english": "picker",
+  "phat_am": "['pikə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hái, người nhặt; đồ dùng để hái, đồ dùng để nhặt, đồ dùng để bắt",
+          "list_en_vn": [
+            {
+              "full_en": "hop-picker",
+              "full_vn": "người hái hublông"
+            },
+            {
+              "full_en": "mechanical apple-picker",
+              "full_vn": "máy hái táo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ mở, đồ nạy (ổ khoá)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393382_4c7e497e1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393382_5a5224b365_o.png",
+      "id_image": "picker_1151186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085740_4abe7032df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085740_281e07f9f8_o.png",
+      "id_image": "picker_4061270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393332_a1c636cbe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393332_cac0f52521_o.png",
+      "id_image": "picker_6300882"
+    }
+  ]
+}

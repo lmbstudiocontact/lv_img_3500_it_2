@@ -1,0 +1,49 @@
+{
+  "english": "puke",
+  "phat_am": "[pju:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nôn mửa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (nghĩa đen), (nghĩa bóng)) ói, nôn mửa, trớ",
+          "list_en_vn": [
+            {
+              "full_en": "the baby puked (up ) all over me",
+              "full_vn": "đứa bé trớ ra khắp người tôi (nôn mửa ra)"
+            },
+            {
+              "full_en": "It makes me want to puke",
+              "full_vn": "điều đó làm tôi buồn nôn (làm tôi ghê tởm)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463108_cefd853d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463108_d5f8ffd94a_o.png",
+      "id_image": "puke_1805243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702949_a7b33b7cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702949_b85e4db851_o.png",
+      "id_image": "puke_2599606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393092_154a6ee1a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393092_32ab91ed30_o.png",
+      "id_image": "puke_4954478"
+    }
+  ]
+}

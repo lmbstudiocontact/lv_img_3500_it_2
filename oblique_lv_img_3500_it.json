@@ -1,0 +1,84 @@
+{
+  "english": "oblique",
+  "phat_am": "[ə'bli:k]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xiên, chéo, chếch",
+          "list_en_vn": [
+            {
+              "full_en": "an oblique come",
+              "full_vn": "hình nón xiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạnh khoé, quanh co, không thẳng thắn",
+          "list_en_vn": [
+            {
+              "full_en": "oblique means",
+              "full_vn": "thủ đoạn quanh co"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) không đối xứng, không cân (lá)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) gián tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "oblique case",
+              "full_vn": "cách gián tiếp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xiên đi"
+        },
+        {
+          "m_full_vn": "(quân sự) tiến xiên"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu ( /) dùng trong toán học (cũng) oblique stroke",
+          "list_en_vn": [
+            {
+              "full_en": "4/5 people",
+              "full_vn": "4 / 5 người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật bị lệch, xiên"
+        }
+      ]
+    },
+    {
+      "type": "trạng từ",
+      "list_m": [
+        {
+          "m_full_vn": "chệch góc 45 độ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086805_f8b32e6e2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086805_73034bd993_o.png",
+      "id_image": "oblique_2548519"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "miscellaneous",
+  "phat_am": "[,misi'leinjəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạp, pha tạp, hỗn hợp; linh tinh",
+          "list_en_vn": [
+            {
+              "full_en": "miscellaneous goods",
+              "full_vn": "tạp hoá"
+            },
+            {
+              "full_en": "miscellaneous business",
+              "full_vn": "việc linh tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có nhiều đặc tính khác nhau, có nhiều thể khác nhau",
+          "list_en_vn": [
+            {
+              "full_en": "a miscellaneous writer",
+              "full_vn": "một nhà văn viết nhiều thể văn khác nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078705_e91092c160_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078705_89ca0164e3_o.png",
+      "id_image": "miscellaneous_1798666"
+    }
+  ]
+}

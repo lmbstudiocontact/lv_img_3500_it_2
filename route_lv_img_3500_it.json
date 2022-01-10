@@ -1,0 +1,71 @@
+{
+  "english": "route",
+  "phat_am": "[ru:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyến đường; lộ trình; đường đi",
+          "list_en_vn": [
+            {
+              "full_en": "on route",
+              "full_vn": "trên đường đi"
+            },
+            {
+              "full_en": "bus route",
+              "full_vn": "tuyến đường xe buýt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) lệnh hành quân (như) raut",
+          "list_en_vn": [
+            {
+              "full_en": "column of route",
+              "full_vn": "đội hình hành quân"
+            },
+            {
+              "full_en": "to give the route",
+              "full_vn": "ra lệnh hành quân"
+            },
+            {
+              "full_en": "to get the route",
+              "full_vn": "nhận lệnh hành quân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi (hàng hoá) theo một tuyến đường nhất định"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341126_b43018d937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341126_c7eb9ba0b5_o.png",
+      "id_image": "route_169493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455903_4b67aee3ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455903_a0e73ef267_o.png",
+      "id_image": "route_179677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386042_425557859c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386042_1c51f4bddf_o.png",
+      "id_image": "route_2569907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696269_a5b97ab6b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696269_ce4404f06c_o.png",
+      "id_image": "route_3579797"
+    }
+  ]
+}

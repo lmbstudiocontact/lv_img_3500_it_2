@@ -1,0 +1,119 @@
+{
+  "english": "rail",
+  "phat_am": "[reil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tay vịn, lan can, chấn song (lan can, cầu thang..)",
+          "list_en_vn": [
+            {
+              "full_en": "hold the handrail for safety",
+              "full_vn": "nắm lấy tay vịn cho an toàn"
+            },
+            {
+              "full_en": "wooden rails in front of an altar",
+              "full_vn": "những tay vịn bằng gỗ trước bàn thờ"
+            },
+            {
+              "full_en": "the horses on the rails",
+              "full_vn": "những con ngựa bên trong rào chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh ngang đóng vào tường để treo đồ đạc; giá treo",
+          "list_en_vn": [
+            {
+              "full_en": "a towel rail",
+              "full_vn": "giá treo khăn mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh sắt hoặc một đường liên tục gồm những thanh sắt bắt chặt xuống đất làm một bên của đường tàu hoả hoặc tàu điện; thanh ray; đường ray"
+        },
+        {
+          "m_full_vn": "đường sắt như là phương tiện giao thông",
+          "list_one_mean": [
+            {
+              "id_full_en": "free on board /rail",
+              "list_im": [
+                {
+                  "im_full_vn": "xem free"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go off the rails",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lộn xộn đến đỗi không điều khiển được nữa; hỗn loạn"
+                },
+                {
+                  "im_full_vn": "trở nên điên rồ, trở nên mất trí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump the rails /track",
+              "list_im": [
+                {
+                  "im_full_vn": "xem jump"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a rail strike",
+              "full_vn": "cuộc bãi công của công nhân ngành đường sắt"
+            },
+            {
+              "full_en": "rail travel , freight",
+              "full_vn": "sự đi du lịch bằng xe lửa, hàng chở bằng xe lửa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) gà nước"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to rail something in / off ) rào lại",
+          "list_en_vn": [
+            {
+              "full_en": "to rail off a field (from a road )",
+              "full_vn": "rào cánh đồng (riêng biệt với đường đi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to rail at / against somebody / something ) chửi bới; mắng nhiếc, xỉ vả"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340476_b009914541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340476_2f51c28a65_o.png",
+      "id_image": "rail_1185491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077875_c84ef1e926_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077875_f123bd9b88_o.png",
+      "id_image": "rail_418309"
+    }
+  ]
+}

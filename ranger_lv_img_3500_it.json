@@ -1,0 +1,50 @@
+{
+  "english": "ranger",
+  "phat_am": "['reindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hay đi lang thang"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) người bảo vệ rừng, nhân viên lâm nghiệp"
+        },
+        {
+          "m_full_vn": "người quản lý công viên của nhà vua"
+        },
+        {
+          "m_full_vn": "(quân sự), ( số nhiều) kỵ binh nhẹ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) cảnh sát cơ động",
+          "list_en_vn": [
+            {
+              "full_en": "the Texas Rangers",
+              "full_vn": "đội biệt động Texas"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) biệt kích; đội biệt động"
+        },
+        {
+          "m_full_vn": "( Ranger ) nữ hướng đạo sinh lớn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338971_bae6693b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338971_54fb952f94_o.png",
+      "id_image": "ranger_1909990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383852_0913b7a96b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383852_8e02d9381f_o.png",
+      "id_image": "ranger_6036767"
+    }
+  ]
+}

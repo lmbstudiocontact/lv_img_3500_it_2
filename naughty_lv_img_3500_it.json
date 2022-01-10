@@ -1,0 +1,49 @@
+{
+  "english": "naughty",
+  "phat_am": "['nɔ:ti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(người lớn dùng khi nói với hoặc về trẻ em) không vâng lời; hư; nghịch ngợm",
+          "list_en_vn": [
+            {
+              "full_en": "a naughty boy",
+              "full_vn": "thằng bé hư"
+            },
+            {
+              "full_en": "you were naughty to pull the cat's tail",
+              "full_vn": "cháu kéo đuôi con mèo thì đúng là nghịch quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô tục, tục tĩu",
+          "list_en_vn": [
+            {
+              "full_en": "naughty words",
+              "full_vn": "những lời nói tục tĩu"
+            },
+            {
+              "full_en": "naughty books",
+              "full_vn": "sách nhảm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442428_5388548a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442428_1a3fdcdb0d_o.png",
+      "id_image": "naughty_3362346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327396_72f1b6e9cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327396_9a0dd68780_o.png",
+      "id_image": "naughty_4138811"
+    }
+  ]
+}

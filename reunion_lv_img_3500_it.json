@@ -1,0 +1,36 @@
+{
+  "english": "reunion",
+  "phat_am": "[,ri:'ju:niən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sum họp, sự hợp nhất lại; tình trạng được sum họp, tình trạng được hợp nhất"
+        },
+        {
+          "m_full_vn": "cuộc hội họp (bạn bè, đồng nghiệp..)",
+          "list_en_vn": [
+            {
+              "full_en": "a family reunion",
+              "full_vn": "cuộc họp mặt thân mật gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hoà hợp, sự hoà giải"
+        },
+        {
+          "m_full_vn": "(y học) dự khép mép (của một vết thương)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086155_b445d785bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086155_273167253d_o.png",
+      "id_image": "reunion_567509"
+    }
+  ]
+}

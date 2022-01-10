@@ -1,0 +1,45 @@
+{
+  "english": "pistol",
+  "phat_am": "['pistl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "súng lục, súng ngắn",
+          "list_one_mean": [
+            {
+              "id_full_en": "hold a pistol to somebody's head",
+              "list_im": [
+                {
+                  "im_full_vn": "dí súng vào đầu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an automatic pistol",
+              "full_vn": "súng lục tự động"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắn bằng súng lục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699994_d96532fdb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699994_1dcd886b75_o.png",
+      "id_image": "pistol_3857421"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "recent",
+  "phat_am": "['ri:snt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đã tồn tại, xảy ra, bắt đầu, đã thực hiện...) cách đây hoặc trước đây không lâu; gần đây",
+          "list_en_vn": [
+            {
+              "full_en": "a recent event /development /occurrence",
+              "full_vn": "một sự kiện/sự phát triển/việc xảy ra gần đây"
+            },
+            {
+              "full_en": "recent news",
+              "full_vn": "tin tức mới đây"
+            },
+            {
+              "full_en": "in recent years , there have been many great changes",
+              "full_vn": "trong những năm gần đây, đã có nhiều chuyển biến lớn lao"
+            },
+            {
+              "full_en": "ours is a recent acquaintance",
+              "full_vn": "bọn chúng tôi mới quen nhau gần đây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381022_43a0ef5682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381022_6eaf80422f_o.png",
+      "id_image": "recent_5608596"
+    }
+  ]
+}

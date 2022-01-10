@@ -1,0 +1,146 @@
+{
+  "english": "release",
+  "phat_am": "[ri'li:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giải thoát, sự thoát khỏi (điều lo lắng, sầu muộn, bệnh tật...)"
+        },
+        {
+          "m_full_vn": "sự thả, sự phóng thích",
+          "list_en_vn": [
+            {
+              "full_en": "a release of war prisoners",
+              "full_vn": "sự phóng thích tù binh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phát hành (cuốn sách, bản tin); sự đưa ra bán (một loại ô tô mới...)"
+        },
+        {
+          "m_full_vn": "giấy biên lai, giấy biên nhận"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự nhượng lại; giấy nhượng lại"
+        },
+        {
+          "m_full_vn": "(vật lý) sự tách ra, sự nhả ra, sự giải phóng",
+          "list_en_vn": [
+            {
+              "full_en": "energy release",
+              "full_vn": "sự giải phóng năng lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái ngắt điện"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự cắt, sự tháo ra"
+        },
+        {
+          "m_full_vn": "(quân sự) sự ném, sự thả, sự cắt (bom); sự mở (dù)"
+        },
+        {
+          "m_full_vn": "sự giải ngũ, sự phục viên"
+        },
+        {
+          "m_full_vn": "(hoá học) sự bay ra, sự thoát ra (hơi)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nhẹ, làm bớt, làm thoát khỏi (đau đớn, sầu muộn, bệnh tật...)"
+        },
+        {
+          "m_full_vn": "tha, thả, phóng thích",
+          "list_en_vn": [
+            {
+              "full_en": "to release a prisoner",
+              "full_vn": "tha một người tù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miễn, tha (nợ...), giải thoát",
+          "list_en_vn": [
+            {
+              "full_en": "to release a debt",
+              "full_vn": "miễn cho một món nợ"
+            },
+            {
+              "full_en": "to release someone from his promise",
+              "full_vn": "giải ước cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát hành (cuốn phim, bản tin...); đăng (tin); đưa ra bán (một loại ô tô mới...)",
+          "list_en_vn": [
+            {
+              "full_en": "to release a new film",
+              "full_vn": "phát hành một cuốn phim mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) nhường, nhượng"
+        },
+        {
+          "m_full_vn": "(vật lý) cắt dòng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nhả khớp, tháo ra, tách ra, cắt mạch",
+          "list_en_vn": [
+            {
+              "full_en": "to release the brake",
+              "full_vn": "nhả phanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) ném, thả, cắt (bom); mở (dù)"
+        },
+        {
+          "m_full_vn": "(quân sự) cho giải ngũ, cho phục viên"
+        },
+        {
+          "m_full_vn": "(hoá học) làm bay ra, làm thoát ra (hơi)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442268_b6a50024e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442268_ed54ffaff0_o.png",
+      "id_image": "release_2040729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371902_46c416ec51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371902_b14e243843_o.png",
+      "id_image": "release_2621061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327116_4d78601636_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327116_3b4803022b_o.png",
+      "id_image": "release_2621067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442148_b2e44fb723_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442148_ed7955abb8_o.png",
+      "id_image": "release_4382599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442103_b2728b45aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442103_07c910488d_o.png",
+      "id_image": "release_4458940"
+    }
+  ]
+}

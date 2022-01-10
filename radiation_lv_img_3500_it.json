@@ -1,0 +1,44 @@
+{
+  "english": "radiation",
+  "phat_am": "[,reidi'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bức xạ, sự phát xạ, sự toả ra (nhiệt, năng lượng..); phóng xạ",
+          "list_en_vn": [
+            {
+              "full_en": "radiation reaction",
+              "full_vn": "phản ứng bức xạ"
+            },
+            {
+              "full_en": "a low /high level of radiation",
+              "full_vn": "mức độ phóng xạ thấp/cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật được bức xạ (nhất là những hạt phóng xạ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456213_39fc65ab22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456213_96278e71f8_o.png",
+      "id_image": "radiation_2456864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386337_5e3cdbbbf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386337_375a4f9617_o.png",
+      "id_image": "radiation_2752164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696629_28e7f444b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696629_21c5daef93_o.png",
+      "id_image": "radiation_706206"
+    }
+  ]
+}

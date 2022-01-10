@@ -1,0 +1,86 @@
+{
+  "english": "nervous",
+  "phat_am": "['nə:vəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thần kinh",
+          "list_en_vn": [
+            {
+              "full_en": "the nervous system",
+              "full_vn": "hệ thần kinh"
+            },
+            {
+              "full_en": "nervous breakdown (debility , depression , exhaustion , prostration )",
+              "full_vn": "sự suy nhược thần kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ bị kích thích; nóng nảy, bực dọc; hay hoảng sợ; hay lo lắng, hay bồn chồn",
+          "list_en_vn": [
+            {
+              "full_en": "most of the children are nervous in the dark",
+              "full_vn": "hầu hết trẻ con thường hoảng sợ trong bóng tối"
+            },
+            {
+              "full_en": "to feel nervous about something",
+              "full_vn": "cảm thấy bồn chồn lo lắng về việc gì"
+            },
+            {
+              "full_en": "nervous temperament",
+              "full_vn": "tính nóng nảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có dũng khí, có khí lực, mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a man full of nervous energy",
+              "full_vn": "một người đầy nghị lực cương cường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(văn học) hùng mạnh; cô đọng, khúc chiết",
+          "list_en_vn": [
+            {
+              "full_en": "nervous style",
+              "full_vn": "văn hùng mạnh; văn cô đọng khúc chiết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324516_e18dfda34e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324516_21f8fae700_o.png",
+      "id_image": "nervous_2341842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679664_ff6faf87de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679664_a688f7a3a8_o.png",
+      "id_image": "nervous_3561733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061355_538802899c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061355_3b9b570252_o.png",
+      "id_image": "nervous_3997730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439658_3107831fe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439658_cc44ece8d5_o.png",
+      "id_image": "nervous_599623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439623_ee0a1cdc11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439623_685f164767_o.png",
+      "id_image": "nervous_599634"
+    }
+  ]
+}

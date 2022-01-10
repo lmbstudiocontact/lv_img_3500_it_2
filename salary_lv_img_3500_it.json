@@ -1,0 +1,45 @@
+{
+  "english": "salary",
+  "phat_am": "['sæləri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món tiền trả đều đặn (thường) là hàng tháng cho người làm công; tiền lương",
+          "list_en_vn": [
+            {
+              "full_en": "to draw one's salary",
+              "full_vn": "lĩnh lương"
+            },
+            {
+              "full_en": "has your salary been paid yet ?",
+              "full_vn": "anh được trả lương chưa?"
+            },
+            {
+              "full_en": "a salary agreement , scale",
+              "full_vn": "thoả thuận về lương, thang lương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451663_a5119864a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451663_df523f4772_o.png",
+      "id_image": "salary_4310786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381887_807c666418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381887_5f5ff16da1_o.png",
+      "id_image": "salary_537223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381832_cdbc7b0abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381832_02cde5fc25_o.png",
+      "id_image": "salary_868890"
+    }
+  ]
+}

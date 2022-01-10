@@ -1,0 +1,97 @@
+{
+  "english": "patent",
+  "phat_am": "['peitnt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có bằng sáng chế, có bằng công nhận đặc quyền chế tạo"
+        },
+        {
+          "m_full_vn": "(thông tục) tài tình, khéo léo, tinh xảo",
+          "list_en_vn": [
+            {
+              "full_en": "a patent device",
+              "full_vn": "một phương sách tài tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở (cửa...)"
+        },
+        {
+          "m_full_vn": "rành mạch, rõ ràng, hiển nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "a patent fact",
+              "full_vn": "sự việc rõ ràng"
+            },
+            {
+              "full_en": "a patent lie",
+              "full_vn": "một sự dối trá hiển nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã được cầu chứng, độc quyền (thức ăn, thuốc)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấy môn bài, giấy đăng ký"
+        },
+        {
+          "m_full_vn": "bằng sáng chế; giấy phép độc quyền nhãn hiệu"
+        },
+        {
+          "m_full_vn": "việc sáng chế (được công nhận bởi một bằng sáng chế; đặc quyền chế tạo)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chứng chỉ (về tư cách đạo đức...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy bằng sáng chế; được cấp bằng sáng chế (về một phát minh, một phương pháp)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) cấp bằng sáng chế"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443448_366b4f5595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443448_c48f975101_o.png",
+      "id_image": "patent_2361734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683514_db16729635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683514_1726d83d0d_o.png",
+      "id_image": "patent_3528898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065165_be5b91806e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065165_3112fc1125_o.png",
+      "id_image": "patent_4391616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373097_9b14797f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373097_e7108d70fd_o.png",
+      "id_image": "patent_5352130"
+    }
+  ]
+}

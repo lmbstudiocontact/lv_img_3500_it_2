@@ -1,0 +1,46 @@
+{
+  "english": "replay",
+  "phat_am": "[,ri:'plei]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) chơi lại, đấu lại (một trận đấu bóng hoà..)"
+        },
+        {
+          "m_full_vn": "vặn lại; nghe lại, xem lại (máy ghi âm..)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trận đấu chơi lại (sau trận đấu hoà..)"
+        },
+        {
+          "m_full_vn": "việc nghe lại, việc xem lại, việc chiếu lại",
+          "list_en_vn": [
+            {
+              "full_en": "an action replay of a penalty kick",
+              "full_vn": "sự chiếu chậm lại một quả phạt đền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368167_555b448c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368167_32161caf3b_o.png",
+      "id_image": "replay_2368478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060050_47df6b60dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060050_7acebddbc3_o.png",
+      "id_image": "replay_679403"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "mug",
+  "phat_am": "[mʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước giải khát"
+        },
+        {
+          "m_full_vn": "cái nhăn mặt"
+        },
+        {
+          "m_full_vn": "ca; chén vại; ca (đầy), chén (đầy)"
+        },
+        {
+          "m_full_vn": "(từ lóng) mồm, miệng; mặt",
+          "list_en_vn": [
+            {
+              "full_en": "what an ugly mug !",
+              "full_vn": "cái mồm sao mà xấu thế!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ảnh căn cước"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) thằng ngốc, thằng khờ; anh chàng cả tin"
+        },
+        {
+          "m_full_vn": "người chất phát, ngây ngô, đồ ngố, đồ thộn"
+        },
+        {
+          "m_full_vn": "học sinh chăm học, học sinh học gạo"
+        },
+        {
+          "m_full_vn": "tay mới, lính mới (trong cờ bạc)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) học gạo (để đi thi)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhăn/cau mặt"
+        },
+        {
+          "m_full_vn": "đóng kịch/sắm vai/diễn không tự nhiên/quá cường điệu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bóp cổ (từ sau lưng để cướp)"
+        },
+        {
+          "m_full_vn": "chụp ảnh tội phạm để làm hồ sơ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687649_428ac65ef0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687649_903d538a32_o.png",
+      "id_image": "mug_263780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377422_fdb1ff5a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377422_8e5fa4577b_o.png",
+      "id_image": "mug_5507941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687574_5df3420a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687574_0d71991108_o.png",
+      "id_image": "mug_6255844"
+    }
+  ]
+}

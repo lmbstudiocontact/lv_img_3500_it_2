@@ -1,0 +1,62 @@
+{
+  "english": "mood",
+  "phat_am": "[mu:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) lối, thức",
+          "list_en_vn": [
+            {
+              "full_en": "imperative mood",
+              "full_vn": "lối mệnh lệnh"
+            },
+            {
+              "full_en": "subjunctive mood",
+              "full_vn": "lối cầu khẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) điệu"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tâm trạng; tính khí, tâm tính, tính tình",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a merry mood",
+              "full_vn": "ở tâm trạng vui vẻ"
+            },
+            {
+              "full_en": "a man of moods",
+              "full_vn": "người tính khí bất thường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336876_e6bd62385f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336876_47eb034549_o.png",
+      "id_image": "mood_4516967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073895_906d626347_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073895_e81bded2e7_o.png",
+      "id_image": "mood_5266110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451718_7e2cbb7cc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451718_2692d7b3d1_o.png",
+      "id_image": "mood_6134059"
+    }
+  ]
+}

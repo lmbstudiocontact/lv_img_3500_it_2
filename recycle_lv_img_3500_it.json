@@ -1,0 +1,41 @@
+{
+  "english": "recycle",
+  "phat_am": "[,ri:'saikl]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tái sinh (vật liệu đã dùng để dùng lại)",
+          "list_en_vn": [
+            {
+              "full_en": "to recycle newspaper",
+              "full_vn": "tái sinh giấy báo (tức đem tẩy mực, nghiền nhão thành giấy)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phục hồi, tái chế (sản phẩm tự nhiên)",
+          "list_en_vn": [
+            {
+              "full_en": "recycled glass",
+              "full_vn": "thủy tinh tái chế (tức phục hồi lại từ xử lý chai lọ cũ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688619_fb1c799b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688619_d235f0203e_o.png",
+      "id_image": "recycle_147432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688579_42a018bf83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688579_67fd2f37d3_o.png",
+      "id_image": "recycle_2385459"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "mode",
+  "phat_am": "[moud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách, cách thức, lối, phương thức",
+          "list_en_vn": [
+            {
+              "full_en": "a new mode of transport",
+              "full_vn": "một cách vận chuyển mới"
+            },
+            {
+              "full_en": "mode of production",
+              "full_vn": "phương thức sản xuất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểu, mốt, thời trang"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) lối, thức"
+        },
+        {
+          "m_full_vn": "(âm nhạc) điệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339651_ef33b82fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339651_c6cde929d4_o.png",
+      "id_image": "mode_1248154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076840_0bfae4cde7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076840_afe61ee83e_o.png",
+      "id_image": "mode_3653321"
+    }
+  ]
+}

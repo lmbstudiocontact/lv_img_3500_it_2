@@ -1,0 +1,234 @@
+{
+  "english": "rake",
+  "phat_am": "[reik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ chơi bời phóng đãng; kẻ trác táng"
+        },
+        {
+          "m_full_vn": "cái cào (để cào cỏ, làm đất); dụng cụ cơ khí tương tự có bánh xe (dùng trong trang trại) để thu lượm cỏ khô.."
+        },
+        {
+          "m_full_vn": "cái cào than; que cời than"
+        },
+        {
+          "m_full_vn": "cái cào tiền, cái gạt tiền (ở sòng bạc)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cào, cời",
+          "list_en_vn": [
+            {
+              "full_en": "to rake hay",
+              "full_vn": "cào cỏ khô"
+            },
+            {
+              "full_en": "to rake a fire",
+              "full_vn": "cời lửa"
+            },
+            {
+              "full_en": "to rake clean",
+              "full_vn": "cào sạch"
+            },
+            {
+              "full_en": "to rake level",
+              "full_vn": "cào cho bằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm kỹ, lục soát",
+          "list_en_vn": [
+            {
+              "full_en": "to rake one's memory",
+              "full_vn": "tìm trong trí nhớ"
+            },
+            {
+              "full_en": "to rake in (among , into ) old records",
+              "full_vn": "lục soát trong đám hồ sơ cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhìn bao quát, nhìn khắp; nhìn ra",
+          "list_en_vn": [
+            {
+              "full_en": "the window rakes the whole panorama",
+              "full_vn": "cửa sổ nhìn ra toàn bộ phong cảnh đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) quét, lia (súng...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rake away",
+              "list_im": [
+                {
+                  "im_full_vn": "cào sạch đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake in",
+              "list_im": [
+                {
+                  "im_full_vn": "cào vào, lấy cào gạt vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rake in money",
+                      "full_vn": "lấy cào gạt tiền vào (ở sòng bạc)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake off",
+              "list_im": [
+                {
+                  "im_full_vn": "cào sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rake off the dead leaves",
+                      "full_vn": "cào sạch lá khô"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake out",
+              "list_im": [
+                {
+                  "im_full_vn": "cào bới ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rake out a fire",
+                      "full_vn": "cào ngọn lửa, làm tắt ngọn lửa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake over",
+              "list_im": [
+                {
+                  "im_full_vn": "cào xới lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rake over a flowerbed",
+                      "full_vn": "cào xới lên một luống hoa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake up",
+              "list_im": [
+                {
+                  "im_full_vn": "cào gọn lại (thành đống)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rake up the hay",
+                      "full_vn": "cào cỏ khô gọn lại thành đống"
+                    },
+                    {
+                      "full_en": "to rake up the fire",
+                      "full_vn": "cời to ngọn lửa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "khơi lại, nhắc lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rake up an old quarrel",
+                      "full_vn": "khơi lại chuyện bất hoà cũ"
+                    },
+                    {
+                      "full_en": "to rake up all sorts of objections",
+                      "full_vn": "tìm bới mọi cách phản đối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "rake over old ashes",
+              "list_im": [
+                {
+                  "im_full_vn": "khơi lại đống tro tàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rake somebody over the coals",
+              "list_im": [
+                {
+                  "im_full_vn": "như coal"
+                }
+              ]
+            },
+            {
+              "id_full_en": "rake something up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khơi lại chuyện cũ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghiêng về phía sau; độ nghiêng về phía sau (cột buồm, ống khói tàu...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nghiêng về phía sau"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhô ra (cột buồm)"
+        },
+        {
+          "m_full_vn": "nghiêng về phía sau (cột buồm, ống khói tàu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076555_84c8c24cdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076555_7ca7113498_o.png",
+      "id_image": "rake_1283670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694604_363c8abc7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694604_9406678577_o.png",
+      "id_image": "rake_809016"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "nucleus",
+  "phat_am": "['nju:kliəs]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều nuclei",
+      "list_m": [
+        {
+          "m_full_vn": "bộ phận trung tâm mà quanh đó, các phần khác được tập hợp hoặc tập trung lại",
+          "list_en_vn": [
+            {
+              "full_en": "the fortress was the nucleus of the ancient city",
+              "full_vn": "pháo đài là trung tâm của thành phố cổ"
+            },
+            {
+              "full_en": "these paintings will form the nucleus of a new collection",
+              "full_vn": "những bức vẽ này sẽ tạo thành cốt lõi của bộ sưu tập mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) bộ phận trung tâm của một nguyên tử bao gồm các prôtôn và nơtrôn; hạt nhân"
+        },
+        {
+          "m_full_vn": "(sinh vật học) nhân (tế bào)"
+        },
+        {
+          "m_full_vn": "(thực vật học) hạch (của quả hạch)"
+        },
+        {
+          "m_full_vn": "(vật lý) hạt nhân",
+          "list_en_vn": [
+            {
+              "full_en": "atomic nucleus",
+              "full_vn": "hạt nhân nguyên tử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674724_5ab0c36fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674724_49655d648e_o.png",
+      "id_image": "nucleus_203256"
+    }
+  ]
+}

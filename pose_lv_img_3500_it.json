@@ -1,0 +1,77 @@
+{
+  "english": "pose",
+  "phat_am": "[pouz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư thế (chụp ảnh...), kiểu"
+        },
+        {
+          "m_full_vn": "bộ tịch, điệu bộ giả tạo; thái độ màu mè"
+        },
+        {
+          "m_full_vn": "sự đặt; quyền đặt (quân đôminô đầu tiên)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa ra (yêu sách...) đề ra (luận điểm)"
+        },
+        {
+          "m_full_vn": "đặt (câu hỏi)"
+        },
+        {
+          "m_full_vn": "sắp đặt (ai...) ở tư thế (chụp ảnh, làm mẫu vẽ...)"
+        },
+        {
+          "m_full_vn": "đặt (quân đôminô đầu tiên)"
+        },
+        {
+          "m_full_vn": "truy, quay, hỏi vặn (ai); làm (ai) cuống, làm (ai) bối rối bằng những câu hắc búa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đứng (ở tư thế), ngồi ở tư thế (chụp ảnh, làm mẫu vẽ...)"
+        },
+        {
+          "m_full_vn": "làm điệu bộ, có thái độ màu mè"
+        },
+        {
+          "m_full_vn": "( + as ) làm ra vẻ, tự cho là",
+          "list_en_vn": [
+            {
+              "full_en": "to pose as connoisseur",
+              "full_vn": "tự cho mình là người sành sỏi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379272_141548d9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379272_6438601ac7_o.png",
+      "id_image": "pose_4968211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449373_48596307d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449373_35e6de36a8_o.png",
+      "id_image": "pose_4968222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334271_38e2c0e249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334271_8bed333175_o.png",
+      "id_image": "pose_4968231"
+    }
+  ]
+}

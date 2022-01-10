@@ -1,0 +1,135 @@
+{
+  "english": "oil",
+  "phat_am": "[ɔil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dầu",
+          "list_en_vn": [
+            {
+              "full_en": "mineral oil",
+              "full_vn": "dầu khoáng"
+            },
+            {
+              "full_en": "vegetable oil",
+              "full_vn": "dầu thực vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tranh sơn dầu"
+        },
+        {
+          "m_full_vn": "(thông tục) sự nịnh nọt, sự phỉnh nịnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to burn the midnight oil",
+              "list_im": [
+                {
+                  "im_full_vn": "thức khuya học tập (làm việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pour oil upon troubled water",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pour"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pour (throw ) oil on the flames",
+              "list_im": [
+                {
+                  "im_full_vn": "lửa cháy đổ dầu thêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell of oil",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng tỏ làm việc chăm chỉ, thức khuya dậy sớm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike oil",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) strike"
+                }
+              ]
+            },
+            {
+              "id_full_en": "oil and vinegar",
+              "list_im": [
+                {
+                  "im_full_vn": "nước và lửa; mặt trăng mặt trời; chó và mèo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tra dầu, bôi dầu (vào một bộ phận của máy để máy chạy êm)"
+        },
+        {
+          "m_full_vn": "ngâm dầu",
+          "list_en_vn": [
+            {
+              "full_en": "oiled sardines",
+              "full_vn": "cá hộp dầu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "biến thành dầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to oil one's tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "nịnh hót, tán khéo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to oil the wheels",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho công việc được suôn sẻ bằng cách đối xử tế nhị hoặc khôn khéo; đút lót"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462538_07dcb593e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462538_3eca45d1ac_o.png",
+      "id_image": "oil_246924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085055_c15fcc176c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085055_4667a75ab5_o.png",
+      "id_image": "oil_662854"
+    }
+  ]
+}

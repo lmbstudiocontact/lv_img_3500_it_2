@@ -1,0 +1,215 @@
+{
+  "english": "scale",
+  "phat_am": "[skeil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vảy (cá, rắn, cánh sâu bọ)"
+        },
+        {
+          "m_full_vn": "(thực vật học) vảy bắc"
+        },
+        {
+          "m_full_vn": "vảy da, vật hình vảy"
+        },
+        {
+          "m_full_vn": "lớp gỉ (trên sắt)"
+        },
+        {
+          "m_full_vn": "cáu cặn; bựa, cao răng; cặn vôi (như) fur",
+          "list_one_mean": [
+            {
+              "id_full_en": "the scales fall from somebody's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "sáng mắt ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh vảy, lột vảy"
+        },
+        {
+          "m_full_vn": "cạo lớp gỉ"
+        },
+        {
+          "m_full_vn": "cạo cáu, cạo bựa, cạo cao; cạo cặn vôi"
+        },
+        {
+          "m_full_vn": "tróc vảy, sầy vảy"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đĩa cân"
+        },
+        {
+          "m_full_vn": "( số nhiều) cái cân (như) a pair of scales",
+          "list_one_mean": [
+            {
+              "id_full_en": "to throw sword into scale",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy vũ khí làm áp lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the scale",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) turn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to hold the scales even",
+              "full_vn": "cầm cân nảy mực"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) cân (vật gì), cân được, cân nặng",
+          "list_en_vn": [
+            {
+              "full_en": "to scale ten kilograms",
+              "full_vn": "cân được 10 kilôgam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chia độ; mặt chia độ; thước chia độ; hệ thống chia độ"
+        },
+        {
+          "m_full_vn": "sự sắp xếp theo trình độ",
+          "list_en_vn": [
+            {
+              "full_en": "to be high in the scale of creation",
+              "full_vn": "có tính chất sáng tạo ở trình độ cao"
+            },
+            {
+              "full_en": "at the top of the scale",
+              "full_vn": "ở trình độ cao nhất"
+            },
+            {
+              "full_en": "at the bottom of the scale",
+              "full_vn": "ở trình độ thấp nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị; mức"
+        },
+        {
+          "m_full_vn": "(âm nhạc) thang âm, gam",
+          "list_en_vn": [
+            {
+              "full_en": "major scale",
+              "full_vn": "gam trưởng"
+            },
+            {
+              "full_en": "minor scale",
+              "full_vn": "gam thứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số tỷ lệ; thước tỷ lệ, tỷ lệ, quy mô, phạm vi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to scale",
+              "list_im": [
+                {
+                  "im_full_vn": "theo tỷ lệ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "scale map",
+              "full_vn": "bản đồ có tỷ lệ lớn"
+            },
+            {
+              "full_en": "the scale to be one to five thousand",
+              "full_vn": "tỷ lệ sẽ là 1 / 5000"
+            },
+            {
+              "full_en": "on a large scale",
+              "full_vn": "trên quy mô lớn"
+            },
+            {
+              "full_en": "on a world scale",
+              "full_vn": "trên phạm vi toàn thế giới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "leo, trèo (bằng thang)"
+        },
+        {
+          "m_full_vn": "vẽ (bản đồ) theo tỷ lệ",
+          "list_en_vn": [
+            {
+              "full_en": "to scale up",
+              "full_vn": "vẽ to ra; tăng cường"
+            },
+            {
+              "full_en": "to scale down",
+              "full_vn": "vẽ nhỏ đi; giảm xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có cùng tỷ lệ; có thể so được với nhau"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687939_305a141cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687939_b18e062ba5_o.png",
+      "id_image": "scale_1070237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687884_559d3d6548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687884_afeb9033e8_o.png",
+      "id_image": "scale_1070251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332911_ba3ce91da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332911_0652042588_o.png",
+      "id_image": "scale_3898095"
+    }
+  ]
+}

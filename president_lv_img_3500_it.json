@@ -1,0 +1,60 @@
+{
+  "english": "president",
+  "phat_am": "['prezidənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiệu trưởng (trường học..); chủ tịch (đoàn thể...)",
+          "list_en_vn": [
+            {
+              "full_en": "The President of the Board of Trade",
+              "full_vn": "Chủ tịch Hội đồng thương mại"
+            },
+            {
+              "full_en": "the president of the football club",
+              "full_vn": "chủ nhiệm câu lạc bộ bóng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( President ) (từ Mỹ,nghĩa Mỹ) tổng thống (một nước)",
+          "list_en_vn": [
+            {
+              "full_en": "President Georges Pompidou",
+              "full_vn": "Tổng thống Georges Pompidou"
+            },
+            {
+              "full_en": "The President of Russia",
+              "full_vn": "Tổng thống Nga"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) thống đốc; thống sứ (ở một nước thuộc địa)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) chủ tịch (một ngân hàng, một doanh nghiệp..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064350_bfdd21f0da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064350_1dd63c4c53_o.png",
+      "id_image": "president_2456264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327616_8a9afd0dfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327616_68beedf5a2_o.png",
+      "id_image": "president_3429542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442598_98dbd51fc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442598_2f14f7e7c9_o.png",
+      "id_image": "president_5291861"
+    }
+  ]
+}

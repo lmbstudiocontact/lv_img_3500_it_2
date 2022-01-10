@@ -1,0 +1,137 @@
+{
+  "english": "pain",
+  "phat_am": "[pein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đau đớn, sự đau khổ (thể chất, tinh thần)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a pain in the head",
+              "full_vn": "đau đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự đau đẻ"
+        },
+        {
+          "m_full_vn": "( số nhiều) nỗi khó nhọc công sức",
+          "list_en_vn": [
+            {
+              "full_en": "to take pains",
+              "full_vn": "bỏ công sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người, vật làm phiền, quấy rầy (ai)"
+        },
+        {
+          "m_full_vn": "hình phạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "on /under pain /penalty of something",
+              "list_im": [
+                {
+                  "im_full_vn": "có nguy cơ chịu hình phạt nào đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at the pains of doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu thương chịu khó làm cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a pain in the neck",
+              "list_im": [
+                {
+                  "im_full_vn": "quấy rầy ai, chọc tức ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a pain in the neck",
+              "list_im": [
+                {
+                  "im_full_vn": "cái của nợ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "pains and penalties",
+              "full_vn": "các hình phạt"
+            },
+            {
+              "full_en": "on (under ) pain of death",
+              "full_vn": "sẽ bị xử tử, sẽ bị tội chết (nếu vi phạm cái gì...)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đau đớn, gây đau khổ (cho ai)",
+          "list_en_vn": [
+            {
+              "full_en": "does your tooth pain you ?",
+              "full_vn": "răng anh có làm anh đau không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đau nhức, đau đớn",
+          "list_en_vn": [
+            {
+              "full_en": "my arm is paining",
+              "full_vn": "tay tôi đang đau nhức đây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382067_436292692f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382067_82895e9420_o.png",
+      "id_image": "pain_1488181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382042_792324d773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382042_8483966e10_o.png",
+      "id_image": "pain_1683154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073970_e885529a75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073970_dce9c7883a_o.png",
+      "id_image": "pain_2037321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451768_f48bea1367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451768_d7b7183573_o.png",
+      "id_image": "pain_4844001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381947_2e025f95a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381947_001f1e709b_o.png",
+      "id_image": "pain_6257658"
+    }
+  ]
+}

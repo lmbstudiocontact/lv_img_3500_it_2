@@ -1,0 +1,47 @@
+{
+  "english": "pike",
+  "phat_am": "[paik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây thương, cây giáo, cây lao (vũ khí của lính bộ binh trước đây)"
+        },
+        {
+          "m_full_vn": "(động vật học) cá chó (cá lớn răng nhọn)"
+        },
+        {
+          "m_full_vn": "đỉnh nhọn của một quả đồi (ở miền Bắc nước Anh)",
+          "list_en_vn": [
+            {
+              "full_en": "Langdale Pike in the Lake District",
+              "full_vn": "mỏm Langdale ở Vùng Hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cổng ngăn thu tiền (như) turnpike"
+        },
+        {
+          "m_full_vn": "cuốc chim"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm bằng giáo; giết bằng giáo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347171_531529d052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347171_2399ee890a_o.png",
+      "id_image": "pike_311594"
+    }
+  ]
+}

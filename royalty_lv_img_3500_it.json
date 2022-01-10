@@ -1,0 +1,46 @@
+{
+  "english": "royalty",
+  "phat_am": "['rɔiəlti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành viên của hoàng gia; hoàng thân",
+          "list_en_vn": [
+            {
+              "full_en": "the duties of royalty",
+              "full_vn": "bổn phận của một hoàng thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những người trong hoàng gia; hoàng tộc",
+          "list_en_vn": [
+            {
+              "full_en": "in the presence of royalty",
+              "full_vn": "trước sự hiện diện của hoàng tộc"
+            },
+            {
+              "full_en": "a shop patronized by royalty",
+              "full_vn": "cửa hàng do hoàng tộc bảo trợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền trả cho người chủ một bản quyền hoặc bằng sáng chế; tiền bản quyền tác giả; tiền nhuận bút"
+        },
+        {
+          "m_full_vn": "tiền do một công ty mỏ hoặc dầu lửa trả cho sở hữu chủ của miếng đất đang được khai thác; tiền thuê mỏ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385322_5b33761ee3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385322_58ea8bdd0a_o.png",
+      "id_image": "royalty_2653360"
+    }
+  ]
+}

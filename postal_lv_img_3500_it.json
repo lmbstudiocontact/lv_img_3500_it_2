@@ -1,0 +1,41 @@
+{
+  "english": "postal",
+  "phat_am": "['poustl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) bưu điện, gửi bằng bưu điện",
+          "list_en_vn": [
+            {
+              "full_en": "postal worker",
+              "full_vn": "nhân viên bưu điện"
+            },
+            {
+              "full_en": "postal charges",
+              "full_vn": "bưu phí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448713_4abdc87faf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448713_b7a094189c_o.png",
+      "id_image": "postal_1250254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378542_0823264191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378542_c3d930a830_o.png",
+      "id_image": "postal_333729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378472_0b0c791cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378472_2c433d17d4_o.png",
+      "id_image": "postal_4761310"
+    }
+  ]
+}

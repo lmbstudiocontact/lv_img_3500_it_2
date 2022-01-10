@@ -1,0 +1,38 @@
+{
+  "english": "metric",
+  "phat_am": "['metrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo hệ mét",
+          "list_en_vn": [
+            {
+              "full_en": "the metric system",
+              "full_vn": "hệ mét (dùng mét, kilôgam và lít làm đơn vị cơ sở)"
+            },
+            {
+              "full_en": "metric measurement , dimensions , scale",
+              "full_vn": "sự đo đạc, kích thước, tỷ lệ tính theo mét"
+            },
+            {
+              "full_en": "these screws are metric",
+              "full_vn": "những chiếc đinh ốc này theo hệ mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như metrical"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700024_50ee3a4316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700024_8b9d67ed85_o.png",
+      "id_image": "metric_5488030"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "promotional",
+  "phat_am": "[prə'mou∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) quảng cáo (để bán hàng..)",
+          "list_en_vn": [
+            {
+              "full_en": "a promotional tour by the author",
+              "full_vn": "một chuyến đi của tác giả để quảng cáo hàng bán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351081_088bdaa4f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351081_060e277e8c_o.png",
+      "id_image": "promotional_2620489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351066_8706260e00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351066_1859746f96_o.png",
+      "id_image": "promotional_5512175"
+    }
+  ]
+}

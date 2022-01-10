@@ -1,0 +1,48 @@
+{
+  "english": "saline",
+  "phat_am": "['seilain]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có muối, chứa muốn; mặn (nước, suối...)",
+          "list_en_vn": [
+            {
+              "full_en": "a saline lake",
+              "full_vn": "một hồ nước mặn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) salina"
+        },
+        {
+          "m_full_vn": "(y học) nước muối; dung dịch muối và nước"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073335_a7a4766e1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073335_cf15760820_o.png",
+      "id_image": "saline_2941513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691714_9797c0998e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691714_56da76f613_o.png",
+      "id_image": "saline_469426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073375_66657408ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073375_3606c121fb_o.png",
+      "id_image": "saline_813604"
+    }
+  ]
+}

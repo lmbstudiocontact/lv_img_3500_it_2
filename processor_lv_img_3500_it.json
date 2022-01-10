@@ -1,0 +1,40 @@
+{
+  "english": "processor",
+  "phat_am": "['prousesə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy chế biến, máy xử lý",
+          "list_en_vn": [
+            {
+              "full_en": "a food processor",
+              "full_vn": "máy chế biến thực phẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ xử lý trong máy tính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322781_f945b6acbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322781_fbd9ee6710_o.png",
+      "id_image": "processor_2620603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059485_e53262f5b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059485_da64a9ed64_o.png",
+      "id_image": "processor_3205476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437923_826f315cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437923_7bee668b74_o.png",
+      "id_image": "processor_6343570"
+    }
+  ]
+}

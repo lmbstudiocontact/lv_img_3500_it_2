@@ -1,0 +1,42 @@
+{
+  "english": "outer",
+  "phat_am": "['autə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở phía ngoài, ở xa hơn",
+          "list_en_vn": [
+            {
+              "full_en": "the outer space",
+              "full_vn": "vũ trụ, khoảng không ngoài khí quyển"
+            },
+            {
+              "full_en": "the outer world",
+              "full_vn": "thế giới vật chất bên ngoài, xã hội bên ngoài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vòng ngoài cùng (mục tiêu)"
+        },
+        {
+          "m_full_vn": "phát bắn vào vòng ngoài cùng (của mục tiêu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386622_259a25d7d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386622_4b4f7f591f_o.png",
+      "id_image": "outer_1994810"
+    }
+  ]
+}

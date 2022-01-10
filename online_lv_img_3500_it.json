@@ -1,0 +1,37 @@
+{
+  "english": "online",
+  "phat_am": "['ɔnlain]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trực tuyến",
+          "list_en_vn": [
+            {
+              "full_en": "an online ticket booking system",
+              "full_vn": "hệ thống đăng ký vé trực tuyến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701689_42a511754c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701689_6798496d44_o.png",
+      "id_image": "online_1027574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391782_a47a94a155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391782_5049450865_o.png",
+      "id_image": "online_1471062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461588_edf0604094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461588_d66e3d9952_o.png",
+      "id_image": "online_2569861"
+    }
+  ]
+}

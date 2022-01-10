@@ -1,0 +1,67 @@
+{
+  "english": "parent",
+  "phat_am": "['peərənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cha; mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "the duties of a parent",
+              "full_vn": "nghĩa vụ của cha (hoặc mẹ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cha mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "May I introduce you to my parents ?",
+              "full_vn": "Tôi giới thiệu anh với bố mẹ tôi nhé?"
+            },
+            {
+              "full_en": "our first parents",
+              "full_vn": "thuỷ tổ chúng ta (theo thần thoại phương Tây là A-đam và E-vơ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn gốc",
+          "list_en_vn": [
+            {
+              "full_en": "ignorance is the parent of many evils",
+              "full_vn": "dốt nát là nguồn gốc của nhiều điều tai hại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loài vật hoặc cây sản sinh ra các con/cây khác; con/cây mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "parent bird",
+              "full_vn": "chim mẹ"
+            },
+            {
+              "full_en": "parent tree",
+              "full_vn": "cây mẹ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687549_26bec75ac7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687549_af65f5ceb7_o.png",
+      "id_image": "parent_6306179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377327_3c555d977c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377327_e1723da80a_o.png",
+      "id_image": "parent_6306230"
+    }
+  ]
+}

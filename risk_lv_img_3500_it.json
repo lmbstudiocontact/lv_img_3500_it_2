@@ -1,0 +1,81 @@
+{
+  "english": "risk",
+  "phat_am": "[risk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự liều, sự mạo hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "to take risks ; to run risks (a risk , the risk )",
+              "full_vn": "liều"
+            },
+            {
+              "full_en": "at the risk of one's life",
+              "full_vn": "liều mạng"
+            },
+            {
+              "full_en": "it's not worth the risk",
+              "full_vn": "không đáng liều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rủi ro, sự nguy hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "at one's own risk",
+              "full_vn": "bản thân phải gánh lấy mọi sự rủi ro nguy hiểm"
+            },
+            {
+              "full_en": "at owner's risk",
+              "full_vn": "(thương nghiệp) người có của phải chịu mọi sự rủi ro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "liều",
+          "list_en_vn": [
+            {
+              "full_en": "to risk one's life ; to risk one's own skin",
+              "full_vn": "liều mạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có cơ phải chịu sự rủi ro, có cơ phải chịu sự nguy hiểm của",
+          "list_en_vn": [
+            {
+              "full_en": "to risk a battle",
+              "full_vn": "làm việc gì có thể gây ra chuyện đánh nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390452_4e8714252c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390452_1d1f0e1e31_o.png",
+      "id_image": "risk_2761107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082860_8b5b1ca1a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082860_e79ff58eb2_o.png",
+      "id_image": "risk_5361574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460248_7e0392d29f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460248_fca89c3882_o.png",
+      "id_image": "risk_648987"
+    }
+  ]
+}

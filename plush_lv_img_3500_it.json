@@ -1,0 +1,47 @@
+{
+  "english": "plush",
+  "phat_am": "[plʌ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải lông"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần lễ phục của người hầu"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng vải nhung lông",
+          "list_en_vn": [
+            {
+              "full_en": "plush curtains",
+              "full_vn": "rèm bằng nhung lông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) xa hoa, sang trọng, lộng lẫy (như) plushy",
+          "list_en_vn": [
+            {
+              "full_en": "a plush hotel",
+              "full_vn": "một khách sạn sang trọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694589_107ccef7f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694589_a12640f0f5_o.png",
+      "id_image": "plush_1482293"
+    }
+  ]
+}

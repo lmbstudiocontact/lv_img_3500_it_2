@@ -1,0 +1,93 @@
+{
+  "english": "phase",
+  "phat_am": "[feiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuần trăng",
+          "list_en_vn": [
+            {
+              "full_en": "the phases of the moon",
+              "full_vn": "các tuần trăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giai đoạn, thời kỳ (phát triển, biến đổi)",
+          "list_en_vn": [
+            {
+              "full_en": "a phase of history",
+              "full_vn": "một giai đoạn lịch sử"
+            },
+            {
+              "full_en": "a difficult phase",
+              "full_vn": "một thời kỳ khó khăn"
+            },
+            {
+              "full_en": "It's just a phase (she's going through )",
+              "full_vn": "(thông tục) đó đúng là một giai đoạn mà cô ta đang trải qua (trong thời thơ ấu, thời thanh niên)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương diện, mặt (của vấn đề...)"
+        },
+        {
+          "m_full_vn": "(vật lý); (sinh vật học) pha",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /out of phase",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng/lệch pha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực hiện (chương trình...) từng giai đoạn",
+          "list_en_vn": [
+            {
+              "full_en": "a phased withdrawal of troops",
+              "full_vn": "một cuộc rút quân nhiều giai đoạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + something in ) thực hiện từng bước"
+        },
+        {
+          "m_full_vn": "( + something out ) hủy bỏ từng bước"
+        },
+        {
+          "m_full_vn": "(vật lý) làm đồng bộ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to phase out something",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) thôi dần dần không dùng cái gì, rút lui dần dần cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464838_6d629f344e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464838_4d9ae5d05f_o.png",
+      "id_image": "phase_2116980"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "english": "sale",
+  "phat_am": "[seil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bán, việc bán",
+          "list_en_vn": [
+            {
+              "full_en": "the sale of cars /clothes /machinery",
+              "full_vn": "việc bán xe ô tô/quần áo/máy móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc bán hàng",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't made a sale all week",
+              "full_vn": "cả tuần tôi không bán được cái gì"
+            },
+            {
+              "full_en": "she get commission on each sale",
+              "full_vn": "cô ta hưởng hoa hồng mỗi lần bán hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lượng hàng hoá bán được; doanh thu",
+          "list_en_vn": [
+            {
+              "full_en": "vast sales of ice-cream in the hot weather",
+              "full_vn": "lượng kem bán được nhiều khi trời nóng nực"
+            },
+            {
+              "full_en": "sales are up this month",
+              "full_vn": "tháng này hàng bán được nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bán hạ giá; sự bán xon",
+          "list_en_vn": [
+            {
+              "full_en": "to hold an end-of-year sale",
+              "full_vn": "tiến hành bán hạ giá hàng cuối năm"
+            },
+            {
+              "full_en": "to buy goods at /in the sales",
+              "full_vn": "mua hàng hạ giá"
+            },
+            {
+              "full_en": "sale prices , goods",
+              "full_vn": "giá, hàng hoá bán xon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhu cầu; sự mong muốn mua hàng hoá",
+          "list_one_mean": [
+            {
+              "id_full_en": "for sale",
+              "list_im": [
+                {
+                  "im_full_vn": "để bán",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this fan is not for sale",
+                      "full_vn": "cái quạt này không phải để bán"
+                    },
+                    {
+                      "full_en": "to put a house up for sale",
+                      "full_vn": "xây nhà để bán"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on sale",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng để bán; có bán"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) được bày bán với giá thấp hơn bình thường; bán xon",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "on sale at the local post offices",
+                      "full_vn": "có bán ở các bưu cục địa phương"
+                    },
+                    {
+                      "full_en": "the new model is not on sale in the shops",
+                      "full_vn": "mẫu mới không có bán ở các cửa hiệu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(on ) sale or return",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về hàng hoá) được cung cấp cho người bán lẻ, mà người đó có thể hoàn lại không phải trả một khoản tiền nào về những thứ không bán được đó; bỏ mối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there's always a ready sale for high-quality furniture",
+              "full_vn": "nhu cầu đối với hàng chất lượng cao thì lúc nào cũng sẵn có"
+            },
+            {
+              "full_en": "they found no sale for their goods",
+              "full_vn": "họ không bán được hàng hoá cụaho"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073745_9b34d7bed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073745_71492f6a79_o.png",
+      "id_image": "sale_1027976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381702_71cb0fcdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381702_65d0cfe0bf_o.png",
+      "id_image": "sale_2273409"
+    }
+  ]
+}

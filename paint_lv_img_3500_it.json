@@ -1,0 +1,176 @@
+{
+  "english": "paint",
+  "phat_am": "[peint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sơn; vôi màu; thuốc màu"
+        },
+        {
+          "m_full_vn": "lớp sơn (sơn đã khô)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều paints",
+      "list_m": [
+        {
+          "m_full_vn": "những tuýp thuốc màu, những thỏi thuốc màu",
+          "list_en_vn": [
+            {
+              "full_en": "a set of oil-paints",
+              "full_vn": "một hộp sơn dầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phấn (mỹ phẩm của phụ nữ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as pretty (smart ) as paint",
+              "list_im": [
+                {
+                  "im_full_vn": "đẹp như vẽ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she wears far too much paints",
+              "full_vn": "bà ta dùng quá nhiều mỹ phẩm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sơn, quét sơn",
+          "list_en_vn": [
+            {
+              "full_en": "to paint a door green",
+              "full_vn": "sơn cửa màu lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẽ, tô vẽ, mô tả",
+          "list_en_vn": [
+            {
+              "full_en": "paint a portrait",
+              "full_vn": "vẽ bức chân dung"
+            },
+            {
+              "full_en": "paint a landscape",
+              "full_vn": "vẽ phong cảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang điểm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ tranh"
+        },
+        {
+          "m_full_vn": "thoa phấn",
+          "list_one_mean": [
+            {
+              "id_full_en": "paint in",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi bằng sơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "paint over something",
+              "list_im": [
+                {
+                  "im_full_vn": "sơn phủ lên, lấy sơn quét lấp đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "paint in bright colours",
+              "list_im": [
+                {
+                  "im_full_vn": "vẽ màu tươi, vẽ màu sáng; (nghĩa bóng) tô hồng (sự việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "paint the lily",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc thêm là lượt cho phò mã (làm một việc thừa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "paint the town red",
+              "list_im": [
+                {
+                  "im_full_vn": "như town"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not as black as it /one is painted",
+              "list_im": [
+                {
+                  "im_full_vn": "như black"
+                }
+              ]
+            },
+            {
+              "id_full_en": "paint something in",
+              "list_im": [
+                {
+                  "im_full_vn": "vẽ thêm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691849_10f261c628_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691849_fe3569b32e_o.png",
+      "id_image": "paint_1076298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336666_40a5ef9415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336666_1be83d6156_o.png",
+      "id_image": "paint_164355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691954_4512b14b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691954_deac33e04d_o.png",
+      "id_image": "paint_448098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691909_49e36bc6c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691909_bd4cb5d394_o.png",
+      "id_image": "paint_791657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336556_472a939b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336556_326b256851_o.png",
+      "id_image": "paint_995451"
+    }
+  ]
+}

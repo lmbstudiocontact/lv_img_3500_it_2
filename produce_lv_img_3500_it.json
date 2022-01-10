@@ -1,0 +1,148 @@
+{
+  "english": "produce",
+  "phat_am": "[prə'dju:s; prə'du:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "những cái đã được sản xuất (nhất là do trồng trọt); sản vật, sản phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "fresh produce",
+              "full_vn": "sản phẩm tươi"
+            },
+            {
+              "full_en": "agricultural /farm produce",
+              "full_vn": "nông sản"
+            },
+            {
+              "full_en": "it says on the bottle 'Produce of France'",
+              "full_vn": "trên chai ghi là 'Sản phẩm của Pháp'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết quả; thành quả",
+          "list_en_vn": [
+            {
+              "full_en": "the produce of labour",
+              "full_vn": "thành quả lao động"
+            },
+            {
+              "full_en": "the produce of efforts",
+              "full_vn": "kết quả của những cố gắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to produce something from / out of something ) trình ra, đưa ra, giơ ra",
+          "list_en_vn": [
+            {
+              "full_en": "to produce one's ticket at the gate",
+              "full_vn": "trình vé ở cổng"
+            },
+            {
+              "full_en": "to produce a railway ticket for inspection",
+              "full_vn": "giơ vé xe lửa ra để kiểm tra"
+            },
+            {
+              "full_en": "to produce evidence",
+              "full_vn": "đưa ra chứng cớ"
+            },
+            {
+              "full_en": "the man produced a revolver from his pocket",
+              "full_vn": "người đàn ông rút từ trong túi ra một khẩu súng ngắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu xếp việc trình diễn (một vở kịch, vở ôpêra....) hoặc việc dàn dựng (một bộ phim, đĩa hát, chương trình truyền hình.....)",
+          "list_en_vn": [
+            {
+              "full_en": "he's producing ' Hamlet' at the local theatre",
+              "full_vn": "ông ấy đang dựng vở Hamlet ở nhà hát địa phương"
+            },
+            {
+              "full_en": "I hope to find money to produce a film about Vietnam War",
+              "full_vn": "tôi hy vọng kiếm được tiền để làm một bộ phim về Chiến tranh Việt Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to produce something from something ) làm, sản xuất, chế tạo",
+          "list_en_vn": [
+            {
+              "full_en": "Japan produced more televisors this year than last year",
+              "full_vn": "Năm nay Nhật sản xuất nhiều máy thu hình hơn năm ngoái"
+            },
+            {
+              "full_en": "linen is produced from flax",
+              "full_vn": "vải lanh được làm ra từ cây lanh"
+            },
+            {
+              "full_en": "he worked hard to produce good crops from poor soil",
+              "full_vn": "nó làm việc tích cực để tạo ra những mùa thu hoạch tốt từ đất cằn cỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) kéo dài (một đường thẳng)",
+          "list_en_vn": [
+            {
+              "full_en": "to produce the line AB to C",
+              "full_vn": "kéo dài đường AB tới C"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây ra (một cảm giác...)",
+          "list_en_vn": [
+            {
+              "full_en": "the medicine produced violent reaction",
+              "full_vn": "thuốc gây ra một phản ứng mạnh"
+            },
+            {
+              "full_en": "his announcement produced gasps of amazement",
+              "full_vn": "lới thông báo của ông ấy khiến ai cũng há hốc mồm kinh ngạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đem lại (kết quả...); sinh đẻ (con cái..)",
+          "list_en_vn": [
+            {
+              "full_en": "the cow has produced a calf",
+              "full_vn": "con bò đã sinh ra một con bê"
+            },
+            {
+              "full_en": "the silkworms are producing well",
+              "full_vn": "những con tằm đang sinh sản tốt"
+            },
+            {
+              "full_en": "the soil produces good crops",
+              "full_vn": "đất đai đã đem lại những vụ mùa tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437708_fc42dcdd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437708_afa162d0bd_o.png",
+      "id_image": "produce_1659483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322411_358452cc46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322411_70c15b0ed4_o.png",
+      "id_image": "produce_3967358"
+    }
+  ]
+}

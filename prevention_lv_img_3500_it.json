@@ -1,0 +1,55 @@
+{
+  "english": "prevention",
+  "phat_am": "[pri'ven∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngăn ngừa, sự ngăn trở",
+          "list_one_mean": [
+            {
+              "id_full_en": "prevention is better than cure",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) phòng bệnh hơn chữa bệnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the prevention of crime",
+              "full_vn": "sự ngăn ngừa tội ác"
+            },
+            {
+              "full_en": "the prevention of disease",
+              "full_vn": "sự ngăn ngừa bệnh; sự phòng bệnh"
+            },
+            {
+              "full_en": "the prevention of cruelty to animals",
+              "full_vn": "sự ngăn ngừa hành động độc ác đối với súc vật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326821_26cc17f709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326821_2b77f0a24f_o.png",
+      "id_image": "prevention_2869041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371502_b79632b25a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371502_d3f3bff716_o.png",
+      "id_image": "prevention_4413165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371462_4181e4bfc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371462_27cdf9f4c3_o.png",
+      "id_image": "prevention_5714929"
+    }
+  ]
+}

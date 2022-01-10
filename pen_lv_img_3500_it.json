@@ -1,0 +1,125 @@
+{
+  "english": "pen",
+  "phat_am": "[pen]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bút, cây bút"
+        },
+        {
+          "m_full_vn": "sự viết"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nghề cầm bút, nghề viết văn; bút pháp, văn phong",
+          "list_en_vn": [
+            {
+              "full_en": "to live by one's pen",
+              "full_vn": "sống bằng nghề cầm bút, sống bằng nghề viết văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà văn, tác giả",
+          "list_en_vn": [
+            {
+              "full_en": "the best pens of the day",
+              "full_vn": "những nhà văn ưu tú nhất hiện nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bút lông chim (ngỗng)"
+        },
+        {
+          "m_full_vn": "chỗ quây; bãi rào kín (để nhốt trâu, bò, cừu, gà, vịt...)",
+          "list_en_vn": [
+            {
+              "full_en": "a sheep-pen",
+              "full_vn": "chỗ quây cừu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trại đồn điền (ở quần đảo Ăng-ti)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (viết tắt) của penitentiary (trại cải tạo, nhà tù)"
+        },
+        {
+          "m_full_vn": "(viết tắt) của Peninsula (bán đảo trên bản đồ)"
+        },
+        {
+          "m_full_vn": "con thiên nga cái"
+        },
+        {
+          "m_full_vn": "bến tàu ngầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "a submarine pen",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) bến tàu ngầm ( (thường) có mái che)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the pen is mightier than the sword",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) ngòi bút mạnh hơn gươm giáo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put pen to paper",
+              "list_im": [
+                {
+                  "im_full_vn": "(bắt đầu) viết cái gì (bức thư..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a slip of the pen",
+              "list_im": [
+                {
+                  "im_full_vn": "như slip"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết, sáng tác"
+        },
+        {
+          "m_full_vn": "( (thường) + up , in ) nhốt lại; nhốt (trâu, bò, cừu, gà, vịt) vào chỗ quây",
+          "list_en_vn": [
+            {
+              "full_en": "she penned a few words of thanks",
+              "full_vn": "cô ta viết vài lời cám ơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367932_ba4c854011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367932_0d3fe28bb1_o.png",
+      "id_image": "pen_164336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678134_4a890af186_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678134_ac42b655b9_o.png",
+      "id_image": "pen_4172613"
+    }
+  ]
+}

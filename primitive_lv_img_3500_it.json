@@ -1,0 +1,88 @@
+{
+  "english": "primitive",
+  "phat_am": "['primitiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguyên thuỷ, ban sơ",
+          "list_en_vn": [
+            {
+              "full_en": "primitive man",
+              "full_vn": "người nguyên thuỷ"
+            },
+            {
+              "full_en": "primitive communism",
+              "full_vn": "chủ nghĩa cộng sản nguyên thuỷ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô sơ, cổ xưa",
+          "list_en_vn": [
+            {
+              "full_en": "primitive weapons",
+              "full_vn": "vũ khí cổ xưa, vũ khí thô sơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gốc (từ, mẫu)"
+        },
+        {
+          "m_full_vn": "(toán học); (địa lý,địa chất) nguyên thuỷ",
+          "list_en_vn": [
+            {
+              "full_en": "primitive group",
+              "full_vn": "nhóm nguyên thuỷ"
+            },
+            {
+              "full_en": "primitive function",
+              "full_vn": "nguyên hàm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nghệ thuật) hoạ sĩ, nhà điêu khắc (trước thời Phục hưng); hoạ sĩ vẽ theo xu hướng nguyên thủy"
+        },
+        {
+          "m_full_vn": "tranh của hoạ sĩ trước thời Phục hưng; tranh của hoạ sĩ vẽ theo xu hướng nguyên thủy"
+        },
+        {
+          "m_full_vn": "màu gốc"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) từ gốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440663_d62f505d7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440663_b26f2d1b92_o.png",
+      "id_image": "primitive_2604879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680699_153526b0b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680699_0fd6f8cbcf_o.png",
+      "id_image": "primitive_2604886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440593_52f4901e0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440593_751049059b_o.png",
+      "id_image": "primitive_2604889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370347_3cf723d20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370347_177b5ce744_o.png",
+      "id_image": "primitive_4744284"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "principal",
+  "phat_am": "['prinsəpl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chính, chủ yếu, có ý nghĩa quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "principal cause",
+              "full_vn": "nguyên nhân chính"
+            },
+            {
+              "full_en": "principal boy",
+              "full_vn": "vai nam chính (trong một vở tuồng câm)"
+            },
+            {
+              "full_en": "principal girl",
+              "full_vn": "vai nữ chính (trong một vở tuồng câm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chính",
+          "list_en_vn": [
+            {
+              "full_en": "principal clause",
+              "full_vn": "mệnh đề chính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đứng đầu"
+        },
+        {
+          "m_full_vn": "giám đốc, hiệu trưởng",
+          "list_en_vn": [
+            {
+              "full_en": "lady principal",
+              "full_vn": "bà hiệu trưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủ, chủ mướn, chủ thuê; thân chủ (của luật sư..)"
+        },
+        {
+          "m_full_vn": "(pháp lý) thủ phạm chính"
+        },
+        {
+          "m_full_vn": "nhân vật chính (phim, truyện..)"
+        },
+        {
+          "m_full_vn": "người uỷ nhiệm"
+        },
+        {
+          "m_full_vn": "người đọ súng (đọ gươm) tay đôi"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) tiền vốn; vốn chính, vốn nguyên thuỷ"
+        },
+        {
+          "m_full_vn": "(kiến trúc) xà cái, xà chính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440288_960baea935_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440288_faa268282b_o.png",
+      "id_image": "principal_2141396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440243_2b75862086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440243_b9f1a0c877_o.png",
+      "id_image": "principal_4711047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440208_3ba27f939d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440208_21163fed7c_o.png",
+      "id_image": "principal_6032224"
+    }
+  ]
+}

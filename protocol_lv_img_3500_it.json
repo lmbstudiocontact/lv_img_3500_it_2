@@ -1,0 +1,37 @@
+{
+  "english": "protocol",
+  "phat_am": "['proutəkɔl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi thức ngoại giao; lễ tân",
+          "list_en_vn": [
+            {
+              "full_en": "The organizer was familiar with the protocol of royal visits",
+              "full_vn": "Người tổ chức đã quen với các nghi lễ chính thức đối với các cuộc thăm viếng của hoàng gia"
+            },
+            {
+              "full_en": "a breach of protocol",
+              "full_vn": "sự vi phạm nghi thức ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the protocol ) vụ lễ tân (của bộ (ngoại giao))"
+        },
+        {
+          "m_full_vn": "bản dự thảo đầu tiên hoặc nguyên gốc của một hiệp định ngoại giao, nhất là của những điều khoản đã thoả thuận cho một hiệp ước; nghị định thư"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394407_1d767faedb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394407_906db5838d_o.png",
+      "id_image": "protocol_3104016"
+    }
+  ]
+}

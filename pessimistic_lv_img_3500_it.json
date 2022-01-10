@@ -1,0 +1,47 @@
+{
+  "english": "pessimistic",
+  "phat_am": "[,pesi'mistik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bi quan, yếm thế",
+          "list_en_vn": [
+            {
+              "full_en": "a pessimistic view of the world",
+              "full_vn": "một cái nhìn bi quan về thế giới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435228_55fee4bbfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435228_7d33ff21c0_o.png",
+      "id_image": "pessimistic_4525544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320071_f84cf86e0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320071_286cd22a90_o.png",
+      "id_image": "pessimistic_5115954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435173_a0e0acd604_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435173_4390c50317_o.png",
+      "id_image": "pessimistic_6001111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435158_1336de51df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435158_7c78056282_o.png",
+      "id_image": "pessimistic_6002994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056775_7ff626ace2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056775_9a1bae0c8e_o.png",
+      "id_image": "pessimistic_708615"
+    }
+  ]
+}

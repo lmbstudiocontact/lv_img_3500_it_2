@@ -1,0 +1,168 @@
+{
+  "english": "peace",
+  "phat_am": "[pi:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng không có chiến tranh hoặc bạo lực; hoà bình, thái bình",
+          "list_en_vn": [
+            {
+              "full_en": "the two communities live together in peace (with one another )",
+              "full_vn": "hai cộng đồng sống hoà thuận với nhau"
+            },
+            {
+              "full_en": "after years of fighting , the people longed for peace",
+              "full_vn": "sau nhiều năm đánh nhau, nhân dân khao khát hoà bình"
+            },
+            {
+              "full_en": "peace treaty",
+              "full_vn": "hiệp ước hoà bình; hoà ước"
+            },
+            {
+              "full_en": "peace negotiations",
+              "full_vn": "những cuộc thương lượng hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian có hoà bình",
+          "list_en_vn": [
+            {
+              "full_en": "a lasting peace",
+              "full_vn": "một nền hoà bình lâu dài"
+            },
+            {
+              "full_en": "after a brief peace , fighting broke out again",
+              "full_vn": "sau một thời gian hoà bình ngắn ngủi, cuộc chiến lại bùng nổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Peace ) hoà ước",
+          "list_en_vn": [
+            {
+              "full_en": "Peace / A Peace was signed between the two countries",
+              "full_vn": "Hoà ước đã được ký giữa hai nước"
+            },
+            {
+              "full_en": "The Peace of Versailles",
+              "full_vn": "Hoà ước Versailles"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yên lặng hoặc yên tĩnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "at peace with",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng hoà bình; hoà thuận với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's peace with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lành với ai"
+                },
+                {
+                  "im_full_vn": "sự yên ổn, sự trật tự an ninh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to break the peace",
+                      "full_vn": "việc phá rối trật tự"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "sự yên lặng, sự yên tĩnh; sự an tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to be ) at peace (with oneself /somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong tình trạng thân ái hoặc hoà thuận (với bản thân/ai/cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's never at peace with herself",
+                      "full_vn": "cô ta chẳng bao giờ được thanh thản (luôn bồn chồn lo lắng)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make peace",
+              "list_im": [
+                {
+                  "im_full_vn": "(về hai người, hai nước...) đồng ý chấm dứt cãi nhau hoặc đánh nhau; hoà giải; dàn hoà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the peace",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ trật tự an ninh; duy trì trật tự an ninh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold one's peace /tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "không nói hoặc giữ im lặng tuy muốn nói cái gì; giữ mồm giữ miệng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to break /disturb the peace",
+              "full_vn": "phá vỡ/phá rối sự yên tĩnh"
+            },
+            {
+              "full_en": "the peace of a summer evening , the countryside",
+              "full_vn": "sự thanh bình của một chiều hè, vùng quê"
+            },
+            {
+              "full_en": "I would work better if I had a bit of peace and quiet",
+              "full_vn": "Nếu có được một chút yên tĩnh và thanh thản, tôi sẽ làm việc tốt hơn"
+            },
+            {
+              "full_en": "peace of mind",
+              "full_vn": "sự thanh thản tâm hồn; đầu óc thanh thản (không có lo lắng và buồn phiền)"
+            },
+            {
+              "full_en": "May he rest in peace",
+              "full_vn": "Cầu chúc cho ông ta yên nghỉ (câu khắc trên bia mộ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370372_5a8d98aa27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370372_5118a839c4_o.png",
+      "id_image": "peace_209211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440538_8aa7fff331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440538_d0bdaa6502_o.png",
+      "id_image": "peace_209228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062275_1bcd97aaaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062275_c409bc63c6_o.png",
+      "id_image": "peace_750482"
+    }
+  ]
+}

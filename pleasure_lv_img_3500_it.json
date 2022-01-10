@@ -1,0 +1,137 @@
+{
+  "english": "pleasure",
+  "phat_am": "['pleʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "niềm vui thích; điều thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "a work of art that has given pleasure to millions of people",
+              "full_vn": "một tác phẩm nghệ thuật mang lại niềm vui thích cho hàng triệu con người"
+            },
+            {
+              "full_en": "It gives me a great pleasure to welcome our speaker",
+              "full_vn": "Tôi rất vui mừng được chào đón diễn giả của chúng ta"
+            },
+            {
+              "full_en": "has she gone to Paris on business or for pleasure ?",
+              "full_vn": "cô ấy đi Pari vì công việc hay đi chơi?"
+            },
+            {
+              "full_en": "the pleasures of living in the country",
+              "full_vn": "những điều thú vị của cuộc sống nơi thôn dã"
+            },
+            {
+              "full_en": "she has few pleasures left in life",
+              "full_vn": "cô ta chẳng còn nhiều niềm vui trong cuộc sống"
+            },
+            {
+              "full_en": "it's been a pleasure meeting you",
+              "full_vn": "rất vui mừng được gặp anh"
+            },
+            {
+              "full_en": "Thank you for doing that ! - It's a pleasure",
+              "full_vn": "Cám ơn anh đã làm điều đó - Tôi rất thích làm việc đó"
+            },
+            {
+              "full_en": "remembering the past was his only pleasure",
+              "full_vn": "niềm vui duy nhất của ông ta là ôn lại quá khứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoái lạc tình dục",
+          "list_en_vn": [
+            {
+              "full_en": "his life is spent in the pursuit of pleasure",
+              "full_vn": "cả cuộc đời anh ta dành cho việc đi tìm khoái lạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý muốn; ước mơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have the pleasure of something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để đưa ra lời đề nghị lịch sự, lời mời...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "may I have the pleasure of this dance ?",
+                      "full_vn": "tôi hân hạnh mời cô nhảy điệu này"
+                    },
+                    {
+                      "full_en": "are we to have the pleasure of seeing you again ?",
+                      "full_vn": "chúng tôi có hân hạnh được gặp lại các bạn hay không?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take (no /great ) pleasure in something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "thích/không thích làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she seemed to take pleasure in our suffering",
+                      "full_vn": "dường như cô ta thích thú với nỗi khổ của chúng tôi"
+                    },
+                    {
+                      "full_en": "they take great pleasure in reminding us of our poverty",
+                      "full_vn": "họ khoái chí nhắc cho chúng tôi nhớ sự nghèo đói của chúng tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "with pleasure",
+              "list_im": [
+                {
+                  "im_full_vn": "hài lòng, chấp nhận, đồng ý",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Will you join us ? - Thank you , with pleasure",
+                      "full_vn": "Anh tham gia cùng với chúng tôi chứ? - Cám ơn, rất sẵn lòng"
+                    },
+                    {
+                      "full_en": "May I borrow your car ? - Yes , with pleasure",
+                      "full_vn": "Tôi mượn xe của anh nhé? - Vâng, rất sẵn lòng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we await your pleasure",
+              "full_vn": "chúng tôi chờ đợi ý muốn của ngài"
+            },
+            {
+              "full_en": "you're free to come and go at your pleasure",
+              "full_vn": "anh có thể tự do đi và và đến tùy ý"
+            },
+            {
+              "full_en": "is it your pleasure that I cancel the arrangements ?",
+              "full_vn": "ý anh muốn tôi hủy bỏ việc chuẩn bị chứ gì?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695814_9fe877a422_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695814_3f5008deb0_o.png",
+      "id_image": "pleasure_6213834"
+    }
+  ]
+}

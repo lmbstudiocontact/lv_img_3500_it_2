@@ -1,0 +1,149 @@
+{
+  "english": "rip",
+  "phat_am": "[rip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con ngựa còm, con ngựa xấu"
+        },
+        {
+          "m_full_vn": "người chơi bời phóng đãng"
+        },
+        {
+          "m_full_vn": "chỗ nước xoáy (do nước triều lên và nước triều xuống gặp nhau)"
+        },
+        {
+          "m_full_vn": "sự xé, sự xé toạc ra"
+        },
+        {
+          "m_full_vn": "vết rách, vết xé dài"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xé, xé toạc ra, bóc toạc ra, tạch thủng",
+          "list_en_vn": [
+            {
+              "full_en": "to rip out the lining",
+              "full_vn": "bóc toạc lớp lót ra"
+            },
+            {
+              "full_en": "to have one's belly ripped up",
+              "full_vn": "bụng bị rách thủng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chẻ, xẻ dọc (gỗ...)"
+        },
+        {
+          "m_full_vn": "dỡ ngói (mái nhà)"
+        },
+        {
+          "m_full_vn": "( + up ) gợi lại, khơi lại",
+          "list_en_vn": [
+            {
+              "full_en": "to rip up the past",
+              "full_vn": "gợi lại quá khứ"
+            },
+            {
+              "full_en": "to rip up a sorrow",
+              "full_vn": "gợi lại mối buồn"
+            },
+            {
+              "full_en": "to rip up an old quarel",
+              "full_vn": "khơi lại mối bất hoà cũ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rách ra, toạc ra, nứt toạc ra"
+        },
+        {
+          "m_full_vn": "chạy hết tốc lực",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rip off",
+              "list_im": [
+                {
+                  "im_full_vn": "xé toạc ra, bóc toạc ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rip put",
+              "list_im": [
+                {
+                  "im_full_vn": "xé ra, bóc ra"
+                },
+                {
+                  "im_full_vn": "thốt ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rip out with a curse",
+                      "full_vn": "thốt ra một câu chửi rủa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "let her (it ) rip",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đừng hãm tốc độ; cứ để cho chạy hết tốc độ"
+                },
+                {
+                  "im_full_vn": "đừng can thiệp vào, đừng dính vào"
+                },
+                {
+                  "im_full_vn": "đừng ngăn cản, đừng cản trở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let things rip",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ để cho mọi sự trôi đi, không việc gì mà phải lo"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to let the car rip",
+              "full_vn": "để cho ô tô chạy hết tốc lực"
+            },
+            {
+              "full_en": "to rip along",
+              "full_vn": "chạy hết tốc lực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460703_91e2de6990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460703_f3fc760247_o.png",
+      "id_image": "rip_4966467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083355_0c5f1d5c72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083355_8cf978d3f4_o.png",
+      "id_image": "rip_5664161"
+    }
+  ]
+}

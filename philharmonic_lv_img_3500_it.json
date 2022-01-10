@@ -1,0 +1,35 @@
+{
+  "english": "philharmonic",
+  "phat_am": "[,filɑ:'mɔnik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "yêu nhạc, say mê nhạc",
+          "list_en_vn": [
+            {
+              "full_en": "the Philharmonic society",
+              "full_vn": "hội yêu nhạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người yêu nhạc, người say mê nhạc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394947_e23115899f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394947_6325e60854_o.png",
+      "id_image": "philharmonic_831491"
+    }
+  ]
+}

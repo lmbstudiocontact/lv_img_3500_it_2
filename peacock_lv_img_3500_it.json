@@ -1,0 +1,58 @@
+{
+  "english": "peacock",
+  "phat_am": "['pi:kɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con công trống",
+          "list_one_mean": [
+            {
+              "id_full_en": "proud as a peacock",
+              "list_im": [
+                {
+                  "im_full_vn": "như proud"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "peacock feathers",
+              "full_vn": "lông công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vênh vang; đi vênh vang; làm bộ làm tịch, khoe mẽ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to peacock oneself upon ) vênh vang; làm bộ làm tịch về, khoe mẽ (cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061990_0bc55e3a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061990_1586f6fc7d_o.png",
+      "id_image": "peacock_1984343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370002_a7b8801c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370002_64e2f51c4f_o.png",
+      "id_image": "peacock_2683160"
+    }
+  ]
+}

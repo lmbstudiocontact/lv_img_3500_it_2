@@ -1,0 +1,116 @@
+{
+  "english": "resort",
+  "phat_am": "[ri:'zɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phương kế, phương sách",
+          "list_en_vn": [
+            {
+              "full_en": "our only resort is to inform the police",
+              "full_vn": "phương sách duy nhất của chúng tôi là báo cho cảnh sát biết"
+            },
+            {
+              "full_en": "in the last resort",
+              "full_vn": "như là phương sách cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( resort to something ) sự viện đến, dùng đến",
+          "list_en_vn": [
+            {
+              "full_en": "this is to be done without resort to force",
+              "full_vn": "việc này phải làm mà không dùng đến vũ lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trung tâm nghỉ ngơi đại chúng; nơi nghỉ",
+          "list_en_vn": [
+            {
+              "full_en": "seaside resorts",
+              "full_vn": "nơi nghỉ mát ở bờ biển"
+            },
+            {
+              "full_en": "skiing resorts",
+              "full_vn": "nơi trượt tuyết"
+            },
+            {
+              "full_en": "health resorts",
+              "full_vn": "nơi dưỡng bệnh"
+            },
+            {
+              "full_en": "Brighton is a leading south coast resort",
+              "full_vn": "Brighton là nơi nghỉ tuyệt nhất ở bờ biển miền Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khách sạn hoặc nhà khách cho những người đi nghỉ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to resort to something ) phải sử dụng đến; phải viện đến",
+          "list_en_vn": [
+            {
+              "full_en": "to resort to violence",
+              "full_vn": "phải sử dụng đến bạo lực"
+            },
+            {
+              "full_en": "to resort to revolutionary violence",
+              "full_vn": "dùng đến bạo lực cách mạng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thường xuyên lui tới, hay lai vãng (nơi nào)",
+          "list_en_vn": [
+            {
+              "full_en": "to resort the public houses",
+              "full_vn": "thường la cà các quán rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351496_0ee83b1d2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351496_cf7654b557_o.png",
+      "id_image": "resort_2990570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088605_b8f2870cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088605_f63de0cac6_o.png",
+      "id_image": "resort_327424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465883_e99accc774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465883_c015d85d34_o.png",
+      "id_image": "resort_4336451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396032_36f7c455cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396032_2c92a2e5b3_o.png",
+      "id_image": "resort_5273660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705824_8b7008be89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705824_8934470a8d_o.png",
+      "id_image": "resort_6213559"
+    }
+  ]
+}

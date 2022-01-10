@@ -1,0 +1,53 @@
+{
+  "english": "penalty",
+  "phat_am": "['penlti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình phạt, tiền phạt",
+          "list_en_vn": [
+            {
+              "full_en": "the dealth penalty",
+              "full_vn": "án tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú phạt đền (bóng đá)",
+          "list_en_vn": [
+            {
+              "full_en": "penalty kick",
+              "full_vn": "cú đá phạt đền"
+            },
+            {
+              "full_en": "penalty area",
+              "full_vn": "vòng cấm địa, vòng phạt đền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bất lợi; tình thế bất lợi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322936_680ec8d1cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322936_ac5be06fca_o.png",
+      "id_image": "penalty_3564402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678049_b23529766e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678049_3611225f88_o.png",
+      "id_image": "penalty_5267813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322866_e770584aa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322866_caf639e2e7_o.png",
+      "id_image": "penalty_5308253"
+    }
+  ]
+}

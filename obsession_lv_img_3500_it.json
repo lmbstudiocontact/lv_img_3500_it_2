@@ -1,0 +1,35 @@
+{
+  "english": "obsession",
+  "phat_am": "[əb'se∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ảm ảnh; tình trạng bị ám ảnh"
+        },
+        {
+          "m_full_vn": "nõi ám ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "He has many obsessions",
+              "full_vn": "Ông ta có nhiều nỗi ám ảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704044_7db3dfb8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704044_cb7192d53b_o.png",
+      "id_image": "obsession_4593040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394157_c034fa03c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394157_d682b1f68c_o.png",
+      "id_image": "obsession_552416"
+    }
+  ]
+}

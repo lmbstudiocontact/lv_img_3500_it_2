@@ -1,0 +1,159 @@
+{
+  "english": "mount",
+  "phat_am": "[maunt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "núi ( (thường) đặt trước danh từ riêng (viết tắt) Mt)",
+          "list_en_vn": [
+            {
+              "full_en": "Mt Everest",
+              "full_vn": "núi Ê-vơ-rét"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mép (viền quanh) bức tranh"
+        },
+        {
+          "m_full_vn": "bìa (để) dán tranh"
+        },
+        {
+          "m_full_vn": "khung, gọng, giá"
+        },
+        {
+          "m_full_vn": "ngựa cưỡi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "leo, trèo lên",
+          "list_en_vn": [
+            {
+              "full_en": "to mount a hill",
+              "full_vn": "trèo lên một ngọn đồi"
+            },
+            {
+              "full_en": "to mount a ladder",
+              "full_vn": "trèo thang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưỡi",
+          "list_en_vn": [
+            {
+              "full_en": "to mount a horse",
+              "full_vn": "cưỡi ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nâng lên, cất lên, đỡ lên, kéo lên, cho cưỡi lên"
+        },
+        {
+          "m_full_vn": "đóng khung, lắp táp, cắm vào, dựng lên, đặt, sắp đặt, dán vào, đóng vào",
+          "list_en_vn": [
+            {
+              "full_en": "to mount a diamond in platinum",
+              "full_vn": "găn một viên kim cương vào miếng bạch kim"
+            },
+            {
+              "full_en": "to mount a photograph",
+              "full_vn": "dán ảnh vào bìa cứng"
+            },
+            {
+              "full_en": "to mount a loom",
+              "full_vn": "lắp một cái máy dệt"
+            },
+            {
+              "full_en": "to mount a gun",
+              "full_vn": "đặt một khẩu súng"
+            },
+            {
+              "full_en": "to mount a play",
+              "full_vn": "dựng một vở kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mang, được trang bị",
+          "list_en_vn": [
+            {
+              "full_en": "the fort mounts a hundred guns",
+              "full_vn": "pháo đài được trang bị một trăm khẩu súng"
+            },
+            {
+              "full_en": "to mount guard",
+              "full_vn": "làm nhiệm vụ canh gác"
+            },
+            {
+              "full_en": "to mount an attack",
+              "full_vn": "mở một cuộc tấn công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho nhảy (cái) vật nuôi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên, cưỡi, trèo, leo",
+          "list_en_vn": [
+            {
+              "full_en": "to mount on the scaffold",
+              "full_vn": "lên đoạn đầu đài"
+            },
+            {
+              "full_en": "to mount on a horse",
+              "full_vn": "cưỡi trên mình ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên, bốc lên",
+          "list_en_vn": [
+            {
+              "full_en": "blush mounts to face",
+              "full_vn": "mặt đỏ ửng lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng lên",
+          "list_en_vn": [
+            {
+              "full_en": "prices mount up every day",
+              "full_vn": "giá cả ngày càng tăng"
+            },
+            {
+              "full_en": "the struggle of the people against depotism and oppression mounts",
+              "full_vn": "cuộc đấu tranh của nhân dân chống chuyên chế và áp bức tăng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071345_2db770ba3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071345_616a59b5e5_o.png",
+      "id_image": "mount_306730"
+    }
+  ]
+}

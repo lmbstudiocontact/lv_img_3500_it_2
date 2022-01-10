@@ -1,0 +1,72 @@
+{
+  "english": "registration",
+  "phat_am": "[,redʒi'strei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đăng ký, sự ghi vào sổ",
+          "list_en_vn": [
+            {
+              "full_en": "registration of a trade-mark",
+              "full_vn": "sự đăng ký một nhãn hiệu"
+            },
+            {
+              "full_en": "registration of luggage",
+              "full_vn": "việc vào sổ các hành lý"
+            },
+            {
+              "full_en": "registration for a university entrance examination",
+              "full_vn": "sự đăng ký thi vào đại học"
+            },
+            {
+              "full_en": "an increase in registrations for ballet classes",
+              "full_vn": "sự gia tăng số người đăng ký vào các lớp múa balê"
+            },
+            {
+              "full_en": "registration fees",
+              "full_vn": "lệ phí ghi tên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gửi bảo đảm (thư)",
+          "list_one_mean": [
+            {
+              "id_full_en": "registration number",
+              "list_im": [
+                {
+                  "im_full_vn": "số đăng ký (ô tô...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "registration of a letter",
+              "full_vn": "sự gửi bảo đảm một bức thư"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329841_e97791517c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329841_d1e3d6f1aa_o.png",
+      "id_image": "registration_2361722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684754_41ea89bc03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684754_e613bcd99a_o.png",
+      "id_image": "registration_3965942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329761_31386b5908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329761_7fbe8897c5_o.png",
+      "id_image": "registration_4246662"
+    }
+  ]
+}

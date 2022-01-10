@@ -1,0 +1,35 @@
+{
+  "english": "newspaper",
+  "phat_am": "['nju:zpeipə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "báo",
+          "list_en_vn": [
+            {
+              "full_en": "daily newspaper",
+              "full_vn": "báo hằng ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấy báo; giấy nhật trình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368067_84a223eabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368067_c9543b9f28_o.png",
+      "id_image": "newspaper_168668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438263_e717f6bde6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438263_820783a614_o.png",
+      "id_image": "newspaper_420448"
+    }
+  ]
+}

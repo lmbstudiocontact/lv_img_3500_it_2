@@ -1,0 +1,81 @@
+{
+  "english": "ribbon",
+  "phat_am": "['ribən]",
+  "list_type": [
+    {
+      "type": "danh từ ( (từ cổ,nghĩa cổ) (cũng) riband )",
+      "list_m": [
+        {
+          "m_full_vn": "dải ruy-băng (bằng nhựa, ni lông để buộc, để trang trí)"
+        },
+        {
+          "m_full_vn": "ruy-băng (dải băng hẹp, dài, có mực dùng trong máy chữ..)",
+          "list_en_vn": [
+            {
+              "full_en": "typewriter ribbon",
+              "full_vn": "ruy băng máy chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dây; dải; cuống (của huân chương, huy chương)"
+        },
+        {
+          "m_full_vn": "( số nhiều) mảnh rách tả tơi",
+          "list_en_vn": [
+            {
+              "full_en": "her clothes hung in ribbons (about her )",
+              "full_vn": "quần áo cô ta (mặc) trông tả tơi"
+            },
+            {
+              "full_en": "torn to ribbons",
+              "full_vn": "bị xé tơi ra từng mảnh dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) dây cương",
+          "list_one_mean": [
+            {
+              "id_full_en": "ribbon development",
+              "list_im": [
+                {
+                  "im_full_vn": "sự phát triển xây dựng nhà cửa hai bên đường phố lớn nằm bên ngoài thành phố"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to handle (take ) the ribbons",
+              "full_vn": "cầm cương, điều khiển, chỉ huy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tô điểm bằng dải ruy băng, thắt ruy băng"
+        },
+        {
+          "m_full_vn": "xé tơi ra từng mảnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702304_2b027b46af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702304_2841640356_o.png",
+      "id_image": "ribbon_1357111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347571_810a6746f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347571_cd0f934fbc_o.png",
+      "id_image": "ribbon_532028"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "parenthood",
+  "phat_am": "['peərənthud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư cách làm cha mẹ, bậc cha mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "the reponsibilities of parenthood",
+              "full_vn": "trách nhiệm của các bậc cha mẹ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447503_7184f8331b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447503_422ecc4c6c_o.png",
+      "id_image": "parenthood_4215454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332506_b947496032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332506_dc86653fcd_o.png",
+      "id_image": "parenthood_859967"
+    }
+  ]
+}

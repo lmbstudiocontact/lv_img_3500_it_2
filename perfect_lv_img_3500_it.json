@@ -1,0 +1,119 @@
+{
+  "english": "perfect",
+  "phat_am": "[pə'fekt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn toàn, đầy đủ",
+          "list_en_vn": [
+            {
+              "full_en": "a perfect stranger",
+              "full_vn": "người hoàn toàn xa lạ"
+            },
+            {
+              "full_en": "a perfect likeness",
+              "full_vn": "sự giống hoàn toàn, sự giống hệt"
+            },
+            {
+              "full_en": "perfect nonsense",
+              "full_vn": "chuyện hoàn toàn vô lý"
+            },
+            {
+              "full_en": "a perfect work of art",
+              "full_vn": "một tác phẩm nghệ thuật hoàn hảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý tưởng nhất, tốt nhất; hoàn hảo",
+          "list_en_vn": [
+            {
+              "full_en": "the perfect meal",
+              "full_vn": "một bữa ăn cực ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn chỉnh; đúng, chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "a perfect cycle",
+              "full_vn": "một vòng tròn hoàn chỉnh"
+            },
+            {
+              "full_en": "a perfect copy",
+              "full_vn": "một bản sao đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) hoàn thành",
+          "list_en_vn": [
+            {
+              "full_en": "the perfect tense",
+              "full_vn": "thời hoàn thành"
+            },
+            {
+              "full_en": "the perfect crime",
+              "full_vn": "tội ác hoàn thành (không bao giờ tìm thấy tội phạm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành thạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "practice makes perfect",
+              "list_im": [
+                {
+                  "im_full_vn": "như practice"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be perfect in one's service",
+              "full_vn": "thành thạo trong công việc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the perfect ) thời hoàn thành",
+          "list_en_vn": [
+            {
+              "full_en": "the present perfect",
+              "full_vn": "thời hiện tại hoàn thành"
+            },
+            {
+              "full_en": "the past perfect",
+              "full_vn": "thời quá khứ hoàn thành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho hoàn thiện, làm cho thành thạo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436158_9c776c5d60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436158_a1e0266aef_o.png",
+      "id_image": "perfect_2166016"
+    }
+  ]
+}

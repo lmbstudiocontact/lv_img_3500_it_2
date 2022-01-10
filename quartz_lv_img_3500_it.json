@@ -1,0 +1,37 @@
+{
+  "english": "quartz",
+  "phat_am": "[kwɔ:ts]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(khoáng chất) thạch anh (nhất là xi-lích kết tinh)",
+          "list_en_vn": [
+            {
+              "full_en": "a quartz clock",
+              "full_vn": "đồng hồ treo tường thạch anh (chạy rất chính xác, bằng các xung động điện của một tinh thể thạch anh)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082040_6651cc553f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082040_ae15a865b0_o.png",
+      "id_image": "quartz_4158432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082005_e4d007cd70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082005_5f8b759547_o.png",
+      "id_image": "quartz_4455473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459283_37754336e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459283_8609b27292_o.png",
+      "id_image": "quartz_5322002"
+    }
+  ]
+}

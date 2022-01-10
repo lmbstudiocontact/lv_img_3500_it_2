@@ -1,0 +1,61 @@
+{
+  "english": "pitchfork",
+  "phat_am": "['pit∫fɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chĩa, cây xỉa (rơm rạ, cỏ khô..)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) thanh mẫu, âm thoa",
+          "list_one_mean": [
+            {
+              "id_full_en": "it rains pitchfork",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) mưa như đổ cây nước"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xới lên, hất lên, di chuyển (rơm, cỏ khô...) bằng chĩa, xỉa"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ( (thường) + into ) tống, ép buộc (ai vào một chức vị nào)",
+          "list_en_vn": [
+            {
+              "full_en": "to be pitchforked into an office",
+              "full_vn": "bị đẩy vào một chức vị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081970_473f1de275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081970_d1d18d7663_o.png",
+      "id_image": "pitchfork_1658247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389447_322a7f824b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389447_d5c813d8a5_o.png",
+      "id_image": "pitchfork_207763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459318_bd50e55e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459318_81d3523707_o.png",
+      "id_image": "pitchfork_842855"
+    }
+  ]
+}

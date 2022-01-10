@@ -1,0 +1,95 @@
+{
+  "english": "mention",
+  "phat_am": "['men∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kể ra, sự nói đến, sự đề cập",
+          "list_en_vn": [
+            {
+              "full_en": "to make mention of a fact",
+              "full_vn": "đề cập đến một sự việc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kể ra, nói đến, đề cập",
+          "list_one_mean": [
+            {
+              "id_full_en": "above-mentioned /below-mentioned",
+              "list_im": [
+                {
+                  "im_full_vn": "được đề cập trên đây/dưới đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "don't mention it",
+              "list_im": [
+                {
+                  "im_full_vn": "không sao, không dám (để đáp lại lời cám ơn hoặc lời xin lỗi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "mentioned in dispatches",
+              "list_im": [
+                {
+                  "im_full_vn": "được tuyên dương công trạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to mention ; without mentioning",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa tính; chưa kể đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this villa has twenty rooms , not to mention a very large parking",
+                      "full_vn": "biệt thự này có hai mươi phòng, chưa kể một bãi đỗ xe thật rộng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that was not mentioned in this letter",
+              "full_vn": "điều đó không được đề cập đến trong bức thư này"
+            },
+            {
+              "full_en": "it's not worth mentioning",
+              "full_vn": "điều đó không đáng kể"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461738_9581de5730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461738_737e7019c3_o.png",
+      "id_image": "mention_3893261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391827_7b2aae7102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391827_6a16d5bca4_o.png",
+      "id_image": "mention_3983632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701674_035e3a2e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701674_3a87b9a5ca_o.png",
+      "id_image": "mention_5660389"
+    }
+  ]
+}

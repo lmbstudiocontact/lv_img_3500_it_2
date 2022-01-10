@@ -1,0 +1,50 @@
+{
+  "english": "posh",
+  "phat_am": "[pɔ∫]",
+  "list_type": [
+    {
+      "type": "tính từ so sánh",
+      "list_m": [
+        {
+          "m_full_vn": "lịch sự, trang trọng, bảnh bao; chiến, cừ",
+          "list_en_vn": [
+            {
+              "full_en": "a posh wedding",
+              "full_vn": "đám cưới sang trọng"
+            },
+            {
+              "full_en": "a posh hotel",
+              "full_vn": "khách sạn lịch sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp trên, bề trên",
+          "list_en_vn": [
+            {
+              "full_en": "a posh accent",
+              "full_vn": "giọng bề trên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071250_5ff602bec2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071250_532a0d21a3_o.png",
+      "id_image": "posh_1343013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379097_f27b8b2d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379097_9a6f80d59e_o.png",
+      "id_image": "posh_1343039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071195_9c15008991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071195_8f19ed2f1f_o.png",
+      "id_image": "posh_1888223"
+    }
+  ]
+}

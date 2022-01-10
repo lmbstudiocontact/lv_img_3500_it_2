@@ -1,0 +1,86 @@
+{
+  "english": "prayer",
+  "phat_am": "[preə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều prayers",
+      "list_m": [
+        {
+          "m_full_vn": "( prayer for something ) kinh cầu nguyện; lời cầu nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "to say one's prayers",
+              "full_vn": "cầu kinh, đọc kinh"
+            },
+            {
+              "full_en": "a prayer for forgiveness /rain /success",
+              "full_vn": "lời cầu nguyện xá tội, lời cầu mưa, lời cầu xin cho thành công"
+            },
+            {
+              "full_en": "she believes in the power of prayer",
+              "full_vn": "bà ta tin vào sức mạnh của lời cầu nguyện"
+            },
+            {
+              "full_en": "he arrived , as if in answer to her prayer",
+              "full_vn": "anh ta đến như thể đáp lại lời cầu nguyện của cô ấy"
+            },
+            {
+              "full_en": "the Lord's Prayer",
+              "full_vn": "Kinh cầu Chúa"
+            },
+            {
+              "full_en": "prayers he had learnt as a child",
+              "full_vn": "những bài kinh mà anh ta đã học thuộc lòng hồi còn bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cầu kinh, sự cầu nguyện; lễ cầu kinh, lễ cầu nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "to spend time in prayer",
+              "full_vn": "để thì giờ cầu nguyện"
+            },
+            {
+              "full_en": "let us kneel in prayer",
+              "full_vn": "chúng ta hãy quỳ xuống cầu nguyện"
+            },
+            {
+              "full_en": "Evening /Morning Prayer",
+              "full_vn": "Lễ cầu kinh buổi tối/buổi sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) buổi cầu kinh",
+          "list_en_vn": [
+            {
+              "full_en": "morning prayers",
+              "full_vn": "buổi cầu kinh sáng"
+            },
+            {
+              "full_en": "evening prayers",
+              "full_vn": "buổi cầu kinh chiều"
+            },
+            {
+              "full_en": "family prayers",
+              "full_vn": "buổi cầu kinh trong gia đình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067285_c146bc0c9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067285_5ceb5d1071_o.png",
+      "id_image": "prayer_2759663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445393_35309c12ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445393_2ce9dd5836_o.png",
+      "id_image": "prayer_5826105"
+    }
+  ]
+}

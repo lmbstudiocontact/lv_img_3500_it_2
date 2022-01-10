@@ -1,0 +1,45 @@
+{
+  "english": "prawn",
+  "phat_am": "[prɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) tôm panđan",
+          "list_en_vn": [
+            {
+              "full_en": "a prawn cocktail",
+              "full_vn": "(thuộc ngữ) món tôm panđan ăn với nước xốtmayone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu tôm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375382_3965e975e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375382_521baec4df_o.png",
+      "id_image": "prawn_2247615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685744_87b87bfdac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685744_09de464b82_o.png",
+      "id_image": "prawn_2597662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067440_1603d8a87a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067440_fdb0ae5154_o.png",
+      "id_image": "prawn_3523778"
+    }
+  ]
+}

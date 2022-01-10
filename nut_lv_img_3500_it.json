@@ -1,0 +1,126 @@
+{
+  "english": "nut",
+  "phat_am": "[nʌt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) quả hạch"
+        },
+        {
+          "m_full_vn": "(từ lóng) đầu"
+        },
+        {
+          "m_full_vn": "( số nhiều) cục than nhỏ"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đai ốc"
+        },
+        {
+          "m_full_vn": "(từ lóng) người khó chơi; việc hắc búa, việc khó giải quyết",
+          "list_en_vn": [
+            {
+              "full_en": "a hard nut to crack",
+              "full_vn": "một thằng cha khó chơi; một công việc hắc búa khó nhai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) công tử bột"
+        },
+        {
+          "m_full_vn": "(từ lóng) người ham thích (cái gì)"
+        },
+        {
+          "m_full_vn": "(từ lóng) người điên rồ, người gàn dở",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be off one's nut",
+              "list_im": [
+                {
+                  "im_full_vn": "gàn dở, mất trí, hoá điên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be nuts on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mê, say mê, thích ham"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to go nutting đi lấy quả hạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do one's nut",
+              "list_im": [
+                {
+                  "im_full_vn": "cáu tiết, nổi cơn tam bành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the nuts and bolts",
+              "list_im": [
+                {
+                  "im_full_vn": "những chi tiết cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for nuts /peanuts",
+              "list_im": [
+                {
+                  "im_full_vn": "chút nào, tí nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he can't speak French for nuts",
+                      "full_vn": "hắn chẳng nói được chút tiếng Pháp nào cả"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056065_7680671086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056065_50a15d0f79_o.png",
+      "id_image": "nut_1120167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674404_1be577215e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674404_11e00f1233_o.png",
+      "id_image": "nut_1497102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056025_f078fa1514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056025_7b93944958_o.png",
+      "id_image": "nut_2014966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056080_cd385691af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056080_e01213f1bc_o.png",
+      "id_image": "nut_464945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056020_0f3765d50a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056020_dc65daa4e3_o.png",
+      "id_image": "nut_6301315"
+    }
+  ]
+}

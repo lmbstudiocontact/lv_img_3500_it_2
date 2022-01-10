@@ -1,0 +1,67 @@
+{
+  "english": "potty",
+  "phat_am": "['pɔti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngu xuẩn, mất trí (về một người, về cách cư xử của họ); mê say, cực kỳ nhiệt tình",
+          "list_en_vn": [
+            {
+              "full_en": "she's potty about jazz",
+              "full_vn": "cô ta say mê nhạc jazz"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) tầm thường, nhỏ mọn, không quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "potty little stations",
+              "full_vn": "những nước nhỏ bé"
+            },
+            {
+              "full_en": "potty details",
+              "full_vn": "những chi tiết vụn vặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường) ngon ơ, ngon xớt",
+          "list_en_vn": [
+            {
+              "full_en": "potty questions",
+              "full_vn": "những câu hỏi ngon ơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) cái bô của trẻ con"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447198_ec5809c8bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447198_87469035d7_o.png",
+      "id_image": "potty_1580461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687119_e2d07181f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687119_551b9eeb6d_o.png",
+      "id_image": "potty_1580463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376862_97cc573b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376862_e5a8ee58a2_o.png",
+      "id_image": "potty_4287268"
+    }
+  ]
+}

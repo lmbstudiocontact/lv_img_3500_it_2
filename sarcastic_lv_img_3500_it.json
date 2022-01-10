@@ -1,0 +1,31 @@
+{
+  "english": "sarcastic",
+  "phat_am": "[sɑ:'kæstik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chế nhạo, mỉa mai, châm biếm",
+          "list_en_vn": [
+            {
+              "full_en": "a sarcastic remark",
+              "full_vn": "một lời nhận xét mỉa mai"
+            },
+            {
+              "full_en": "a sarcastic tone",
+              "full_vn": "một giọng nói châm chọc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379612_545f0d5cf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379612_fdc63213fd_o.png",
+      "id_image": "sarcastic_4138808"
+    }
+  ]
+}

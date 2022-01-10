@@ -1,0 +1,159 @@
+{
+  "english": "relief",
+  "phat_am": "[ri'li:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( relief from something ) sự giảm nhẹ, sự khuây khoả",
+          "list_en_vn": [
+            {
+              "full_en": "treatment gives relief",
+              "full_vn": "sự điều trị làm giảm bệnh"
+            },
+            {
+              "full_en": "to bring , seek , find , give , feel relief",
+              "full_vn": "đem lại, tìm kiếm, tìm thấy, cảm thấy khuây khoả"
+            },
+            {
+              "full_en": "doctors working for the relief of suffering , hardship",
+              "full_vn": "công việc của bác sĩ là làm giảm bớt sự đau đớn, khổ sở"
+            },
+            {
+              "full_en": "the drug gives some relief from pain",
+              "full_vn": "thuốc làm giảm đau phần nào"
+            },
+            {
+              "full_en": "I breathed /heaved a sigh of relief when I heard he was safe",
+              "full_vn": "tôi thở phào nhẹ nhõm khi nghe tin anh ấy vô sự"
+            },
+            {
+              "full_en": "to my great relief /much to my relief , I wasn't late",
+              "full_vn": "thậ nhẹ cả người là mình đã không đến muộn"
+            },
+            {
+              "full_en": "'What a relief ! ' , she said , as she took her tight shoes off",
+              "full_vn": "'Thật là nhẹ cả người! ', cô ta vừa nói vừa tháo đôi giày chật ra"
+            },
+            {
+              "full_en": "his jokes provided some comic relief in what was really dull speech",
+              "full_vn": "những lời nói đùa của ông ta đã giảm bớt căng thẳng trong một bài nói thực sự buồn tẻ"
+            },
+            {
+              "full_en": "two comedians followed by way of light relief",
+              "full_vn": "tiếp theo là hai diễn viên hài để không khí đỡ căng thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cứu tế, sự cứu viện, sự trợ giúp",
+          "list_en_vn": [
+            {
+              "full_en": "to send relief to those made homeless by floods",
+              "full_vn": "gửi hàng cứu trợ (thực phẩm, quần áo, thuốc men) cho những người mất nhà cửa do nạn lụt"
+            },
+            {
+              "full_en": "to go /come to the relief of earthquake victims",
+              "full_vn": "cứu giúp các nạn nhân của vụ động đất"
+            },
+            {
+              "full_en": "to provide relief for refugees",
+              "full_vn": "cứu tế những người tị nạn"
+            },
+            {
+              "full_en": "committees for famine relief",
+              "full_vn": "các ủy ban cứu đói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( relief of something ) sự giải vây (một thành phố...)"
+        },
+        {
+          "m_full_vn": "sự thay phiên, sự đổi gác; người thay phiên (người tiếp theo phiên gác của người khác..)",
+          "list_en_vn": [
+            {
+              "full_en": "to stand in as Peter's relief",
+              "full_vn": "thay phiên cho Peter"
+            },
+            {
+              "full_en": "a relief driver , crew",
+              "full_vn": "người lái xe, đội thay phiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật thay thế, vật tăng cường (tàu hoả, xe buýt.. bổ sung cho dịch vụ (thường) lệ)",
+          "list_en_vn": [
+            {
+              "full_en": "the coach was full , so a relief was put on",
+              "full_vn": "toa xe đã chật người, nên một toa bổ sung đã được móc vào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chạm/đắp nổi (trong phương pháp điêu khắc, đúc); đồ đắp (khắc, chạm) nổi (như) relievo",
+          "list_en_vn": [
+            {
+              "full_en": "in high /low relief",
+              "full_vn": "chạm nổi cao/thấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự nổi bật lên",
+          "list_en_vn": [
+            {
+              "full_en": "to stand out in relief",
+              "full_vn": "nổi bật lên"
+            },
+            {
+              "full_en": "to bring (throw ) something into relief",
+              "full_vn": "nêu bật vấn đề gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khác nhau về độ cao của đồi (thung lũng..)",
+          "list_en_vn": [
+            {
+              "full_en": "a relief map",
+              "full_vn": "bản đồ địa hình nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) địa hình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371547_813e9731d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371547_928f22e74a_o.png",
+      "id_image": "relief_2689918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326831_2230931230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326831_aa8713845e_o.png",
+      "id_image": "relief_5705219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063715_5b2424c11b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063715_635ba4e377_o.png",
+      "id_image": "relief_5705437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681829_8a5f73617e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681829_e4e04476b7_o.png",
+      "id_image": "relief_6133422"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "pregnancy",
+  "phat_am": "['pregnənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự có thai, sự có mang, sự có chửa; kỳ thai nghén, trường hợp thai nghén",
+          "list_en_vn": [
+            {
+              "full_en": "discomfort caused by pregnancy",
+              "full_vn": "sự khó ở do tình trạng thai nghén gây ra"
+            },
+            {
+              "full_en": "these drugs should not be taken during pregnancy",
+              "full_vn": "không nên uống những thứ thuốc này trong lúc có thai"
+            },
+            {
+              "full_en": "she's had three pregnancies in four years",
+              "full_vn": "chị ấy mang thai ba lần trong bốn năm"
+            },
+            {
+              "full_en": "a pregnancy test",
+              "full_vn": "việc thăm thai (khám thai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phong phú, sự dồi dào, sự giàu (trí tưởng tượng...)"
+        },
+        {
+          "m_full_vn": "tầm quan trọng lớn (vì kết quả, vì ảnh hưởng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329511_4df1227652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329511_7e69a597fa_o.png",
+      "id_image": "pregnancy_3003300"
+    }
+  ]
+}

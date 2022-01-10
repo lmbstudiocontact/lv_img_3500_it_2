@@ -1,0 +1,51 @@
+{
+  "english": "negotiation",
+  "phat_am": "[ni,gou∫i'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự điều đình, sự đàm phán, sự thương lượng, sự dàn xếp",
+          "list_en_vn": [
+            {
+              "full_en": "to enter into (upon ) a negotiation with",
+              "full_vn": "đàm phán với"
+            },
+            {
+              "full_en": "to carry negotiations",
+              "full_vn": "tiến hành đàm phám"
+            },
+            {
+              "full_en": "to break off negotiations",
+              "full_vn": "cắt đứt cuộc đàm phán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đổi thành tiền, sự đổi lấy tiền, sự trả bằng tiền (chứng khoán, hối phiếu, ngân phiếu)"
+        },
+        {
+          "m_full_vn": "sự vượt qua (khó khăn...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325181_205c8b2244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325181_962c2849c0_o.png",
+      "id_image": "negotiation_1493600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325156_94843cf330_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325156_0f07c6f640_o.png",
+      "id_image": "negotiation_1589627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325111_1eb00a825b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325111_fd2659472d_o.png",
+      "id_image": "negotiation_1610385"
+    }
+  ]
+}

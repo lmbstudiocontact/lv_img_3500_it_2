@@ -1,0 +1,35 @@
+{
+  "english": "oasis",
+  "phat_am": "[ou'eisis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều oases",
+      "list_m": [
+        {
+          "m_full_vn": "(địa lý,địa chất) ốc đảo"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi màu mỡ; nơi nghỉ ngơi thoải mái",
+          "list_en_vn": [
+            {
+              "full_en": "The study was an oasis of calm in a noisy household",
+              "full_vn": "Phòng học là nơi yên tĩnh trong một căn hộ ồn ào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319281_c4e56eca8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319281_52e7837aba_o.png",
+      "id_image": "oasis_2188125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363947_a841c81f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363947_19fd539bb1_o.png",
+      "id_image": "oasis_2290360"
+    }
+  ]
+}

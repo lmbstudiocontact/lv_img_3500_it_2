@@ -1,0 +1,144 @@
+{
+  "english": "mouth",
+  "phat_am": "[mauðz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều mouths",
+      "list_m": [
+        {
+          "m_full_vn": "mồm, miệng, mõm",
+          "list_en_vn": [
+            {
+              "full_en": "by mouth",
+              "full_vn": "bằng miệng, bằng lời nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miệng ăn",
+          "list_en_vn": [
+            {
+              "full_en": "a useless mouth",
+              "full_vn": "một miệng ăn vô dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cửa (hang, sông, lò...)"
+        },
+        {
+          "m_full_vn": "sự nhăn mặt, sự nhăn nhó",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be down in the mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) down"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "sủa; cắn (chó)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh on the wrong side of one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) laugh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's mouth water",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) water"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put speech into another's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho ai nói cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put words into someone's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "mớm lời cho ai, bảo cho ai cách ăn nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the words out of someone's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "nói đúng những lời mà người ta định nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "none of your mouth , please !",
+              "list_im": [
+                {
+                  "im_full_vn": "xin ông đừng dở cái trò hỗn xược của ông ra nữa!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep your mouth shut !",
+              "list_im": [
+                {
+                  "im_full_vn": "câm mồm đi! bịt cái mõm lại!"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make mouths ; to make a wry mouth",
+              "full_vn": "nhăn mặt, nhăn nhăn nhó nhó (tỏ vẻ không bằng lòng)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói to; đọc rành rọt; nói cường điệu"
+        },
+        {
+          "m_full_vn": "ăn đớp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói to; nói cường điệu; kêu la"
+        },
+        {
+          "m_full_vn": "nhăn nhó, nhăn mặt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070870_070d39c797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070870_fa2920cdb4_o.png",
+      "id_image": "mouth_2731397"
+    }
+  ]
+}

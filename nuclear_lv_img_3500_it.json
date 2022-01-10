@@ -1,0 +1,43 @@
+{
+  "english": "nuclear",
+  "phat_am": "['nju:kliə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) (thuộc) hạt nhân",
+          "list_en_vn": [
+            {
+              "full_en": "nuclear physics",
+              "full_vn": "vật lý hạt nhân"
+            },
+            {
+              "full_en": "nuclear weapons",
+              "full_vn": "vũ khí hạt nhân"
+            },
+            {
+              "full_en": "nuclear energy",
+              "full_vn": "năng lượng hạt nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có nhân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674884_b85d0d277a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674884_f16567e544_o.png",
+      "id_image": "nuclear_2640423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056560_d686ed6469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056560_16ba1ff281_o.png",
+      "id_image": "nuclear_306717"
+    }
+  ]
+}

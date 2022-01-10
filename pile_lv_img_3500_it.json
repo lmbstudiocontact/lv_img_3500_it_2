@@ -1,0 +1,158 @@
+{
+  "english": "pile",
+  "phat_am": "[pail]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều piles",
+      "list_m": [
+        {
+          "m_full_vn": "cọc, cừ, cột nhà sàn"
+        },
+        {
+          "m_full_vn": "chồng, đống",
+          "list_en_vn": [
+            {
+              "full_en": "a pile of books",
+              "full_vn": "một chồng sách"
+            },
+            {
+              "full_en": "a pile of sand",
+              "full_vn": "một đống cát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giàn thiêu xác, giàn hoả"
+        },
+        {
+          "m_full_vn": "(thông tục) số lượng lớn (của cải chất đống..)",
+          "list_en_vn": [
+            {
+              "full_en": "to make a pile ; to make one's pile",
+              "full_vn": "hốt của, phất, làm giàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(khu) cao ốc; toà nhà đồ sộ"
+        },
+        {
+          "m_full_vn": "(điện học) pin"
+        },
+        {
+          "m_full_vn": "lò phản ứng hạt nhân (như) atomic pile"
+        },
+        {
+          "m_full_vn": "như funeral pile , pyre"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) mặt trái đồng tiền; mặt sấp đồng tiền",
+          "list_en_vn": [
+            {
+              "full_en": "cross or pile",
+              "full_vn": "ngửa hay sấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lông măng, lông mịn; len cừu"
+        },
+        {
+          "m_full_vn": "mặt mịn (nhung, thảm, hàng len dệt)",
+          "list_en_vn": [
+            {
+              "full_en": "a deep pile carpet",
+              "full_vn": "(thuộc ngữ) chiếc thảm có tuyết dày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trụ chống (cho cao ốc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "make a pile",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) kiếm được khối tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make one's pile",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm nên cơ đồ của mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng cọc, đóng cừ (trên một miếng đất...)"
+        },
+        {
+          "m_full_vn": "( + up , on ) chất đống, chồng chất, xếp thành chồng, tích luỹ (của cải...)"
+        },
+        {
+          "m_full_vn": "(quân sự) dựng (súng) chụm lại với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to pile arms",
+              "full_vn": "dựng súng chụm lại với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with ) chất đầy, chất chứa, để đầy",
+          "list_en_vn": [
+            {
+              "full_en": "to pile a table with dishes",
+              "full_vn": "để đầy đĩa trên bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) va (tàu) vào đá ngầm; làm cho (tàu) mắc cạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "pile it on",
+              "list_im": [
+                {
+                  "im_full_vn": "cường điệu, thổi phòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pile on the agony",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm cho có vẻ bi đát hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pile out",
+              "list_im": [
+                {
+                  "im_full_vn": "túa ra; ùa ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084600_ccc9a3ec18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084600_bab6897523_o.png",
+      "id_image": "pile_5392248"
+    }
+  ]
+}

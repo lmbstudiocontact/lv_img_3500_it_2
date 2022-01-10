@@ -1,0 +1,85 @@
+{
+  "english": "quiz",
+  "phat_am": "[kwiz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều quizzes",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kỳ thi kiểm tra nói (miệng), kỳ thi vấn đáp; câu hỏi kiểm tra nói (miệng), câu hỏi thi vấn đáp"
+        },
+        {
+          "m_full_vn": "cuộc thi đố (ở đài phát thanh, đài truyền hình)",
+          "list_en_vn": [
+            {
+              "full_en": "to take part in a quiz",
+              "full_vn": "tham dự một cuộc thi đố"
+            },
+            {
+              "full_en": "a sports /music /general knowledge quiz",
+              "full_vn": "một cuộc thi đố về thể thao/âm nhạc/kiến thức phổ thông"
+            },
+            {
+              "full_en": "a quiz game /program",
+              "full_vn": "trò/chương trình thi đố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hay trêu ghẹo chế nhạo"
+        },
+        {
+          "m_full_vn": "người hay nhìn tọc mạch"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) người lố bịch, người kỳ quặc"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) cái dùng để chế giễu (như) hình nộm, tranh vẽ, lời nói..."
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kiểm tra, thi (vấn đáp)"
+        },
+        {
+          "m_full_vn": "căn vặn, quay, hỏi ai nhiều câu hỏi"
+        },
+        {
+          "m_full_vn": "trêu chọc, chế giễu, chế nhạo"
+        },
+        {
+          "m_full_vn": "nhìn chòng chọc, nhìn tọc mạch; nhìn chế giễu"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) nhìn qua ống nhòm, nhìn qua kính một mắt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080240_11b6ce0c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080240_2125124a29_o.png",
+      "id_image": "quiz_2727183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457513_b0a246c41b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457513_9311b4e3ed_o.png",
+      "id_image": "quiz_5678443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457483_3a6e15d5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457483_ef5d8fbab5_o.png",
+      "id_image": "quiz_5678509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387682_3a2afd7dc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387682_da48f0f6cd_o.png",
+      "id_image": "quiz_5732146"
+    }
+  ]
+}

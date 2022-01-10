@@ -1,0 +1,208 @@
+{
+  "english": "register",
+  "phat_am": "['redʒistə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sách bao gồm) danh sách hoặc bản ghi chép chính thức những tên, khoản, số người có mặt...; sổ sách",
+          "list_en_vn": [
+            {
+              "full_en": "register of births",
+              "full_vn": "sổ khai sinh"
+            },
+            {
+              "full_en": "parish register",
+              "full_vn": "sổ xứ đạo (sổ ghi việc khai sinh, khai tử và kết hôn)"
+            },
+            {
+              "full_en": "electoral register / register of voters",
+              "full_vn": "sổ bầu cử/sổ cử tri"
+            },
+            {
+              "full_en": "to make entries in a register",
+              "full_vn": "ghi các mục vào sổ"
+            },
+            {
+              "full_en": "the teacher called the (names on the ) register",
+              "full_vn": "thầy giáo gọi tên trong sổ; thầy giáo điểm danh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy ghi, công tơ, đồng hồ ghi (tốc độ, lực, số tiền...)",
+          "list_en_vn": [
+            {
+              "full_en": "a cash register",
+              "full_vn": "máy đếm tiền (ở tiệm ăn...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) quãng âm"
+        },
+        {
+          "m_full_vn": "(ngành in) sự sắp chữ, cân xứng với lề giấy",
+          "list_en_vn": [
+            {
+              "full_en": "in register",
+              "full_vn": "sắp chữ cân"
+            },
+            {
+              "full_en": "out of register",
+              "full_vn": "sắp chữ không cân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "van điều tiết; van, cửa lò (lò cao...)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) phạm vi từ vựng (ngữ pháp..) dùng trong những tình huống giao tiếp cụ thể, trong bối cảnh nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "the informal register of speech",
+              "full_vn": "từ ngữ nói thân mật"
+            },
+            {
+              "full_en": "specialist registers of English",
+              "full_vn": "những từ ngữ chuyên môn trong tiếng Anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đăng ký; ghi vào sổ, vào sổ",
+          "list_en_vn": [
+            {
+              "full_en": "to register a name",
+              "full_vn": "đăng ký tên vào sổ"
+            },
+            {
+              "full_en": "to register luggage",
+              "full_vn": "vào sổ các hành lý; đăng ký hành lý"
+            },
+            {
+              "full_en": "to register one's car , the birth of a child , a patent",
+              "full_vn": "đăng ký xe hơi của mình, ngày sinh của đứa trẻ, môn bài"
+            },
+            {
+              "full_en": "a State Registered Nurse",
+              "full_vn": "y tá chính thức (có đăng ký với nhà nước)"
+            },
+            {
+              "full_en": "register the house in your name",
+              "full_vn": "hãy đăng ký nhà theo tên của anh"
+            },
+            {
+              "full_en": "to register oneself",
+              "full_vn": "ghi tên vào danh sách cử tri"
+            },
+            {
+              "full_en": "to register at a hotel",
+              "full_vn": "đăng ký khách sạn (đặt thuê buồng với tư cách là khách)"
+            },
+            {
+              "full_en": "you must register with the police /embassy",
+              "full_vn": "anh phải đăng ký với cảnh sát/đại sứ quán"
+            },
+            {
+              "full_en": "where can I register for the Arabic course ?",
+              "full_vn": "tôi có thể ghi tên học tiếng A Rập ở đâu?"
+            },
+            {
+              "full_en": "she is registered (as ) disabled",
+              "full_vn": "cô ta được ghi là tàn tật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình bày chính thức bằng văn bản để được xem xét",
+          "list_en_vn": [
+            {
+              "full_en": "to register a complaint with the authorities",
+              "full_vn": "trình đơn khiếu nại với nhà chức trách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về những con số) được chỉ ra hoặc được ghi lại; (về dụng cụ đo) chỉ hoặc ghi (con số)",
+          "list_en_vn": [
+            {
+              "full_en": "loss of pressure had not registered on the dials",
+              "full_vn": "sự mất áp suất đã không được chỉ ra trên mặt đồng hồ"
+            },
+            {
+              "full_en": "the thermometer registered 32 degrees Celsius",
+              "full_vn": "nhiệt kế chỉ 32 độ C"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu lộ",
+          "list_en_vn": [
+            {
+              "full_en": "he slammed the door to register his disapproval",
+              "full_vn": "anh ta đóng sầm cửa để biểu lộ sự phản đối"
+            },
+            {
+              "full_en": "her face registered surprise /dismay",
+              "full_vn": "nét mặt cô ta biểu lộ sự ngạc nhiên/mất tinh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ghi nhận; nhận ra, nhớ; để ý (về người)",
+          "list_en_vn": [
+            {
+              "full_en": "her name didn't register with me",
+              "full_vn": "tôi không nhớ tên cô ta"
+            },
+            {
+              "full_en": "I registered (the fact ) that he was late",
+              "full_vn": "tôi để ý thấy (việc) anh ta đến trễ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi bảo đảm (thư..); gửi bảo đảm hành lý",
+          "list_en_vn": [
+            {
+              "full_en": "to register a letter",
+              "full_vn": "gửi bảo đảm một bức thư"
+            },
+            {
+              "full_en": "sea baggage registered to Rio",
+              "full_vn": "gửi bảo đảm hành lý tới Rio bằng đường biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) cân xứng; làm cho cân xứng (bản in với lề giấy)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066735_415d445d4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066735_d1f9bd9609_o.png",
+      "id_image": "register_2417841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066705_05c99cd96a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066705_999b1f63d5_o.png",
+      "id_image": "register_3410318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066665_ef74091450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066665_80d74f6d90_o.png",
+      "id_image": "register_5216779"
+    }
+  ]
+}

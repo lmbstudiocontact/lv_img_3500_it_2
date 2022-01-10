@@ -1,0 +1,99 @@
+{
+  "english": "pink",
+  "phat_am": "[piηk]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu hồng",
+          "list_en_vn": [
+            {
+              "full_en": "rose pink walls",
+              "full_vn": "những bức tường màu hoa hồng"
+            },
+            {
+              "full_en": "go /turn pink with confusion",
+              "full_vn": "ửng hồng vì bối rối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) (thông tục) có quan điểm chính trị hơi nghiêng về cánh tả"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây cẩm chướng; hoa cẩm chướng"
+        },
+        {
+          "m_full_vn": "màu hồng (quần áo)"
+        },
+        {
+          "m_full_vn": "( the pink ) tình trạng tốt nhất, tình trạng hoàn hảo; điểm hoàn thiện, xuất sắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the pink (of condition /health )",
+              "list_im": [
+                {
+                  "im_full_vn": "cực kỳ khoẻ mạnh; tình trạng hoàn hảo"
+                },
+                {
+                  "im_full_vn": "áo choàng đỏ của người săn cáo; vải để may áo choàng đỏ của người săn cáo; người săn cáo"
+                },
+                {
+                  "im_full_vn": "thuốc màu vàng nhạt"
+                },
+                {
+                  "im_full_vn": "(sử học) ghe buồm"
+                },
+                {
+                  "im_full_vn": "(động vật học) cà hồi lưng gù"
+                },
+                {
+                  "im_full_vn": "(tiếng địa phương) cá đục dài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the pink of health",
+              "full_vn": "tình trạng sung sức nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xiên, ghim, đâm nhẹ (bằng gươm...)"
+        },
+        {
+          "m_full_vn": "cắt mép răng cưa; khắc hình chữ chi, kiểu vỏ sò lên mép"
+        },
+        {
+          "m_full_vn": "trang trí (đồ da, hàng dệt...) bằng những lỗ nhỏ; trang trí bằng những đường tua gợn sóng (như) to pink out"
+        },
+        {
+          "m_full_vn": "trang trí, trang hoàng"
+        },
+        {
+          "m_full_vn": "có tiếng nổ nhỏ, tiếng nổ pành pạch (khi máy nổ chưa hoàn chỉnh)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700954_77656668eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700954_876322b81f_o.png",
+      "id_image": "pink_2218719"
+    }
+  ]
+}

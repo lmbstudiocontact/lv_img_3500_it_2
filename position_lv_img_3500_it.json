@@ -1,0 +1,117 @@
+{
+  "english": "position",
+  "phat_am": "[pə'zi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vị trí, chỗ (của một vật gì)",
+          "list_en_vn": [
+            {
+              "full_en": "in position",
+              "full_vn": "đúng chỗ, đúng vị trí"
+            },
+            {
+              "full_en": "out of position",
+              "full_vn": "không đúng chỗ, không đúng vị trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "to attack an enemy's position",
+              "full_vn": "tấn công một vị trí địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế",
+          "list_en_vn": [
+            {
+              "full_en": "a position of strength",
+              "full_vn": "thế mạnh"
+            },
+            {
+              "full_en": "to be in an awkward position",
+              "full_vn": "ở vào thế khó xử"
+            },
+            {
+              "full_en": "to be in a false position",
+              "full_vn": "ở vào thế trái cựa"
+            },
+            {
+              "full_en": "to be in a position to do something",
+              "full_vn": "ở vào một cái thế có thể làm gì, có khả năng làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tư thế",
+          "list_en_vn": [
+            {
+              "full_en": "eastward position",
+              "full_vn": "tư thế đứng hướng về phía đông (của linh mục khi làm lễ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị; chức vụ",
+          "list_en_vn": [
+            {
+              "full_en": "social position",
+              "full_vn": "địa vị xã hội"
+            },
+            {
+              "full_en": "a man of high position",
+              "full_vn": "người có địa vị cao"
+            },
+            {
+              "full_en": "to take a position as typist",
+              "full_vn": "nhận một chức đánh máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lập trường, quan điểm, thái độ"
+        },
+        {
+          "m_full_vn": "luận điểm; sự đề ra luận điểm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt (cái gì) vào vị trí; bố trí"
+        },
+        {
+          "m_full_vn": "xác định vị trí, đánh dấu vị trí (của cái gì)"
+        },
+        {
+          "m_full_vn": "(quân sự) đóng (quân ở vị trí)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689199_e66c6cf192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689199_fbfaac673c_o.png",
+      "id_image": "position_1284363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379017_d15f55d87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379017_ebe0547205_o.png",
+      "id_image": "position_169487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334101_6da49c94cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334101_19aafb30a7_o.png",
+      "id_image": "position_4463713"
+    }
+  ]
+}

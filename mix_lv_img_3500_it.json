@@ -1,0 +1,165 @@
+{
+  "english": "mix",
+  "phat_am": "[miks]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trộn, pha lẫn, hoà lẫn",
+          "list_en_vn": [
+            {
+              "full_en": "to mix cement /mortar",
+              "full_vn": "trộn xi măng/vữa"
+            },
+            {
+              "full_en": "to mix a cheese sauce for the fish",
+              "full_vn": "trộn xốt pho mát để ăn món cá"
+            },
+            {
+              "full_en": "to mix a dish of salad",
+              "full_vn": "trộn món rau xà lách"
+            },
+            {
+              "full_en": "to mix sugar with the flour",
+              "full_vn": "trộn đường với bột mì"
+            },
+            {
+              "full_en": "to mix the yeast into the flour",
+              "full_vn": "trộn men vào bột mì"
+            },
+            {
+              "full_en": "to mix the flour and water into a smooth paste",
+              "full_vn": "nhào bột mì với nước thành một thứ bột nhão mịn"
+            },
+            {
+              "full_en": "don't mix business with pleasure",
+              "full_vn": "đừng để chuyện làm ăn dính dáng với chuyện vui chơi; đừng nhập nhằng giữa chuyện làm ăn và chuyện vui chơi"
+            },
+            {
+              "full_en": "if you mix red and yellow , you get orange",
+              "full_vn": "màu đỏ pha với màu vàng cho ra màu cam"
+            },
+            {
+              "full_en": "the chemist mixed medicine for me",
+              "full_vn": "người bán dược phẩm pha thuốc cho tôi"
+            },
+            {
+              "full_en": "many races are mixed together in Brazil",
+              "full_vn": "ở Braxin có sự pha trộn giữa nhiều chủng tộc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoà với; hoà lẫn với",
+          "list_en_vn": [
+            {
+              "full_en": "oil and water don't mix",
+              "full_vn": "dầu và nước không hoà lẫn với nhau được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoà nhập, giao thiệp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to mix somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai bối rối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get mixed up in something",
+              "list_im": [
+                {
+                  "im_full_vn": "dính líu/liên can đến việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get mixed up with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "giao du/dính líu với ai (với những thành phần bất hảo chẳng hạn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mix it up with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cãi nhau hoặc đánh nhau với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mix somebody /something up with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhầm lẫn ai/cái gì với ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he found it hard to mix with his gossipy neighbours",
+              "full_vn": "nó thấy khó lòng hoà nhập với những người hàng xóm ngồi lê đôi mách"
+            },
+            {
+              "full_en": "in my everyday job , I have to mix with all sorts of people",
+              "full_vn": "trong công việc hàng ngày, tôi phải giao thiệp với đủ hạng người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoà hợp",
+          "list_en_vn": [
+            {
+              "full_en": "a social /racial mix",
+              "full_vn": "sự hoà hợp xã hội/chủng tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hỗn hợp các thành phần được đem bán để làm món ăn",
+          "list_en_vn": [
+            {
+              "full_en": "a packet of cake mix",
+              "full_vn": "một gói bột trộn sẵn để làm bánh ngọt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385347_8b40deefdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385347_89cc1a20b1_o.png",
+      "id_image": "mixed_1214379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340426_b4786917d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340426_06aa7bd790_o.png",
+      "id_image": "mix_2289953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077720_1477f43738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077720_2ed8443dfe_o.png",
+      "id_image": "mix_5376878"
+    }
+  ]
+}

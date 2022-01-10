@@ -1,0 +1,214 @@
+{
+  "english": "root",
+  "phat_am": "[ru:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rễ (cây)",
+          "list_en_vn": [
+            {
+              "full_en": "to take root ; to strike root",
+              "full_vn": "bén rễ"
+            },
+            {
+              "full_en": "to pull up by the roots",
+              "full_vn": "nhổ cả rễ ( (nghĩa đen) & (nghĩa bóng))"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) gốc rễ, cội nguồn"
+        },
+        {
+          "m_full_vn": "cây con cả rễ (để đem trồng)"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) các cây có củ (cà rốt, củ cải...)"
+        },
+        {
+          "m_full_vn": "chân, gốc (tóc, răng..); mống (lưỡi)",
+          "list_en_vn": [
+            {
+              "full_en": "the root of a mountain",
+              "full_vn": "chân núi"
+            },
+            {
+              "full_en": "the root of a tooth",
+              "full_vn": "chân răng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "căn nguyên, nguồn gốc",
+          "list_en_vn": [
+            {
+              "full_en": "to get at (to ) the root of the matter",
+              "full_vn": "nắm được thực chất của vấn đề"
+            },
+            {
+              "full_en": "the root of the problem is lack of trust",
+              "full_vn": "nguồn gốc của vấn đề là sự thiếu tin cậy"
+            },
+            {
+              "full_en": "the root of all evils",
+              "full_vn": "nguồn gốc của mọi sự xấu xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) căn; nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "real root",
+              "full_vn": "nghiệm thực"
+            },
+            {
+              "full_en": "square (second ) root",
+              "full_vn": "căn bậc hai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) gốc từ (như) base form"
+        },
+        {
+          "m_full_vn": "(âm nhạc) nốt cơ bản"
+        },
+        {
+          "m_full_vn": "(kinh thánh) con cháu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to blush to the roots of one's hair",
+              "list_im": [
+                {
+                  "im_full_vn": "thẹn đỏ cả mặt; mặt đỏ tía tai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "roof and branch",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn, triệt để",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to destroy root and branch",
+                      "full_vn": "phá huỷ hoàn toàn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay the axe to the root of",
+              "list_im": [
+                {
+                  "im_full_vn": "đào tận gốc (cây); phá huỷ đi, trừ tận gốc (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "get at /get to /strike at the root (s) of something",
+              "list_im": [
+                {
+                  "im_full_vn": "triệt (cái gì) tận gốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pull down (new ) roots",
+              "list_im": [
+                {
+                  "im_full_vn": "cắm rễ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take /strike root",
+              "list_im": [
+                {
+                  "im_full_vn": "mọc rễ (cây)"
+                },
+                {
+                  "im_full_vn": "bén rễ; trở nên ổn định; củng cố"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bén rễ, làm bắt rễ (cây...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm ăn sâu vào, làm cắm chặt vào",
+          "list_en_vn": [
+            {
+              "full_en": "terror rooted him to the spot",
+              "full_vn": "sự khiếp sợ làm cho anh ta đứng chôn chân tại chỗ"
+            },
+            {
+              "full_en": "strength rooted in unity",
+              "full_vn": "sức mạnh xây dựng trên sự đoàn kết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up , out ...) nhổ bật rễ; trừ tận gốc, làm tiệt nọc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bén rễ, ăn sâu vào ( (nghĩa đen) & (nghĩa bóng))"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ (như) rout",
+      "list_m": [
+        {
+          "m_full_vn": "(như) rootle"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tích cực ủng hộ, reo hò cổ vũ",
+          "list_en_vn": [
+            {
+              "full_en": "to root for a candidate",
+              "full_vn": "tích cực ủng hộ một ứng cử viên"
+            },
+            {
+              "full_en": "to root for one's team",
+              "full_vn": "(thể dục,thể thao) reo hò cổ vũ đội mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387442_114d9a6dc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387442_253d5a768c_o.png",
+      "id_image": "root_1407904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342391_c2f5401034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342391_92ccea07af_o.png",
+      "id_image": "root_3239326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697704_95d371d158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697704_dfee168966_o.png",
+      "id_image": "root_969361"
+    }
+  ]
+}

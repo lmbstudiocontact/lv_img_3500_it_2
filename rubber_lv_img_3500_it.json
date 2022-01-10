@@ -1,0 +1,90 @@
+{
+  "english": "rubber",
+  "phat_am": "['rʌbə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều rubbers",
+      "list_m": [
+        {
+          "m_full_vn": "cao su (như) india-rubber",
+          "list_en_vn": [
+            {
+              "full_en": "hard rubber",
+              "full_vn": "cao su cứng"
+            },
+            {
+              "full_en": "synthetic rubber",
+              "full_vn": "cao su tổng hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái tẩy (mẩu cao su.. để tẩy mực, bút chì); khăn lau bảng; giẻ lau bảng"
+        },
+        {
+          "m_full_vn": "bao cao su để tránh thai, ca-pốt, candom"
+        },
+        {
+          "m_full_vn": "( số nhiều) ủng cao su (không thấm nước); giày cao su"
+        },
+        {
+          "m_full_vn": "người xoa bóp"
+        },
+        {
+          "m_full_vn": "hội bài (ba ván, ai thắng hai là được, trong bài brít..)"
+        },
+        {
+          "m_full_vn": "( định ngữ) bằng cao su",
+          "list_en_vn": [
+            {
+              "full_en": "rubber cloth",
+              "full_vn": "vải tráng cao su"
+            },
+            {
+              "full_en": "rubber gloves",
+              "full_vn": "găng tay cao su"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tráng cao su, bọc bằng cao su"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nghển cổ cò mà nhìn (vì tò mò); tò mò"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695674_b991693eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695674_575faf58eb_o.png",
+      "id_image": "rubber_1589262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077585_944373f6a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077585_b1f5983558_o.png",
+      "id_image": "rubber_3944332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340276_946ff5dba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340276_fa992f6e17_o.png",
+      "id_image": "rubber_5234023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077510_f8a9a0dc9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077510_47a0b1e696_o.png",
+      "id_image": "rubber_5848636"
+    }
+  ]
+}

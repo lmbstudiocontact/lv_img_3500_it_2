@@ -1,0 +1,71 @@
+{
+  "english": "operator",
+  "phat_am": "['ɔpəreitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thợ máy; người điều khiển máy móc",
+          "list_en_vn": [
+            {
+              "full_en": "lift operator",
+              "full_vn": "người điều khiển thang máy"
+            },
+            {
+              "full_en": "computer operator",
+              "full_vn": "người điều khiển máy tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người trực tổng đài điện thoại",
+          "list_en_vn": [
+            {
+              "full_en": "please dial 100 for the operator",
+              "full_vn": "xin vui lòng quay số 100 gọi người trực tổng đài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người điều khiển hoặc sở hữu một doanh nghiệp hoặc một công cuộc làm ăn (nhất là tư nhân); người điều hành; người khai thác",
+          "list_en_vn": [
+            {
+              "full_en": "a private operator in civil aviation",
+              "full_vn": "một người chủ tư nhân trong ngành hàng không dân dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người hành động theo một cách nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "he's a smooth /slick /shrewd /clever operator",
+              "full_vn": "hắn là một kẻ hoà nhã/khôn khéo/sắc sảo/khôn ngoan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) toán tử"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083405_ee65e7e19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083405_f9d407c7a4_o.png",
+      "id_image": "operator_1042076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083365_37469fb262_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083365_06d9a2aaea_o.png",
+      "id_image": "operator_3768443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083315_66e70657e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083315_2bee27353c_o.png",
+      "id_image": "operator_6083035"
+    }
+  ]
+}

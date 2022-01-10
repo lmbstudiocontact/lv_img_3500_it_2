@@ -1,0 +1,81 @@
+{
+  "english": "oak",
+  "phat_am": "[ouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây sồi"
+        },
+        {
+          "m_full_vn": "lá sồi"
+        },
+        {
+          "m_full_vn": "màu lá sồi non"
+        },
+        {
+          "m_full_vn": "gỗ sồi"
+        },
+        {
+          "m_full_vn": "đồ đạc bằng gỗ sồi"
+        },
+        {
+          "m_full_vn": "cửa ngoài (của một loạt buồng, (thường) bằng gỗ sồi ở trường đại học Anh)",
+          "list_en_vn": [
+            {
+              "full_en": "to sport one's oak",
+              "full_vn": "đóng cửa không tiếp khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) tàu bè bằng gỗ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Oaks",
+              "list_im": [
+                {
+                  "im_full_vn": "tên cuộc đua ngựa hàng năm ở Epsom, gần London"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Heart of Oak",
+              "list_im": [
+                {
+                  "im_full_vn": "đội tàu và thuỷ thủ của hải quân Anh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "big /tall /great /large oaks from little acorns grow",
+              "list_im": [
+                {
+                  "im_full_vn": "vấn đề lớn có thể xảy ra từ nguyên do nhỏ hay đơn giản nhất; cái sảy nảy cái ung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434483_54605d9940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434483_545229f0c3_o.png",
+      "id_image": "oak_2146308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364037_0593b07fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364037_812b72c859_o.png",
+      "id_image": "oak_2146349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363997_44ff2de1a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363997_1949774836_o.png",
+      "id_image": "oak_4986983"
+    }
+  ]
+}

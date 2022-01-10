@@ -1,0 +1,50 @@
+{
+  "english": "prank",
+  "phat_am": "[præηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trò đùa tinh nghịch, trò tinh quái, trò chơi khăm (chơi xỏ cho vui)",
+          "list_en_vn": [
+            {
+              "full_en": "to play pranks",
+              "full_vn": "chơi khăm, tinh nghịch"
+            },
+            {
+              "full_en": "to play a prank on somebody",
+              "full_vn": "chơi khăm ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trục trặc (máy)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + out ) trang sức, trang hoàng, tô điểm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vênh vang, chưng trổ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375422_f28b84e280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375422_2e850b6708_o.png",
+      "id_image": "prank_5020808"
+    }
+  ]
+}

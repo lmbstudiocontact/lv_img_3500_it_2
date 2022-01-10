@@ -1,0 +1,32 @@
+{
+  "english": "parsley",
+  "phat_am": "['pɑ:sli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây mùi tây (ngò tây)",
+          "list_en_vn": [
+            {
+              "full_en": "parsley sauce",
+              "full_vn": "nước xốt mùi tây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331501_8628974337_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331501_005aac9909_o.png",
+      "id_image": "parsley_1135507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446483_88b0deac8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446483_33ab68ccca_o.png",
+      "id_image": "parsley_1407861"
+    }
+  ]
+}

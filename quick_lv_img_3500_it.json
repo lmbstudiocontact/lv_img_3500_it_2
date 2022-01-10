@@ -1,0 +1,183 @@
+{
+  "english": "quick",
+  "phat_am": "[kwik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thịt mềm (dưới móng tay, móng chân, trong vết thương)"
+        },
+        {
+          "m_full_vn": "tâm can, ruột gan; chỗ nhạy cảm nhất (của tâm hồn)",
+          "list_en_vn": [
+            {
+              "full_en": "the insult stung him to the quick",
+              "full_vn": "lời lăng mạ làm anh đau nhói tâm can"
+            },
+            {
+              "full_en": "to cut (touch ) to the quick",
+              "full_vn": "chạm vào chỗ nhạy cảm nhất, chạm nọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the quick ) (từ cổ,nghĩa cổ) những người còn sống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to the quick",
+              "list_im": [
+                {
+                  "im_full_vn": "đến tận xương tuỷ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be a radical to the quick",
+                      "full_vn": "là người cấp tiến đến tận xương tuỷ, là người cấp tiến trăm phần trăm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "cut somebody to the quick",
+              "list_im": [
+                {
+                  "im_full_vn": "chạm đến chỗ nhạy cảm nhất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the quick and the dead",
+              "full_vn": "những người còn sống và những người đã chết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhanh, mau",
+          "list_en_vn": [
+            {
+              "full_en": "a quick train",
+              "full_vn": "chuyến xe lửa tốc hành (nhanh)"
+            },
+            {
+              "full_en": "be quick",
+              "full_vn": "nhanh lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh, sắc, thính",
+          "list_en_vn": [
+            {
+              "full_en": "a quick eye",
+              "full_vn": "mắt tinh"
+            },
+            {
+              "full_en": "a quick ear",
+              "full_vn": "tai thính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính lanh lợi, hoạt bát, nhanh trí, sáng trí",
+          "list_en_vn": [
+            {
+              "full_en": "a quick mind",
+              "full_vn": "trí óc lanh lợi"
+            },
+            {
+              "full_en": "a quick child",
+              "full_vn": "một em bé sáng trí"
+            },
+            {
+              "full_en": "quick to understand",
+              "full_vn": "tiếp thu nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhạy cảm, dễ (giận..)",
+          "list_en_vn": [
+            {
+              "full_en": "to be quick to take offence",
+              "full_vn": "dễ phật lòng, dễ giận"
+            },
+            {
+              "full_en": "to be quick of temper",
+              "full_vn": "dễ nổi nóng, nóng tánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sống",
+          "list_one_mean": [
+            {
+              "id_full_en": "let's have a quick one",
+              "list_im": [
+                {
+                  "im_full_vn": "chúng ta uống nhanh một cốc đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as quick as a flash /lightning",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh như chớp, rất nhanh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be with quick child ; to be quick with child",
+              "full_vn": "có mang sắp đến ngày sinh (thai đã đạp ở trong bụng)"
+            },
+            {
+              "full_en": "quick hedge",
+              "full_vn": "hàng rào cây xanh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ (so sánh)",
+      "list_m": [
+        {
+          "m_full_vn": "nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "don't speak so quick",
+              "full_vn": "đừng nói quá nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458048_0f3b945ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458048_7922cc7c18_o.png",
+      "id_image": "quick_1639606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698549_9e4ac813f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698549_b090210e09_o.png",
+      "id_image": "quick_5571611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388212_c2578a59db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388212_8037690b2f_o.png",
+      "id_image": "quick_5956407"
+    }
+  ]
+}

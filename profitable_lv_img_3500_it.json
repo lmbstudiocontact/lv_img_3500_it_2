@@ -1,0 +1,41 @@
+{
+  "english": "profitable",
+  "phat_am": "['prɔfitəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có lợi, có ích; thuận lợi",
+          "list_en_vn": [
+            {
+              "full_en": "profitable advise",
+              "full_vn": "lời khuyên có ích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh lãi, mang lợi",
+          "list_en_vn": [
+            {
+              "full_en": "a profitable undertaking",
+              "full_vn": "một công việc mang lợi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676324_5c511e59e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676324_312273fc33_o.png",
+      "id_image": "profitable_4133603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366192_9c154af113_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366192_6b30dbe2ea_o.png",
+      "id_image": "profitable_6397021"
+    }
+  ]
+}

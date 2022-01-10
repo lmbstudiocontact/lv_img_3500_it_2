@@ -1,0 +1,64 @@
+{
+  "english": "printer",
+  "phat_am": "['printə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ in; chủ nhà in"
+        },
+        {
+          "m_full_vn": "máy in"
+        },
+        {
+          "m_full_vn": "thợ in vải hoa",
+          "list_one_mean": [
+            {
+              "id_full_en": "printer's devil",
+              "list_im": [
+                {
+                  "im_full_vn": "thợ học việc ở nhà in"
+                }
+              ]
+            },
+            {
+              "id_full_en": "printer's ink",
+              "list_im": [
+                {
+                  "im_full_vn": "mực in",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to spill printer's ink",
+                      "full_vn": "làm tràn mực in"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "printer's pie",
+              "list_im": [
+                {
+                  "im_full_vn": "đống chữ in lộn xộn, sự hỗn độn, sự lộn xộn (như) pie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324836_11428d6211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324836_ea0343ed01_o.png",
+      "id_image": "printer_168655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324801_9f5156129c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324801_9c81bc08d9_o.png",
+      "id_image": "printer_269098"
+    }
+  ]
+}

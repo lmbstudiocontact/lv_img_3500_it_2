@@ -1,0 +1,257 @@
+{
+  "english": "rank",
+  "phat_am": "[ræηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vị trí trong thang bậc về trách nhiệm, phẩm chất, địa vị xã hội...; hàng, cấp; chức",
+          "list_en_vn": [
+            {
+              "full_en": "ministers of cabinet rank",
+              "full_vn": "cấp bộ trưởng Nội các"
+            },
+            {
+              "full_en": "a painter of the first /top rank",
+              "full_vn": "một hoạ sĩ hàng đầu"
+            },
+            {
+              "full_en": "people of (high ) rank",
+              "full_vn": "những người có địa vị xã hội (cao)"
+            },
+            {
+              "full_en": "people of all ranks and classes",
+              "full_vn": "những người thuộc mọi tầng lớp và giai cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí hoặc cấp bậc trong lực lượng vũ trang; cấp bậc",
+          "list_en_vn": [
+            {
+              "full_en": "promoted to the rank of captain",
+              "full_vn": "được thăng cấp đại úy"
+            },
+            {
+              "full_en": "above /below a major in rank",
+              "full_vn": "trên/dưới cấp thiếu tá"
+            },
+            {
+              "full_en": "officers of high rank",
+              "full_vn": "sĩ quan cao cấp"
+            },
+            {
+              "full_en": "rank and file",
+              "full_vn": "xem the rank and file"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng hoặc dãy đồ đạc",
+          "list_en_vn": [
+            {
+              "full_en": "a cab /taxi -rank",
+              "full_vn": "một dãy xe/tắc xi"
+            },
+            {
+              "full_en": "take the taxi at the head of the rank",
+              "full_vn": "hãy đi chiếc tắc xi ở đầu dãy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng hoặc dãy lính, cảnh sát... đứng sát cạnh nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "the ranks (cũng other ranks )",
+              "list_im": [
+                {
+                  "im_full_vn": "lính thường (binh nhì, hạ sĩ...) chứ không phải sĩ quan",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to serve in /join the ranks",
+                      "full_vn": "đi lính, phục vụ trong quân đội"
+                    },
+                    {
+                      "full_en": "to rise from the ranks",
+                      "full_vn": "(quân sự) từ lính thường trở thành sĩ quan; từ dân thường bước lên địa vị cao sang"
+                    },
+                    {
+                      "full_en": "to be reduced to the ranks",
+                      "full_vn": "bị hạ/giáng xuống làm lính"
+                    },
+                    {
+                      "full_en": "to fall into ranks",
+                      "full_vn": "đứng thành hàng ngũ"
+                    },
+                    {
+                      "full_en": "to close the ranks",
+                      "full_vn": "dồn hàng lại, siết chặt hàng ngũ"
+                    },
+                    {
+                      "full_en": "to break ranks",
+                      "full_vn": "giải tán hàng ngũ"
+                    },
+                    {
+                      "full_en": "to join the ranks of the unemployed",
+                      "full_vn": "gia nhập đội ngũ những người thất nghiệp (trở nên thất nghiệp)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull rank",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pull"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "ranks of marching infantry",
+              "full_vn": "hàng ngũ bộ binh đang diễu hành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to rank somebody / something as something ) xếp ai/cái gì vào hàng ngũ, phân thành cấp bậc theo phẩm chất, thành tích...; xếp loại",
+          "list_en_vn": [
+            {
+              "full_en": "where /how do you rank Karpow as a chess player ?",
+              "full_vn": "anh xếp Karpov vào loại đấu thủ cờ hạng nào?"
+            },
+            {
+              "full_en": "to rank someone among the great writers",
+              "full_vn": "xếp ai vào hàng các nhà văn lớn"
+            },
+            {
+              "full_en": "I rank her achievement very highly",
+              "full_vn": "tôi xếp hạng thành tích của cô ta rất cao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có cấp bậc hoặc xếp vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "to rank among the best",
+              "full_vn": "được xếp vào loại khá nhất"
+            },
+            {
+              "full_en": "to rank first in production of coal",
+              "full_vn": "đứng hàng đầu về sản xuất than"
+            },
+            {
+              "full_en": "does he rank among /with the failures ?",
+              "full_vn": "anh ta có nằm trong số những người thất bại hay không?"
+            },
+            {
+              "full_en": "a major ranks above a captain",
+              "full_vn": "thiếu tá có cấp bậc cao hơn đại úy"
+            },
+            {
+              "full_en": "a high-ranking official /delegate",
+              "full_vn": "một quan chức/đại biểu cao cấp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rậm rạp, sum sê",
+          "list_en_vn": [
+            {
+              "full_en": "rank vegetation",
+              "full_vn": "cây cối rậm rạp"
+            },
+            {
+              "full_en": "rank ivy /grass",
+              "full_vn": "cây thường xuân/cỏ rậm rạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về đất) có nhiều cỏ dại; có thể sinh nhiều cỏ dại",
+          "list_en_vn": [
+            {
+              "full_en": "rank soil",
+              "full_vn": "đất có lắm cỏ dại"
+            },
+            {
+              "full_en": "a field rank with nettles and thistles",
+              "full_vn": "cánh đồng lắm tầm ma và cây kế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có mùi hôi thối, có vị hôi thối; khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "rank tobacco",
+              "full_vn": "thuốc lá có mùi khét"
+            },
+            {
+              "full_en": "the rank stench of rotting meat",
+              "full_vn": "mùi hôi của thịt thối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không lầm vào đâu được; rõ rành rành",
+          "list_en_vn": [
+            {
+              "full_en": "a rank lie",
+              "full_vn": "lời nói dối trắng trợn"
+            },
+            {
+              "full_en": "a rank duffer",
+              "full_vn": "người ngốc vô cùng"
+            },
+            {
+              "full_en": "rank insolence /stupidity /injustice",
+              "full_vn": "thái độ láo xược/sự ngu ngốc/sự bất công rõ rành rành"
+            },
+            {
+              "full_en": "the winning horse was a rank outsider",
+              "full_vn": "con ngựa thắng cuộc lại là một con người hoàn toàn ít có khả năng thắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075870_a973207fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075870_e153be16d4_o.png",
+      "id_image": "rank_2344540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694029_5585902421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694029_8a05b147b3_o.png",
+      "id_image": "rank_265796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383772_0f62356f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383772_b67ab7e8d1_o.png",
+      "id_image": "rank_942357"
+    }
+  ]
+}

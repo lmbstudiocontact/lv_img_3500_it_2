@@ -1,0 +1,87 @@
+{
+  "english": "ramp",
+  "phat_am": "[ræmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc, bờ dốc, đoạn đường thoai thoải, đoạn đường dốc",
+          "list_en_vn": [
+            {
+              "full_en": "approach ramp of a bridge",
+              "full_vn": "dốc lên cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) thang lên máy bay"
+        },
+        {
+          "m_full_vn": "bệ tên lửa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc thoai thoải"
+        },
+        {
+          "m_full_vn": "chồm đứng lên, chồm hai chân trước lên (sư tử trên huy hiệu)"
+        },
+        {
+          "m_full_vn": "(đùa cợt) nổi xung, giận điên lên"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kiến trúc) xây dốc thoai thoải (một bức tường)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) sự lừa đảo"
+        },
+        {
+          "m_full_vn": "sự tính giá cắt cổ, chém"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lừa đảo"
+        },
+        {
+          "m_full_vn": "tính giá cắt cổ, chém"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454163_ecfdde2aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454163_db0820a2c1_o.png",
+      "id_image": "ramp_1413103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454128_3b1563fa24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454128_75007e4f17_o.png",
+      "id_image": "ramp_5612956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076285_76a32bdf60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076285_2e83401078_o.png",
+      "id_image": "ramp_6245887"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "periscope",
+  "phat_am": "['periskoup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kính tiềm vọng; kính viễn vọng",
+          "list_en_vn": [
+            {
+              "full_en": "binocular periscope",
+              "full_vn": "kính tiềm vọng hai mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kính ngắm (máy ảnh)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057235_107c85b139_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057235_87ed7f1420_o.png",
+      "id_image": "periscope_1322074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057240_9e37c47fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057240_b9d3c0c29c_o.png",
+      "id_image": "periscope_305480"
+    }
+  ]
+}

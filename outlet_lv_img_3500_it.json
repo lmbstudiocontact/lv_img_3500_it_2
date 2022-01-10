@@ -1,0 +1,52 @@
+{
+  "english": "outlet",
+  "phat_am": "['autlet]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ thoát ra, lối ra (nước, hơi..)",
+          "list_en_vn": [
+            {
+              "full_en": "an outlet of water",
+              "full_vn": "chỗ thoát nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phương tiện thoả mãn... (chí hướng...)"
+        },
+        {
+          "m_full_vn": "cửa sông (ra biển, vào hồ...)"
+        },
+        {
+          "m_full_vn": "dòng sông, dòng nước (chảy từ hồ...)"
+        },
+        {
+          "m_full_vn": "(thương mại) cửa hàng tiêu thụ, đại lý (của một công ty)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đài phát thanh phụ (phát lại của một hệ thống lớn hơn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456178_9e4cdf8ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456178_b35fd765ab_o.png",
+      "id_image": "outlet_1190296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078755_b9f09afa7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078755_660c9b279b_o.png",
+      "id_image": "outlet_2823876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696549_5952980ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696549_13e8751fec_o.png",
+      "id_image": "outlet_3540135"
+    }
+  ]
+}

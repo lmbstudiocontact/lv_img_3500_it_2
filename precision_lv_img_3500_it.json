@@ -1,0 +1,40 @@
+{
+  "english": "precision",
+  "phat_am": "[pri'siʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đúng đắn, rõ ràng; tính chất chính xác; độ chính xác (như) preciseness",
+          "list_en_vn": [
+            {
+              "full_en": "precision balance",
+              "full_vn": "cân chính xác, cân tiểu ly"
+            },
+            {
+              "full_en": "clockwork precision",
+              "full_vn": "sự chính xác như bộ máy đồng hồ"
+            },
+            {
+              "full_en": "precision bombing",
+              "full_vn": "sự ném bom chính xác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685124_cba494d4c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685124_ff3ac6f8f3_o.png",
+      "id_image": "precision_1692908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066865_1fae4d8273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066865_2f48433eca_o.png",
+      "id_image": "precision_1791938"
+    }
+  ]
+}

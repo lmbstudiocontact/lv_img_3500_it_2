@@ -1,0 +1,76 @@
+{
+  "english": "ruby",
+  "phat_am": "['ru:bi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hồng ngọc (loại đá quý màu đỏ)",
+          "list_en_vn": [
+            {
+              "full_en": "ruby red",
+              "full_vn": "(thuộc ngữ) đỏ màu hồng ngọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(khoáng chất) Ru-bi, ngọc đỏ"
+        },
+        {
+          "m_full_vn": "màu ngọc đỏ"
+        },
+        {
+          "m_full_vn": "mụn đỏ (ở mũi, ở mặt)"
+        },
+        {
+          "m_full_vn": "rượu vang đỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "above rubies",
+              "list_im": [
+                {
+                  "im_full_vn": "vô giá"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỏ thắm, đỏ sẫm",
+          "list_en_vn": [
+            {
+              "full_en": "ruby lips",
+              "full_vn": "môi đỏ thắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuộm màu đỏ thắm, nhuộm màu đỏ sẫm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340081_dd6078e8ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340081_b5a6ee0780_o.png",
+      "id_image": "ruby_3521647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695384_be8f472925_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695384_13c006e5f3_o.png",
+      "id_image": "ruby_492063"
+    }
+  ]
+}

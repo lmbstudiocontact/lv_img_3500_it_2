@@ -1,0 +1,40 @@
+{
+  "english": "respiratory",
+  "phat_am": "[ri'spaiərətri, 'respirətri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sự thở, (thuộc) hô hấp; để thở, để hô hấp",
+          "list_en_vn": [
+            {
+              "full_en": "respiratory organs",
+              "full_vn": "cơ quan hô hấp"
+            },
+            {
+              "full_en": "respiratory diseases",
+              "full_vn": "các bệnh đường hô hấp (viêm phế quản..)"
+            },
+            {
+              "full_en": "respiratory system",
+              "full_vn": "hệ hô hấp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705379_666aba07c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705379_4ab21cfac6_o.png",
+      "id_image": "respiratory_2869091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350821_a1b0348da7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350821_d93bca0f6f_o.png",
+      "id_image": "respiratory_4310582"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "merge",
+  "phat_am": "[mə:dʒ]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoà vào; kết hợp; hợp nhất",
+          "list_en_vn": [
+            {
+              "full_en": "twilight merges into total darkness",
+              "full_vn": "hoàng hôn chìm dần vào màn đêm thăm thẳm"
+            },
+            {
+              "full_en": "to merge the two small businesses (together ) into one larger one",
+              "full_vn": "hợp nhất hai doanh nghiệp nhỏ thành một doanh nghiệp lớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391297_a5474a49bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391297_b072acb1ce_o.png",
+      "id_image": "merge_1809011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701259_de2b3c7cf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701259_3f5fbf7af1_o.png",
+      "id_image": "merge_4505128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461183_46cbcc4055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461183_ddcaf18469_o.png",
+      "id_image": "merge_589590"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "rectangular",
+  "phat_am": "[rek'tæηgjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình dáng một chữ nhật"
+        },
+        {
+          "m_full_vn": "vuông góc",
+          "list_en_vn": [
+            {
+              "full_en": "rectangular co-ordinates",
+              "full_vn": "toạ độ vuông góc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688799_35b71c831b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688799_9ef04d46d4_o.png",
+      "id_image": "rectangular_306855"
+    }
+  ]
+}

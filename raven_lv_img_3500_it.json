@@ -1,0 +1,79 @@
+{
+  "english": "raven",
+  "phat_am": "['reivn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con quạ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đen như qụa, đen nhánh",
+          "list_en_vn": [
+            {
+              "full_en": "raven hair",
+              "full_vn": "tóc đen nhánh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắn xé (mồi); ăn ngấu nghiến, ăn phàm"
+        },
+        {
+          "m_full_vn": "cướp, giật"
+        },
+        {
+          "m_full_vn": "( + after ) tìm kiếm (mồi)",
+          "list_en_vn": [
+            {
+              "full_en": "to raven after prey",
+              "full_vn": "đi kiếm mồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for ) thèm khát, thèm thuồng",
+          "list_en_vn": [
+            {
+              "full_en": "to raven for something",
+              "full_vn": "thèm khát cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074505_31380f7d90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074505_b56022dbc2_o.png",
+      "id_image": "raven_1089476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382437_15ce46338c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382437_0c8fecf12f_o.png",
+      "id_image": "raven_1339641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692774_8ba00b7964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692774_261147567f_o.png",
+      "id_image": "raven_218287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692699_9fce67ddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692699_3a8fc13fed_o.png",
+      "id_image": "raven_3330564"
+    }
+  ]
+}

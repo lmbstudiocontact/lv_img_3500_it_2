@@ -1,0 +1,125 @@
+{
+  "english": "palm",
+  "phat_am": "[pɑ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây cọ ( palm tree )"
+        },
+        {
+          "m_full_vn": "cây họ cọ",
+          "list_en_vn": [
+            {
+              "full_en": "a date palm",
+              "full_vn": "cây chà là"
+            },
+            {
+              "full_en": "a coconut palm",
+              "full_vn": "cây dừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lá của loại cây họ cọ (tượng trưng cho chiến thắng)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chiến thắng; giải",
+          "list_en_vn": [
+            {
+              "full_en": "to bear (carry ) the palm",
+              "full_vn": "chiến thắng, đoạt giải"
+            },
+            {
+              "full_en": "to yield the palm",
+              "full_vn": "chịu thua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gan bàn tay, lòng bàn tay",
+          "list_en_vn": [
+            {
+              "full_en": "read somebody's palm",
+              "full_vn": "xem tướng tay của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng găng tay",
+          "list_en_vn": [
+            {
+              "full_en": "gloves with leather palms",
+              "full_vn": "lòng găng tay bằng da"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gan bàn tay (đơn vị (đo lường) : rộng 4 insơ, dài 8 insơ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to grease (cross ) someone's palm",
+              "list_im": [
+                {
+                  "im_full_vn": "hối lộ ai, đút lót ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấu (quân bài, con súc sắc..) trong lòng bàn tay"
+        },
+        {
+          "m_full_vn": "sờ bằng gan bàn tay, đánh bằng lòng bàn tay"
+        },
+        {
+          "m_full_vn": "hối lộ, đút lót (ai)"
+        },
+        {
+          "m_full_vn": "(thông tục) biện bạch"
+        },
+        {
+          "m_full_vn": "đùn đẩy; thuyết phục ai khác chấp nhận người đó, vật đó"
+        },
+        {
+          "m_full_vn": "( + off ) đánh lừa, đánh lộn sòng, đánh tráo",
+          "list_en_vn": [
+            {
+              "full_en": "to palm off something upon (on ) somebody",
+              "full_vn": "đánh lừa để tống cái gì cho ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072795_500b969cd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072795_99533af9a0_o.png",
+      "id_image": "palm_209232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691034_b0c19c0409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691034_d78a4a7505_o.png",
+      "id_image": "palm_2287892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380837_205af20d0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380837_a54479da43_o.png",
+      "id_image": "palm_3332698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072750_d3372bb4f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072750_5ca930de2e_o.png",
+      "id_image": "palm_882888"
+    }
+  ]
+}

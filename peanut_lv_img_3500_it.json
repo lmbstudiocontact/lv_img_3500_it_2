@@ -1,0 +1,49 @@
+{
+  "english": "peanut",
+  "phat_am": "['pi:nʌt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây đậu phụng (cây lạc)"
+        },
+        {
+          "m_full_vn": "hạt đậu phụng (củ lạc) (như) ground-nut"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người tầm thường nhỏ nhen; người bé xíu, anh chàng nhãi nhép"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ lóng) số lượng rất nhỏ; số tiền nhỏ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tầm thường, nhỏ nhen; nhãi nhép",
+          "list_en_vn": [
+            {
+              "full_en": "peanut politician",
+              "full_vn": "nhà chính trị nhãi nhép"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439993_17f20a556f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439993_404ddaa098_o.png",
+      "id_image": "peanut_4278309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324926_869f975fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324926_31247cd144_o.png",
+      "id_image": "peanut_4391589"
+    }
+  ]
+}

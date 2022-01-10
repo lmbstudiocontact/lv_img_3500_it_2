@@ -1,0 +1,76 @@
+{
+  "english": "pause",
+  "phat_am": "[pɔ:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tạm nghỉ, sự tạm ngừng; ngưng",
+          "list_en_vn": [
+            {
+              "full_en": "a moment's pause",
+              "full_vn": "tạm ngưng một lát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngập ngừng",
+          "list_en_vn": [
+            {
+              "full_en": "to give pause to",
+              "full_vn": "làm cho (ai) ngập ngừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngắt giọng (trong khi đang nói, đang đọc); chỗ ngắt giọng, chỗ ngắt",
+          "list_en_vn": [
+            {
+              "full_en": "the after a short pause , he resumed his speech",
+              "full_vn": "sau khi ngắt giọng một giây, ông ấy lại tiếp tục bài diễn văn của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) dấu dãn nhịp, dấu lặng"
+        },
+        {
+          "m_full_vn": "dấu kéo dài"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạm nghỉ, tạm ngừng"
+        },
+        {
+          "m_full_vn": "chờ đợi; ngập ngừng"
+        },
+        {
+          "m_full_vn": "( + upon ) ngừng lại",
+          "list_en_vn": [
+            {
+              "full_en": "let us pause upon this phrase",
+              "full_vn": "chúng ta hãy ngừng lại ở nhóm từ này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682069_63d262dcbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682069_524d2d21b4_o.png",
+      "id_image": "pause_5072269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371602_433bdb0a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371602_ce3b3b5eee_o.png",
+      "id_image": "pause_5496834"
+    }
+  ]
+}

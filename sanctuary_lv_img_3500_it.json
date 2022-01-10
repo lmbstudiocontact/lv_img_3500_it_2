@@ -1,0 +1,64 @@
+{
+  "english": "sanctuary",
+  "phat_am": "['sæηktjuəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi tôn nghiêm, nơi thiêng liêng; điện thờ (nhà thờ, chùa chiền)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) phòng diễn ra các nghi lễ tôn giáo chung; thánh đường"
+        },
+        {
+          "m_full_vn": "nơi trú ẩn, nơi trốn tránh, nơi ẩn náu",
+          "list_en_vn": [
+            {
+              "full_en": "to seek sanctuary",
+              "full_vn": "tìm nơi ẩn tránh"
+            },
+            {
+              "full_en": "to violate /break sanctuary",
+              "full_vn": "bắt bớ (hành hung) (ai) ở nơi trú ẩn"
+            },
+            {
+              "full_en": "our country is a safe sanctuary for political refugees from all over the world",
+              "full_vn": "đất nước chúng tôi là nơi ẩn náu an toàn cho những người tị nạn chính trị từ khắp nơi trên thế giới tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền bảo vệ những người đang bị đuổi bắt hoặc bị tấn công; quyền bảo hộ",
+          "list_en_vn": [
+            {
+              "full_en": "to claim /seek /take /be offered sanctuary",
+              "full_vn": "yêu cầu/tìm kiếm/có được quyền bảo hộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu bảo tồn động vật hoang dã và làm cho chúng sinh sôi phát triển",
+          "list_en_vn": [
+            {
+              "full_en": "a bird sanctuary",
+              "full_vn": "khu bảo tồn chim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690599_38cb44c3b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690599_2afe1a87e7_o.png",
+      "id_image": "sanctuary_3498689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450358_de6f65d09e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450358_2f97f07828_o.png",
+      "id_image": "sanctuary_4470253"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "photograph",
+  "phat_am": "['foutəgrɑ:f ; 'foutəgræf]",
+  "list_type": [
+    {
+      "type": "danh từ, viết tắt là photo",
+      "list_m": [
+        {
+          "m_full_vn": "ảnh; bức ảnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take a good photograph",
+              "list_im": [
+                {
+                  "im_full_vn": "trông hấp dẫn trong ảnh; ăn ảnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take a photograph of somebody /something",
+              "full_vn": "chụp ảnh ai/cái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chụp một bức ảnh cho ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to photograph the bride",
+              "full_vn": "chụp ảnh cô dâu"
+            },
+            {
+              "full_en": "to photograph the wedding",
+              "full_vn": "chụp hình đám cưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuất hiện một cách thế nào đó trong ảnh; lên ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "I always photograph badly",
+              "full_vn": "tôi lên ảnh bao giờ cũng xấu"
+            },
+            {
+              "full_en": "to photograph well",
+              "full_vn": "ăn ảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349511_4cecbeff5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349511_dcaa6421a7_o.png",
+      "id_image": "photograph_238303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394262_63fee50f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394262_7f19bc8161_o.png",
+      "id_image": "photograph_238322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464133_4f17d0fccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464133_6af36afb0e_o.png",
+      "id_image": "photograph_238348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086645_979c000cca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086645_3ae5f3e7c9_o.png",
+      "id_image": "photograph_238350"
+    }
+  ]
+}

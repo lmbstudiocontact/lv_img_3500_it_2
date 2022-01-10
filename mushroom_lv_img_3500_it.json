@@ -1,0 +1,55 @@
+{
+  "english": "mushroom",
+  "phat_am": "['mʌ∫rum]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nấm"
+        },
+        {
+          "m_full_vn": "( định ngữ) phát triển nhanh (như) nấm",
+          "list_en_vn": [
+            {
+              "full_en": "the mushroom growth of the suburbs",
+              "full_vn": "sự phát triển nhanh của vùng ngoại ô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hái nấm",
+          "list_en_vn": [
+            {
+              "full_en": "to go mushrooming",
+              "full_vn": "đi hái nấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bẹp đi, bẹt ra (như) cái nấm (viên đạn)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) mọc nhanh, phát triển nhanh (như) nấm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375697_33e2264790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375697_16da7a8257_o.png",
+      "id_image": "mushroom_1135746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375667_78334638f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375667_fd26bb508c_o.png",
+      "id_image": "mushroom_1408997"
+    }
+  ]
+}

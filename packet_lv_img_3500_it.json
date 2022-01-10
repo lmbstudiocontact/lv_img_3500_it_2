@@ -1,0 +1,67 @@
+{
+  "english": "packet",
+  "phat_am": "['pækit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gói nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a packet of cigarettes",
+              "full_vn": "gói thuốc lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tàu chở thư (như) packet boat"
+        },
+        {
+          "m_full_vn": "(từ lóng) món tiền được cuộc; món tiền thua cuộc (đánh cuộc, đánh đổ...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) viên đạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "cop a packet",
+              "list_im": [
+                {
+                  "im_full_vn": "như cop"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to catch (stop ) a packet",
+              "full_vn": "bị ăn đạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452993_9ca3212792_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452993_650c30b66a_o.png",
+      "id_image": "packet_1849662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338041_4deb60284b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338041_86a3928d49_o.png",
+      "id_image": "packet_2421563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075040_40dd217665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075040_d973a53555_o.png",
+      "id_image": "packet_4142990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452883_29fce16321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452883_2662b941c9_o.png",
+      "id_image": "packet_6302065"
+    }
+  ]
+}

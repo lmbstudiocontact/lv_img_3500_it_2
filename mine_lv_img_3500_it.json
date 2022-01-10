@@ -1,0 +1,115 @@
+{
+  "english": "mine",
+  "phat_am": "[main]",
+  "list_type": [
+    {
+      "type": "đại từ sở hữu",
+      "list_m": [
+        {
+          "m_full_vn": "của tôi",
+          "list_en_vn": [
+            {
+              "full_en": "this book is mine",
+              "full_vn": "quyển sách này của tôi"
+            },
+            {
+              "full_en": "he is an old friend of mine",
+              "full_vn": "anh ấy là một trong những bạn cũ của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỏ",
+          "list_en_vn": [
+            {
+              "full_en": "coal -mine /gold -mine",
+              "full_vn": "mỏ than/mỏ vàng"
+            },
+            {
+              "full_en": "to work a mine",
+              "full_vn": "khai mỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn; kho",
+          "list_en_vn": [
+            {
+              "full_en": "an inexhaustible mine of information",
+              "full_vn": "nguồn tin tức vô tận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mìn, địa lôi, thuỷ lôi",
+          "list_en_vn": [
+            {
+              "full_en": "to spring a mine",
+              "full_vn": "cho nổ mìn, giật mìn"
+            },
+            {
+              "full_en": "to lay a mine",
+              "full_vn": "đặt mìn, thả thuỷ lôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào, khai thác",
+          "list_en_vn": [
+            {
+              "full_en": "to mine for gold",
+              "full_vn": "đào vàng; khai thác vàng"
+            },
+            {
+              "full_en": "to mine the earth for iron ore",
+              "full_vn": "đào đất lấy quặng sắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) đặt mìn, đặt địa lôi, thả thuỷ lôi; phá bằng mìn, há bằng địa lôi, phá bằng thuỷ lôi",
+          "list_en_vn": [
+            {
+              "full_en": "to mine the entrance to a harbour",
+              "full_vn": "thả thuỷ lôi ở cửa cảng"
+            },
+            {
+              "full_en": "the cruiser was mined and sank in five minutes",
+              "full_vn": "tàu tuần dương bị trúng thuỷ lôi và chìm nghỉm trong năm phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phá hoại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457463_fb4a7c8247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457463_285c2b26bd_o.png",
+      "id_image": "mine_1083283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457433_7694f002a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457433_f4d1b34c74_o.png",
+      "id_image": "mine_2150133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387722_f0a2d8a5a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387722_d895924dab_o.png",
+      "id_image": "mine_942381"
+    }
+  ]
+}

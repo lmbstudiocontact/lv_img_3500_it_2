@@ -1,0 +1,103 @@
+{
+  "english": "phone",
+  "phat_am": "[foun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) điện thoại, dây nói",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the phone",
+              "list_im": [
+                {
+                  "im_full_vn": "đang nói chuyện điện thoại"
+                },
+                {
+                  "im_full_vn": "có một cú điện thoại (về một người, một công việc..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You can't see her now - she's on the phone",
+                      "full_vn": "Anh không thể gặp chị ấy bây giờ - chị ấy đang nói chuyện điện thoại"
+                    },
+                    {
+                      "full_en": "They've been on the phone for an hour",
+                      "full_vn": "Họ điện thoại cho nhau đã được một tiếng đồng hồ"
+                    },
+                    {
+                      "full_en": "Are you on the phone yet ?",
+                      "full_vn": "Anh có điện thoại gọi đến chưa?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to tell somebody something /order something over the phone",
+              "full_vn": "bảo ai làm gì/ra lệnh gì qua điện thoại"
+            },
+            {
+              "full_en": "the phone is ringing",
+              "full_vn": "chuông điện thoại đang reo"
+            },
+            {
+              "full_en": "communicating by phone",
+              "full_vn": "liên lạc bằng điện thoại"
+            },
+            {
+              "full_en": "to make a phone call",
+              "full_vn": "gọi điện thoại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi điện thoại cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "did anybody phone ?",
+              "full_vn": "có ai gọi điện thoại không?"
+            },
+            {
+              "full_en": "I'll phone them up now",
+              "full_vn": "tôi sẽ gọi điện thoại cho họ ngay bây giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) gọi điện thoại đến (nhất là chỗ làm việc)",
+          "list_en_vn": [
+            {
+              "full_en": "to phone in sick",
+              "full_vn": "gọi điện thoại báo ốm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704474_893d0a9ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704474_c0f2cf15ef_o.png",
+      "id_image": "phone_523104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349811_ee2452b5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349811_df929b79f3_o.png",
+      "id_image": "phone_523122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464423_bc77269185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464423_35d6c4aff8_o.png",
+      "id_image": "phone_656275"
+    }
+  ]
+}

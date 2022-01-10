@@ -1,0 +1,33 @@
+{
+  "english": "oscillation",
+  "phat_am": "[,ɔsi'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lung lay, sự đu đưa"
+        },
+        {
+          "m_full_vn": "sự lưỡng lự, sự do dự; sự dao động"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự dao động",
+          "list_en_vn": [
+            {
+              "full_en": "the oscillation of radio waves",
+              "full_vn": "sự dao động của sóng ra-đi-ô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079730_32273b78b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079730_a90cea3a32_o.png",
+      "id_image": "oscillation_4636019"
+    }
+  ]
+}

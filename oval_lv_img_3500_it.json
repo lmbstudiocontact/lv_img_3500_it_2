@@ -1,0 +1,69 @@
+{
+  "english": "oval",
+  "phat_am": "['ouvəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình trái xoan; có hình bầu dục",
+          "list_en_vn": [
+            {
+              "full_en": "an oval brooch",
+              "full_vn": "một cái trâm hình trái xoan"
+            },
+            {
+              "full_en": "an oval-shaped face",
+              "full_vn": "một khuôn mặt trái xoan"
+            },
+            {
+              "full_en": "the mirror is oval",
+              "full_vn": "cái gương hình bầu dục"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình trái xoan, hình bầu dục",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Oval",
+              "list_im": [
+                {
+                  "im_full_vn": "sân crickê Ô-van (ở nam Luân-đôn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an oval shaped face",
+                      "full_vn": "khuôn mặt hình trái xoan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341081_f987cba255_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341081_7daa793963_o.png",
+      "id_image": "oval_232989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386047_46132981e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386047_9b9c6992c2_o.png",
+      "id_image": "oval_5854051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078375_519a6fe341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078375_91e546a422_o.png",
+      "id_image": "oval_6080969"
+    }
+  ]
+}

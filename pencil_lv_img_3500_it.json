@@ -1,0 +1,77 @@
+{
+  "english": "pencil",
+  "phat_am": "['pensl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bút chì"
+        },
+        {
+          "m_full_vn": "vật hình bút chì",
+          "list_en_vn": [
+            {
+              "full_en": "an eyebrow pencil",
+              "full_vn": "bút kẻ lông mày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý); (toán học) hình chùm nhọn, chùm",
+          "list_en_vn": [
+            {
+              "full_en": "pencil of planes",
+              "full_vn": "chùm mặt phẳng"
+            },
+            {
+              "full_en": "pencil of straight lines",
+              "full_vn": "chùm đường thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lối vẽ, nét bút (của một hoạ sĩ)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) bút vẽ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết bằng bút chì, vẽ bằng bút chì, kẻ bằng bút chì, tô bằng bút chì, ghi bằng bút chì",
+          "list_en_vn": [
+            {
+              "full_en": "a pencilled drawing",
+              "full_vn": "bức tranh vẽ bằng bút chì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi (tên ngựa đua) vào sổ đánh cá"
+        },
+        {
+          "m_full_vn": "đánh bóng nhẹ bằng những đường vòng tròn đồng tâm hoặc song song"
+        },
+        {
+          "m_full_vn": "ghi tạm (nhật ký, lịch ghi nhớ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322831_dc4d7f7a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322831_6cca8fe6d3_o.png",
+      "id_image": "pencil_124755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677939_2712578ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677939_5e052d93f8_o.png",
+      "id_image": "pencil_124839"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "remorse",
+  "phat_am": "[ri'mɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( remorse for something ) sự ăn năn, sự hối hận",
+          "list_en_vn": [
+            {
+              "full_en": "he was filled with remorse for having refused to visit his dying father",
+              "full_vn": "anh ta hối hận vì đã từ chối đến thăm cha mình đang hấp hối"
+            },
+            {
+              "full_en": "in a fit of remorse , she burnt all her lover's letters",
+              "full_vn": "trong cơn hối hận, cô ta đã đốt hết thư của người yêu"
+            },
+            {
+              "full_en": "the prisoner shows no remorse for his crimes",
+              "full_vn": "tên tù đó không hề có biểu hiện ăn năn về tội ác của hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng thương hại, lòng thương xót; sự hối tiếc",
+          "list_en_vn": [
+            {
+              "full_en": "the captives were shot without remorse",
+              "full_vn": "những kẻ bị bắt đã bị bắn một cách không thương xót"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062525_3214efaa7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062525_081941bbef_o.png",
+      "id_image": "remorse_708642"
+    }
+  ]
+}

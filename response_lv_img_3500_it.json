@@ -1,0 +1,55 @@
+{
+  "english": "response",
+  "phat_am": "[ri'spɔns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả lời; câu trả lời",
+          "list_en_vn": [
+            {
+              "full_en": "she made no response",
+              "full_vn": "cô ta không trả lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đáp lại, sự hưởng ứng",
+          "list_en_vn": [
+            {
+              "full_en": "a poor response to the appeal for funds",
+              "full_vn": "một sự hưởng ứng keo kiệt (chưa hưởng ứng hết sức mình)"
+            },
+            {
+              "full_en": "in response to the appeal",
+              "full_vn": "hưởng ứng lời kêu gọi"
+            },
+            {
+              "full_en": "to meet with a warm response",
+              "full_vn": "được hưởng ứng nhiệt liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phản ứng lại; sự đối phó lại (khi bị kích thích...)"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều), (tôn giáo) phụ xướng (như) responsory"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087915_35669e6684_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087915_cf8e563703_o.png",
+      "id_image": "response_1055447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705284_2242f17f83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705284_fed0d497c5_o.png",
+      "id_image": "response_4694797"
+    }
+  ]
+}

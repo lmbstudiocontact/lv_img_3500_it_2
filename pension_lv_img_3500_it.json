@@ -1,0 +1,70 @@
+{
+  "english": "pension",
+  "phat_am": "['pɔnsiɔn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền trợ cấp; lương hưu",
+          "list_en_vn": [
+            {
+              "full_en": "a retirement pension",
+              "full_vn": "lương hưu"
+            },
+            {
+              "full_en": "an old-age pension",
+              "full_vn": "tiền trợ cấp dưỡng lão"
+            },
+            {
+              "full_en": "an army pension",
+              "full_vn": "tiền trợ cấp của quân đội"
+            },
+            {
+              "full_en": "to draw one's pension",
+              "full_vn": "nhận tiền trợ cấp"
+            },
+            {
+              "full_en": "to live on a pension",
+              "full_vn": "sống bằng tiền trợ cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tiếng Pháp) khách sạn nhỏ của tư nhân (ở Pháp, một số nước châu Âu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả lương hưu; trợ cấp cho"
+        },
+        {
+          "m_full_vn": "( to pension somebody off ) cho ai về hưu; cho ai về vườn"
+        },
+        {
+          "m_full_vn": "( to pension something off ) vứt bỏ; thải bỏ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322116_2684aea318_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322116_ecfb378b8f_o.png",
+      "id_image": "pension_1809760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367037_81e1427682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367037_73aeb2e43b_o.png",
+      "id_image": "pension_2237846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366987_08e8ac0fd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366987_a73ce11a32_o.png",
+      "id_image": "pension_5798600"
+    }
+  ]
+}

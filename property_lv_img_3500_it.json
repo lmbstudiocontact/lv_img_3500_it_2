@@ -1,0 +1,111 @@
+{
+  "english": "property",
+  "phat_am": "['prɔpəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tài sản, của cải, vật sở hữu",
+          "list_en_vn": [
+            {
+              "full_en": "The jewels are her personal property",
+              "full_vn": "Các món nữ trang là tài sản riêng của cô ta"
+            },
+            {
+              "full_en": "Don't touch those tools - they are not your property",
+              "full_vn": "Đừng sờ vào các dụng cụ ấy - chúng không phải là đồ của anh"
+            },
+            {
+              "full_en": "property tax",
+              "full_vn": "thuế (đánh vào) tài sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đất đai, nhà cửa, bất động sản; cơ ngơi (mảnh đất, nhà cửa xây trên đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a man (woman ) of property",
+              "full_vn": "một người đàn ông (đàn bà) giàu có (tức là có nhiều bất động sản)"
+            },
+            {
+              "full_en": "property development /management /speculation",
+              "full_vn": "sự phát triển/quản lý/đầu cơ bất động sản"
+            },
+            {
+              "full_en": "to invest one's money in property",
+              "full_vn": "đầu tư tiền vào bất động sản"
+            },
+            {
+              "full_en": "he has a property in Oklahoma",
+              "full_vn": "ông ta có mộtcơ ngơi ở Oklahoma"
+            },
+            {
+              "full_en": "a fence divides the two properties",
+              "full_vn": "một hàng rào ngăn đôi hai cơ ngơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sở hữu hoặc được sở hữu; quyền sở hữu",
+          "list_en_vn": [
+            {
+              "full_en": "property brings duties and responsibilities",
+              "full_vn": "quyền sở hữu đem lại bổn phận và trách nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc tính; đặc tính",
+          "list_en_vn": [
+            {
+              "full_en": "the chemical properties of iron",
+              "full_vn": "những tính chất hoá học của sắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ dùng biểu diễn (trang trí, phục trang, dàn cảnh...) (như) prop",
+          "list_one_mean": [
+            {
+              "id_full_en": "public property",
+              "list_im": [
+                {
+                  "im_full_vn": "(điều) được mọi người (bất cứ ai) cũng biết tới"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465413_d3eaa63033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465413_e6e77f7741_o.png",
+      "id_image": "property_2590602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088000_f98df72b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088000_09ebf297aa_o.png",
+      "id_image": "property_4827587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705384_38392604ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705384_4855c7800e_o.png",
+      "id_image": "property_5928184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087950_d495859b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087950_4734a22c8c_o.png",
+      "id_image": "property_5928220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087920_531a7f790e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087920_6c22e78105_o.png",
+      "id_image": "property_5928283"
+    }
+  ]
+}

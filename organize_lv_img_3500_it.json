@@ -1,0 +1,66 @@
+{
+  "english": "organize",
+  "phat_am": "['ɔ:gənaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổ chức, cấu tạo, thiết lập"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lập thành nghiệp đoàn, đưa vào nghiệp đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "organize a picnic",
+              "full_vn": "tổ chức một cuộc đi chơi ngoài trời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành lập tổ chức"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thành lập nghiệp đoàn, gia nhập nghiệp đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "organize a club",
+              "full_vn": "thành lập một câu lạc bộ"
+            },
+            {
+              "full_en": "organize a Government",
+              "full_vn": "tổ chức một chính phủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458128_c663592bfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458128_3814091261_o.png",
+      "id_image": "organize_1693005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698619_83c5aa8d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698619_205437d1f4_o.png",
+      "id_image": "organize_1728979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388287_2946d58feb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388287_a7300fd2f3_o.png",
+      "id_image": "organize_3534072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698539_166f93e643_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698539_00f2d5fd67_o.png",
+      "id_image": "organize_4557981"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "overhead",
+  "phat_am": "[,ouvə'hed]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâng lên trên mặt đất; bên trên đầu của mình; ở trên đầu",
+          "list_en_vn": [
+            {
+              "full_en": "overhead wires /cables",
+              "full_vn": "dây điện/dây cáp ở trên đầu"
+            },
+            {
+              "full_en": "an overhead railway",
+              "full_vn": "đường sắt trên cao (xây cao so với mặt đường phố)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về hoặc có liên quan đến toàn bộ số tiền phải trả",
+          "list_en_vn": [
+            {
+              "full_en": "overhead expenses /charges",
+              "full_vn": "tổng chi phí/toàn bộ số tiền phải trả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở trên đầu của mình; ở trên bầu trời",
+          "list_en_vn": [
+            {
+              "full_en": "birds flying overhead",
+              "full_vn": "chim bay trên trời"
+            },
+            {
+              "full_en": "the stars overhead",
+              "full_vn": "ngôi sao trên trời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385257_4eb17c9027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385257_7e8ac7590b_o.png",
+      "id_image": "overhead_5641182"
+    }
+  ]
+}

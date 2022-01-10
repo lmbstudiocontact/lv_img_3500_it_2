@@ -1,0 +1,204 @@
+{
+  "english": "plant",
+  "phat_am": "[plɑ:nt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực vật",
+          "list_en_vn": [
+            {
+              "full_en": "plants need light and water",
+              "full_vn": "thực vật cần ánh sáng và nước"
+            },
+            {
+              "full_en": "plant life",
+              "full_vn": "(thuộc ngữ) đời sống thực vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mọc",
+          "list_en_vn": [
+            {
+              "full_en": "in plant",
+              "full_vn": "đang mọc lên"
+            },
+            {
+              "full_en": "to lose plant",
+              "full_vn": "chết lụi"
+            },
+            {
+              "full_en": "to miss plant",
+              "full_vn": "không nẩy mầm được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dáng đứng, thế đứng"
+        },
+        {
+          "m_full_vn": "máy móc, thiết bị (dùng trong quy trình sản xuất..)",
+          "list_en_vn": [
+            {
+              "full_en": "plant hire",
+              "full_vn": "sự thuê máy móc thiết bị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà máy; xí nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "a chemical plant",
+              "full_vn": "nhà máy hoá chất"
+            },
+            {
+              "full_en": "a nuclear reprocessing plant",
+              "full_vn": "nhà máy tái xử lý hạt nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) người gài vào (một tổ chức nào để làm tay trong); vật gài bí mật (vào nơi nào (như) bom, máy ghi âm...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trồng, gieo",
+          "list_en_vn": [
+            {
+              "full_en": "to plant a tree",
+              "full_vn": "trồng cây"
+            },
+            {
+              "full_en": "to plant seeds",
+              "full_vn": "gieo hạt"
+            },
+            {
+              "full_en": "to plant a field with rice",
+              "full_vn": "trồng lúa trên một mảnh ruộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắm, đóng chặt xuống (cọc...)"
+        },
+        {
+          "m_full_vn": "động từ phãn thân to plant oneself đứng (ở một chỗ nào để quan sát, dò xét...)"
+        },
+        {
+          "m_full_vn": "thả (cá con... xuống ao cá)"
+        },
+        {
+          "m_full_vn": "di (dân) đến ở... đưa (người) đến ở...",
+          "list_en_vn": [
+            {
+              "full_en": "to plant people in a district ; to plant a district with people",
+              "full_vn": "di dân đến ở một vùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết lập, thành lập, đặt (một thành phố, ngôi chùa...)"
+        },
+        {
+          "m_full_vn": "gài (người...) lại làm tay trong; đặt (lính gác...), gài (bom, máy ghi âm...)"
+        },
+        {
+          "m_full_vn": "gieo (ý nghĩ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to plant an idea in someone's mind",
+              "full_vn": "gieo một ý nghĩ vào đầu ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn, giáng, ném, đâm...",
+          "list_en_vn": [
+            {
+              "full_en": "to plant a bullet in the target",
+              "full_vn": "bắn một viên đạn vào bia"
+            },
+            {
+              "full_en": "to plant a blow on ...",
+              "full_vn": "giáng một đòn vào..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ rơi",
+          "list_en_vn": [
+            {
+              "full_en": "to find oneself planted on a desert island",
+              "full_vn": "thấy mình bị bỏ rơi trên một đảo hoang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chôn (ai)"
+        },
+        {
+          "m_full_vn": "(từ lóng) giấu, oa trữ (hàng ăn cắp...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) bỏ (cát vàng, quặng (khoáng chất)...) vào mỏ (để đánh lừa người định mua là mỏ có trữ lượng cao)"
+        },
+        {
+          "m_full_vn": "(từ lóng) tính (mưu kế lừa đảo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to plant out",
+              "list_im": [
+                {
+                  "im_full_vn": "cấy, chuyển (ở chậu...) xuống đất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to plant out rice seedling",
+                      "full_vn": "cấy mạ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to plant oneself on someone",
+              "list_im": [
+                {
+                  "im_full_vn": "ở lì mãi nhà ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342736_a2c65fb92d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342736_a47844f2e6_o.png",
+      "id_image": "plant_256885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387732_59817455a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387732_be246c9529_o.png",
+      "id_image": "plant_256886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697969_2d6f5a6209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697969_b952272752_o.png",
+      "id_image": "plant_413866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697909_2bbc6dd776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697909_bc0df4d3f0_o.png",
+      "id_image": "plant_757018"
+    }
+  ]
+}

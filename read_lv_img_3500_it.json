@@ -1,0 +1,309 @@
+{
+  "english": "read",
+  "phat_am": "[ri:d]",
+  "list_type": [
+    {
+      "type": "động từ; thì quá khứ và động tính từ quá khứ là read",
+      "list_m": [
+        {
+          "m_full_vn": "đọc",
+          "list_en_vn": [
+            {
+              "full_en": "to be able to /know how to read and write well",
+              "full_vn": "biết đọc và viết thông thạo"
+            },
+            {
+              "full_en": "I can't read your untidy writing",
+              "full_vn": "tôi không tài nào đọc được chữ viết loằng ngoằng của anh"
+            },
+            {
+              "full_en": "to read shorthand , Chinese (characters ), Braille, a piece of music",
+              "full_vn": "đọc tốc ký, chữ Hán, chữ nổi (của người mù), xướng âm một bản nhạc"
+            },
+            {
+              "full_en": "a motorist must be able to read traffic signs",
+              "full_vn": "người lái xe ô tô phải đọc được các tín hiệu giao thông"
+            },
+            {
+              "full_en": "to read oneself hoarse",
+              "full_vn": "đọc khản cả tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to read something to somebody ) đọc cái gì cho ai nghe",
+          "list_en_vn": [
+            {
+              "full_en": "to read to oneself",
+              "full_vn": "đọc thầm"
+            },
+            {
+              "full_en": "this play reads better than it acts",
+              "full_vn": "vở kịch này đọc nghe hay hơn là đem diễn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "học, nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "to read law",
+              "full_vn": "học luật"
+            },
+            {
+              "full_en": "to read for the examination",
+              "full_vn": "học để chuẩn bị thi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to read someone's hand",
+              "full_vn": "xem tướng tay cho ai"
+            },
+            {
+              "full_en": "to read a dream",
+              "full_vn": "đoán mộng"
+            },
+            {
+              "full_en": "to read someone's mind /thoughts",
+              "full_vn": "hiểu được tâm trí/ý nghĩ của ai"
+            },
+            {
+              "full_en": "to read someone's futurity",
+              "full_vn": "đoán tương lai cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi (số điện, nước tiêu thụ...)"
+        },
+        {
+          "m_full_vn": "chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "the speedometer reads seventy kilometres",
+              "full_vn": "đồng hồ tốc độ chỉ bảy mươi kilômét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu, cho là",
+          "list_en_vn": [
+            {
+              "full_en": "silence is not always to be read as consent",
+              "full_vn": "không nên cho rằng sự im lặng lúc nào cũng có nghĩa là đồng ý"
+            },
+            {
+              "full_en": "it is intended to be read ...",
+              "full_vn": "điều đó phải được hiểu là..."
+            },
+            {
+              "full_en": "it may be read several ways",
+              "full_vn": "cái đó có thể hiểu nhiều cách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biết được (nhờ đọc sách báo...)",
+          "list_en_vn": [
+            {
+              "full_en": "you must have read it in the newspapers",
+              "full_vn": "hẳn là anh phải biết điều đó qua báo chí rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết, ghi",
+          "list_en_vn": [
+            {
+              "full_en": "the passage quoted reads as follows",
+              "full_vn": "đoạn trích dẫn đó ghi như sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đọc nghe như",
+          "list_one_mean": [
+            {
+              "id_full_en": "to read off",
+              "list_im": [
+                {
+                  "im_full_vn": "biểu lộ, để lộ ra, biểu thị; thể hiện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his face doesn't read off",
+                      "full_vn": "nét mặt anh ta không biểu lộ một cái gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đọc thẳng một mạch, đọc trơn tru"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read on",
+              "list_im": [
+                {
+                  "im_full_vn": "đọc tiếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read out",
+              "list_im": [
+                {
+                  "im_full_vn": "đọc to"
+                },
+                {
+                  "im_full_vn": "đọc từ đầu đến cuối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "read over",
+                      "full_vn": "đọc qua, xem qua"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đọc hết, đọc từ đâu đến cuối"
+                },
+                {
+                  "im_full_vn": "đọc lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read through",
+              "list_im": [
+                {
+                  "im_full_vn": "đọc hết, đọc từ đầu cuối (cuốn sách...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read up",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiên cứu kỹ, học tập kỹ lưỡng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to read up for the examination",
+                      "full_vn": "học tập kỹ lưỡng chuẩn bị cho kỳ thi"
+                    },
+                    {
+                      "full_en": "to read up on history",
+                      "full_vn": "nghiên cứu lịch sử"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read between the lines",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm hiểu ẩn ý"
+                },
+                {
+                  "im_full_vn": "đoán được ẩn ý, đoán được ý ngoài lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read oneself to sleep",
+              "list_im": [
+                {
+                  "im_full_vn": "đọc sách để ngủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read someone at a glance",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn thoáng cũng biết là người thế nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read someone like a book",
+              "list_im": [
+                {
+                  "im_full_vn": "biết rõ động cơ, tư tưởng của ai; đi guốc vào bụng ai; biết rõ tim đen của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read someone a lesson",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lesson"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the book reads like a novel",
+              "full_vn": "quyển sách đó đọc nghe như một cuốn tiểu thuyết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đọc (sách báo)"
+        },
+        {
+          "m_full_vn": "thời gian dành để đọc (sách báo)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a quiet read",
+              "full_vn": "có thời gian yên tĩnh để đọc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của read"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có học thức thông thạo, thông thái, có đọc nhiều về, hiểu sâu về",
+          "list_en_vn": [
+            {
+              "full_en": "deeply read in literature",
+              "full_vn": "hiểu sâu về văn học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074050_206d9108de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074050_974c3fa585_o.png",
+      "id_image": "read_2991637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451833_599740f068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451833_477fe17051_o.png",
+      "id_image": "read_5020618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073980_570eaf0a47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073980_66fb0f4c43_o.png",
+      "id_image": "read_5318836"
+    }
+  ]
+}

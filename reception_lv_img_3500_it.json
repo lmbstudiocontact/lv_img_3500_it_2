@@ -1,0 +1,80 @@
+{
+  "english": "reception",
+  "phat_am": "[ri'sep∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhận, sự thu nhận, sự lĩnh"
+        },
+        {
+          "m_full_vn": "sự tiếp nhận, sự kết nạp (vào một tổ chức nào...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be honoured by reception into the Academy",
+              "full_vn": "được vinh dự tiếp nhận vào viện hàn lâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đón tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone a warm reception",
+              "full_vn": "tiếp đón ai niềm nở"
+            },
+            {
+              "full_en": "the play met with a warm reception",
+              "full_vn": "vở kịch được nhiệt liệt hoan nghênh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiếp nhận; tiệc chiêu đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to give a reception",
+              "full_vn": "tổ chức chiêu đãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật), (rađiô) sự thu; phép thu",
+          "list_en_vn": [
+            {
+              "full_en": "shortdistance reception",
+              "full_vn": "sự thu tầm gần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiếp thu (tư tưởng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a great faculty of reception",
+              "full_vn": "có khả năng tiếp thu lớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335916_575b7ca2fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335916_8f2ffcf824_o.png",
+      "id_image": "reception_1209473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450848_f1474f3f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450848_84c2c9d40e_o.png",
+      "id_image": "reception_3595900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450928_7e6c78e2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450928_a2dfa7b1cc_o.png",
+      "id_image": "reception_453346"
+    }
+  ]
+}

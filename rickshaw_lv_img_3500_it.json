@@ -1,0 +1,40 @@
+{
+  "english": "rickshaw",
+  "phat_am": "['rik∫ɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe nhẹ, hai bánh, có mui, dùng ở Ấn Độ và Viễn Đông, do một hoặc nhiều người kéo; xe kéo; xe tay",
+          "list_en_vn": [
+            {
+              "full_en": "to ride in a rickshaw",
+              "full_vn": "ngồi trên xe kéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe tương tự nhưng có ba bánh, như một chiếc xe đạp với chỗ ngồi đặt sau người lái; xích lô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461948_182ca240a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461948_c6c328456c_o.png",
+      "id_image": "rickshaw_1693172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084520_2ed7964c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084520_066f3f5556_o.png",
+      "id_image": "rickshaw_3124250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701939_72b1d522ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701939_b885e3d45a_o.png",
+      "id_image": "rickshaw_3336257"
+    }
+  ]
+}

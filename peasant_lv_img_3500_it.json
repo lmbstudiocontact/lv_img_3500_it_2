@@ -1,0 +1,44 @@
+{
+  "english": "peasant",
+  "phat_am": "['peznt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nông dân",
+          "list_en_vn": [
+            {
+              "full_en": "peasant farming",
+              "full_vn": "công việc đồng áng của nông dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nông dân nghèo, tá điền"
+        },
+        {
+          "m_full_vn": "người nhà quê",
+          "list_en_vn": [
+            {
+              "full_en": "he looks like a peasant",
+              "full_vn": "anh ta giống như một gã nhà quê"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324456_4f3b0e2d2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324456_4c62b17ae3_o.png",
+      "id_image": "peasant_2456101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679599_6baf6c551b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679599_e69d7db4aa_o.png",
+      "id_image": "peasant_3154476"
+    }
+  ]
+}

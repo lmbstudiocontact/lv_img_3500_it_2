@@ -1,0 +1,230 @@
+{
+  "english": "salt",
+  "phat_am": "[sɔ:lt]",
+  "list_type": [
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "( SALT ) cuộc đàm phán hạn chế vũ khí chiến lược ( Strategic Arms Limitation Talks )"
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều salts",
+      "list_m": [
+        {
+          "m_full_vn": "muối (như) common salt",
+          "list_en_vn": [
+            {
+              "full_en": "white salt",
+              "full_vn": "muối ăn"
+            },
+            {
+              "full_en": "table salt",
+              "full_vn": "muối bột"
+            },
+            {
+              "full_en": "in salt",
+              "full_vn": "ngâm nước muối, rắc muối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) muối (hợp chất của một kim loại và một axit)"
+        },
+        {
+          "m_full_vn": "( số nhiều) thuốc muối"
+        },
+        {
+          "m_full_vn": "chất đậm đà (thứ làm cho cái gì thêm đáng yêu, thú vị..)"
+        },
+        {
+          "m_full_vn": "sự châm chọc, sự sắc sảo, sự hóm hỉnh, sự ý nhị",
+          "list_en_vn": [
+            {
+              "full_en": "a talk full of salt",
+              "full_vn": "một lời nói ý nhị; một bài nói chuyện ý nhị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) dòng nước biển bất thường tràn ngược lên sông"
+        },
+        {
+          "m_full_vn": "(sử học) lọ đựng muối để bàn",
+          "list_en_vn": [
+            {
+              "full_en": "to sit above the salt",
+              "full_vn": "ngồi phía trên lọ muối (cùng với người trong gia đình)"
+            },
+            {
+              "full_en": "to sit below the salt",
+              "full_vn": "ngồi phía dưới lọ muối (cùng với người hầu...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thuỷ thủ lão luyện, thủy thủ có kinh nghiệm (như) old salt"
+        },
+        {
+          "m_full_vn": "đất ngập mặn, vùng ngập mặn (như) salt-marsh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to eat salt with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "là khách của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to worth one's salt",
+              "list_im": [
+                {
+                  "im_full_vn": "xứng đáng với tiền kiếm được; làm công việc thành thạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat somebody's salt",
+              "list_im": [
+                {
+                  "im_full_vn": "là khách của ai; phải sống nhờ vào ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take something with a grain of salt",
+              "list_im": [
+                {
+                  "im_full_vn": "nửa tin nửa ngờ điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the salt of the earth",
+              "list_im": [
+                {
+                  "im_full_vn": "người tử tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'm not made of salt",
+              "list_im": [
+                {
+                  "im_full_vn": "tụi nó đi ra ngoài mưa thì cũng không bị tan ra như muối đâu mà sợ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tẩm muối, ướp muối, có muối, mặn"
+        },
+        {
+          "m_full_vn": "sống ở nước mặn (cây cối)"
+        },
+        {
+          "m_full_vn": "đau đớn, thương tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to weep salt tears",
+              "full_vn": "khóc sướt mướt, khóc như mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "châm chọc, sắc sảo, hóm hỉnh"
+        },
+        {
+          "m_full_vn": "tục, tiếu lâm"
+        },
+        {
+          "m_full_vn": "(từ lóng) đắt cắt cổ (giá cả)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ướp muối, rắc muối, nêm muối; xử lý bằng muối",
+          "list_en_vn": [
+            {
+              "full_en": "to salt meat",
+              "full_vn": "muối thịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ thêm dầu vào mỏ"
+        },
+        {
+          "m_full_vn": "làm cho ý nhị, thêm mắm thêm muối",
+          "list_one_mean": [
+            {
+              "id_full_en": "to salt down money",
+              "list_im": [
+                {
+                  "im_full_vn": "để dành tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to salt the books",
+              "list_im": [
+                {
+                  "im_full_vn": "(thương nghiệp), (từ lóng) gian lận, tham ô (bằng cách tăng giá mua trong hoá đơn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to salt an account",
+                      "full_vn": "tính giá cao nhất cho các món hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to salt a mine",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đổ thêm quặng vào mỏ (để cho mỏ có vẻ là mỏ giàu)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to salt one's conversation with wit",
+              "full_vn": "làm cho câu chuyện thêm ý nhị bằng những câu nói hóm hỉnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691204_64f77c6a42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691204_7e663466e1_o.png",
+      "id_image": "salt_4264778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380947_3588fbcc24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380947_84d68124e3_o.png",
+      "id_image": "salt_4276022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335956_d8be21bf99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335956_bddc6d383f_o.png",
+      "id_image": "salt_877702"
+    }
+  ]
+}

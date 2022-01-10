@@ -1,0 +1,141 @@
+{
+  "english": "powder",
+  "phat_am": "['paudə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bột; bụi",
+          "list_en_vn": [
+            {
+              "full_en": "soap powder",
+              "full_vn": "bột xà phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) thuốc bột"
+        },
+        {
+          "m_full_vn": "phấn (đánh mặt)",
+          "list_en_vn": [
+            {
+              "full_en": "face powder",
+              "full_vn": "phấn thoa mặt"
+            },
+            {
+              "full_en": "talcum powder",
+              "full_vn": "bột tan; phấn rôm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc súng (như) gunpowder",
+          "list_one_mean": [
+            {
+              "id_full_en": "food for powder",
+              "list_im": [
+                {
+                  "im_full_vn": "bia thịt, bia đỡ đạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not worth powder and shot",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng bắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put more powder into it !",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy hăng hái lên một chút nữa nào!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "smell of powder",
+              "list_im": [
+                {
+                  "im_full_vn": "kinh nghiệm chiến đấu, sự thử thách với lửa đạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep one's powder dry",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng đối phó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rắc (muối, bột..) lên",
+          "list_en_vn": [
+            {
+              "full_en": "to powder with salt",
+              "full_vn": "rắc muối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thoa phấn, đánh phấn (mặt, mũi...)",
+          "list_en_vn": [
+            {
+              "full_en": "powder one's face /nose",
+              "full_vn": "đánh phấn lên mặt/mũi của mình"
+            },
+            {
+              "full_en": "powder a baby after her bath",
+              "full_vn": "thoa phấn cho trẻ em sau khi tắm (phấn rôm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang trí (bề mặt cái gì...) bằng những điểm nhỏ"
+        },
+        {
+          "m_full_vn": "nghiền thành bột, tán thành bột",
+          "list_en_vn": [
+            {
+              "full_en": "powdered sugar",
+              "full_vn": "đường bột"
+            },
+            {
+              "full_en": "powdered milk",
+              "full_vn": "sữa bột"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446283_755ce0e2f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446283_14f0cd9f96_o.png",
+      "id_image": "powder_1411864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375992_689fe53a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375992_f81fcdbd30_o.png",
+      "id_image": "powder_1941205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686364_0701a42cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686364_968d6d8945_o.png",
+      "id_image": "powder_342833"
+    }
+  ]
+}

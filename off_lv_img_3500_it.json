@@ -1,0 +1,510 @@
+{
+  "english": "off",
+  "phat_am": "[ɔ:f]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắt",
+          "list_en_vn": [
+            {
+              "full_en": "is the lamp off ?",
+              "full_vn": "đèn đã tắt chưa?"
+            },
+            {
+              "full_en": "the water /gas /electricity is off",
+              "full_vn": "đã khoá nước/hơi đốt/đã tắt điện"
+            },
+            {
+              "full_en": "the TV /radio /light is off",
+              "full_vn": "ti vi/rađiô/đèn đã tắt"
+            },
+            {
+              "full_en": "make sure the central heating is off",
+              "full_vn": "hãy xem cho biết chắc là đã khoá hệ thống sưởi trung tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu chuyến đi hoặc cuộc đua",
+          "list_en_vn": [
+            {
+              "full_en": "they are off",
+              "full_vn": "họ đã đi rồi; họ đã xuất phát rồi"
+            },
+            {
+              "full_en": "I must be off soon",
+              "full_vn": "tôi sắp phải đi rồi"
+            },
+            {
+              "full_en": "she's off to London tomorrow",
+              "full_vn": "ngày mai cô ta sẽ đi Luân Đôn"
+            },
+            {
+              "full_en": "we're off /off we go !",
+              "full_vn": "chúng ta lên đường thôi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra khỏi, đứt, rời (nhất là từ thân thể con người)",
+          "list_en_vn": [
+            {
+              "full_en": "he's had his beard shaved off",
+              "full_vn": "nó đã cạo râu"
+            },
+            {
+              "full_en": "what beautiful curls - why do you want to have them (cut ) off ?",
+              "full_vn": "những món tóc quăn đẹp làm sao - tại sao cô lại muốn cắt chúng đi?"
+            },
+            {
+              "full_en": "to take one's clothes off",
+              "full_vn": "cởi quần áo ra"
+            },
+            {
+              "full_en": "to take one's hat /coat /tie ... off",
+              "full_vn": "bỏ mũ/cởi áo/tháo ca vát..."
+            },
+            {
+              "full_en": "to cut something off",
+              "full_vn": "cắt cái gì rời hẳn ra"
+            },
+            {
+              "full_en": "one of the wheels flew off",
+              "full_vn": "một bánh xe long hẳn ra"
+            },
+            {
+              "full_en": "don't leave the toothpaste with the top off",
+              "full_vn": "đừng để đầu nắp ống kem đánh răng hở ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở hoặc tới một điểm xa trong không gian; cách xa",
+          "list_en_vn": [
+            {
+              "full_en": "the town is ten kilometers off",
+              "full_vn": "thành phố cách đây 10 kilômét"
+            },
+            {
+              "full_en": "the town is still kilometers off",
+              "full_vn": "thành phố vẫn còn cách đây 10 kílômet"
+            },
+            {
+              "full_en": "we are some way off",
+              "full_vn": "chúng ta còn cách một quãng nữa"
+            },
+            {
+              "full_en": "Be off /Off with you , otherwise I call the police",
+              "full_vn": "mày cút đi, nếu không tao sẽ gọi cảnh sát đến"
+            },
+            {
+              "full_en": "summer holidays are not so far off",
+              "full_vn": "nghỉ hè không còn xa mấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không còn nữa, hẳn, hết",
+          "list_en_vn": [
+            {
+              "full_en": "to finish off a piece of work",
+              "full_vn": "làm xong hẳn một công việc"
+            },
+            {
+              "full_en": "to pay off one's debts",
+              "full_vn": "trả hết nợ"
+            },
+            {
+              "full_en": "the steak pie is off today",
+              "full_vn": "hôm nay không có bánh nhân thịt"
+            },
+            {
+              "full_en": "soup's off - we've only got fruit juice",
+              "full_vn": "hết xúp rồi - chúng tôi chỉ có nước quả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thôi",
+          "list_en_vn": [
+            {
+              "full_en": "to declare off somebody's service",
+              "full_vn": "tuyên bố thôi không cần sự giúp đỡ của ai"
+            },
+            {
+              "full_en": "to leave off work",
+              "full_vn": "nghỉ việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi bật",
+          "list_en_vn": [
+            {
+              "full_en": "the picture is set off by the frame",
+              "full_vn": "cái khung làm nổi bật bức tranh"
+            },
+            {
+              "full_en": "to show off",
+              "full_vn": "khoe mẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị hủy bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the wedding /engagement is off",
+              "full_vn": "hôn lễ/sự hứa hôn bị hủy bỏ"
+            },
+            {
+              "full_en": "the miners' strike was off",
+              "full_vn": "cuộc bãi công của thợ mỏ bị hủy bỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giảm giá; rẻ hơn",
+          "list_en_vn": [
+            {
+              "full_en": "all shirts have 10% off",
+              "full_vn": "tất cả các áo sơ mi đều giảm giá 10 %"
+            },
+            {
+              "full_en": "to buy a calendar at 50% off",
+              "full_vn": "mua một cuốn lịch rẻ 50 %"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không làm việc hoặc không làm nhiệm vụ; nghỉ",
+          "list_en_vn": [
+            {
+              "full_en": "I think I'll take the afternoon off",
+              "full_vn": "có lẽ tôi sẽ nghỉ chiều nay"
+            },
+            {
+              "full_en": "she's off today",
+              "full_vn": "hôm nay cô ấy nghỉ"
+            },
+            {
+              "full_en": "the manager gave the staff the day off",
+              "full_vn": "ông giám đốc cho nhân viên nghỉ một ngày"
+            },
+            {
+              "full_en": "I've got three days off next week",
+              "full_vn": "tuần tới tôi được nghỉ ba ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ở nhà hát) đằng sau hoặc ở hai bên cạnh sân khấu; không ở trên sân khấu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be badly off",
+              "list_im": [
+                {
+                  "im_full_vn": "nghèo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be comfortably off",
+              "list_im": [
+                {
+                  "im_full_vn": "phong lưu, sung túc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off and on",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc lúc, chốc chốc, chập chờn lúc có lúc không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it rained off and on",
+                      "full_vn": "trời chốc chốc lại mưa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "right off",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) right"
+                }
+              ]
+            },
+            {
+              "id_full_en": "straight off",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) straight"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off for something",
+              "list_im": [
+                {
+                  "im_full_vn": "có dự trữ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how are you off for cash ?",
+                      "full_vn": "anh có bao nhiêu tiền?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "noises /voices off",
+              "full_vn": "tiếng động/tiếng nói ngoài sân khấu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "khỏi, cách, rời",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be off colour",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) colour"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off duty",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) duty"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off liquor",
+              "list_im": [
+                {
+                  "im_full_vn": "nhịn rượu, bỏ rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off the mark",
+              "list_im": [
+                {
+                  "im_full_vn": "trượt, không trúng; (nghĩa bóng) lạc đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off the map",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) map"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off one's feed",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) feed"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off one's games",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) game"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off the point",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) point"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off smoking",
+              "list_im": [
+                {
+                  "im_full_vn": "nhịn thuốc lá, bỏ thuốc lá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play off 5",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi chấp năm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the cover has come off the book",
+              "full_vn": "cái bìa tuột khỏi quyển sách"
+            },
+            {
+              "full_en": "to drive the enemy off the seas",
+              "full_vn": "đuổi quân thù ra khỏi mặt biển"
+            },
+            {
+              "full_en": "the island is off the coast",
+              "full_vn": "đảo cách xa bờ"
+            },
+            {
+              "full_en": "to take a matter off somoene's hands",
+              "full_vn": "đỡ một việc cho ai"
+            },
+            {
+              "full_en": "a street off Hue street",
+              "full_vn": "một phố khỏi phố Huế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phải, bên phải (xe, ngựa)",
+          "list_en_vn": [
+            {
+              "full_en": "to mount a horse on the off side",
+              "full_vn": "lên ngựa bên phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xa, cách, ngoài, bên kia",
+          "list_en_vn": [
+            {
+              "full_en": "to be on the off side of the wall",
+              "full_vn": "ở phía bên kia tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ôi, ương",
+          "list_en_vn": [
+            {
+              "full_en": "the meat is a bit off",
+              "full_vn": "thịt hơi ôi"
+            },
+            {
+              "full_en": "the milk smells /tastes off",
+              "full_vn": "sữa có mùi/vị ôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thân thiện, vô lễ",
+          "list_en_vn": [
+            {
+              "full_en": "she sounded rather off on the phone",
+              "full_vn": "qua điện thoại, nghe cô ta có vẻ không thân thiện mấy"
+            },
+            {
+              "full_en": "he was a bit off with me this morning",
+              "full_vn": "sáng nay, nó hơi vô lễ với tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "không ở trên, rời khỏi, cách xa, ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "off -print",
+              "full_vn": "bản in thêm riêng"
+            },
+            {
+              "full_en": "off -stage",
+              "full_vn": "ngoài sân khấu"
+            },
+            {
+              "full_en": "off -shore",
+              "full_vn": "ngoài khơi"
+            },
+            {
+              "full_en": "off -key",
+              "full_vn": "lạc điệu"
+            },
+            {
+              "full_en": "off -load",
+              "full_vn": "dỡ hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the off ) sự xuất phát (một cuộc đua)",
+          "list_en_vn": [
+            {
+              "full_en": "they're ready for the off",
+              "full_vn": "họ đã sẵn sàng xuất phát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the off ) nửa sân đối diện với vận động viên đang đợi đón bóng",
+          "list_en_vn": [
+            {
+              "full_en": "to play the ball to the off",
+              "full_vn": "đánh quả bóng sang nửa sân kia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703494_de0c4ecac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703494_15135b36b9_o.png",
+      "id_image": "off_1744264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086025_f26013f4b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086025_aa4af4e775_o.png",
+      "id_image": "off_4752777"
+    }
+  ]
+}

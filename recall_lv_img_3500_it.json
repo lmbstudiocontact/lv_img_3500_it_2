@@ -1,0 +1,157 @@
+{
+  "english": "recall",
+  "phat_am": "[ri'kɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gọi về, sự triệu về, sự triệu hồi (một đại sứ...)",
+          "list_en_vn": [
+            {
+              "full_en": "letters of recall",
+              "full_vn": "thư triệu hồi"
+            },
+            {
+              "full_en": "the temporary recall of embassy staff",
+              "full_vn": "lệnh tạm thời triệu hồi nhân viên của sứ quán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) hiệu lệnh thu quân; lệnh gọi tái ngũ (quân dự bị...); (hàng hải) tín hiệu gọi về (một chiếc tàu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to sound the recall",
+              "full_vn": "thổi kèn ra lệnh thu quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng nhớ lại; sự hồi tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "a person gifted with total recall",
+              "full_vn": "người có khiếu nhớ được mọi việc"
+            },
+            {
+              "full_en": "my powers of recall are not what they were",
+              "full_vn": "trí nhớ của tôi bây giờ không còn được như trước đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng huỷ bỏ; sự rút lại, sự lấy lại",
+          "list_en_vn": [
+            {
+              "full_en": "a decision past recall",
+              "full_vn": "một quyết định không thể huỷ bỏ được"
+            },
+            {
+              "full_en": "lost without recall",
+              "full_vn": "mất hẳn không lấy lại được"
+            },
+            {
+              "full_en": "beyond (past ) recall",
+              "full_vn": "không thể lấy lại được, không thể huỷ bỏ được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi về, triệu về, triệu hồi",
+          "list_en_vn": [
+            {
+              "full_en": "to recall an ambassador (from his post )",
+              "full_vn": "triệu hồi một đại sứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) thu (quân); gọi tái ngũ (quân dự bị...); (hàng hải) gọi trở về (một chiếc tàu)"
+        },
+        {
+          "m_full_vn": "đòi lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recall library books",
+              "full_vn": "đòi lại sách của thư viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to recall somebody to something ) nhắc nhở, nhắc lại, gợi lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recall someone to his duty",
+              "full_vn": "nhắc nhở ai nhớ đến nhiệm vụ của mình"
+            },
+            {
+              "full_en": "legends that recall the past",
+              "full_vn": "những truyền thuyết gợi lại dĩ vãng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhớ lại",
+          "list_en_vn": [
+            {
+              "full_en": "I can't recall his name",
+              "full_vn": "tôi không tài nào nhớ lại được tên của hắn ta"
+            },
+            {
+              "full_en": "she recalled that he had left early",
+              "full_vn": "cô ta nhớ lại là anh ta đã ra đi từ sớm"
+            },
+            {
+              "full_en": "try to recall exactly what happened",
+              "full_vn": "hãy cố nhớ lại chính xác những gì đã xảy ra"
+            },
+            {
+              "full_en": "I recall seeing him",
+              "full_vn": "tôi nhớ là mình đã có gặp anh ta"
+            },
+            {
+              "full_en": "I recall her giving me the key",
+              "full_vn": "tôi nhớ cô ta đã đưa cho tôi chìa khoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm sống lại, gọi tỉnh lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recall someone to life",
+              "full_vn": "gọi người nào tỉnh lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huỷ bỏ; rút lại, lấy lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recall a decision",
+              "full_vn": "huỷ bỏ một quyết nghị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381427_754d0bf178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381427_d3b951bac8_o.png",
+      "id_image": "recall_5822121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451333_d90403cb70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451333_1c3972965f_o.png",
+      "id_image": "recall_5865159"
+    }
+  ]
+}

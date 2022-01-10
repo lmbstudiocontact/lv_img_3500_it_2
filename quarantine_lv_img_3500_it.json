@@ -1,0 +1,68 @@
+{
+  "english": "quarantine",
+  "phat_am": "['kwɔrənti:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời gian cách ly, thời gian kiểm dịch; sự cách ly, sự kiểm dịch (tàu mới đến bị nghi là có chở khách mắc bệnh dịch...)",
+          "list_en_vn": [
+            {
+              "full_en": "to clear one's quarantine",
+              "full_vn": "ở trong thời gian kiểm dịch"
+            },
+            {
+              "full_en": "to be kept in quarantine for six months",
+              "full_vn": "bị cách ly trong sáu tháng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách ly, kiểm dịch ( ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "quarantined because of rabies",
+              "full_vn": "bị cách ly vì bệnh dại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khám xét theo luật lệ kiểm dịch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459748_5d8c2f2705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459748_97acf4f574_o.png",
+      "id_image": "quarantine_2622439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344941_ac6b05c61a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344941_258e4ce196_o.png",
+      "id_image": "quarantine_3027591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344916_bf216e218c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344916_2374cd1fc1_o.png",
+      "id_image": "quarantine_3159977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389802_97535d7e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389802_55dc635be8_o.png",
+      "id_image": "quarantine_3590584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389757_d80f27b105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389757_aac4eee2af_o.png",
+      "id_image": "quarantine_4600898"
+    }
+  ]
+}

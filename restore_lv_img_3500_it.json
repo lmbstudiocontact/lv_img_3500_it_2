@@ -1,0 +1,74 @@
+{
+  "english": "restore",
+  "phat_am": "[ri'stɔ:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn lại, trả lại",
+          "list_en_vn": [
+            {
+              "full_en": "to restore something to someone",
+              "full_vn": "trả lại vật gì cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa chữa lại, phục hồi lại, xây dựng lại như cũ (toà nhà, bức tranh...)"
+        },
+        {
+          "m_full_vn": "phục (chức)",
+          "list_en_vn": [
+            {
+              "full_en": "to restore someone to his former post",
+              "full_vn": "phục hồi lại chức vị cho người nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt lại chỗ cũ",
+          "list_en_vn": [
+            {
+              "full_en": "to restore something to its place",
+              "full_vn": "đặt lại vật gì vào chỗ cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khôi phục lại, hồi phục (sức khoẻ...); lập lại",
+          "list_en_vn": [
+            {
+              "full_en": "to restore one's health",
+              "full_vn": "hồi phục sức khoẻ"
+            },
+            {
+              "full_en": "to restore peace",
+              "full_vn": "lập lại hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo lại (hình dạng của một con vật đã tuyệt giống, một công trình xây dựng đã đổ nát)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087485_fe61c3e0dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087485_e7b538984a_o.png",
+      "id_image": "restore_1783705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350216_9f6e247837_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350216_4f28ccd20e_o.png",
+      "id_image": "restore_4439489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087435_2387214d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087435_028326d437_o.png",
+      "id_image": "restore_6224603"
+    }
+  ]
+}

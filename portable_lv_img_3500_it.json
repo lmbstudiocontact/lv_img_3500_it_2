@@ -1,0 +1,64 @@
+{
+  "english": "portable",
+  "phat_am": "['pɔ:təbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể mang theo, xách tay",
+          "list_en_vn": [
+            {
+              "full_en": "portable radio",
+              "full_vn": "máy thu thanh xách tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "di động, di chuyển được",
+          "list_en_vn": [
+            {
+              "full_en": "portable furnace",
+              "full_vn": "lò di động"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái dễ mang đi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379997_b2cbf9a150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379997_bc474c4316_o.png",
+      "id_image": "portable_1021351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334951_a2d07eb322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334951_9aca3ae982_o.png",
+      "id_image": "portable_2223912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379922_b858edd1fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379922_f7897ccf6a_o.png",
+      "id_image": "portable_2377310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379872_a1aea0a576_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379872_be4a4b1df9_o.png",
+      "id_image": "portable_2885360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449948_77103e7013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449948_6e179bdeb6_o.png",
+      "id_image": "portable_5511963"
+    }
+  ]
+}

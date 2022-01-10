@@ -1,0 +1,37 @@
+{
+  "english": "pulmonary",
+  "phat_am": "['pʌlmənəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) phổi, ở trong phổi, có liên hệ với phổi",
+          "list_en_vn": [
+            {
+              "full_en": "pulmonary artery",
+              "full_vn": "động mạch phổi"
+            },
+            {
+              "full_en": "pulmonary disease",
+              "full_vn": "bệnh phổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị ảnh hưởng bởi phổi, mắc bệnh phổi"
+        },
+        {
+          "m_full_vn": "có liên quan đến phổi, có ảnh hưởng đến phổi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348006_8e4078f1ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348006_9ffa18dc80_o.png",
+      "id_image": "pulmonary_4597374"
+    }
+  ]
+}

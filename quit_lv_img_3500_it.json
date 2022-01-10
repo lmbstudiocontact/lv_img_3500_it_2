@@ -1,0 +1,96 @@
+{
+  "english": "quit",
+  "phat_am": "[kwit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thoát được, thoát khỏi, rủ bỏ được, giũ sạch được",
+          "list_en_vn": [
+            {
+              "full_en": "to get quit of somebody",
+              "full_vn": "thoát hẳn không bị ai quấy rầy nữa, tống khứ được ai"
+            },
+            {
+              "full_en": "to get quit of one's debts",
+              "full_vn": "thoát nợ, giũ sạch nợ nần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ quitted (từ Mỹ,nghĩa Mỹ), (thông tục) quit",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ, rời, buông",
+          "list_en_vn": [
+            {
+              "full_en": "to quit hold of",
+              "full_vn": "bỏ ra buông ra"
+            },
+            {
+              "full_en": "to quit office",
+              "full_vn": "bỏ việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thôi, ngừng, nghỉ",
+          "list_en_vn": [
+            {
+              "full_en": "quit that !",
+              "full_vn": "thôi đừng làm việc ấy nữa!"
+            },
+            {
+              "full_en": "to quit work",
+              "full_vn": "nghỉ việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rời đi, bỏ đi",
+          "list_en_vn": [
+            {
+              "full_en": "to have notice to quit",
+              "full_vn": "nhận được giấy báo dọn nhà đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) trả lại, đáp lại, báo đền lại; trả sạch, thanh toán hết",
+          "list_en_vn": [
+            {
+              "full_en": "to quit love with hate",
+              "full_vn": "lấy oán trả ơn"
+            },
+            {
+              "full_en": "death quits all scores",
+              "full_vn": "chết là hết nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) cư xử, xử sự",
+          "list_en_vn": [
+            {
+              "full_en": "quit you like men",
+              "full_vn": "hãy xử sự như một con người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) to quit onself on thanh toán hết, giũ sạch được, thoát khỏi được"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387887_9c494f4216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387887_2ac1f8a440_o.png",
+      "id_image": "quit_1686708"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "english": "murder",
+  "phat_am": "['mə:də]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vụ án mạng; tội giết người",
+          "list_en_vn": [
+            {
+              "full_en": "to commit murder ; to be guilty of murder",
+              "full_vn": "phạm tội giết người"
+            },
+            {
+              "full_en": "the murder of a seventy-year-old woman",
+              "full_vn": "vụ giết một bà lão 70 tuổi"
+            },
+            {
+              "full_en": "six murders in one week",
+              "full_vn": "sáu vụ án mạng trong một tuần"
+            },
+            {
+              "full_en": "1500 civilians died in one air raid : it was sheer murder",
+              "full_vn": "1500 thường dân thiệt mạng trong một trận oanh tạc : quả là một cuộc thảm sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một việc rất gay go",
+          "list_en_vn": [
+            {
+              "full_en": "it's murder trying to find a parking place for the car",
+              "full_vn": "tìm được chỗ đỗ xe thật là gay go"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( murder on something ) cái gây tổn hại lớn hoặc sự khó chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cry blue murder",
+              "list_im": [
+                {
+                  "im_full_vn": "la ó om sòm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get away with murder",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nghịch ngợm (phá phách...) mà không bị làm sao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the murder is out",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả điều bí mật bị lộ; vụ âm mưu đã bị khám phá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this hot weather's murder on my feet",
+              "full_vn": "trời nóng thế này thật khổ cho cái chân tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to murder somebody with something ) giết; tàn sát",
+          "list_en_vn": [
+            {
+              "full_en": "he murdered his bosom friend with a hammer",
+              "full_vn": "hắn dùng búa đập chết người bạn tri kỷ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm hư; làm hỏng (vì vụng về hoặc thiếu hiểu biết)",
+          "list_en_vn": [
+            {
+              "full_en": "to murder a song",
+              "full_vn": "hát/đàn sai một bản nhạc"
+            },
+            {
+              "full_en": "to murder the English language",
+              "full_vn": "nói/viết sai tiếng Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446668_2446a4b6df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446668_be17fc64f1_o.png",
+      "id_image": "murder_1256809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446623_46f776888d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446623_6b82757c10_o.png",
+      "id_image": "murder_2323041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446608_c17ac7735e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446608_80d4b1f4bf_o.png",
+      "id_image": "murder_5411101"
+    }
+  ]
+}

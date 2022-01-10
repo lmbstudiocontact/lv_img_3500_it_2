@@ -1,0 +1,49 @@
+{
+  "english": "plum",
+  "phat_am": "[plʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) quả mận; cây mận (như) plum-tree"
+        },
+        {
+          "m_full_vn": "màu mận chín (màu tía hơi đỏ thẫm)"
+        },
+        {
+          "m_full_vn": "nho khô (để làm bánh ngọt...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vật chọn lọc, vật tốt nhất; món bở",
+          "list_en_vn": [
+            {
+              "full_en": "a plum job",
+              "full_vn": "(thuộc ngữ) một công việc béo bở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) mười vạn bảng Anh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695159_ebde6e93c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695159_18626501f2_o.png",
+      "id_image": "plum_1135500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384792_92894c629e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384792_23b3b85500_o.png",
+      "id_image": "plum_2358295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339881_7402211e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339881_5f339d33ba_o.png",
+      "id_image": "plum_3800523"
+    }
+  ]
+}

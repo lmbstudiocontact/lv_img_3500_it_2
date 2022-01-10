@@ -1,0 +1,87 @@
+{
+  "english": "radiant",
+  "phat_am": "['reidiənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáng chói, sáng rực, chiếu sáng rực rỡ",
+          "list_en_vn": [
+            {
+              "full_en": "the radiant sun",
+              "full_vn": "mặt trời sáng rực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toả sáng, toả nhiệt, phát sáng, phát xạ, bức xạ; được truyền bằng bức xạ",
+          "list_en_vn": [
+            {
+              "full_en": "radiant heat",
+              "full_vn": "nhiệt bức xạ"
+            },
+            {
+              "full_en": "radiant heater",
+              "full_vn": "lò sưởi toả nhiệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lộng lẫy, rực rỡ",
+          "list_en_vn": [
+            {
+              "full_en": "radiant beauty",
+              "full_vn": "vẻ đẹp lộng lẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rạng rỡ, hớn hở (về đôi mắt, cái nhìn..)",
+          "list_en_vn": [
+            {
+              "full_en": "a radiant eyes",
+              "full_vn": "mắt rạng rỡ"
+            },
+            {
+              "full_en": "a radiant face",
+              "full_vn": "một khuôn mặt hớn hở"
+            },
+            {
+              "full_en": "radiant beauty",
+              "full_vn": "vẻ đẹp lộng lẫy"
+            },
+            {
+              "full_en": "face radiant with smiles",
+              "full_vn": "nét mặt tươi cười rạng rỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) toả ra"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) điểm phát",
+          "list_en_vn": [
+            {
+              "full_en": "shower radiant",
+              "full_vn": "điểm phát mưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078850_5a968d7a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078850_9e565cb6d6_o.png",
+      "id_image": "radiant_4968175"
+    }
+  ]
+}

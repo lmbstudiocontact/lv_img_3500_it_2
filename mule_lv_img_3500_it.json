@@ -1,0 +1,47 @@
+{
+  "english": "mule",
+  "phat_am": "[mju:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con la"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người cứng đầu cứng cổ, người ương bướng",
+          "list_en_vn": [
+            {
+              "full_en": "as obstinate (stubborn ) as a mule",
+              "full_vn": "cứng đầu cứng cổ, ương bướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy kéo sợi"
+        },
+        {
+          "m_full_vn": "(động vật học) thú lai; (thực vật học) cây lai"
+        },
+        {
+          "m_full_vn": "dép đế mỏng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) mewl"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069340_99fe1fe44e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069340_e34b1728a2_o.png",
+      "id_image": "mule_2130593"
+    }
+  ]
+}

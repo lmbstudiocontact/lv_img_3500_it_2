@@ -1,0 +1,116 @@
+{
+  "english": "news",
+  "phat_am": "[nju:z]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều dùng như số ít",
+      "list_m": [
+        {
+          "m_full_vn": "tin tức",
+          "list_en_vn": [
+            {
+              "full_en": "good news",
+              "full_vn": "tin mừng, tin vui, tin lành"
+            },
+            {
+              "full_en": "bad news",
+              "full_vn": "tin buồn, tin dữ"
+            },
+            {
+              "full_en": "what's the latest news ?",
+              "full_vn": "tin mới nhất là tin gì?"
+            },
+            {
+              "full_en": "Have you heard the news ? Mary has got a job !",
+              "full_vn": "Anh đã nghe tin chưa? Mary kiếm được việc làm rồi!"
+            },
+            {
+              "full_en": "I want to hear all your news",
+              "full_vn": "tôi muốn nghe hết tin của anh"
+            },
+            {
+              "full_en": "items /pieces /bits of news",
+              "full_vn": "mục/đoạn/mẩu tin"
+            },
+            {
+              "full_en": "she's always in the news",
+              "full_vn": "cô ta luôn luôn được đưa tin (việc cô ta làm (thường) xuyên được thuật lại trên báo chí...)"
+            },
+            {
+              "full_en": "the news that the enemy were near alarmed everybody",
+              "full_vn": "tin quân địch đã tiến đến gần khiến ai cũng hoảng hốt"
+            },
+            {
+              "full_en": "have you any news of where she's staying ?",
+              "full_vn": "anh có tin gì (anh có nghe nói gì) về chỗ ở hiện nay của cô ấy hay không?"
+            },
+            {
+              "full_en": "a news item /report /broadcast /bulletin",
+              "full_vn": "mục tin/buổi thông tin/buổi phát tin/bản tin"
+            },
+            {
+              "full_en": "the news media",
+              "full_vn": "phương tiện truyền thông (báo chí, TV, (rađiô)...)"
+            },
+            {
+              "full_en": "ill news flies apace ; bad news travels quickly",
+              "full_vn": "tin dữ lan nhanh"
+            },
+            {
+              "full_en": "no news is good news",
+              "full_vn": "nếu có tin xấu thì hẳn chúng ta đã nghe thấy, do vậy, nếu chúng ta không nghe thấy gì hết thì có thể coi như mọi chuyện đều ổn; không có tin gì thì cũng có nghĩa là mọi chuyện đều ổn"
+            },
+            {
+              "full_en": "that's no news to me",
+              "full_vn": "tôi đã biết tin đó rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the news ) buổi phát thanh hàng ngày các tin tức mới nhất trên rađiô và TV",
+          "list_en_vn": [
+            {
+              "full_en": "here is the news",
+              "full_vn": "đây là phần tin tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người/vật/sự kiện khá lý thú để được tường thuật thành tin",
+          "list_one_mean": [
+            {
+              "id_full_en": "to break the news to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "là người đầu tiên báo tin (tin không hay, tin buồn) cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "when a man bites a dog , that's news",
+              "full_vn": "người cắn chó thì quả là chuyện thời sự"
+            },
+            {
+              "full_en": "pop stars are always news",
+              "full_vn": "các ngôi sao nhạc pop bao giờ cũng là tin thời sự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678459_e77d7264bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678459_2a74c0b745_o.png",
+      "id_image": "news_383832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678419_93ddaebf00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678419_4a59a87131_o.png",
+      "id_image": "news_823470"
+    }
+  ]
+}

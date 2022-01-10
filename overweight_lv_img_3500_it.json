@@ -1,0 +1,50 @@
+{
+  "english": "overweight",
+  "phat_am": "['ouvəweit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nặng quá trọng lượng thông thường hoặc trọng lượng được phép; quá trọng lượng",
+          "list_en_vn": [
+            {
+              "full_en": "If your luggage is overweight , you'll have to pay extra",
+              "full_vn": "Nếu hành lý của ông quá trọng lượng quy định, ông phải trả thêm tiền"
+            },
+            {
+              "full_en": "Your suitcase is five kilos overweight",
+              "full_vn": "Va li của ông nặng hơn trọng lượng cho phép là năm kí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) béo phì",
+          "list_en_vn": [
+            {
+              "full_en": "I'm overweight by two kilos according to my doctor",
+              "full_vn": "theo ý kiến bác sĩ của tôi thì tôi đã béo lên hai kí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076910_bbe8ecd8da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076910_3ca4f85e2c_o.png",
+      "id_image": "overweight_1240806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384587_83ec62bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384587_1935a096fd_o.png",
+      "id_image": "overweight_2860856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076850_bf9218e5d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076850_4b13360966_o.png",
+      "id_image": "overweight_6207854"
+    }
+  ]
+}

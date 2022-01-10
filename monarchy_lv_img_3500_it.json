@@ -1,0 +1,35 @@
+{
+  "english": "monarchy",
+  "phat_am": "['mɔnəki]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nền quân chủ; chế độ quân chủ",
+          "list_en_vn": [
+            {
+              "full_en": "constitutional monarchy",
+              "full_vn": "chế độ quân chủ lập hiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước (theo chế độ) quân chủ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075085_b68baf2cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075085_6a1c1649ef_o.png",
+      "id_image": "monarchy_261803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693279_5773763cab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693279_b473558646_o.png",
+      "id_image": "monarchy_353357"
+    }
+  ]
+}

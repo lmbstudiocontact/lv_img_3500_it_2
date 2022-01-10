@@ -1,0 +1,27 @@
+{
+  "english": "pensioner",
+  "phat_am": "['pen∫ənə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người được hưởng tiền trợ cấp; người được hưởng lương hưu",
+          "list_en_vn": [
+            {
+              "full_en": "an old-age pensioner",
+              "full_vn": "người được hưởng trợ cấp tiền dưỡng lão"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366962_510bf8ce64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366962_35263697ae_o.png",
+      "id_image": "pensioner_307965"
+    }
+  ]
+}

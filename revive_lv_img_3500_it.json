@@ -1,0 +1,78 @@
+{
+  "english": "revive",
+  "phat_am": "[ri'vaiv]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm sống lại, làm tỉnh lại, hồi sinh"
+        },
+        {
+          "m_full_vn": "đem diễn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to revive a play",
+              "full_vn": "đem diễn lại một vở kịch (sau khi đã có sửa đổi đôi chút)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nắn lại, sửa lại cho khỏi nhăn nheo (cái mũ, cái áo)"
+        },
+        {
+          "m_full_vn": "làm phấn khởi, làm hào hứng; khơi lại",
+          "list_en_vn": [
+            {
+              "full_en": "to revive one's hopes",
+              "full_vn": "khơi lại mối hy vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm sống lại, hồi sinh; phục hồi (phong tục...); đem thi hành lại, ban hành lại (một đạo luật) làm cho trở nên đậm đà, làm cho vui vẻ hơn trước (cuộc nói chuyện...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống lại, tỉnh lại"
+        },
+        {
+          "m_full_vn": "phấn khởi lại, hào hứng lại"
+        },
+        {
+          "m_full_vn": "khoẻ ra, hồi tỉnh, phục hồi",
+          "list_en_vn": [
+            {
+              "full_en": "to feel one's hopes reviring",
+              "full_vn": "cảm thấy hy vọng trở lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lại được thịnh hành, lại được ưa thích (mốt...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393062_d0ccc14295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393062_2ca0f697c7_o.png",
+      "id_image": "revive_1409025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393087_5c759902cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393087_ae9303446f_o.png",
+      "id_image": "revive_188961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393012_377bbf88ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393012_c0837baf77_o.png",
+      "id_image": "revive_4334125"
+    }
+  ]
+}

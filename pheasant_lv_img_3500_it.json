@@ -1,0 +1,31 @@
+{
+  "english": "pheasant",
+  "phat_am": "['feznt]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều pheasant , pheasants",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con gà lôi, chim trĩ; thức ăn chế biến từ chúng",
+          "list_en_vn": [
+            {
+              "full_en": "a brace of pheasants",
+              "full_vn": "một đôi gà lôi"
+            },
+            {
+              "full_en": "roast pheasant",
+              "full_vn": "thịt gà lôi quay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087430_cf065e9309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087430_19f444c724_o.png",
+      "id_image": "pheasant_1018385"
+    }
+  ]
+}

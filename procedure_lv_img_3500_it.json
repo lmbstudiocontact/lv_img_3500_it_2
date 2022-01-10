@@ -1,0 +1,53 @@
+{
+  "english": "procedure",
+  "phat_am": "[prə'si:dʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thủ tục (trong kinh doanh, (chính trị), (pháp lý)..)",
+          "list_en_vn": [
+            {
+              "full_en": "Legal /parliamentary procedure",
+              "full_vn": "Thủ tục pháp lý/nghị viện"
+            },
+            {
+              "full_en": "(The ) agreed /correct /established /normal /usual procedure",
+              "full_vn": "Thủ tục đã thoả thuận/đúng/đã được xác lập/bình thường/thông thường"
+            },
+            {
+              "full_en": "Registering a birth or death is a straightforward procedure",
+              "full_vn": "Đăng ký khai sinh hoặc khai tử là một thủ tục dễ dàng"
+            },
+            {
+              "full_en": "Obtaining a refund from the company is a complicated procedure",
+              "full_vn": "Đòi công ty trả lại tiền là một thủ tục phức tạp"
+            },
+            {
+              "full_en": "What's the procedure for opening a bank account ?",
+              "full_vn": "Thủ tục mở tài khoản ở ngân hàng là như thế nào?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438243_c823c72d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438243_de3ba8fe23_o.png",
+      "id_image": "procedure_2519438"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323136_cf4168b1c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323136_a3318ec43a_o.png",
+      "id_image": "procedure_2752868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059810_6726f36424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059810_c6f7554bf0_o.png",
+      "id_image": "procedure_4252302"
+    }
+  ]
+}

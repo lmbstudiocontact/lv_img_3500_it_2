@@ -1,0 +1,79 @@
+{
+  "english": "platform",
+  "phat_am": "['plætfɔ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nền, bục, bệ",
+          "list_en_vn": [
+            {
+              "full_en": "the concert platform",
+              "full_vn": "bục hoà nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thềm ga, sân ga (xe lửa)"
+        },
+        {
+          "m_full_vn": "bậc lên xuống (xe búyt)",
+          "list_en_vn": [
+            {
+              "full_en": "entrance platform of a bus",
+              "full_vn": "chỗ đứng ở cửa vào xe buýt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bục giảng, bục diễn thuyết, diễn đàn"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ( the platform ) thuật nói, thuật diễn thuyết"
+        },
+        {
+          "m_full_vn": "(chính trị) cương lĩnh, bản tuyên ngôn (của một đảng)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt trên nền, đặt trên bục"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói trên bục, diễn thuyết trên diễn đàn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386742_1b5d06e514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386742_40596d885c_o.png",
+      "id_image": "platform_2437181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456573_96bda23665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456573_facf755cb8_o.png",
+      "id_image": "platform_373008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456483_8185beb167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456483_87d894d8a0_o.png",
+      "id_image": "platform_3901483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696839_9ee8a466ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696839_6249506598_o.png",
+      "id_image": "platform_6213821"
+    }
+  ]
+}

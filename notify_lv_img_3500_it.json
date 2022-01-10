@@ -1,0 +1,39 @@
+{
+  "english": "notify",
+  "phat_am": "['noutifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to notify somebody of something ; to notify something to somebody ) báo tin cho ai về việc gì; nói cho ai biết việc gì; thông báo; cho hay; cho biết",
+          "list_en_vn": [
+            {
+              "full_en": "have the authorities been notified (of this )?",
+              "full_vn": "nhà chức trách có được báo tin (về việc này) hay không?"
+            },
+            {
+              "full_en": "to notify someone of one's new address",
+              "full_vn": "cho ai biết địa chỉ mới"
+            },
+            {
+              "full_en": "to notify the police (of a theft )/notify a theft to the police",
+              "full_vn": "báo cho cảnh sát biết một vụ trộm"
+            },
+            {
+              "full_en": "he notified us that he was going to retire",
+              "full_vn": "ông ấy cho chúng tôi biết rằng ông ấy sắp về hưu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365232_1cc7fd33b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365232_4bcda07843_o.png",
+      "id_image": "notify_6192141"
+    }
+  ]
+}

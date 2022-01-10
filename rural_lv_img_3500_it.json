@@ -1,0 +1,52 @@
+{
+  "english": "rural",
+  "phat_am": "['ruərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nông thôn, thôn dã; ở vùng nông thôn, gợi lên vùng nông thôn",
+          "list_en_vn": [
+            {
+              "full_en": "rural areas",
+              "full_vn": "vùng nông thôn"
+            },
+            {
+              "full_en": "rural officials /pastimes",
+              "full_vn": "các quan chức/thú tiêu khiển ở nông thôn"
+            },
+            {
+              "full_en": "rural scenes /accents",
+              "full_vn": "cảnh/giọng nói nông thôn"
+            },
+            {
+              "full_en": "life in rural Britain",
+              "full_vn": "cuộc sống ở vùng nông thôn nước Anh"
+            },
+            {
+              "full_en": "rural constituency",
+              "full_vn": "khu bầu cử miền nông thôn"
+            },
+            {
+              "full_en": "to live in rural seclusion",
+              "full_vn": "sống biệt lập ở miền quê"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693829_5bd885603b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693829_a5d57d2fe4_o.png",
+      "id_image": "rural_1703523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383537_10010db080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383537_6c43608d2f_o.png",
+      "id_image": "rural_3038937"
+    }
+  ]
+}

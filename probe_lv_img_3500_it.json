@@ -1,0 +1,59 @@
+{
+  "english": "probe",
+  "phat_am": "[proub]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) cái thông, cái que thăm (để dò vết thương...)"
+        },
+        {
+          "m_full_vn": "tàu thăm dò vũ trụ (không người lái) (như) space probe"
+        },
+        {
+          "m_full_vn": "(vật lý) máy dò, cái dò, cực dò",
+          "list_en_vn": [
+            {
+              "full_en": "sound probe",
+              "full_vn": "máy dò âm"
+            },
+            {
+              "full_en": "electric probe",
+              "full_vn": "cực dò điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự thăm dò, sự điều tra, sự khảo sát"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dò (vết thương...) bằng que thăm"
+        },
+        {
+          "m_full_vn": "thăm dò, thám hiểm, điều tra"
+        },
+        {
+          "m_full_vn": "(từ lóng) khảo sát kỹ lưỡng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323411_b8b06b0ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323411_d1fac20fd3_o.png",
+      "id_image": "probe_3212653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368297_2b45b3e8ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368297_49d6d52e19_o.png",
+      "id_image": "probe_3739688"
+    }
+  ]
+}

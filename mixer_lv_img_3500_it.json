@@ -1,0 +1,50 @@
+{
+  "english": "mixer",
+  "phat_am": "['miksə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người trộn, máy trộn"
+        },
+        {
+          "m_full_vn": "(thông tục) người giao thiệp, người làm quen",
+          "list_en_vn": [
+            {
+              "full_en": "good mixer",
+              "full_vn": "người giao thiệp giỏi"
+            },
+            {
+              "full_en": "bad mixer",
+              "full_vn": "người giao thiệp vụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) bộ trộn"
+        },
+        {
+          "m_full_vn": "(điện ảnh) máy hoà tiếng (cho phim)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385302_86b06e90a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385302_5cd4c05bf9_o.png",
+      "id_image": "mixer_259161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695619_e6eb5d2a50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695619_b0402bdf2d_o.png",
+      "id_image": "mixer_259163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455173_76cc8bd738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455173_60aa380caa_o.png",
+      "id_image": "mixer_294629"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "mince",
+  "phat_am": "[mins]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thịt băm, thịt thái nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "mince of beef",
+              "full_vn": "thịt bò thái nhỏ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "băm, thái nhỏ, cắt nhỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to mince matters (one's words )",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chẻ hoe; nói toạc móng heo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi đứng õng ẹo, nói õng ẹo, nói uốn éo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387867_ecf6a60266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387867_336359576c_o.png",
+      "id_image": "mince_3690250"
+    }
+  ]
+}

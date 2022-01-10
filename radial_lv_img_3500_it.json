@@ -1,0 +1,66 @@
+{
+  "english": "radial",
+  "phat_am": "['reidiəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý), (toán học) (thuộc) tia, , như tia, như bán kính"
+        },
+        {
+          "m_full_vn": "xuyên tâm, toả tròn",
+          "list_en_vn": [
+            {
+              "full_en": "radial symmetry",
+              "full_vn": "đối xứng xuyên tâm, đối xứng toả tròn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(lốp xe) có bố toả tròn (bố đặt xuyên tâm với tâm bánh xe)",
+          "list_en_vn": [
+            {
+              "full_en": "radial spokes",
+              "full_vn": "nan hoa (bánh xe đạp..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) (thuộc) xương quay",
+          "list_en_vn": [
+            {
+              "full_en": "radial artery",
+              "full_vn": "động mạch quay"
+            },
+            {
+              "full_en": "radial nerve",
+              "full_vn": "dây thần kinh quay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) động mạch quay"
+        },
+        {
+          "m_full_vn": "dây thần kinh quay"
+        },
+        {
+          "m_full_vn": "lốp có bố toả tròn (của bánh xe) (như) radial-ply tyre"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456348_7d5940524d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456348_384c20beaa_o.png",
+      "id_image": "radial_554660"
+    }
+  ]
+}

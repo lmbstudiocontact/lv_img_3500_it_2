@@ -1,0 +1,148 @@
+{
+  "english": "recover",
+  "phat_am": "[ri:'kʌvə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy lại, giành lại, tìm lại được",
+          "list_en_vn": [
+            {
+              "full_en": "to recover what was lost",
+              "full_vn": "giành (tìm) lại những cái gì đã mất"
+            },
+            {
+              "full_en": "to recover one's breath",
+              "full_vn": "lấy lại hơi"
+            },
+            {
+              "full_en": "to recover consciousness",
+              "full_vn": "tỉnh lại"
+            },
+            {
+              "full_en": "to recover one's health",
+              "full_vn": "lấy lại sức khoẻ, bình phục"
+            },
+            {
+              "full_en": "to recover someone's affection",
+              "full_vn": "lấy lại được tình thương mến của ai"
+            },
+            {
+              "full_en": "to recover one's legs",
+              "full_vn": "đứng dậy được (sau khi ngã)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được, bù lại, đòi, thu lại",
+          "list_en_vn": [
+            {
+              "full_en": "to recover damages",
+              "full_vn": "được bồi thường"
+            },
+            {
+              "full_en": "to recover a debt",
+              "full_vn": "thu (đòi) lại được món nợ"
+            },
+            {
+              "full_en": "to recover lost time",
+              "full_vn": "bù lại thời gian đã mất"
+            },
+            {
+              "full_en": "to recover one's losses",
+              "full_vn": "bù lại chỗ thiệt hại mất mát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cứu sống lại (người chết đuối); làm tỉnh lại, làm bình phục, chữa khỏi bệnh)",
+          "list_en_vn": [
+            {
+              "full_en": "he fell into a deep river and could not be recovered",
+              "full_vn": "anh ta ngã xuống sông sâu không sao cứu được"
+            },
+            {
+              "full_en": "this remedy will soon recover her",
+              "full_vn": "phương thuốc này sẽ làm cho bà ta chóng khỏi bệnh"
+            },
+            {
+              "full_en": "to be quite recovered",
+              "full_vn": "hoàn toàn bình phục"
+            },
+            {
+              "full_en": "to recover someone",
+              "full_vn": "làm cho ai tỉnh lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sửa lại (một điều sai lầm)",
+          "list_en_vn": [
+            {
+              "full_en": "to recover oneself",
+              "full_vn": "tỉnh lại, tĩnh trí lại, bình tĩnh lại; lấy lại được thăng bằng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khỏi bệnh, bình phục, lại sức",
+          "list_en_vn": [
+            {
+              "full_en": "to recover from a long illiness",
+              "full_vn": "bình phục sau một thời gian ốm dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỉnh lại, tĩnh trí lại, bình tĩnh lại, hết khỏi (trở lại trạng thái cũ)",
+          "list_en_vn": [
+            {
+              "full_en": "to recover from one's fright",
+              "full_vn": "hết sợ hãi, tĩnh trí lại sau một cơn sợ hãi"
+            },
+            {
+              "full_en": "to recover from one's astonishment",
+              "full_vn": "hết ngạc nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên lại (giá cả)",
+          "list_en_vn": [
+            {
+              "full_en": "prices have recovered",
+              "full_vn": "giá cả đã lên lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) được bồi thường"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) thủ thế lại (đánh kiếm...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng thủ thế lại (đánh kiếm...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449168_ebe0547205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449168_e37e0302a2_o.png",
+      "id_image": "recover_1973118"
+    }
+  ]
+}

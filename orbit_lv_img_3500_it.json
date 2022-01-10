@@ -1,0 +1,79 @@
+{
+  "english": "orbit",
+  "phat_am": "['ɔ:bit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) ổ mắt"
+        },
+        {
+          "m_full_vn": "(sinh vật học) mép viền mắt (chim, sâu bọ)"
+        },
+        {
+          "m_full_vn": "đường bay của một hành tinh, ngôi sao, mặt trăng... quanh một thiên thể khác; quỹ đạo",
+          "list_en_vn": [
+            {
+              "full_en": "the earth's orbit round the sun",
+              "full_vn": "quỹ đạo của trái đất quanh mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường bay của một vật nhân tạo (vệ tinh hoặc tàu vũ trụ chẳng hạn) quanh một hành tinh, một ngôi sao..; quỹ đạo",
+          "list_en_vn": [
+            {
+              "full_en": "the spacecraft is in orbit round the moon",
+              "full_vn": "tàu vũ trụ đã bay vào vũ trụ quanh mặt trăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phạm vi hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "marketing does not come within the orbit of his department",
+              "full_vn": "tiếp thị không nằm trong phạm vi (hoạt động) của cơ quan anh ấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "di chuyển theo quỹ đạo quanh cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to orbit in space",
+              "full_vn": "bay theo quỹ đạo trong không gian"
+            },
+            {
+              "full_en": "how many spacecraft have orbited the moon ?",
+              "full_vn": "bao nhiêu chiếc tàu vũ trụ đã đi vào quỹ đạo quanh mặt trăng?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081965_a537e33b95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081965_d6c7c30d95_o.png",
+      "id_image": "orbit_257142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081890_324d929cfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081890_2fff91248e_o.png",
+      "id_image": "orbit_4631399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699584_0f084b1176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699584_592506a776_o.png",
+      "id_image": "orbit_959128"
+    }
+  ]
+}

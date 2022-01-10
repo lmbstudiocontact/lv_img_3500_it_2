@@ -1,0 +1,66 @@
+{
+  "english": "partition",
+  "phat_am": "[pɑ:'ti∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phân chia, sự chia cắt; phần được chia"
+        },
+        {
+          "m_full_vn": "liếp ngăn, bức vách ngăn"
+        },
+        {
+          "m_full_vn": "(chính trị) sự chia cắt một nước thành hai hoặc nhiều nước; sự chia cắt đất nước",
+          "list_en_vn": [
+            {
+              "full_en": "the partition of India in 1947",
+              "full_vn": "sự chia cắt Ấn độ năm 1947"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự chia tài sản"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân chia thành nhiều phần; chia cắt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to partition something off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn (một phần căn phòng...) bằng bức vách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we've partitioned off one end of the kitchen to make a breakfast room",
+                      "full_vn": "chúng tôi ngăn đoạn cuối căn bếp làm phòng ăn điểm tâm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "India was partitioned in 1947",
+              "full_vn": "Ấn Độ bị chia cắt năm 1947"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446188_0605920acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446188_47c1bbfe7e_o.png",
+      "id_image": "partition_360129"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "english": "pride",
+  "phat_am": "[praid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiêu hãnh, sự hãnh diện; niềm kiêu hãnh, niềm hãnh diện",
+          "list_en_vn": [
+            {
+              "full_en": "he is his father's pride",
+              "full_vn": "anh ta là niềm kiêu hãnh của ông bố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính tự cao, tính tự phụ, tính kiêu căng",
+          "list_en_vn": [
+            {
+              "full_en": "false pride",
+              "full_vn": "tính tự ái; tính kiêu căng ngạo mạn; tính hư danh, tính hiếu danh"
+            },
+            {
+              "full_en": "the sin of pride",
+              "full_vn": "tội ngạo mạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng tự trọng, lòng tự hào (về giá trị.. của mình) (như) proper pride"
+        },
+        {
+          "m_full_vn": "độ đẹp nhất, độ rực rỡ nhất, độ chín mùi, độ phát triển nhất",
+          "list_en_vn": [
+            {
+              "full_en": "in the full pride of youth",
+              "full_vn": "ở tuổi thanh xuân phơi phới"
+            },
+            {
+              "full_en": "a peacock in his pride",
+              "full_vn": "con công đang xoè đuôi"
+            },
+            {
+              "full_en": "in pride of grease",
+              "full_vn": "béo, giết thịt được rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính hăng (ngựa)"
+        },
+        {
+          "m_full_vn": "(văn học) sự tráng lệ, sự huy hoàng, sự lộng lẫy"
+        },
+        {
+          "m_full_vn": "đàn, bầy (nhất là sư tử)",
+          "list_one_mean": [
+            {
+              "id_full_en": "pride of the morning",
+              "list_im": [
+                {
+                  "im_full_vn": "sương lúc mặt trời mọc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pride of place",
+              "list_im": [
+                {
+                  "im_full_vn": "vị trí cao quý"
+                },
+                {
+                  "im_full_vn": "sự tự phụ về vị trí cao quý của mình; sự ngạo mạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pride will have a fall",
+              "list_im": [
+                {
+                  "im_full_vn": "như fall"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swallow one's pride",
+              "list_im": [
+                {
+                  "im_full_vn": "dẹp lòng tự ái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pride comes /goes before a fall",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) trèo cao ngã đau"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a pride of lions",
+              "full_vn": "đàn sư tử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ ( + on , upon )",
+      "list_m": [
+        {
+          "m_full_vn": "lấy làm kiêu hãnh, lấy làm tự hào (về ai, cái gì)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự hào về, kiêu hãnh về, hãnh diện về (ai, cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681174_a9520d80f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681174_f61444f7d8_o.png",
+      "id_image": "pride_2287748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440988_a8909beb0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440988_379f79ded1_o.png",
+      "id_image": "pride_2292411"
+    }
+  ]
+}

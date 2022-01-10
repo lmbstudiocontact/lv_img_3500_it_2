@@ -1,0 +1,36 @@
+{
+  "english": "prostitution",
+  "phat_am": "[,prɔsti'tju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm đĩ, nạn mãi dâm",
+          "list_en_vn": [
+            {
+              "full_en": "prostitution is on the increase in the city",
+              "full_vn": "nạn mại dâm đang gia tăng trong thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự bán rẻ (danh dự, tài năng...)",
+          "list_en_vn": [
+            {
+              "full_en": "he refused the job , saying it would be (a ) prostitution of his talents",
+              "full_vn": "ông ta từ chối công việc đó, cho rằng nếu làm thì sẽ là bán rẻ tài năng của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395002_9bdb71048b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395002_c24c1c330d_o.png",
+      "id_image": "prostitution_5411165"
+    }
+  ]
+}

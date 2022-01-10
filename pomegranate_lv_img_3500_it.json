@@ -1,0 +1,36 @@
+{
+  "english": "pomegranate",
+  "phat_am": "['pɔmigrænit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả lựu; cây lựu (như) pomegranate-tree",
+          "list_en_vn": [
+            {
+              "full_en": "pomegranate juice",
+              "full_vn": "(thuộc ngữ) nước lựu"
+            },
+            {
+              "full_en": "pomegranate seeds",
+              "full_vn": "(thuộc ngữ) hạt lựu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691604_26ab0fb0bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691604_ce42917c02_o.png",
+      "id_image": "pomegranate_3347411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381232_ce42917c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381232_5501c43e48_o.png",
+      "id_image": "pomegranate_5706602"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "english": "person",
+  "phat_am": "['pə:sn]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều people",
+      "list_m": [
+        {
+          "m_full_vn": "con người như một cá thể có tính cách riêng biệt; người",
+          "list_en_vn": [
+            {
+              "full_en": "he's just the person we need for the job ; he's the very person we need for the job",
+              "full_vn": "ông ấy chính là người mà chúng ta cần cho công việc"
+            },
+            {
+              "full_en": "young person",
+              "full_vn": "người đàn ông trẻ tuổi, người đàn bà trẻ tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa xấu) gã, anh chàng, thằng cha, mụ, ả...",
+          "list_en_vn": [
+            {
+              "full_en": "who is this person ?",
+              "full_vn": "thằng cha (ả...) nào kia?; thằng cha (ả...) kia là ai?"
+            },
+            {
+              "full_en": "a certain person locked us out of the house",
+              "full_vn": "một người nào đó (mà chúng tôi không muốn nêu tên) đã khoá cửa không cho chúng tôi vào nhà"
+            },
+            {
+              "full_en": "any person found pissing in the streets will be liable to a very heavy fine",
+              "full_vn": "người nào tiểu tiện ngoài đường sẽ phải đóng tiền phạt thật nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân hình, vóc dáng",
+          "list_en_vn": [
+            {
+              "full_en": "he has a fine person",
+              "full_vn": "anh ta có vóc người đẹp, anh ta đẹp trai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân vật (tiểu thuyết, kịch)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) một trong ba ngôi của đại từ nhân xưng ( 'tôi/chúng ta' chỉ người hoặc những người đang nói; 'anh/các anh' chỉ người hoặc những người được nói với; 'nó/chúng nó' chỉ người/những người hoặc đồ vật/những đồ vật được nói đến); ngôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "about /on one's person",
+              "list_im": [
+                {
+                  "im_full_vn": "mang theo mình; trong người",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a gun was found on his person",
+                      "full_vn": "người ta tìm thấy một khẩu súng trong người hắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in person",
+              "list_im": [
+                {
+                  "im_full_vn": "bản thân có mặt; đích thân",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the winner will be there in person to collect the prize",
+                      "full_vn": "người thắng cuộc sẽ đích thân đến đó lãnh thưởng"
+                    },
+                    {
+                      "full_en": "you may communicate with us either in person or by e-mail",
+                      "full_vn": "anh có thể trực tiếp liên lạc với chúng tôi hoặc qua thư điện tử"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the person of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới hình thức hay tình trạng của ai; bản thân",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "help arrived in the person of his father",
+                      "full_vn": "bản thân cha nó đã đến giúp nó; chính cha nó đã đến giúp nó"
+                    },
+                    {
+                      "full_en": "the firm has an important asset in the person of the director of research",
+                      "full_vn": "công ty có một nguồn vốn quan trọng là bản thân giám đốc nghiên cứu; bản thân giám đốc nghiên cứu là một nguồn vốn quan trọng của công ty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be no respecter of persons ; not to be any respecter of persons",
+              "list_im": [
+                {
+                  "im_full_vn": "xem respecter"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "first person",
+              "full_vn": "ngôi thứ nhất"
+            },
+            {
+              "full_en": "second person",
+              "full_vn": "ngôi thứ hai"
+            },
+            {
+              "full_en": "third person",
+              "full_vn": "ngôi thứ ba"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435473_4cfa0c6de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435473_7822f2e351_o.png",
+      "id_image": "person_6003230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435448_5788ffec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435448_c2daf44a72_o.png",
+      "id_image": "person_6146116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320331_af9a3a8a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320331_692d092437_o.png",
+      "id_image": "person_992636"
+    }
+  ]
+}

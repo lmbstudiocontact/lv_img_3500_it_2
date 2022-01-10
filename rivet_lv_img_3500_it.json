@@ -1,0 +1,57 @@
+{
+  "english": "rivet",
+  "phat_am": "['rivit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đinh tán, đinh ri-vê"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tán đầu (đinh tán)"
+        },
+        {
+          "m_full_vn": "làm cho bất động; cố định"
+        },
+        {
+          "m_full_vn": "ghép bằng đinh tán"
+        },
+        {
+          "m_full_vn": "tập trung (mắt nhìn, sự chú ý...)",
+          "list_en_vn": [
+            {
+              "full_en": "to rivet one's eyes upon (on ) something",
+              "full_vn": "nhìn dán mắt vào cái gì"
+            },
+            {
+              "full_en": "to rivet one's attention upon something",
+              "full_vn": "tập trung sự chú ý vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu hút; thắt chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to rivet friendship",
+              "full_vn": "thắt chặt tình bạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389992_1c11b4dba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389992_6bc2db649d_o.png",
+      "id_image": "rivet_1638543"
+    }
+  ]
+}

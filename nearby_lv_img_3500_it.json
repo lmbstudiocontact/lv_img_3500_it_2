@@ -1,0 +1,44 @@
+{
+  "english": "nearby",
+  "phat_am": "['niəbai]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở vị trí gần; không xa",
+          "list_en_vn": [
+            {
+              "full_en": "take her to a nearby hospital",
+              "full_vn": "hãy đưa cô ta đến một bệnh viện gần đó"
+            },
+            {
+              "full_en": "a nearby village",
+              "full_vn": "làng bên cạnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở vị trí gần; không xa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371467_bf8002c05e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371467_b47a94e7df_o.png",
+      "id_image": "nearby_5509695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063605_a345cda076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063605_c6b47dbf8b_o.png",
+      "id_image": "nearby_6010142"
+    }
+  ]
+}

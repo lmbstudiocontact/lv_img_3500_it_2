@@ -1,0 +1,94 @@
+{
+  "english": "native",
+  "phat_am": "['neitiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nơi sinh",
+          "list_en_vn": [
+            {
+              "full_en": "native country ; native place",
+              "full_vn": "nơi sinh, quê hương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nhiên, bẩm sinh",
+          "list_en_vn": [
+            {
+              "full_en": "native ability",
+              "full_vn": "tài năng bẩm sinh, thiên tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) địa phương; (thuộc) thổ dân",
+          "list_en_vn": [
+            {
+              "full_en": "native customs",
+              "full_vn": "những phong tục của dân địa phương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nhiên (kim loại, (khoáng chất))",
+          "list_en_vn": [
+            {
+              "full_en": "native gold",
+              "full_vn": "vàng tự nhiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sinh ở, người quê quán ở, người địa phương, thổ dân",
+          "list_en_vn": [
+            {
+              "full_en": "a native of Hanoi",
+              "full_vn": "người quê ở Hà nội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loài (vật, cây) địa phương, loài nguyên sản; thổ sản"
+        },
+        {
+          "m_full_vn": "sò nuôi (ở bờ biển Anh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go native",
+              "list_im": [
+                {
+                  "im_full_vn": "hoà nhập vào cộng đồng bản xứ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442953_ab23d709b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442953_52c5a21857_o.png",
+      "id_image": "native_2396765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372607_02d6fdf0ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372607_302ce09da8_o.png",
+      "id_image": "native_3429448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327846_1348c6fc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327846_eee4b09db2_o.png",
+      "id_image": "native_3563876"
+    }
+  ]
+}

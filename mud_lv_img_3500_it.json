@@ -1,0 +1,56 @@
+{
+  "english": "mud",
+  "phat_am": "[mʌd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bùn ( (nghĩa đen) & (nghĩa bóng))",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stick in the mud",
+              "list_im": [
+                {
+                  "im_full_vn": "bảo thủ; chậm tiến, lạc hậu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fling mud at somebody",
+              "full_vn": "ném bùn vào ai; (nghĩa bóng) nói xấu ai, bôi nhọ ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vấy bùn, trát bùn lên"
+        },
+        {
+          "m_full_vn": "làm đục, khuấy đục"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chui xuống bùn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069775_0628c04011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069775_cd6701a387_o.png",
+      "id_image": "mud_4675457"
+    }
+  ]
+}

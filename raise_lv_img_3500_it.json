@@ -1,0 +1,381 @@
+{
+  "english": "raise",
+  "phat_am": "[reiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâng lên, đỡ dậy; giơ lên, đưa lên, kéo lên; ngước lên, ngẩng lên",
+          "list_en_vn": [
+            {
+              "full_en": "to raise one's glass to someone",
+              "full_vn": "nâng cốc chúc sức khoẻ ai"
+            },
+            {
+              "full_en": "to raise anchor",
+              "full_vn": "kéo neo lên, nhổ neo lên"
+            },
+            {
+              "full_en": "to raise someone from his knees",
+              "full_vn": "đỡ ai đang quỳ đứng dậy"
+            },
+            {
+              "full_en": "to raise a sunken ship",
+              "full_vn": "trục một cái tàu đắm lên"
+            },
+            {
+              "full_en": "to raise one's hand",
+              "full_vn": "giơ tay lên"
+            },
+            {
+              "full_en": "to raise one's eyes",
+              "full_vn": "ngước mắt lên"
+            },
+            {
+              "full_en": "to raise one's head",
+              "full_vn": "ngẩng đầu lên"
+            },
+            {
+              "full_en": "to raise one's hat to somebody",
+              "full_vn": "ngả mũ chào ai"
+            },
+            {
+              "full_en": "we raised the fence and fixed it in position",
+              "full_vn": "chúng tôi dựng hàng rào lên và đóng vào vị trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xây dựng, dựng",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a building",
+              "full_vn": "xây dựng một toà nhà"
+            },
+            {
+              "full_en": "to raise a statue",
+              "full_vn": "dựng tượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi; trồng",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a large family",
+              "full_vn": "nuôi một gia đình lớn"
+            },
+            {
+              "full_en": "I was raised by my aunt on a farm",
+              "full_vn": "tôi được cô tôi nuôi trong một trang trại"
+            },
+            {
+              "full_en": "to raise vegetable",
+              "full_vn": "trồng rau"
+            },
+            {
+              "full_en": "to raise chickens",
+              "full_vn": "nuôi gà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nêu lên, đưa ra; đề xuất",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a point",
+              "full_vn": "nêu lên một vấn đề"
+            },
+            {
+              "full_en": "to raise a claim",
+              "full_vn": "đưa ra một yêu sách"
+            },
+            {
+              "full_en": "to raise an objection",
+              "full_vn": "đưa ra ý kiến phản đối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho cái gì được nghe thấy",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a commotion , fuss , protest , stink",
+              "full_vn": "dấy lên một sự chấn động, ồn ào, phản kháng, phiền toái"
+            },
+            {
+              "full_en": "to raise the alarm /alert",
+              "full_vn": "nổi còi báo động/báo nguy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho cái gì nổi lên hoặc xuất hiện; gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a storm",
+              "full_vn": "gây ra một cơn bão tố"
+            },
+            {
+              "full_en": "to raise astonishment",
+              "full_vn": "làm ngạc nhiên"
+            },
+            {
+              "full_en": "to raise doubts , fears , suspicions in people's minds",
+              "full_vn": "dấy lên sự nghi hoặc, sợ hãi, ngờ vực trong tâm trí người ta"
+            },
+            {
+              "full_en": "to raise a laugh",
+              "full_vn": "làm cho mọi người cười"
+            },
+            {
+              "full_en": "to raise a disturbance",
+              "full_vn": "gây nên sự náo động"
+            },
+            {
+              "full_en": "the horse's hooves raised a cloud of dust",
+              "full_vn": "vó ngựa làm bốc lên một đám bụi mù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng, làm tăng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to raise the reputation of ...",
+              "full_vn": "tăng thêm danh tiếng của (ai...)"
+            },
+            {
+              "full_en": "to raise production to the maximum",
+              "full_vn": "tăng sản lượng đến mức cao nhất"
+            },
+            {
+              "full_en": "to raise someone's salary",
+              "full_vn": "tăng lương cho ai"
+            },
+            {
+              "full_en": "to raise colour",
+              "full_vn": "tô màu cho thẫm hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát động, kích động, xúi giục",
+          "list_en_vn": [
+            {
+              "full_en": "to raise the people against the aggressors",
+              "full_vn": "phát động nhân dân đứng lên chống lại bọn xâm lược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nở, làm phồng lên",
+          "list_en_vn": [
+            {
+              "full_en": "to raise bread with yeast",
+              "full_vn": "dùng men làm nở bánh mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cất cao (giọng...); lên (tiếng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a cry",
+              "full_vn": "kêu lên một tiếng"
+            },
+            {
+              "full_en": "to raise one's voice in defence of someone",
+              "full_vn": "lên tiếng bênh vực ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đắp cao lên, xây cao thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a wall",
+              "full_vn": "xây tường cao thêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đề bạt; đưa lên (địa vị cao hơn)",
+          "list_en_vn": [
+            {
+              "full_en": "to raise someone to power",
+              "full_vn": "đưa ai lên cầm quyền"
+            },
+            {
+              "full_en": "to raise someone to a higher rank",
+              "full_vn": "đề bạt ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khai thác (than)",
+          "list_en_vn": [
+            {
+              "full_en": "the amount of coal raised from the mine",
+              "full_vn": "số lượng than khai thác ở mỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bốc lên, làm tung lên",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a cloud of dust",
+              "full_vn": "làm tung lên một đám bụi mù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu, thu góp (tiền, thuế...); tổ chức, tuyển mộ (quân...)",
+          "list_en_vn": [
+            {
+              "full_en": "to raise taxes",
+              "full_vn": "thu thuế"
+            },
+            {
+              "full_en": "to raise a loan",
+              "full_vn": "thu gom tiền vay nợ"
+            },
+            {
+              "full_en": "to raise a subscription",
+              "full_vn": "mở cuộc lạc quyên"
+            },
+            {
+              "full_en": "to raise an army",
+              "full_vn": "tổ chức (xây dựng) một đạo quân"
+            },
+            {
+              "full_en": "to raise funds for charity",
+              "full_vn": "gây quỹ từ thiện"
+            },
+            {
+              "full_en": "a fund-raising event",
+              "full_vn": "cuộc thi đấu lấy tiền gây quỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gọi về",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a spirit",
+              "full_vn": "gọi hồn về"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm dứt, rút bỏ (một cuộc bao vây...); nhổ (trại...)",
+          "list_en_vn": [
+            {
+              "full_en": "to raise a siege",
+              "full_vn": "rút bỏ một cuộc bao vây"
+            },
+            {
+              "full_en": "to raise a blockade",
+              "full_vn": "rút bỏ một cuộc phong toả"
+            },
+            {
+              "full_en": "to raise a camp",
+              "full_vn": "nhổ trại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) trông thấy",
+          "list_en_vn": [
+            {
+              "full_en": "to raise the land",
+              "full_vn": "trông thấy bờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) làm có tuyết, làm cho có nhung (vải, len, dạ...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to raise Cain (hell , the mischief , the devil , the roof , (Mỹ) a big smoke",
+              "list_im": [
+                {
+                  "im_full_vn": "la lối om sòm; gây náo loạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise a dust",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bụi mù"
+                },
+                {
+                  "im_full_vn": "gây náo loạn"
+                },
+                {
+                  "im_full_vn": "làm mờ sự thật, che giấu sự thật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise someone from the dead",
+              "list_im": [
+                {
+                  "im_full_vn": "cứu ai sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "tính được đủ số tiền cần thiết (cho việc gì...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nâng lên; sự tăng lên"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự tăng (lương) (như) rise",
+          "list_en_vn": [
+            {
+              "full_en": "get a raise of 200",
+              "full_vn": "được tăng thêm 200 đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) sự tố thêm (đánh xì...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384472_4cf5c1d3f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384472_4de00f4e73_o.png",
+      "id_image": "raise_2201799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384442_62863eec24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384442_ab61e45fae_o.png",
+      "id_image": "raise_2358297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339491_2f4d843b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339491_44ae4ddc4d_o.png",
+      "id_image": "raise_2358359"
+    }
+  ]
+}

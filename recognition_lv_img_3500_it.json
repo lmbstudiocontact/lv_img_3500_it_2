@@ -1,0 +1,76 @@
+{
+  "english": "recognition",
+  "phat_am": "[,rekəg'ni∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự công nhận, sự thừa nhận; sự được công nhận, sự được thừa nhận",
+          "list_en_vn": [
+            {
+              "full_en": "the recognition of a new government",
+              "full_vn": "sự công nhận một chính phủ mới"
+            },
+            {
+              "full_en": "Britain's recognition of the new regime is unlikely",
+              "full_vn": "không chắc có sự công nhận của nước Anh đối với chế độ mới"
+            },
+            {
+              "full_en": "to win /receive recognition from the public",
+              "full_vn": "được mọi người thừa nhận, được quần chúng thừa nhận"
+            },
+            {
+              "full_en": "he has won wide recognition in the field of tropical medecine",
+              "full_vn": "anh ấy được công nhận rộng rãi trong lĩnh vực y học nhiệt đới"
+            },
+            {
+              "full_en": "an award in recognition of one's services , achievements",
+              "full_vn": "phần thưởng để công nhận sự phục vụ, thành tích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "to alter something beyond (past ) recognition",
+              "full_vn": "thay đổi vật gì không còn nhận ra được nữa"
+            },
+            {
+              "full_en": "a smile of recognition",
+              "full_vn": "nụ cười chào khi nhận ra ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690354_304569783a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690354_46ab59ba94_o.png",
+      "id_image": "recognition_2910055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072075_5894dd7a5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072075_a6fa741b53_o.png",
+      "id_image": "recognition_3199500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450143_f9a80ae6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450143_d4eb4a403d_o.png",
+      "id_image": "recognition_4060757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335071_0854b5dfd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335071_478993a983_o.png",
+      "id_image": "recognition_4493082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380112_57bba76ea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380112_0f40122d4e_o.png",
+      "id_image": "recognition_5977980"
+    }
+  ]
+}

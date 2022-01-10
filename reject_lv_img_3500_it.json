@@ -1,0 +1,87 @@
+{
+  "english": "reject",
+  "phat_am": "[ri'dʒekt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật bị loại, vật bỏ đi, vật không được chọn",
+          "list_en_vn": [
+            {
+              "full_en": "export rejects",
+              "full_vn": "những hàng xuất khẩu bị loại bỏ (hư hoặc không đạt yêu cầu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bị loại (trong kỳ tuyển quân...), người bị đánh hỏng thi",
+          "list_en_vn": [
+            {
+              "full_en": "rejects from an officers' training course",
+              "full_vn": "những người bị loại ra khỏi lớp huấn luyện sĩ quan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "không chấp thuận, loại bỏ, bác bỏ ( ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to reject someone's demand",
+              "full_vn": "bác bỏ yêu cầu của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại ra, bỏ ra; đánh hỏng (thí sinh)"
+        },
+        {
+          "m_full_vn": "loại bỏ, vứt bỏ, thải ra (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "reject over-ripe fruit",
+              "full_vn": "loại bỏ những quả chín nẫu (khi làm mứt..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hắt hủi; cự tuyệt; không yêu thương ( ai/cái gì) thích đáng",
+          "list_en_vn": [
+            {
+              "full_en": "the child was rejected by its parents",
+              "full_vn": "đứa bé bị bố mẹ hắt hủi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "từ chối không tiếp (ai)"
+        },
+        {
+          "m_full_vn": "mửa, nôn ra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065660_eb26382b45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065660_b73e110441_o.png",
+      "id_image": "reject_1686747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443793_f3a4a77a8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443793_615549c755_o.png",
+      "id_image": "reject_3782409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373507_1ce7550d99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373507_5ece201fce_o.png",
+      "id_image": "reject_5434111"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "nomadic",
+  "phat_am": "[nou'mædik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nay đây mai đó; du cư",
+          "list_en_vn": [
+            {
+              "full_en": "nomadic stage",
+              "full_vn": "thời kỳ du cư"
+            },
+            {
+              "full_en": "nomadic existence /society",
+              "full_vn": "cuộc sống/xã hội du mục"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677084_68f196060a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677084_f61b51f675_o.png",
+      "id_image": "nomadic_6193586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058745_b1240ecea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058745_b5b3303a51_o.png",
+      "id_image": "nomadic_6213745"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "rally",
+  "phat_am": "['ræli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tập hợp lại"
+        },
+        {
+          "m_full_vn": "đại hội, cuộc mít tinh lớn, sự tập họp đông đảo nhân dân vì mục đích chung (nhất là (chính trị))",
+          "list_en_vn": [
+            {
+              "full_en": "a party rally",
+              "full_vn": "một cuộc mít tinh của đảng"
+            },
+            {
+              "full_en": "hold a peace rally",
+              "full_vn": "tổ chức một cuộc tập hợp lực lượng vì hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lấy lại sức, sự khôi phục sức khoẻ, sự bình phục; sự phục hồi (giá cổ phiếu..)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) loạt đánh trả qua lại (trong môn quần vợt, bóng bàn..)",
+          "list_en_vn": [
+            {
+              "full_en": "a fifteen-strake rally",
+              "full_vn": "loạt đánh trả qua lại đến mười lăm lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc thi lái xe có động cơ trên đường trường"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp lại"
+        },
+        {
+          "m_full_vn": "củng cố lại, trấn tĩnh lại",
+          "list_en_vn": [
+            {
+              "full_en": "to rally someone's spirit",
+              "full_vn": "củng cố lại tinh thần của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ ( rallied )",
+      "list_m": [
+        {
+          "m_full_vn": "chế giễu, chế nhạo, chọc ghẹo",
+          "list_en_vn": [
+            {
+              "full_en": "to rally someone on something",
+              "full_vn": "chế giễu ai về cái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập hợp lại",
+          "list_en_vn": [
+            {
+              "full_en": "to rally round the flag",
+              "full_vn": "tập hợp dưới cờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình phục, lấy lại sức, khỏi bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to rally from an illness",
+              "full_vn": "bình phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phục hồi, tấp nập lại (giá cổ phiếu..)",
+          "list_en_vn": [
+            {
+              "full_en": "the market rallied from its depression",
+              "full_vn": "thị trường tấp nập trở lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh trả qua lại (quần vợt, bóng bàn..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454243_12e326d170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454243_5934ea2f1c_o.png",
+      "id_image": "rally_2529729"
+    }
+  ]
+}

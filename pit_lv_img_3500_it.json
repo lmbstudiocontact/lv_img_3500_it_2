@@ -1,0 +1,135 @@
+{
+  "english": "pit",
+  "phat_am": "[pit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hố (trong đất)"
+        },
+        {
+          "m_full_vn": "hầm mỏ, hố (nhất là khoáng sản); lỗ đào để khai thác (trong (công nghiệp))",
+          "list_en_vn": [
+            {
+              "full_en": "a chalk-pit",
+              "full_vn": "hầm đá phấn"
+            },
+            {
+              "full_en": "a lime-pit",
+              "full_vn": "hố vôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như coal mine",
+          "list_en_vn": [
+            {
+              "full_en": "go down the pit",
+              "full_vn": "xuống lò than (thợ mỏ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) hốc, lõm; (động, thực vật) hốc cây, vết lõm",
+          "list_en_vn": [
+            {
+              "full_en": "the pit of the stomach",
+              "full_vn": "lõm thượng vị (giữa các xương cụt bên dưới xương ức)"
+            },
+            {
+              "full_en": "armpit",
+              "full_vn": "nách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẹo rỗ (bệnh đậu mùa); vết rỗ (kim loại, thủy tinh)"
+        },
+        {
+          "m_full_vn": "ghế cuối ở tầng trệt (trong rạp hát)"
+        },
+        {
+          "m_full_vn": "sàn nhà hát; chỗ dàn nhạc (như) orchestra pit"
+        },
+        {
+          "m_full_vn": "hố gầm (để rửa, kiểm tra xe hơi); ( số nhiều) trạm tiếp tế cho xe đua"
+        },
+        {
+          "m_full_vn": "sân; kho",
+          "list_en_vn": [
+            {
+              "full_en": "the wheat-pit",
+              "full_vn": "kho lúa mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the pit ) hoả ngục, địa ngục (thánh kinh, rhet) (như) the pit of helt"
+        },
+        {
+          "m_full_vn": "hầm bẫy, hố bẫy (thú rừng...) (như) pifall",
+          "list_en_vn": [
+            {
+              "full_en": "to dig a pit for someone",
+              "full_vn": "(nghĩa bóng) đặt bẫy ai, định đưa ai vào bẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như cockpit"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) hột (của quả mơ, quả lựu..) (như) stone"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào hầm, đục lỗ, làm lỗ chôn; cất vào hầm, dự trữ vào kho"
+        },
+        {
+          "m_full_vn": "đấu (chống lại ai/cái gì, đọ sức với ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to pit someone against someone",
+              "full_vn": "đưa ai ra đọ sức với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho bị rỗ",
+          "list_en_vn": [
+            {
+              "full_en": "a face pitted with smallpox",
+              "full_vn": "mặt rỗ vì đậu mùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tách hột ra khỏi trái",
+          "list_en_vn": [
+            {
+              "full_en": "pitted olives",
+              "full_vn": "quả ôliu đã tách hột"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699959_38552f7131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699959_dd90e67c5d_o.png",
+      "id_image": "pit_4293890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459603_d0d7f508d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459603_be68bc9202_o.png",
+      "id_image": "pit_4294192"
+    }
+  ]
+}

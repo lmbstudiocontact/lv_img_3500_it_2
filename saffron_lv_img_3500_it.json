@@ -1,0 +1,54 @@
+{
+  "english": "saffron",
+  "phat_am": "['sæfrən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây nghệ tây"
+        },
+        {
+          "m_full_vn": "(thực vật học) đầu nhuỵ hoa nghệ tây (dùng để nhuộm và tăng hương vị cho thức ăn, rượu...)"
+        },
+        {
+          "m_full_vn": "màu vàng nghệ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu vàng nghệ",
+          "list_en_vn": [
+            {
+              "full_en": "saffron robes",
+              "full_vn": "những chiếc áo dài màu vàng nghệ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuộm màu vàng nghệ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692729_64d6c4a12f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692729_eddeddfa6c_o.png",
+      "id_image": "saffron_4139311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074440_168f8d52df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074440_ebf92f2297_o.png",
+      "id_image": "saffron_5930619"
+    }
+  ]
+}

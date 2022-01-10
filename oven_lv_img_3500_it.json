@@ -1,0 +1,59 @@
+{
+  "english": "oven",
+  "phat_am": "['ʌvn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lò (để hấp bánh, để dùng trong thí nghiệm (hoá học))",
+          "list_one_mean": [
+            {
+              "id_full_en": "have a bun in the oven",
+              "list_im": [
+                {
+                  "im_full_vn": "như bun"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like an oven",
+              "list_im": [
+                {
+                  "im_full_vn": "nóng (như) cái lò"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "bread is baked in an oven",
+              "full_vn": "bánh mì được nướng trong lò"
+            },
+            {
+              "full_en": "a gas oven",
+              "full_vn": "lò chạy bằng hơi đốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455743_100ea022f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455743_fc1e51e9be_o.png",
+      "id_image": "oven_3565393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341011_a0f7a97217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341011_a7cd908276_o.png",
+      "id_image": "oven_589792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385912_13ab4d49f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385912_308e57ecde_o.png",
+      "id_image": "oven_649207"
+    }
+  ]
+}

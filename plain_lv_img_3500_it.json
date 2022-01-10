@@ -1,0 +1,179 @@
+{
+  "english": "plain",
+  "phat_am": "[plein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khu vực đất đai rộng lớn, bằng phẳng; đồng bằng",
+          "list_en_vn": [
+            {
+              "full_en": "a vast , grassy plain",
+              "full_vn": "một cánh đồng cỏ bao la"
+            },
+            {
+              "full_en": "the great plains of the American Midwest",
+              "full_vn": "vùng đồng bằng rộng lớn miền Trung Tây Hoa Kỳ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mũi đan trơn (mũi đan cơ bản, đơn giản)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngay thẳng, chất phác",
+          "list_en_vn": [
+            {
+              "full_en": "in plain words",
+              "full_vn": "bằng những lời chân thật"
+            },
+            {
+              "full_en": "a plain answer",
+              "full_vn": "câu trả lời thẳng thắn"
+            },
+            {
+              "full_en": "a plain man",
+              "full_vn": "một người mộc mạc, chất phác"
+            },
+            {
+              "full_en": "to be plain in one's criticism",
+              "full_vn": "thẳng thắn trong cách phê bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ ràng, rõ rệt",
+          "list_en_vn": [
+            {
+              "full_en": "to make someone plain to something",
+              "full_vn": "làm cho ai hiểu rõ điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn giản, dễ hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "plain words",
+              "full_vn": "lời lẽ đơn giản, dễ hiểu"
+            },
+            {
+              "full_en": "plain style",
+              "full_vn": "văn giản dị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không viết bằng mật mã (điện tín...)"
+        },
+        {
+          "m_full_vn": "đơn sơ, giản dị, đơn giản; (thẩm mỹ) không trang điểm, không loè loẹt",
+          "list_en_vn": [
+            {
+              "full_en": "plain food",
+              "full_vn": "thức ăn giản dị (thường)"
+            },
+            {
+              "full_en": "a plain cook",
+              "full_vn": "một người đầu bếp thường (chỉ làm được những bữa ăn (thường))"
+            },
+            {
+              "full_en": "plain living and high thingking",
+              "full_vn": "cuộc sống thanh bạch nhưng cao thượng"
+            },
+            {
+              "full_en": "plain furniture",
+              "full_vn": "bàn ghế đơn sơ, giản dị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trơn; một màu",
+          "list_en_vn": [
+            {
+              "full_en": "plain paper",
+              "full_vn": "giấy trơn (chưa có kẻ dòng)"
+            },
+            {
+              "full_en": "plain fabric",
+              "full_vn": "vải trơn (không có hoa văn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xấu, thô (cô gái...); không ưa nhìn",
+          "list_one_mean": [
+            {
+              "id_full_en": "in plain English",
+              "list_im": [
+                {
+                  "im_full_vn": "được diễn đạt một cách thẳng thắn, đơn giản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make onself plain",
+              "list_im": [
+                {
+                  "im_full_vn": "làm rõ ý mình muốn nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all plain sailing",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến trình hành động không có gì rắc rối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as plain as a pikestaff /the nose on one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "rõ như ban ngày"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "một cách rõ ràng; hoàn toàn, đơn giản",
+          "list_en_vn": [
+            {
+              "full_en": "to speak (write ) plain",
+              "full_vn": "nói (viết) một cách rõ ràng"
+            },
+            {
+              "full_en": "that is just plain stupid",
+              "full_vn": "đó chỉ là một điều hoàn toàn ngu xuẩn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344016_f2c231b487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344016_7dc9e65afa_o.png",
+      "id_image": "plain_1076353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388887_5d8ddd232d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388887_1b9c76dbee_o.png",
+      "id_image": "plain_3788664"
+    }
+  ]
+}

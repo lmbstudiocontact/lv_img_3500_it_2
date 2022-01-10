@@ -1,0 +1,107 @@
+{
+  "english": "pattern",
+  "phat_am": "['pæt(ə)n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gương mẫu, mẫu mực",
+          "list_en_vn": [
+            {
+              "full_en": "a pattern of virtues",
+              "full_vn": "một kiểu mẫu về đức hạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu hàng, mẫu vải",
+          "list_en_vn": [
+            {
+              "full_en": "a book of tweed patterns",
+              "full_vn": "một cuốn sách mẫu hàng vải túyt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu hình",
+          "list_en_vn": [
+            {
+              "full_en": "the pattern of economic decline in Britain",
+              "full_vn": "mẫu hình suy thoái kinh tế ở Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu, mô hình, kiểu; khuôn mẫu",
+          "list_en_vn": [
+            {
+              "full_en": "a bicycle of an old pattern",
+              "full_vn": "cái xe đạp kiểu cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoa văn, mẫu vẽ (trên vải, thảm, rèm che cửa...)",
+          "list_en_vn": [
+            {
+              "full_en": "a checked pattern",
+              "full_vn": "mẫu kẻ ô vuông"
+            },
+            {
+              "full_en": "a Paisley pattern",
+              "full_vn": "mẫu kẻ cánh hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) đường hướng dẫn hạ cánh"
+        },
+        {
+          "m_full_vn": "(quân sự) sơ đồ ném bom, sơ đồ bắn phá"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + after , upon ) lấy làm kiểu mẫu"
+        },
+        {
+          "m_full_vn": "trang trí bằng mẫu vẽ, trang trí với hoa văn"
+        },
+        {
+          "m_full_vn": "( + oneself/something on somebody/something ) bắt chước ai/cái gì; lấy cái gì làm mẫu cho ai/cái gì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327331_3316844712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327331_7e3723a7f4_o.png",
+      "id_image": "pattern_256686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682429_247dc7538a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682429_8330121a07_o.png",
+      "id_image": "pattern_2927863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371962_72cc7a2c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371962_9ec855a0f6_o.png",
+      "id_image": "pattern_4301585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442238_f58ecb49e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442238_09b985815b_o.png",
+      "id_image": "pattern_5620447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327111_f48de45a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327111_cf1ce4a6d0_o.png",
+      "id_image": "pattern_5939563"
+    }
+  ]
+}

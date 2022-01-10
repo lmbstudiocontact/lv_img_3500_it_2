@@ -1,0 +1,152 @@
+{
+  "english": "rose",
+  "phat_am": "[rouz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoa hồng; cây hoa hồng",
+          "list_en_vn": [
+            {
+              "full_en": "a climbing rose",
+              "full_vn": "cây hồng leo"
+            },
+            {
+              "full_en": "wild rose",
+              "full_vn": "cây tầm xuân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cô gái đẹp nhất, hoa khôi",
+          "list_en_vn": [
+            {
+              "full_en": "the rose of the town",
+              "full_vn": "cô gái đẹp nhất tỉnh, hoa khôi của tỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bông hồng năm cánh (quốc huy của nước Anh)"
+        },
+        {
+          "m_full_vn": "màu hồng; ( số nhiều) nước da hồng hào",
+          "list_en_vn": [
+            {
+              "full_en": "to have roses in one's cheeks",
+              "full_vn": "má đỏ hồng hào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơ hoa hồng (đính ở mũ, ở giầy...)"
+        },
+        {
+          "m_full_vn": "hương sen (bình tưới)"
+        },
+        {
+          "m_full_vn": "(như) rose-diamond"
+        },
+        {
+          "m_full_vn": "(như) rose window"
+        },
+        {
+          "m_full_vn": "chân sừng (phần lồi lên ở gốc sừng nai, hươu...)"
+        },
+        {
+          "m_full_vn": "(y học) ( the rose ) bệnh viêm quầng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gather roses (life's rose )",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm thú hưởng lạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "life is not all roses",
+              "list_im": [
+                {
+                  "im_full_vn": "đời không phải hoa hồng cả, đời sống không phải lúc nào cũng sung sướng an nhàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a path strewn with roses",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc sống đầy lạc thú"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is no rose without a thorn",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không có hoa hồng nào mà không có gai, không có điều gì sướng mà không có cái khổ kèm theo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the rose",
+              "list_im": [
+                {
+                  "im_full_vn": "bí mật âm thầm, kín đáo, lén lút"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a bed of roses x bed to be born under the rose",
+              "full_vn": "đẻ hoang"
+            },
+            {
+              "full_en": "blue rose",
+              "full_vn": "\"bông hồng xanh\" (cái không thể nào có được)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hồng, màu hồng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuộm hồng, nhuốm hồng",
+          "list_en_vn": [
+            {
+              "full_en": "the morning sun rosed the eastern horizon",
+              "full_vn": "mặt trời buổi sáng nhuộm hồng chân trời đằng đông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ của rise"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697304_3eb359e025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697304_e98b84c269_o.png",
+      "id_image": "rose_1087460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387132_00ae862d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387132_b55fff54c2_o.png",
+      "id_image": "rose_448285"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "pressure",
+  "phat_am": "['pre∫ə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức ép, áp suất, áp lực ( (nghĩa đen) & (nghĩa bóng)),",
+          "list_en_vn": [
+            {
+              "full_en": "atmospheric pressure",
+              "full_vn": "áp suất khí quyển"
+            },
+            {
+              "full_en": "a band of low pressure is moving across the country",
+              "full_vn": "một luồng khí áp thấp đang di chuyển ngang qua đất nước"
+            },
+            {
+              "full_en": "the pressure of the crowd against the barriers",
+              "full_vn": "sức ép của đám đông đè lên các rào chắn"
+            },
+            {
+              "full_en": "the pressure of the water caused the wall of the dam to crack",
+              "full_vn": "áp lực của nước làm cho tường của con đập rạn nứt"
+            },
+            {
+              "full_en": "under the pressure of public opinion",
+              "full_vn": "dưới sức ép của dư luận quần chúng"
+            },
+            {
+              "full_en": "the tyre is too hard - reduce the pressure a bit",
+              "full_vn": "lốp căng quá - hãy giảm bớt áp suất đi một chút"
+            },
+            {
+              "full_en": "your blood pressure is too high",
+              "full_vn": "huyết áp của anh cao quá"
+            },
+            {
+              "full_en": "to bring pressure to bear upon somebody",
+              "full_vn": "(nghĩa bóng) dùng sức ép đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đè nặng, sự ép buộc, sự thúc bách; cảnh quẩn bách",
+          "list_en_vn": [
+            {
+              "full_en": "financial pressure",
+              "full_vn": "tài chính quẩn bách"
+            },
+            {
+              "full_en": "the pressures of city life forced him to move to the country",
+              "full_vn": "sự căng thẳng của đời sống đô thị đã buộc ông ta phải dọn về ở nông thôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự vội vã, sự cấp bách, sự gấp, sự khẩn cấp",
+          "list_en_vn": [
+            {
+              "full_en": "to write hastily and under pressure",
+              "full_vn": "viết vội vã trong hoàn cảnh cấp bách; bị ép buộc phải viết vội vã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) ứng suất",
+          "list_one_mean": [
+            {
+              "id_full_en": "high pressure",
+              "list_im": [
+                {
+                  "im_full_vn": "áp suất cao"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) sự tích cực hết sức; sự hăng hái hết sức, sự khẩn trương hết sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work at high pressure",
+                      "full_vn": "làm việc hết sức khẩn trương"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put pressure on somebody (to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc bách/thúc ép ai làm điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under pressure",
+              "list_im": [
+                {
+                  "im_full_vn": "(về chất lỏng) chịu sức ép; bị nén lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the gas is stored under pressure in the tank",
+                      "full_vn": "khí đựngtrong bồn được nén lại"
+                    },
+                    {
+                      "full_en": "to work under pressure",
+                      "full_vn": "bị ép buộc làm việc"
+                    },
+                    {
+                      "full_en": "she's constantly under pressure and it's affecting her health",
+                      "full_vn": "cô ta luôn chịu sức ép căng thẳng và điều đó ảnh hưởng đến sức khoẻ cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody under pressure (to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "thúc bách ai làm điều gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "như pressurize"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064035_0d64c59888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064035_ce8252b9bf_o.png",
+      "id_image": "pressure_1743678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327121_7012a79522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327121_0382421003_o.png",
+      "id_image": "pressure_3233076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371797_4c03229a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371797_67f9197fdb_o.png",
+      "id_image": "pressure_4593052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064065_7a225fc8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064065_304d4bd89f_o.png",
+      "id_image": "pressure_560666"
+    }
+  ]
+}

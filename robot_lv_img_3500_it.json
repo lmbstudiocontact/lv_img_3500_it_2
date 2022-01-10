@@ -1,0 +1,44 @@
+{
+  "english": "robot",
+  "phat_am": "['roubɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người máy"
+        },
+        {
+          "m_full_vn": "người ứng xử có vẻ như một người máy"
+        },
+        {
+          "m_full_vn": "tín hiệu giao thông tự động (ở Nam Phi)"
+        },
+        {
+          "m_full_vn": "bom bay"
+        },
+        {
+          "m_full_vn": "( định ngữ) tự động",
+          "list_en_vn": [
+            {
+              "full_en": "robot plane",
+              "full_vn": "máy bay không người lái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699614_d215735e8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699614_73450ac73d_o.png",
+      "id_image": "robot_191244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344476_2668ac87a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344476_660a4c11b9_o.png",
+      "id_image": "robot_191531"
+    }
+  ]
+}

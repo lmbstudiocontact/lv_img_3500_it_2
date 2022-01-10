@@ -1,0 +1,27 @@
+{
+  "english": "neutron",
+  "phat_am": "['nju:trɔn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) Nơ-tron",
+          "list_en_vn": [
+            {
+              "full_en": "neutron bomb",
+              "full_vn": "bom nơ-tron"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438423_8ed1c242ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438423_49fb3b3e41_o.png",
+      "id_image": "neutron_4866027"
+    }
+  ]
+}

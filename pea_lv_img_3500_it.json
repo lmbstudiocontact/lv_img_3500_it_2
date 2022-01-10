@@ -1,0 +1,46 @@
+{
+  "english": "pea",
+  "phat_am": "[pi:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây đậu Hà-lan; hạt đậu Hà-lan",
+          "list_one_mean": [
+            {
+              "id_full_en": "like as two peas /as peas in a pod",
+              "list_im": [
+                {
+                  "im_full_vn": "như like"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "green peas",
+              "full_vn": "đậu Hà-lan còn non"
+            },
+            {
+              "full_en": "split peas",
+              "full_vn": "đậu hạt (đã bỏ vỏ quả đi)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680764_de9bfc7df9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680764_3cbc4fbd7d_o.png",
+      "id_image": "pea_284812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370427_f6e6900c7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370427_8710bdfcf4_o.png",
+      "id_image": "pea_5520709"
+    }
+  ]
+}

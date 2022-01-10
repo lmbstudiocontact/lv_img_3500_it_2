@@ -1,0 +1,117 @@
+{
+  "english": "reflect",
+  "phat_am": "[ri'flekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phản chiếu; phản xạ, phản hồi, bức xạ",
+          "list_en_vn": [
+            {
+              "full_en": "to reflect light",
+              "full_vn": "phản chiếu ánh sáng"
+            },
+            {
+              "full_en": "to reflect sound",
+              "full_vn": "dội lại âm thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản ánh; cho thấy bản chất của; tương ứng với",
+          "list_en_vn": [
+            {
+              "full_en": "their actions reflect their thoughts",
+              "full_vn": "hành động của họ phản ánh tư tưởng họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mang lại (hành động, kết quả...)",
+          "list_en_vn": [
+            {
+              "full_en": "the result reflects credit upon his family",
+              "full_vn": "kết quả ấy mang lại tiếng tốt cho gia đình anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) gập lại",
+          "list_en_vn": [
+            {
+              "full_en": "to reflect the corner of the paper",
+              "full_vn": "gấp mép giấy lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hại lây, làm xấu lây, làm mang tiếng, làm mất uy tín",
+          "list_en_vn": [
+            {
+              "full_en": "to reflect on someone's honour",
+              "full_vn": "làm ai mang tai mang tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ trích, chê trách, khiển trách",
+          "list_en_vn": [
+            {
+              "full_en": "to reflect on somene's",
+              "full_vn": "chỉ trích ai"
+            },
+            {
+              "full_en": "to reflect upon someone's conduct",
+              "full_vn": "chỉ trích tư cách của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suy nghĩ sâu về, ngẫm nghĩ về (các sự kiện đã qua)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + on , upon ) suy nghĩ, ngẫm nghĩ",
+          "list_one_mean": [
+            {
+              "id_full_en": "reflect (well /badly ..) on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm rạng danh/ô danh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to reflect upon what answers to make",
+              "full_vn": "suy nghĩ nên trả lời thế nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376612_e93da85896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376612_1fccb777e3_o.png",
+      "id_image": "reflect_4427713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686849_8d9d498ace_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686849_aa589cc10b_o.png",
+      "id_image": "reflect_6315721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686904_962088b4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686904_d3507113fb_o.png",
+      "id_image": "reflect_705350"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "prison",
+  "phat_am": "['prizn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà tù, nhà lao, nhà giam; nơi giam hãm (không thể thoát)",
+          "list_en_vn": [
+            {
+              "full_en": "the prisons are overcrowded",
+              "full_vn": "cac nhà giam chật ních người"
+            },
+            {
+              "full_en": "to send someone to prison ; to put /throw someone in prison",
+              "full_vn": "bỏ ai vào tù"
+            },
+            {
+              "full_en": "he was sent to prison for five years",
+              "full_vn": "hắn bị bỏ tù năm năm (hắn đi tù/ngồi tù năm năm)"
+            },
+            {
+              "full_en": "she's gone to prison ; she's in prison",
+              "full_vn": "cô ta đã vào tù; cô ta bị bỏ tù"
+            },
+            {
+              "full_en": "to escape from /be released from prison ; to come out of prison",
+              "full_vn": "trốn khỏi/được tha ra khỏi nhà giam; ra tù"
+            },
+            {
+              "full_en": "the prison population",
+              "full_vn": "dân số trong tù (tổng số tù nhân trong một nước)"
+            },
+            {
+              "full_en": "does prison do anything to prevent crime ?",
+              "full_vn": "nhà tù có làm được gì để ngăn ngừa tội phạm hay không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) giam cầm; giam hãm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439178_9102c1b9b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439178_5db1c77c34_o.png",
+      "id_image": "prison_2861299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324161_2928d1ef15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324161_00c3f36b4c_o.png",
+      "id_image": "prison_382273"
+    }
+  ]
+}

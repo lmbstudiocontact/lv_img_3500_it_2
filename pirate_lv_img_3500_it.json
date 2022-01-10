@@ -1,0 +1,50 @@
+{
+  "english": "pirate",
+  "phat_am": "['paiərət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ cướp biển, hải tặc; tàu cướp biển, tàu hải tặc"
+        },
+        {
+          "m_full_vn": "người vi phạm quyền tác giả, người xâm phạm tác quyền",
+          "list_en_vn": [
+            {
+              "full_en": "a pirate edition /video tape",
+              "full_vn": "một cuốn sách in lậu/một cuộn băng hình in lậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạm phát thanh phát đi các chương trình không được phép chính thức (nhất là từ một con tàu) cũng pirate radio ; người phát thanh ở một trạm phát sóng bất hợp pháp",
+          "list_en_vn": [
+            {
+              "full_en": "a pirate broadcast",
+              "full_vn": "một buổi phát thanh không được phép chính thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe hàng chạy vi phạm tuyến đường của hãng xe khác; xe hàng cướp khách"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sao chép, mô phỏng (sách..) bất hợp pháp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082495_e80505a930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082495_8b1e8b9cd1_o.png",
+      "id_image": "pirate_475430"
+    }
+  ]
+}

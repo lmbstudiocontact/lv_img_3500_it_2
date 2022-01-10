@@ -1,0 +1,55 @@
+{
+  "english": "population",
+  "phat_am": "[,pɔpju'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dân cư (một thành phố..)",
+          "list_en_vn": [
+            {
+              "full_en": "the working population",
+              "full_vn": "dân lao động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dân số",
+          "list_en_vn": [
+            {
+              "full_en": "population explosion",
+              "full_vn": "sự bùng nổ dân số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mật độ dân số (mức độ phân bố dân cư)",
+          "list_en_vn": [
+            {
+              "full_en": "areas of dense /sparse population",
+              "full_vn": "khu vực đông/thưa dân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690704_c2bf7dbe23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690704_184c1d8db9_o.png",
+      "id_image": "population_3382581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380567_0834226a7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380567_baf568a30a_o.png",
+      "id_image": "population_5175233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690744_86c894129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690744_931dd61c57_o.png",
+      "id_image": "population_649167"
+    }
+  ]
+}

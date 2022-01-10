@@ -1,0 +1,38 @@
+{
+  "english": "peeler",
+  "phat_am": "['pi:lə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bóc vỏ, người lột da"
+        },
+        {
+          "m_full_vn": "dụng cụ bóc vỏ, dụng cụ lột da",
+          "list_en_vn": [
+            {
+              "full_en": "potato peeler",
+              "full_vn": "cái gọt khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) cảnh sát, cớm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678684_6cf0c85e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678684_a3d670002f_o.png",
+      "id_image": "peeler_259152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060260_4608911ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060260_5a3e7ab6cf_o.png",
+      "id_image": "peeler_904636"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "scan",
+  "phat_am": "[skæn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xem tỉ mỉ; kiểm tra cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "He scanned the horizon , looking for land",
+              "full_vn": "ông ta dõi mắt nhìn phía chân trời mong thấy được đất liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về đèn pha) quét qua",
+          "list_en_vn": [
+            {
+              "full_en": "the flashlight's beam scanned every corner of the room",
+              "full_vn": "tia sáng đèn pin rọi vào mọi ngóc ngách của gian phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) chụp bằng máy rọi cắt lớp"
+        },
+        {
+          "m_full_vn": "đọc lướt; xem lướt",
+          "list_en_vn": [
+            {
+              "full_en": "she scanned the newspaper over breakfast",
+              "full_vn": "nàng đọc lướt qua tờ báo khi ăn sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân tích vần luật của (câu thơ) bằng cách ghi chú phải nhấn mạnh ở đâu và có bao nhiêu âm tiết; ngắt nhịp"
+        },
+        {
+          "m_full_vn": "(vô tuyến truyền hình...) cho một tia điện tử đi qua cái gì (để tạo hình ảnh trên màn hình); quét hình"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về thơ) có vần luật nghiêm chỉnh"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nội soi cắt lớp",
+          "list_en_vn": [
+            {
+              "full_en": "A body /brain scan",
+              "full_vn": "Sự nội soi cơ thể/não"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377297_25a2f423f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377297_326121e10e_o.png",
+      "id_image": "scan_2992104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332491_f889d41aaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332491_7057317e85_o.png",
+      "id_image": "scan_4542169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447453_10a32e0783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447453_b0cef6191a_o.png",
+      "id_image": "scan_4636236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332531_b65f256884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332531_2efe721a29_o.png",
+      "id_image": "scan_802784"
+    }
+  ]
+}

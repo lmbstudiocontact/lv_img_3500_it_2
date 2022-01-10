@@ -1,0 +1,27 @@
+{
+  "english": "rechargeable",
+  "phat_am": "[ri:t∫ɑ:dʒəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể nạp lại",
+          "list_en_vn": [
+            {
+              "full_en": "rechargeable batteries",
+              "full_vn": "pin có thể nạp lại được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335506_d04a1c8c25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335506_19358ff7fc_o.png",
+      "id_image": "rechargeable_2752898"
+    }
+  ]
+}

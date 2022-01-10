@@ -1,0 +1,55 @@
+{
+  "english": "productivity",
+  "phat_am": "[,prɔdʌk'tivəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng sản xuất (hàng hoá hoặc thu hoạch); tình trạng đang sản xuất; sức sản xuất; năng suất",
+          "list_en_vn": [
+            {
+              "full_en": "the size of the crop depends on the productivity of the soil",
+              "full_vn": "sản lượng thu hoạch tùy thuộc vào năng suất của đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiệu quả (trong (công nghiệp)) được đo bằng cách so sánh số lượng đã sản xuất với thời gian bỏ ra hoặc với nguyên liệu dùng để sản xuất; hiệu suất; năng suất",
+          "list_en_vn": [
+            {
+              "full_en": "the management are looking for ways of improving productivity",
+              "full_vn": "ban giám đốc đang tìm cách cải thiện hiệu năng"
+            },
+            {
+              "full_en": "a productivity bonus for workers",
+              "full_vn": "tiền thưởng năng suất cho công nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058645_524f775c7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058645_e16881a238_o.png",
+      "id_image": "productivity_4593135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437008_3a6d81b290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437008_8c0d7d9ba9_o.png",
+      "id_image": "productivity_4638524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436963_67739c4487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436963_2c33e31d94_o.png",
+      "id_image": "productivity_5267744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436928_d6a662720d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436928_4dc3e0589c_o.png",
+      "id_image": "productivity_5965756"
+    }
+  ]
+}

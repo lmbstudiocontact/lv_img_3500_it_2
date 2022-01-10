@@ -1,0 +1,67 @@
+{
+  "english": "monumental",
+  "phat_am": "[,mɔnju'mentl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về, có liên quan đến hoặc dùng làm đài kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "a monumental inscription",
+              "full_vn": "văn bia kỷ niệm"
+            },
+            {
+              "full_en": "monumental brasses , sculptures , figures",
+              "full_vn": "những tấm bảng đồng, điêu khắc, hình tượng trên đài kỷ niệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về những toà nhà, công trình điêu khắc) rất lớn và gây ấn tượng mạnh mẽ; hoành tráng; vĩ đại",
+          "list_en_vn": [
+            {
+              "full_en": "a monumental arch , column , facade",
+              "full_vn": "một cổng vòm, cột, mặt tiền hoành tráng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về tác phẩm (văn học) hoặc (âm nhạc)) lớn và có giá trị lâu dài; đồ sộ; bất hủ; vĩ đại",
+          "list_en_vn": [
+            {
+              "full_en": "a monumental production",
+              "full_vn": "một tác phẩm bất hủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc biệt to lớn; vĩ đại; lạ thường",
+          "list_en_vn": [
+            {
+              "full_en": "a monumental achievement , success , blunder , failure",
+              "full_vn": "một thành tích vĩ đại, thắng lợi vĩ đại, sai lầm vô cùng to lớn, thất bại thảm hại"
+            },
+            {
+              "full_en": "what monumental ignorance !",
+              "full_vn": "Ngu dốt lạ thường!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692404_c2047ea5f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692404_d0c47b5ee8_o.png",
+      "id_image": "monumental_353326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382057_3afc70e86c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382057_7be8e7dd33_o.png",
+      "id_image": "monumental_422038"
+    }
+  ]
+}

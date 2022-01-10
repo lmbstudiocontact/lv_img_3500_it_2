@@ -1,0 +1,317 @@
+{
+  "english": "push",
+  "phat_am": "[pu∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xô, sự đẩy; cú đẩy",
+          "list_en_vn": [
+            {
+              "full_en": "to give the door a hard push",
+              "full_vn": "đẩy mạnh cửa một cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thúc đẩy, sự giúp sức (ai tiến lên)",
+          "list_en_vn": [
+            {
+              "full_en": "to give sosmeone a push",
+              "full_vn": "thúc đẩy ai tiến lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) sức đẩy lên, sức đỡ lên (của vòng...)"
+        },
+        {
+          "m_full_vn": "cừ thọc đẩy (hòn bi-a)"
+        },
+        {
+          "m_full_vn": "cú đấm, cú húc (bằng sừng)"
+        },
+        {
+          "m_full_vn": "sự rắn sức, sự nổ lực, sự gắng công"
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc tấn công mãnh liệt, cuộc đánh thúc vào",
+          "list_en_vn": [
+            {
+              "full_en": "to make a push",
+              "full_vn": "ráng sức, hết sức, cố gắng; (quân sự) tấn công mãnh liệt, đánh thúc vào (nơi nào)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính dám làm, tính chủ động, tính hăng hái xốc tới, tính kiên quyết làm bằng được",
+          "list_en_vn": [
+            {
+              "full_en": "to have plenty of push in one",
+              "full_vn": "rất chủ động dám nghĩ dám làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lúc gay go, lúc nguy ngập, lúc cấp bách",
+          "list_en_vn": [
+            {
+              "full_en": "when it comes to the push",
+              "full_vn": "khi gặp lúc gay go"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bọn (ăn trộm...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự đuổi ra, sự thải ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a push",
+              "list_im": [
+                {
+                  "im_full_vn": "trong hoàn cảnh thúc bách"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give someone the push",
+              "full_vn": "đuổi ai ra, thải ai ra"
+            },
+            {
+              "full_en": "to get the push",
+              "full_vn": "bị đuổi ra, bị thải ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xô, đẩy",
+          "list_en_vn": [
+            {
+              "full_en": "to push the door open",
+              "full_vn": "đẩy cửa mở toang"
+            },
+            {
+              "full_en": "to push the door close",
+              "full_vn": "đẩy cửa đóng sập vào"
+            },
+            {
+              "full_en": "to push aside all obstacles",
+              "full_vn": "đẩy sang một bên mọi vật chướng ngại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh thánh) húc (bằng sừng)"
+        },
+        {
+          "m_full_vn": "thúc đẩy, thúc giục (làm gì)"
+        },
+        {
+          "m_full_vn": "xô lấn, chen lấn",
+          "list_en_vn": [
+            {
+              "full_en": "to push one's way through the crowd",
+              "full_vn": "chen lấn (rẽ lối) qua đám đông"
+            },
+            {
+              "full_en": "to push one's way",
+              "full_vn": "(nghĩa bóng) làm nên, làm ăn tiến phát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẩy tới, đẩy mạnh, mở rộng",
+          "list_en_vn": [
+            {
+              "full_en": "to push the struggle for liberation",
+              "full_vn": "đẩy mạnh cuộc đấu tranh giải phóng"
+            },
+            {
+              "full_en": "to push the trade",
+              "full_vn": "mở rộng việc kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on ) theo đuổi, đeo đuổi; nhất định đưa ra (một yêu sách...)"
+        },
+        {
+          "m_full_vn": "thúc ép, thúc bách",
+          "list_en_vn": [
+            {
+              "full_en": "don't push him too far",
+              "full_vn": "đừng thúc bách nó quá"
+            },
+            {
+              "full_en": "to be pushed for time",
+              "full_vn": "bị thời gian thúc ép"
+            },
+            {
+              "full_en": "to be pushed for money",
+              "full_vn": "bị vấn đề tiền nong thúc ép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quảng cáo; tung ra (một món hàng)",
+          "list_en_vn": [
+            {
+              "full_en": "to push a new kind of soap",
+              "full_vn": "tung ra một loại xà phòng mới; quảng áo một loại xà phòng mới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xô, đẩy"
+        },
+        {
+          "m_full_vn": "cố gắng vượt người khác, cố gắng thành công (trong công việc); dám làm"
+        },
+        {
+          "m_full_vn": "thọc đẩy (hòn bi-a)"
+        },
+        {
+          "m_full_vn": "(kinh thánh) húc sừng"
+        },
+        {
+          "m_full_vn": "xô lấn, chen lấn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to push on to push away",
+              "list_im": [
+                {
+                  "im_full_vn": "xô đi, đẩy đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push down",
+              "list_im": [
+                {
+                  "im_full_vn": "xô đổ, xô ngã, đẩy ngã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push forth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nhú ra, làm nhô ra; đâm nhú ra, nhô ra (rễ cây, mũi đất...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push in",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy vào gần (bờ...) (thuyền)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push off",
+              "list_im": [
+                {
+                  "im_full_vn": "chống sào đẩy xa (bờ...) (thuyền)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) ra đi, đi, khởi hành; chuồn tẩu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push on",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục, tiếp tục đi, đi tiếp"
+                },
+                {
+                  "im_full_vn": "đẩy nhanh, thúc gấp (công việc...); vội vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push out",
+              "list_im": [
+                {
+                  "im_full_vn": "xô đẩy ra, đẩy ra ngoài"
+                },
+                {
+                  "im_full_vn": "(như) to push forth"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push through",
+              "list_im": [
+                {
+                  "im_full_vn": "xô đẩy qua, xô lấn qua"
+                },
+                {
+                  "im_full_vn": "làm trọn, làm đến cùng, đưa đến chỗ kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to push the matter through",
+                      "full_vn": "cố gắng đưa vấn đề đến chỗ kết thúc, cố gắng giải quyết vấn đề"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push up",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to push through the crowd",
+              "full_vn": "chen lấn qua đám đông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461498_166dde6ba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461498_8266f05039_o.png",
+      "id_image": "push_2785346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346636_42c53fccd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346636_f55e1a9689_o.png",
+      "id_image": "push_3062516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346621_85b95aef5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346621_54c6f1e5ea_o.png",
+      "id_image": "push_4151866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461418_434a6eb230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461418_bfb8ed0675_o.png",
+      "id_image": "push_5906050"
+    }
+  ]
+}

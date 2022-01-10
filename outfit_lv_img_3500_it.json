@@ -1,0 +1,57 @@
+{
+  "english": "outfit",
+  "phat_am": "['autfit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ trang bị, quần áo giày mũ...; bộ đồ nghề",
+          "list_en_vn": [
+            {
+              "full_en": "carpenter's outfit",
+              "full_vn": "bộ đồ nghề thợ mộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trang bị đầy đủ (để đi đâu...)"
+        },
+        {
+          "m_full_vn": "(thông tục) tổ, đội (thợ...)"
+        },
+        {
+          "m_full_vn": "(quân sự) đơn vị"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hãng; cơ quan kinh doanh"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp, trang bị"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341471_fb5876a4af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341471_cf740f2a94_o.png",
+      "id_image": "outfit_1283441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341541_8ae0b19633_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341541_ecde255bbf_o.png",
+      "id_image": "outfit_387411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341501_27644ae0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341501_41f508afa3_o.png",
+      "id_image": "outfit_649063"
+    }
+  ]
+}

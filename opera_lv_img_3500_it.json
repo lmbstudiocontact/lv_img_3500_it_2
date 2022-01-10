@@ -1,0 +1,55 @@
+{
+  "english": "opera",
+  "phat_am": "['ɔprə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều của opus"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhạc kịch, ô-pê-ra"
+        },
+        {
+          "m_full_vn": "( the opera ) nghệ thuật ô-pê-ra"
+        },
+        {
+          "m_full_vn": "đoàn biễu diễn ô-pê-ra",
+          "list_en_vn": [
+            {
+              "full_en": "tickets for the opera",
+              "full_vn": "vé đi xem ô-pê-ra"
+            },
+            {
+              "full_en": "the Vienna State Opera",
+              "full_vn": "đoàn ô-pê-ra quốc gia Vienna"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701249_c23ab63295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701249_951d0b9f40_o.png",
+      "id_image": "opera_122854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701219_13fa7b47aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701219_316c3bbe4f_o.png",
+      "id_image": "opera_1910794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346281_a1bdd4c2b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346281_d7a482e8c8_o.png",
+      "id_image": "opera_4613355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701174_caa3ff6a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701174_7cc634834a_o.png",
+      "id_image": "opera_4761450"
+    }
+  ]
+}

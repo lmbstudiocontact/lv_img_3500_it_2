@@ -1,0 +1,64 @@
+{
+  "english": "philosopher",
+  "phat_am": "[fi'lɔsəfə(r)]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà triết học; triết gia",
+          "list_en_vn": [
+            {
+              "full_en": "the Greek philosophers",
+              "full_vn": "các triết gia Hy-lạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người quân tử; người có triết lý sống; (thông tục) nhà hiền triết",
+          "list_one_mean": [
+            {
+              "id_full_en": "moral philosopher",
+              "list_im": [
+                {
+                  "im_full_vn": "nhà luân lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "natural philosopher",
+              "list_im": [
+                {
+                  "im_full_vn": "nhà khoa học tự nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "philosophers'stone",
+              "list_im": [
+                {
+                  "im_full_vn": "đá tạo vàng (loại đá tưởng tượng có thể biến mọi kim loại thành vàng)"
+                },
+                {
+                  "im_full_vn": "điều hảo huyền (không có thật)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394882_6b13ce5be0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394882_47b58b9c11_o.png",
+      "id_image": "philosopher_5234434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087380_806e65b0f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087380_c197e47a28_o.png",
+      "id_image": "philosopher_827355"
+    }
+  ]
+}

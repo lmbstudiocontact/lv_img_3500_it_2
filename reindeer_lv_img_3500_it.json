@@ -1,0 +1,37 @@
+{
+  "english": "reindeer",
+  "phat_am": "['reindiə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều reindeer",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) tuần lộc; nai tuyết (loại nai to, có sừng nhiều nhánh sống ở các vùng Bắc cực)",
+          "list_en_vn": [
+            {
+              "full_en": "a herd of reindeer",
+              "full_vn": "một bầy tuần lộc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444133_a1dc188473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444133_1cee381413_o.png",
+      "id_image": "reindeer_4456864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444093_bafda26b0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444093_ec74654516_o.png",
+      "id_image": "reindeer_6236471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373802_9861048d69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373802_91da759bc2_o.png",
+      "id_image": "reindeer_6359661"
+    }
+  ]
+}

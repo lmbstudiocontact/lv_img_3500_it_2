@@ -1,0 +1,155 @@
+{
+  "english": "pour",
+  "phat_am": "[pɔ:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rót, đổ, giội, trút",
+          "list_en_vn": [
+            {
+              "full_en": "to pour coffee into cups",
+              "full_vn": "rót cà phê vào tách"
+            },
+            {
+              "full_en": "river pours itself into the sea",
+              "full_vn": "sông đổ ra biển"
+            },
+            {
+              "full_en": "to pour cold water on someone's enthusiasm",
+              "full_vn": "(nghĩa bóng) giội gáo nước lạnh vào nhiệt tình của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thổ lộ, bộc lộ, trút ra",
+          "list_en_vn": [
+            {
+              "full_en": "to pour one's sorrows into somebody's heart",
+              "full_vn": "thổ lộ hết nỗi buồn với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ, chảy tràn"
+        },
+        {
+          "m_full_vn": "( + down ) mưa như trút",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pour forth",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ ra, rót ra, làm chảy tràn ra; chảy tràn ra (nước...)"
+                },
+                {
+                  "im_full_vn": "tuôn ra, phun ra (những lời chửi rủa...), trút ra (cơn giận...)"
+                },
+                {
+                  "im_full_vn": "toả ra, làm lan ra (hương thơm...)"
+                },
+                {
+                  "im_full_vn": "bắn (đạn) như mưa; đổ ra, lũ lượt (đám đông...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pour in",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ vào, trào vào, đổ dồn về, trào về",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "letters pour in from all quarters",
+                      "full_vn": "thư từ khắp nơi dồn về tới tấp"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lũ lượt đổ về (đám đông)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pour oil on troubled waters",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) cố gắng xoa dịu sự bất đồng, sự tranh chấp (làm nguôi cơn giận...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it never rains but it pours",
+              "list_im": [
+                {
+                  "im_full_vn": "phúc bất trùng lai hoạ vô đơn chí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pour oil on the flames",
+              "list_im": [
+                {
+                  "im_full_vn": "lửa đổ thêm dầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pour scorn on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "dè bỉu ( ai/cái gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it is pouring ; it is pouring down ; it is pouring with rain",
+              "full_vn": "mưa như trút"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trận mưa như trút"
+        },
+        {
+          "m_full_vn": "mẻ chảy (mẻ gang, thép... chảy ở lò ra)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376372_2357db34c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376372_77b724b542_o.png",
+      "id_image": "pour_1143124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068335_ddc21bc1c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068335_414363375f_o.png",
+      "id_image": "pour_2954807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376432_bb181cda90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376432_abc213dceb_o.png",
+      "id_image": "pour_310105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376317_8a89d5015f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376317_feaa5693c0_o.png",
+      "id_image": "pour_6193063"
+    }
+  ]
+}

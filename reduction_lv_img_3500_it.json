@@ -1,0 +1,87 @@
+{
+  "english": "reduction",
+  "phat_am": "[ri'dʌk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thu nhỏ, sự giảm bớt",
+          "list_en_vn": [
+            {
+              "full_en": "reduction of armaments",
+              "full_vn": "sự giảm quân bị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giảm giá, sự hạ giá"
+        },
+        {
+          "m_full_vn": "sự biến đổi (sang một trạng thái, hình thức kém hơn, thấp hơn)",
+          "list_en_vn": [
+            {
+              "full_en": "reduction to ashes",
+              "full_vn": "sự biến thành tro bụi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giáng cấp (một sĩ quan...)",
+          "list_en_vn": [
+            {
+              "full_en": "reduction to the ranks",
+              "full_vn": "sự giáng cấp xuống làm lính thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chinh phục, sự bắt phải đi đầu hàng"
+        },
+        {
+          "m_full_vn": "bản thu nhỏ (bản đồ...)"
+        },
+        {
+          "m_full_vn": "(y học) sự chữa, sự bó (xương gãy), sự nắn (chỗ trật khớp)"
+        },
+        {
+          "m_full_vn": "(hoá học) sự khử"
+        },
+        {
+          "m_full_vn": "(toán học) sự rút gọn, phép rút gọn, phép quy về",
+          "list_en_vn": [
+            {
+              "full_en": "reduction of a fraction",
+              "full_vn": "sự rút gọn một phân số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự cán, sự dát; sự ép, sự nén"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687774_bd8e02990a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687774_8fe9349c3f_o.png",
+      "id_image": "reduction_2620418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447758_0b17cd1c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447758_5a5d014437_o.png",
+      "id_image": "reduction_2911733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377507_e0bc3be645_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377507_61862df006_o.png",
+      "id_image": "reduction_2911734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332646_248118d36a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332646_092452354d_o.png",
+      "id_image": "reduction_3063595"
+    }
+  ]
+}

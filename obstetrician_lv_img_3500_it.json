@@ -1,0 +1,27 @@
+{
+  "english": "obstetrician",
+  "phat_am": "[,ɒbstə'tri∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thầy thuốc khoa sản, bác sĩ khoa sản",
+          "list_en_vn": [
+            {
+              "full_en": "Her obstetrician could not be present at the birth",
+              "full_vn": "Bác sĩ sản khoa đã không có mặt khi (cô ta) sanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086175_60350d9005_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086175_8e4bc25797_o.png",
+      "id_image": "oculist_3060376"
+    }
+  ]
+}

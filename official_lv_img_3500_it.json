@@ -1,0 +1,74 @@
+{
+  "english": "official",
+  "phat_am": "[ə'fi∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc liên quan đến chức vụ, quyền lực hoặc do ủy nhiệm; (thuộc) chính quyền",
+          "list_en_vn": [
+            {
+              "full_en": "official responsibilities , powers , records",
+              "full_vn": "trách nhiệm, quyền lực, hồ sơ của chính quyền"
+            },
+            {
+              "full_en": "in his official capacity as mayor",
+              "full_vn": "với thẩm quyền của thị trưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính thức",
+          "list_en_vn": [
+            {
+              "full_en": "an official statement",
+              "full_vn": "lời tuyên bố chính thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trịnh trọng, theo nghi thức",
+          "list_en_vn": [
+            {
+              "full_en": "an official dinner",
+              "full_vn": "bữa tiệc trọng thể"
+            },
+            {
+              "full_en": "written in an official style",
+              "full_vn": "viết theo phong cách trịnh trọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "viên chức, công chức",
+          "list_en_vn": [
+            {
+              "full_en": "government officials",
+              "full_vn": "các công chức của chính phủ"
+            },
+            {
+              "full_en": "the officials of a political party",
+              "full_vn": "các cán bộ của một chính đảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) uỷ viên tài phán của giáo hội ( (thường) official principal )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348116_5b3dc8fa1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348116_c4ea51544a_o.png",
+      "id_image": "official_1848932"
+    }
+  ]
+}

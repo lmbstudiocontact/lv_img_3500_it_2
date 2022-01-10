@@ -1,0 +1,34 @@
+{
+  "english": "reservoir",
+  "phat_am": "['rezəvwɑ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hồ tự nhiên hoặc nhân tạo dùng làm nguồn hoặc nơi chứa nước; hồ chứa"
+        },
+        {
+          "m_full_vn": "( reservoir of something ) nguồn cung cấp hoặc tích trữ lớn về cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a reservoir of information /knowledge",
+              "full_vn": "một kho tin tức/kiến thức"
+            },
+            {
+              "full_en": "a reservoir of strength",
+              "full_vn": "nguồn sức mạnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366912_d012eaaf1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366912_8666daeaba_o.png",
+      "id_image": "reservoir_6236564"
+    }
+  ]
+}

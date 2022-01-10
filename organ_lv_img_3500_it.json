@@ -1,0 +1,97 @@
+{
+  "english": "organ",
+  "phat_am": "['ɔ:gən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đàn ống (dùng trong nhà thờ), đàn oọc, đàn hộp (có tay quay) (cũng) barrel organ",
+          "list_en_vn": [
+            {
+              "full_en": "an electric organ",
+              "full_vn": "đàn oọc điện"
+            },
+            {
+              "full_en": "a mouth-organ",
+              "full_vn": "đàn oọc thổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) bộ phận, cơ quan",
+          "list_en_vn": [
+            {
+              "full_en": "the eye is the organ of sight",
+              "full_vn": "mắt là cơ quan của thị giác"
+            },
+            {
+              "full_en": "the organs of speech",
+              "full_vn": "các cơ quan phát âm (răng, lưỡi, môi...)"
+            },
+            {
+              "full_en": "the reproductive organs",
+              "full_vn": "các cơ quan sinh sản"
+            },
+            {
+              "full_en": "the surgeon removes the infected organ",
+              "full_vn": "bác sĩ cắt bỏ bộ phận bị nhiễm trùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổ chức (chính thức) phục vụ một mục đích nhất định; cơ quan",
+          "list_en_vn": [
+            {
+              "full_en": "parliament is the chief organ of government",
+              "full_vn": "nghị viện là cơ quan chủ yếu của chính quyền"
+            },
+            {
+              "full_en": "organs of public opinion",
+              "full_vn": "các cơ quan công luận (báo chí, truyền thanh, truyền hình...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương tiện để thông báo quan điểm của một nhóm hoặc một đảng; cơ quan ngôn luận"
+        },
+        {
+          "m_full_vn": "giọng nói",
+          "list_en_vn": [
+            {
+              "full_en": "to have a magnificent organ",
+              "full_vn": "có giọng nói to"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081385_52786809fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081385_f1cdb2395e_o.png",
+      "id_image": "organ_1910776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388892_02cf6d301a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388892_b479424dca_o.png",
+      "id_image": "organ_2332633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699129_67a724b307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699129_8f3588c09b_o.png",
+      "id_image": "organ_2515637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458663_e3f928102b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458663_75eeb6b87f_o.png",
+      "id_image": "organ_3028411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081240_b62da6b919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081240_0c0a5e8f53_o.png",
+      "id_image": "organ_3966560"
+    }
+  ]
+}
